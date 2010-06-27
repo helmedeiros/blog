@@ -21,7 +21,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 13
 subtitle: Master comprehensive testing strategies—discover how unit, integration, and system testing work together to create robust verification pyramids that catch bugs early and build user confidence
 ---

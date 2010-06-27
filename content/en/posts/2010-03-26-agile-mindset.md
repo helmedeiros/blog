@@ -23,7 +23,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 5
 subtitle: Shift from process obsession to people-first thinking—discover how agile mindset values individuals, working software, customer collaboration, and responding to change over rigid adherence to plans
 ---

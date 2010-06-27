@@ -21,7 +21,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 11
 subtitle: Bridge the gap between business and code—discover how Domain-Driven Design creates shared language, models complex business rules, and builds software that truly reflects real-world domains
 ---

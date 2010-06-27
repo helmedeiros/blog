@@ -13,7 +13,7 @@ categories:
   - Agile
 series:
   - software-engineering-lectures
-series_order: 1
+series_order: 16
 slug: advanced-tdd-thinking-tests
 summary:
   In this lecture, we explored how Test-Driven Development (TDD) evolves from

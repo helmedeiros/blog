@@ -23,7 +23,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 10
 subtitle: Bridge the gap from XP theory to real-world implementation—discover practical strategies for introducing pair programming, TDD, and continuous integration in resistant environments
 ---

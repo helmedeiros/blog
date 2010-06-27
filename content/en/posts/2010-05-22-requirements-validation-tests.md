@@ -22,7 +22,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 12
 subtitle: Software development concepts and practices
 ---

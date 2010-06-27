@@ -15,7 +15,7 @@ tags:
   - Agile Methods
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 1
 ---
 

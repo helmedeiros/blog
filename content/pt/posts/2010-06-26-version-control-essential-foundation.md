@@ -11,7 +11,7 @@ tags:
 categories: ["Development"]
 series:
   - software-engineering-lectures
-series_order: 2
+series_order: 17
 slug: controle-versao-fundacao-essencial
 summary:
   "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional:

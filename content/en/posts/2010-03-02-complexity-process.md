@@ -19,7 +19,7 @@ tags:
   - Software Crisis
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 2
 subtitle: Tame software complexity through systematic processes—discover how structured approaches, clear documentation, and collaborative practices transform overwhelming projects into manageable, sustainable development
 ---

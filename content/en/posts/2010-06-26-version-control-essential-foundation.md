@@ -12,7 +12,7 @@ categories:
   - Development
 series:
   - software-engineering-lectures
-series_order: 2
+series_order: 17
 slug: version-control-essential-foundation
 summary:
   "In this lecture, we turned to a topic that every developer ignores at their

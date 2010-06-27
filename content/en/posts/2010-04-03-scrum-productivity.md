@@ -24,7 +24,7 @@ tags:
   - Teaching
   - software-engineering-series
 series:
-  - software-engineering-fundamentals
+  - software-engineering-lectures
 series_order: 6
 subtitle: Unlock team productivity through Scrum framework—discover how sprints, ceremonies, and roles create sustainable delivery rhythms that balance speed with quality and people with process
 ---
