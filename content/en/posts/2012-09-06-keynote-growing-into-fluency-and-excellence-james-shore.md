@@ -3,6 +3,9 @@ title: Growing Fluency and Excellence
 author: helio
 layout: post
 date: 2012-09-06 13:48:33+00:00
+series:
+  - agile-brazil-2012
+series_order: 5
 embed: null
 seo_follow: null
 seo_noindex: null

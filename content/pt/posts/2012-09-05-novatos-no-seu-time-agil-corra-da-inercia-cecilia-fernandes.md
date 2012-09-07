@@ -3,6 +3,9 @@ title: Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes
 author: helio
 layout: post
 date: 2012-09-05 19:51:01+00:00
+series:
+  - agile-brazil-2012
+series_order: 2
 embed:
   - This is the default text
 seo_follow:

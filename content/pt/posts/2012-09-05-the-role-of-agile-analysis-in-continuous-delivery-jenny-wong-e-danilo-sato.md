@@ -3,6 +3,9 @@ title: The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo
 author: helio
 layout: post
 date: 2012-09-05 17:45:08+00:00
+series:
+  - agile-brazil-2012
+series_order: 3
 embed:
   - This is the default text
 seo_follow:

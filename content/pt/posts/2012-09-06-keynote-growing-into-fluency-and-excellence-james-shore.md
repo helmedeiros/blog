@@ -3,6 +3,9 @@ title: "Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore"
 author: helio
 layout: post
 date: 2012-09-06 13:48:33+00:00
+series:
+  - agile-brazil-2012
+series_order: 5
 embed:
   - This is the default text
 seo_follow:

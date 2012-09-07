@@ -3,6 +3,9 @@ title: Newbies on your agile team? Break free from inertia! – Cecilia Fernande
 author: helio
 layout: post
 date: 2012-09-05 19:51:01+00:00
+series:
+  - agile-brazil-2012
+series_order: 2
 embed: null
 seo_follow: null
 seo_noindex: null
