@@ -3,6 +3,9 @@ title: The latent demand limbo – Alê Gomes
 author: helio
 layout: post
 date: 2013-06-28 13:20:24+00:00
+series:
+  - agile-brazil-2013
+series_order: 6
 embed: null
 seo_follow: null
 seo_noindex: null

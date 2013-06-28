@@ -3,6 +3,9 @@ title: "Story Mapping: the challenge of selecting the first slice of the product
 author: helio
 layout: post
 date: 2013-06-26 15:58:21+00:00
+series:
+  - agile-brazil-2013
+series_order: 4
 embed: null
 seo_follow: null
 seo_noindex: null

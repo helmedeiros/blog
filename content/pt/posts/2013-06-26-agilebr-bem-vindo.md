@@ -3,6 +3,9 @@ title: AgileBR bem vindo!!
 author: helio
 layout: post
 date: 2013-06-26 13:26:47+00:00
+series:
+  - agile-brazil-2013
+series_order: 1
 embed:
   - This is the default text
 seo_follow:

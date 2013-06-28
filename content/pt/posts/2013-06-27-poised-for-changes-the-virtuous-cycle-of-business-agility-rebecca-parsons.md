@@ -3,6 +3,9 @@ title: Poised for Changes – The Virtuous cycle of business Agility – Rebecca
 author: helio
 layout: post
 date: 2013-06-27 13:12:28+00:00
+series:
+  - agile-brazil-2013
+series_order: 5
 embed:
   - This is the default text
 seo_follow:

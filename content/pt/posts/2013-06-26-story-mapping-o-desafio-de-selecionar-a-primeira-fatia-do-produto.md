@@ -3,6 +3,9 @@ title: "Story Mapping: o desafio de selecionar a primeira fatia do produto"
 author: helio
 layout: post
 date: 2013-06-26 15:58:21+00:00
+series:
+  - agile-brazil-2013
+series_order: 4
 embed:
   - This is the default text
 seo_follow:

@@ -3,6 +3,9 @@ title: "Agile: Unlocking our Human Potential – Patrick Kua"
 author: helio
 layout: post
 date: 2013-06-26 13:45:53+00:00
+series:
+  - agile-brazil-2013
+series_order: 3
 embed:
   - This is the default text
 seo_follow:

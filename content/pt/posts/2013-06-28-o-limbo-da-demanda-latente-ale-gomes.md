@@ -3,6 +3,9 @@ title: O limbo da demanda latente – Alê Gomes
 author: helio
 layout: post
 date: 2013-06-28 13:20:24+00:00
+series:
+  - agile-brazil-2013
+series_order: 6
 embed:
   - This is the default text
 seo_follow:

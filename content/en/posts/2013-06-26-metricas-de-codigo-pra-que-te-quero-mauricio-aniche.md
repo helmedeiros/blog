@@ -3,6 +3,9 @@ title: Code metrics, what I want them for? -Mauricio Aniche
 author: helio
 layout: post
 date: 2013-06-26 18:56:30+00:00
+series:
+  - agile-brazil-2013
+series_order: 2
 embed: null
 seo_follow: null
 seo_noindex: null
