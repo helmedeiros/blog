@@ -3,6 +3,9 @@ title: How Impala Has Pushed HDFS in New Directions
 author: helio
 layout: post
 date: 2014-04-10 16:05:02+00:00
+series:
+  - qconsp-2014
+series_order: 4
 embed: null
 seo_follow: null
 seo_noindex: null

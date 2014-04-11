@@ -5,6 +5,9 @@ title:
 author: helio
 layout: post
 date: 2014-04-10 21:27:50+00:00
+series:
+  - qconsp-2014
+series_order: 6
 embed: null
 seo_follow: null
 seo_noindex: null

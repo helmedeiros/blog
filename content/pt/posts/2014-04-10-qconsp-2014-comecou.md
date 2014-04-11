@@ -3,6 +3,9 @@ title: QConSP 2014! Começou!
 author: helio
 layout: post
 date: 2014-04-10 12:50:51+00:00
+series:
+  - qconsp-2014
+series_order: 1
 embed:
   - This is the default text
 seo_follow:

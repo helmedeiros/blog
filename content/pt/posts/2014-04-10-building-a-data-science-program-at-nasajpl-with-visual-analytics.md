@@ -3,6 +3,9 @@ title: Building a Data Science Program at NASA/JPL with Visual Analytics
 author: helio
 layout: post
 date: 2014-04-10 13:54:41+00:00
+series:
+  - qconsp-2014
+series_order: 2
 embed:
   - This is the default text
 seo_follow:

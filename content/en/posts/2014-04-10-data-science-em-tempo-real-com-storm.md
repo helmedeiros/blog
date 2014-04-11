@@ -3,6 +3,9 @@ title: Real-time Data Science with Storm
 author: helio
 layout: post
 date: 2014-04-10 18:32:54+00:00
+series:
+  - qconsp-2014
+series_order: 3
 embed: null
 seo_follow: null
 seo_noindex: null
