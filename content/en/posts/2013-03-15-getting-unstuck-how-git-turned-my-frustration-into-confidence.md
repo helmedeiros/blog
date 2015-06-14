@@ -1,6 +1,9 @@
 ---
 title: "Getting Unstuck: How Git Turned My Frustration into Confidence"
 date: 2013-03-15T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 1
 author: Helio Medeiros
 subtitle: Transform Git from a hostile gatekeeper into a learning tool—discover how to embrace mistakes, understand staging and HEAD, and build confidence through recovery
 tags:

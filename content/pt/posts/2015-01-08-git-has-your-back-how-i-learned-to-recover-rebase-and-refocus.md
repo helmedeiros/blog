@@ -1,6 +1,9 @@
 ---
 title: "Git Te Cobre: Como Aprendi a Recuperar, Rebasear e Reencontrar o Foco"
 date: 2015-01-08T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 7
 author: Helio Medeiros
 subtitle: Descubra como os comandos de recuperação do Git e rebase interativo transformaram minha relação com controle de versão—do medo e pânico para confiança e velocidade
 tags: ["git", "recuperacao", "rebase", "produtividade", "debugging"]

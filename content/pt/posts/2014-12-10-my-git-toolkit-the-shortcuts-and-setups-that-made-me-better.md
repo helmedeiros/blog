@@ -1,6 +1,9 @@
 ---
 title: "Meu Kit Git: Os Atalhos e Ajustes Que Me Fizeram Melhor"
 date: 2014-12-10T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 6
 author: Helio Medeiros
 subtitle: Descubra os aliases, scripts e configurações que transformaram meu fluxo Git de lento e doloroso para rápido e fluido—aprenda como pequenas customizações se transformam em grandes ganhos de produtividade
 tags: ["git", "aliases", "produtividade", "dotfiles", "experiencia-dev"]

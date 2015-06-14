@@ -1,6 +1,9 @@
 ---
 title: "Make History You'll Be Proud Of: Clean Git Logs as a Superpower"
 date: 2014-11-20T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 5
 author: Helio Medeiros
 subtitle: Transform your Git history from cryptic notes to clear communication—discover how thoughtful commit messages and clean logs improve collaboration, debugging, and team understanding
 tags: ["git", "git-log", "workflow", "collaboration", "craftsmanship"]

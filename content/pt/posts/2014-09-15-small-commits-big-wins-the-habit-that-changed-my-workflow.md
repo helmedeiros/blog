@@ -1,6 +1,9 @@
 ---
 title: "Commits Pequenos, Resultados Grandes: O Hábito Que Mudou Meu Fluxo de Trabalho"
 date: 2014-09-15T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 3
 author: Helio Medeiros
 subtitle: Transforme seu fluxo Git de caótico para intencional—descubra como commits pequenos e significativos melhoram a qualidade do código, colaboração e eficiência no debug
 tags: ["git", "fluxo-de-trabalho", "produtividade", "desenvolvimento"]

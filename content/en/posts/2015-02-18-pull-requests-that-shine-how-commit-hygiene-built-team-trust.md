@@ -1,6 +1,9 @@
 ---
 title: "Pull Requests That Shine: How Commit Hygiene Built Team Trust"
 date: 2015-02-18T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 8
 author: Helio Medeiros
 subtitle: Learn how clean commit hygiene and well-structured pull requests transform code review from painful transactions into collaborative conversations that build trust and accelerate team velocity
 tags: ["git", "pull-requests", "collaboration", "commit-hygiene", "code-review"]

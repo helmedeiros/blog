@@ -1,6 +1,9 @@
 ---
 title: "Crie um Histórico Que Daria Orgulho: Git Log Limpo Como Superpoder"
 date: 2014-11-20T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 5
 author: Helio Medeiros
 subtitle: Transforme seu histórico Git de notas crípticas em comunicação clara—descubra como mensagens de commit bem pensadas e logs limpos melhoram colaboração, debugging e compreensão da equipe
 tags:

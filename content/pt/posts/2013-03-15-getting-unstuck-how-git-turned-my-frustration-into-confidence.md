@@ -1,6 +1,9 @@
 ---
 title: "Destravando: Como o Git Transformou Minha Frustração em Confiança"
 date: 2013-03-15T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 1
 author: Helio Medeiros
 subtitle: Transforme o Git de um porteiro hostil em uma ferramenta de aprendizado—descubra como abraçar os erros, entender staging e HEAD, e construir confiança através da recuperação
 tags:

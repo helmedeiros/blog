@@ -1,6 +1,9 @@
 ---
 title: "Still Learning, Still Winning: Why Git Keeps Surprising Me"
 date: 2015-06-13T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 10
 author: Helio Medeiros
 subtitle: Discover how joining ThoughtWorks transformed my Git understanding from individual mastery to collective craft—where advanced techniques become shared rituals and continuous learning drives excellence
 tags: ["git", "version-control", "software-craft", "learning", "thoughtworks"]

@@ -1,6 +1,9 @@
 ---
 title: "Writing Commits That Speak: My Journey to Meaningful Messages"
 date: 2014-10-12T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 4
 author: Helio Medeiros
 subtitle: Transform your Git history from cryptic notes to clear communication—discover how thoughtful commit messages improve collaboration, debugging, and code understanding
 tags: ["git", "communication", "code-quality", "productivity"]

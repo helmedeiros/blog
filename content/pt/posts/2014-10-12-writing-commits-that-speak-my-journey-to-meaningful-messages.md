@@ -1,6 +1,9 @@
 ---
 title: "Escrevendo Commits Que Falam: Minha Jornada até Mensagens Significativas"
 date: 2014-10-12T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 4
 author: Helio Medeiros
 subtitle: Transforme seu histórico Git de notas crípticas em comunicação clara—descubra como mensagens de commit bem escritas melhoram colaboração, debugging e compreensão do código
 tags: ["git", "comunicacao", "qualidade-de-codigo", "produtividade"]

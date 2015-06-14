@@ -1,6 +1,9 @@
 ---
 title: "My Git Toolkit: The Shortcuts and Setups That Made Me Better"
 date: 2014-12-10T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 6
 author: Helio Medeiros
 subtitle: Discover the aliases, scripts, and configurations that transformed my Git workflow from slow and painful to fast and fluid—learn how small customizations compound into major productivity gains
 tags: ["git", "aliases", "productivity", "dotfiles", "developer-experience"]

@@ -1,6 +1,9 @@
 ---
 title: "Small Commits, Big Wins: The Habit That Changed My Workflow"
 date: 2014-09-15T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 3
 author: Helio Medeiros
 subtitle: Transform your Git workflow from chaotic to purposeful—discover how small, meaningful commits improve code quality, collaboration, and debugging efficiency
 tags: ["git", "workflow", "productivity", "software-development"]

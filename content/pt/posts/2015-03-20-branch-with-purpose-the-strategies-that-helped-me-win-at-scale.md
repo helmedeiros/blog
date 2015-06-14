@@ -1,6 +1,9 @@
 ---
 title: "Branches com Propósito: As Estratégias Que Me Ajudaram a Vencer em Escala"
 date: 2015-03-20T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 9
 author: Helio Medeiros
 subtitle: Descubra como estratégias de branching intencionais e fluxos claros transformam históricos Git caóticos em colaboração estruturada de equipe—do GitHub Flow ao trunk-based development em escala
 tags: ["git", "branching", "fluxos", "colaboracao", "escala"]

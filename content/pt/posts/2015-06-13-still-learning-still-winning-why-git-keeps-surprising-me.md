@@ -1,6 +1,9 @@
 ---
 title: "Aprendendo e Vencendo: Por Que o Git Ainda Me Surpreende"
 date: 2015-06-13T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 10
 author: Helio Medeiros
 subtitle: Descubra como entrar na ThoughtWorks transformou meu entendimento do Git de domínio individual para ofício coletivo—onde técnicas avançadas se tornam rituais compartilhados e o aprendizado contínuo impulsiona a excelência
 tags: ["git", "controle-de-versao", "aprendizado-continuo", "thoughtworks"]

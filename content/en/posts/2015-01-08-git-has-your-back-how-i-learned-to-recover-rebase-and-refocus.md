@@ -1,6 +1,9 @@
 ---
 title: "Git Has Your Back: How I Learned to Recover, Rebase, and Refocus"
 date: 2015-01-08T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 7
 author: Helio Medeiros
 subtitle: Discover how Git's recovery commands and interactive rebase transformed my relationship with version control—from fear and panic to confidence and speed
 tags: ["git", "recovery", "rebase", "productivity", "debugging"]

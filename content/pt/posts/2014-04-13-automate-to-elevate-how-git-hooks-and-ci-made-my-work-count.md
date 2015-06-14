@@ -1,6 +1,9 @@
 ---
 title: "Automatizar Para Evoluir: Como Git Hooks e CI Deram Valor ao Meu Trabalho"
 date: 2014-04-13T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 2
 author: Helio Medeiros
 subtitle: Descubra como Git hooks e Jenkins CI transformaram o desenvolvimento Java corporativo caótico em um fluxo automatizado e disciplinado que detecta erros cedo e constrói confiança no time
 tags:

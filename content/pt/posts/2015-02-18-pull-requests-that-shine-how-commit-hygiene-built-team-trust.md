@@ -1,6 +1,9 @@
 ---
 title: "Pull Requests Que Brilham: Como a Higiene dos Commits Construiu Confiança no Time"
 date: 2015-02-18T10:00:00-03:00
+series:
+  - git-as-craft
+series_order: 8
 author: Helio Medeiros
 subtitle: Aprenda como higiene de commits limpa e pull requests bem estruturados transformam revisões de código de transações dolorosas em conversas colaborativas que constroem confiança e aceleram a velocidade do time
 tags:
