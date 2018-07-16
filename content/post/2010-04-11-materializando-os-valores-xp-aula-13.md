@@ -1,0 +1,29 @@
+---
+title: Materializando os Valores XP – Aula 13
+author: helio
+layout: post
+date: 2010-04-11T12:45:09+00:00
+url: /2010/04/11/materializando-os-valores-xp-aula-13/
+idptt_tweeted:
+  - 1
+embed:
+  - This is the default text
+seo_follow:
+  - 'false'
+seo_noindex:
+  - 'false'
+categories:
+  - Ageis
+  - Metodologias
+tags:
+  - extreme programming
+  - Kent Beck
+  - praticas
+  - principios
+  - valores
+  - XP
+
+---
+Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.
+
+[slideshare id=3687352&doc=unp-aula13-100410222236-phpapp01]
