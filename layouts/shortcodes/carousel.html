@@ -1,0 +1,296 @@
+{{- $images := split (.Get "images") "," -}}
+{{- $titles := split (.Get "titles") "," -}}
+{{- $alts := split (.Get "alts") "," -}}
+{{- $basepath := .Get "basepath" | default "/uploads" -}}
+
+<div class="okra-carousel-container">
+  <!-- Main image display -->
+  <div class="okra-carousel-main">
+    {{- range $index, $image := $images }}
+    <div class="okra-carousel-slide {{ if eq $index 0 }}active{{ end }}" data-slide="{{ $index }}">
+      <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <div class="okra-carousel-image-container">
+          <img itemprop="thumbnail"
+               src="{{ $basepath }}/{{ trim $image " " }}"
+               alt="{{ if $alts }}{{ trim (index $alts $index) " " }}{{ else }}{{ trim $image " " }}{{ end }}"
+               class="okra-carousel-main-image"
+               loading="lazy"/>
+        </div>
+        <a href="{{ $basepath }}/{{ trim $image " " }}" itemprop="contentUrl"></a>
+        <figcaption>
+          <h4>{{ if $titles }}{{ trim (index $titles $index) " " }}{{ else }}{{ trim $image " " }}{{ end }}</h4>
+        </figcaption>
+      </figure>
+    </div>
+    {{- end }}
+  </div>
+
+  <!-- Thumbnail navigation -->
+  <div class="okra-carousel-nav">
+    {{- range $index, $image := $images }}
+    <div class="okra-carousel-thumb {{ if eq $index 0 }}active{{ end }}" data-slide="{{ $index }}">
+      <img src="{{ $basepath }}/{{ trim $image " " }}"
+           alt="{{ if $alts }}{{ trim (index $alts $index) " " }}{{ else }}{{ trim $image " " }}{{ end }}"
+           loading="lazy"/>
+      <span class="okra-carousel-thumb-title">
+        {{ if $titles }}{{ trim (index $titles $index) " " }}{{ else }}{{ trim $image " " }}{{ end }}
+      </span>
+    </div>
+    {{- end }}
+  </div>
+</div>
+
+<style>
+.okra-carousel-container {
+  margin: 2rem 0;
+  max-width: 100%;
+}
+
+.okra-carousel-main {
+  position: relative;
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  margin-bottom: 1rem;
+  border: 1px solid #e2e8f0;
+  /* Fixed aspect ratio container - 16:10 ratio for better OKRA canvas display */
+  aspect-ratio: 16 / 10;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.okra-carousel-slide {
+  display: none;
+  height: 100%;
+  width: 100%;
+}
+
+.okra-carousel-slide.active {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.okra-carousel-slide figure {
+  margin: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.okra-carousel-slide figure:hover {
+  transform: scale(1.02);
+}
+
+.okra-carousel-image-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  padding: 20px;
+  box-sizing: border-box;
+  /* Ensure minimum space for the image by accounting for caption */
+  min-height: calc(100% - 60px);
+  overflow: hidden;
+}
+
+.okra-carousel-main-image {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  border-radius: 4px;
+  /* Override any inherited box-shadow from .article-content img */
+  box-shadow: none !important;
+}
+
+.okra-carousel-slide figcaption {
+  padding: 1.25rem 1.5rem;
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+  color: #ffffff;
+  text-align: center;
+  flex-shrink: 0;
+  /* Ensure caption has minimum height and is always visible */
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.okra-carousel-slide figcaption h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+}
+
+.okra-carousel-nav {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0.5rem;
+}
+
+.okra-carousel-thumb {
+  flex: 0 0 auto;
+  width: 120px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.okra-carousel-thumb.active {
+  border-color: #e2e8f0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.okra-carousel-thumb:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  border-color: #e2e8f0;
+}
+
+.okra-carousel-thumb img {
+  width: 100%;
+  height: 80px;
+  object-fit: cover;
+  display: block;
+  /* Override any inherited box-shadow from .article-content img */
+  box-shadow: none !important;
+}
+
+.okra-carousel-thumb-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.4rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #374151;
+  text-align: center;
+  line-height: 1.3;
+  background: #f1f5f9;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  height: 2.8rem;
+  box-sizing: border-box;
+}
+
+.okra-carousel-thumb.active .okra-carousel-thumb-title {
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .okra-carousel-main {
+    min-height: 300px;
+    aspect-ratio: 4 / 3;
+    border-radius: 8px;
+  }
+
+  .okra-carousel-image-container {
+    padding: 15px;
+    min-height: calc(100% - 50px);
+  }
+
+  .okra-carousel-slide figcaption {
+    min-height: 50px;
+    padding: 1rem;
+  }
+
+  .okra-carousel-slide figcaption h4 {
+    font-size: 0.9rem;
+  }
+
+  .okra-carousel-thumb {
+    width: 100px;
+  }
+
+  .okra-carousel-thumb img {
+    height: 60px;
+  }
+
+  .okra-carousel-thumb-title {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.4rem;
+    height: 2.4rem;
+    line-height: 1.2;
+  }
+}
+
+@media (max-width: 480px) {
+  .okra-carousel-main {
+    min-height: 250px;
+    aspect-ratio: 3 / 2;
+    border-radius: 8px;
+  }
+
+  .okra-carousel-image-container {
+    padding: 10px;
+    min-height: calc(100% - 45px);
+  }
+
+  .okra-carousel-slide figcaption {
+    min-height: 45px;
+    padding: 0.75rem;
+  }
+
+  .okra-carousel-slide figcaption h4 {
+    font-size: 0.8rem;
+  }
+
+  .okra-carousel-thumb {
+    width: 90px;
+  }
+
+  .okra-carousel-thumb img {
+    height: 50px;
+  }
+
+  .okra-carousel-thumb-title {
+    font-size: 0.65rem;
+    padding: 0.25rem 0.3rem;
+    height: 2.2rem;
+    line-height: 1.1;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const carousels = document.querySelectorAll('.okra-carousel-container');
+
+  carousels.forEach(carousel => {
+    const slides = carousel.querySelectorAll('.okra-carousel-slide');
+    const thumbs = carousel.querySelectorAll('.okra-carousel-thumb');
+
+    thumbs.forEach((thumb, index) => {
+      thumb.addEventListener('click', () => {
+        // Remove active class from all slides and thumbs
+        slides.forEach(slide => slide.classList.remove('active'));
+        thumbs.forEach(t => t.classList.remove('active'));
+
+        // Add active class to clicked slide and thumb
+        slides[index].classList.add('active');
+        thumb.classList.add('active');
+      });
+    });
+  });
+});
+</script>
