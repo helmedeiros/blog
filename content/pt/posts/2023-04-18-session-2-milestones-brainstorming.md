@@ -36,6 +36,8 @@ A estrutura que seguimos é colaborativa e em camadas:
 4. **Leitura e agrupamento** — Compartilhe ideias, agrupe duplicatas e refine sobreposições.
 5. **Validação dos marcos** — Para cada grupo, identifique seu vínculo com a hipótese, tipo (épico, spike, etc.) e se habilita ou valida algo.
 
+{{< carousel images="okra-session2-empty-objectives-milestones.jpg,okra-session2-empty-team-initiatives.jpg,okra-session2-empty-vote-milestones.jpg" titles="Canvas Objetivos para Marcos,Canvas Iniciativas da Equipe,Canvas Votação de Marcos" alts="Canvas vazio para mapeamento de objetivos para marcos,Canvas vazio para mapeamento de iniciativas da equipe,Canvas vazio para votação de prioridades de marcos" basepath="/uploads/2023/04/" >}}
+
 ```bash
 # Exemplo de pastas
 okra/
@@ -94,6 +96,8 @@ Essa sessão não gera um Gantt. Ela oferece um inventário estratégico de trab
 - Lista validada de Objetivos, refinados da Sessão #1
 - Grupos de marcos mapeados a hipóteses e resultados
 - Visão priorizada de onde aprender mais com menos esforço
+
+{{< carousel images="okra-session2-objectives.jpg,okra-session1-team-initiatives.jpg,okra-session2-features.jpg,okra-session2-milestones-spikes-inceptions.jpg,okra-session2-priority.jpg" titles="Canvas Objetivos da Sessão,Mapeamento Iniciativas da Equipe,Canvas Decomposição de Funcionalidades,Classificação Marcos & Spikes,Resultados Votação de Prioridades" alts="Canvas completo de objetivos da sessão 2 do OKRA,Iniciativas da equipe mapeadas da sessão 1,Canvas de decomposição e categorização de funcionalidades,Canvas mostrando classificação de marcos, spikes e inceptions,Resultados finais da votação de prioridades para seleção de marcos" basepath="/uploads/2023/04/" >}}
 
 ```markdown
 Objetivo: Aumentar crescimento via compartilhamento social
