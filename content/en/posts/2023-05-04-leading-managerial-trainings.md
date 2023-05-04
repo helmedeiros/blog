@@ -45,3 +45,4 @@ echo "📘 Leadership Training Series Started – May 2023" > training_journal.t
 - [Responsive Leadership Part 2](./2023-07-06-responsive-leadership-part2/)
 - [Leading Change](./2023-11-08-leading-change/)
 - [Respectful Workplace](./2023-02-21-respectful-workplace/)
+- [Performance Management 101](./2023-11-23-performance-management/)
