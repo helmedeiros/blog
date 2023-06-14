@@ -12,68 +12,68 @@ tags:
   - sistemas-legados
   - arquitetura-de-software
   - motor-de-regras
-description: "Por que o primeiro passo em direção a uma nova plataforma de pricing foi entender o presente, não substituí-lo."
-subtitle: "Por que o primeiro passo em direção a uma nova plataforma de pricing foi entender o presente, não substituí-lo."
+description: "Por que o primeiro passo pra uma nova plataforma de pricing foi entender o presente, não substituir."
+subtitle: "Por que o primeiro passo pra uma nova plataforma de pricing foi entender o presente, não substituir."
 ---
 
 O sistema estava funcionando.
 
 Esse era o problema.
 
-Pricing produzia receita todos os dias. Clientes estavam comprando. Markups, fees e add-ons fluíam por serviços que ninguém tocava há anos. E, enterrada dentro desse sistema funcionando, estava a suposição de que qualquer parte dele poderia ser substituída com segurança.
+Pricing gerava receita todo dia. Cliente comprava. Markup, fee e add-on rodavam por serviços que ninguém tocava havia anos. E enterrada dentro desse sistema que funcionava tinha uma suposição: que qualquer pedaço dele dava pra substituir sem dor.
 
-Não podia. Não de uma só vez. Não sem quebrar uma confiança que ainda não tínhamos o direito de gastar.
+Não dava. Não de uma vez. Não sem quebrar uma confiança que a gente ainda nem tinha conquistado.
 
-Entrei em um novo time dentro da empresa onde eu trabalhava. A missão parecia simples no papel: evoluir nossas capacidades de pricing. A realidade era consideravelmente mais complexa. Pricing não era um único sistema. Era uma coleção de decisões espalhadas por serviços, repositórios, integrações, processos operacionais e anos de conhecimento de negócio acumulado. Fees eram calculadas em um lugar. Markups em outro. Add-ons seguiam caminhos diferentes. Algumas decisões de pricing aconteciam perto de aplicações voltadas para o cliente, enquanto outras estavam enterradas em serviços de backend.
+Entrei num time novo na empresa em que eu trabalhava. No papel, a missão parecia simples — evoluir as capacidades de pricing. Na prática, bem mais cabeluda. Pricing não era um sistema. Era um amontoado de decisões espalhadas por serviços, repositórios, integrações, processos operacionais e anos de conhecimento de negócio que ninguém tinha escrito direito em lugar nenhum. Fee calculava num canto. Markup em outro. Add-on seguia o próprio caminho. Algumas decisões aconteciam perto das aplicações que o cliente via; outras estavam enterradas lá no fundo do backend.
 
-O desafio não era construir algo novo.
+O desafio não era construir coisa nova.
 
-O desafio era construir algo novo sem quebrar o que já funcionava.
+Era construir coisa nova sem quebrar o que já tava de pé.
 
 ## A tentação do grande rewrite
 
-Sempre que times descobrem complexidade arquitetural, costuma haver um instinto natural de começar do zero.
+Sempre que um time esbarra em complexidade de arquitetura, vem aquele instinto natural de começar do zero.
 
-A lógica parece razoável. Conhecemos os problemas. Conhecemos as limitações. Temos tecnologias mais novas disponíveis. Por que não simplesmente substituir a solução antiga por uma plataforma moderna?
+A lógica parece fazer sentido. A gente conhece os problemas. Conhece as limitações. Tem tecnologia mais nova à disposição. Por que não trocar a solução antiga por uma plataforma moderna?
 
 Na prática, essas conversas raramente sobrevivem ao contato com a realidade.
 
-Um sistema de pricing não é apenas software. É conhecimento de negócio codificado. Cada regra representa uma decisão que alguém tomou anos atrás. Cada exceção existe porque um cliente, parceiro, operador, regulador ou mercado a exigiu. Muitas dessas decisões não estão documentadas. Algumas nem são lembradas. O sistema vira um museu vivo da evolução do negócio.
+Um sistema de pricing não é só software. É conhecimento de negócio em forma de código. Cada regra representa uma decisão que alguém tomou anos atrás. Cada exceção existe porque um cliente, parceiro, operador, regulador ou mercado pediu. Boa parte dessas decisões não tá documentada. De algumas, ninguém mais lembra. O sistema vira um museu vivo da evolução do negócio.
 
 | Suposição | Realidade |
 | --- | --- |
-| Sabemos exatamente o que o sistema atual faz | Grande parte do comportamento existe apenas no código |
-| Reconstruir é principalmente um esforço técnico | Reconstruir é principalmente um esforço de descoberta de negócio |
-| Tecnologia nova reduz risco | Rewrites frequentemente introduzem novos riscos |
-| O comportamento legado é totalmente compreendido | Dependências ocultas aparecem continuamente |
+| Sabemos exatamente o que o sistema atual faz | Boa parte do comportamento existe só no código |
+| Reconstruir é, no fundo, esforço técnico | Reconstruir é, no fundo, esforço de descoberta de negócio |
+| Tecnologia nova reduz risco | Rewrite costuma introduzir risco novo |
+| O comportamento legado tá bem entendido | Dependência escondida aparece sem parar |
 
-Essa foi uma das minhas primeiras observações depois de entrar no time. Antes de discutir capacidades futuras, primeiro precisávamos entender o presente. Não apenas o código. O negócio.
+Essa foi uma das primeiras coisas que percebi quando entrei no time. Antes de discutir capacidade futura, a gente precisava entender o presente. Não só o código. O negócio.
 
 ## Entender o futuro antes de mudar o presente
 
-Uma das lições mais valiosas que aprendi naquele período é que conversas sobre arquitetura não deveriam começar pela arquitetura. Elas deveriam começar pelos resultados.
+Uma das maiores lições daquele período foi que conversa sobre arquitetura não deveria começar pela arquitetura. Tinha que começar pelo resultado.
 
-Antes de criar uma nova plataforma de pricing, gastamos tempo entendendo onde a empresa queria estar nos próximos anos. Perguntas começaram a aparecer em todo lugar:
+Antes de criar uma nova plataforma de pricing, a gente gastou tempo entendendo onde a empresa queria estar dali a alguns anos. Pergunta apareceu por todo canto:
 
-- Quais capacidades de pricing precisaríamos em três anos?
-- Quão rápido novos experimentos de pricing deveriam ser lançados?
-- Quem deveria ser dono das decisões de pricing?
-- Quão configuráveis as regras deveriam se tornar?
-- O que deveria exigir envolvimento de engenharia?
-- O que deveria virar self-service?
-- Como suportaríamos novos produtos e modelos de monetização?
+- Quais capacidades de pricing a gente ia precisar dali a três anos?
+- Quanto tempo a gente devia levar pra lançar um experimento novo?
+- Quem ia ser dono das decisões de pricing?
+- Até onde as regras precisavam ser configuráveis?
+- O que ia precisar de mão de engenharia?
+- O que devia virar self-service?
+- Como a gente ia dar suporte a produto e modelo de monetização novos?
 
-Só depois de discutir essas perguntas é que conseguíamos avaliar os sistemas que já existiam. Isso não era sobre tecnologia. Era sobre criar uma imagem compartilhada do destino.
+Só depois de discutir essas perguntas é que dava pra avaliar os sistemas que já existiam. A questão nem era tecnologia. Era criar uma imagem compartilhada do destino.
 
-O verdadeiro desafio não era substituir software. Era criar entendimento suficiente do futuro para reconhecer quais partes do presente deveriam sobreviver.
+O desafio real não era substituir software. Era criar entendimento suficiente do futuro pra reconhecer quais pedaços do presente deviam sobreviver.
 
 ## Descobrindo capacidades de pricing escondidas pela organização
 
-Conforme mapeávamos o cenário existente, descobrimos lógica de pricing espalhada por vários lugares. Algumas capacidades eram óbvias. Outras estavam escondidas. Um markup simples podia envolver vários serviços. Uma fee podia depender de dados gerados em outro lugar. Um add-on podia ter um processo operacional próprio, completamente separado do resto do fluxo de pricing.
+À medida que a gente ia mapeando o cenário, encontrou lógica de pricing espalhada por todo canto. Algumas capacidades eram óbvias. Outras estavam escondidas. Um markup simples podia envolver vários serviços. Uma fee podia depender de dado gerado em outro lugar. Um add-on podia ter um processo operacional próprio, totalmente separado do resto do fluxo.
 
-O trabalho começou a parecer arqueologia. Cada repositório revelava mais uma camada de decisões de negócio. Cada serviço expunha suposições que ninguém tinha documentado. Cada conversa descobria mais uma dependência.
+O trabalho começou a parecer arqueologia. Cada repositório revelava mais uma camada de decisão de negócio. Cada serviço expunha suposição que ninguém tinha documentado. Cada conversa descobria mais uma dependência.
 
-Uma visão simplificada era mais ou menos assim:
+Uma visão simplificada ficava mais ou menos assim:
 
 {{< plantuml title="Lógica de pricing espalhada pelos sistemas existentes" >}}
 @startuml
@@ -97,60 +97,60 @@ A --> FP
 @enduml
 {{< /plantuml >}}
 
-O objetivo não era centralizar tudo imediatamente. O objetivo primeiro era entender o que realmente existia.
+O objetivo não era centralizar tudo logo de cara. Era primeiro entender o que de fato existia.
 
 ## Por que o padrão Strangler Fig fazia sentido
 
-Por volta daquele período, uma abordagem arquitetural aparecia consistentemente nas discussões: o padrão Strangler Fig.
+Nessa época, uma abordagem de arquitetura aparecia direto nas conversas: o padrão Strangler Fig.
 
-A ideia vem da natureza. A figueira estranguladora cresce ao redor de uma árvore existente. Ela não substitui a árvore da noite para o dia. Em vez disso, gradualmente a envolve, absorve suas responsabilidades e, eventualmente, se torna a estrutura principal. Martin Fowler depois popularizou essa metáfora na modernização de software.
+A ideia vem da natureza. A figueira estranguladora cresce em volta de uma árvore. Não substitui a árvore da noite pro dia. Vai envolvendo aos poucos, absorvendo as responsabilidades dela e, com o tempo, acaba virando a estrutura principal. Martin Fowler depois popularizou essa metáfora pra modernização de software.
 
-O padrão é enganosamente simples:
+O padrão parece simples (e não é):
 
 1. Deixar o sistema existente rodando.
-2. Construir novas capacidades ao redor dele.
-3. Redirecionar comportamento gradualmente.
-4. Aposentar componentes antigos um de cada vez.
+2. Construir capacidade nova ao redor dele.
+3. Redirecionar comportamento aos poucos.
+4. Tirar do ar componente antigo, um de cada vez.
 
-O que tornava a ideia atrativa não era elegância. Era redução de risco.
+O que tornava a ideia atraente não era elegância. Era redução de risco.
 
-| Grande Rewrite | Strangler Fig |
+| Grande rewrite | Strangler Fig |
 | --- | --- |
 | Evento grande de entrega | Entrega contínua |
 | Tempo longo até gerar valor | Valor incremental cedo |
 | Alta incerteza | Aprendizado contínuo |
 | Rollback difícil | Caminhos de rollback mais fáceis |
-| Exige entendimento completo antecipado | Permite que o entendimento emerja |
+| Exige entendimento completo antecipado | Permite que o entendimento apareça aos poucos |
 
-Isso não é sobre evitar mudança. É sobre tornar a mudança sustentável.
+A questão não é evitar mudança. É tornar mudança sustentável.
 
 ## Anatomia de uma migração Strangler Fig
 
-O padrão é fácil de desenhar em um quadro branco e difícil de aplicar em produção. No nosso caso, a forma mais útil de entendê-lo foi percorrer uma única capacidade e rastrear o que de fato precisava acontecer, passo a passo.
+O padrão é fácil de desenhar num quadro branco e difícil de aplicar em produção. No nosso caso, a forma mais útil de entender foi pegar uma capacidade só e rastrear o que de fato precisava acontecer, passo a passo.
 
 Uma fee, por exemplo.
 
-No sistema original, fees eram calculadas dentro do serviço de busca. O mesmo monólito que retornava os resultados de viagem também decidia quanto cobrar por eles. A lógica tinha sido adicionada incrementalmente ao longo dos anos, às vezes para um mercado, às vezes para um parceiro, às vezes para uma campanha cuja documentação ninguém mais conseguia encontrar. Ela era pequena o suficiente para ninguém ter reservado tempo para extraí-la. E crítica o suficiente para ninguém querer ser a pessoa que a quebrasse.
+No sistema original, a fee era calculada dentro do serviço de busca. O mesmo monólito que devolvia os resultados de viagem também decidia quanto cobrar por eles. A lógica tinha sido adicionada aos poucos ao longo dos anos — às vezes pra um mercado, às vezes pra um parceiro, às vezes pra uma campanha cuja documentação ninguém mais achava. Era pequena o bastante pra ninguém ter separado tempo pra tirar de lá. E crítica o bastante pra ninguém querer ser a pessoa que ia quebrar.
 
-Esse é o ponto de partida típico do Strangler Fig. Não é sobre sistemas obviamente apodrecidos. É sobre sistemas que estão silenciosamente no centro.
+Esse é o ponto de partida típico do Strangler Fig. Não são os sistemas obviamente apodrecidos. São os sistemas que estão silenciosamente no centro.
 
-A migração se desdobrou em estágios, e cada estágio existia para responder a uma pergunta diferente.
+A migração foi acontecendo em estágios, e cada estágio existia pra responder uma pergunta diferente.
 
 **Estágio 1. Introduzir uma emenda.**
 
-A primeira mudança não tinha nada a ver com o novo serviço. Ela foi feita dentro do próprio monólito de busca. Extraímos o cálculo de fee inline para trás de uma interface interna — uma única chamada de função pela qual o resto do código de busca passava a ter que ir. Nada de comportamento mudou. Nada de ownership mudou. Não estávamos resolvendo o problema ainda. Estávamos criando um lugar onde o problema poderia ser resolvido depois.
+A primeira mudança não tinha nada a ver com o serviço novo. Foi feita dentro do próprio monólito de busca. A gente extraiu o cálculo da fee inline e colocou atrás de uma interface interna — uma única chamada de função pela qual o resto do código de busca passou a ter que ir. Nenhum comportamento mudou. Nenhum ownership mudou. A gente ainda não estava resolvendo o problema. Estava criando um lugar onde o problema podia ser resolvido depois.
 
-Uma emenda é a menor unidade de opcionalidade. Sem ela, nenhuma migração é possível. Com ela, cada passo seguinte vira uma escolha.
+Uma emenda é a menor unidade de opcionalidade. Sem ela, migração nenhuma é possível. Com ela, cada passo seguinte vira uma escolha.
 
-**Estágio 2. Subir o novo serviço.**
+**Estágio 2. Subir o serviço novo.**
 
-Então construímos um serviço de fee separado. Mesmos inputs. Mesmas saídas esperadas. Nenhuma funcionalidade nova. Nenhuma melhoria. Nada de "já que estamos aqui". Esse é o passo que engenheiros mais querem pular, porque parece duplicação. É duplicação. Esse é o ponto.
+Aí a gente construiu um serviço de fee separado. Mesmos inputs. Mesmas saídas esperadas. Nenhuma funcionalidade nova. Nenhuma melhoria. Nada de "já que estamos aqui". É o passo que mais dá vontade de pular, porque parece duplicação. É duplicação. Essa é a sacada.
 
-O novo serviço não tinha permissão de ser mais inteligente que o antigo ainda. Seu único trabalho era produzir o mesmo número.
+O serviço novo ainda não tinha permissão pra ser mais inteligente que o antigo. O único trabalho dele era produzir o mesmo número.
 
 **Estágio 3. Rodar em shadow.**
 
-Aqui é onde o padrão começa a dar retorno. Cada requisição de busca continuava passando pela emenda, continuava chamando a lógica de fee inline antiga e continuava retornando aquele resultado para o cliente. Mas, em paralelo — de forma assíncrona, fora do caminho crítico — a emenda também chamava o novo serviço de fee com os mesmos inputs e registrava tanto as saídas quanto os tempos.
+É aqui que o padrão começa a se pagar. Cada requisição de busca continuava passando pela emenda, continuava chamando a lógica de fee inline antiga e continuava devolvendo aquele resultado pro cliente. Só que, em paralelo — de forma assíncrona, fora do caminho crítico — a emenda também chamava o serviço novo de fee com os mesmos inputs e registrava tanto a saída quanto o tempo.
 
 O cliente não via nada diferente. O time de dados via tudo.
 
@@ -175,26 +175,26 @@ NEW --> CMP
 @enduml
 {{< /plantuml >}}
 
-O que a fase de shadow nos deixou responder era simples e brutal:
+O que a fase de shadow respondeu era simples e brutal:
 
-- Para o mesmo input, o novo serviço retorna a mesma fee que o código antigo? Sempre? Em quais mercados? Para quais produtos? Em quais bordas?
-- E ele faz isso rápido o bastante para que os clientes não percebam a mudança de latência de cauda quando fizermos o cutover?
+- Pro mesmo input, o serviço novo retorna a mesma fee que o código antigo? Sempre? Em quais mercados? Pra quais produtos? Em quais bordas?
+- E faz isso rápido o bastante pra que o cliente não perceba a mudança de latência de cauda quando a gente fizer o cutover?
 
-A primeira pergunta protege a receita. A segunda protege a experiência. Não tínhamos permissão para abrir tráfego enquanto as duas não estivessem verdes.
+A primeira pergunta protege a receita. A segunda protege a experiência. A gente não abria tráfego enquanto as duas não estivessem verdes.
 
-Na prática, as primeiras semanas de execução em shadow são humilhantes. A "mesma lógica" que você escreveu no novo serviço diverge do monólito de formas pequenas e constrangedoras. Uma etapa de arredondamento acontece meio milissegundo antes. Uma conversão de moeda usa um cache de taxa ligeiramente diferente. Um override específico de mercado que vivia em um arquivo de configuração que ninguém mencionou está silenciosamente ausente. Cada divergência é um pedaço de conhecimento de negócio que ninguém se lembrou de escrever.
+Na prática, as primeiras semanas de execução em shadow são humilhantes. A "mesma lógica" que a gente escreveu no serviço novo diverge do monólito de formas pequenas e constrangedoras. Uma etapa de arredondamento acontece meio milissegundo antes. Uma conversão de moeda usa um cache de taxa um pouquinho diferente. Um override específico de mercado que vivia num arquivo de configuração que ninguém mencionou simplesmente sumiu. Cada divergência é um pedaço de conhecimento de negócio que ninguém se lembrou de escrever.
 
-Isso não é um problema para ser escondido. Esse é o motivo inteiro do shadow existir.
+Não é um problema pra esconder. É justamente pra isso que o shadow existe.
 
 **Estágio 4. Ajustar até a paridade.**
 
-Cada divergência era triada. Algumas eram bugs reais no novo serviço. Algumas eram comportamentos não documentados do antigo que se revelaram intencionais e precisaram ser portados. Algumas eram comportamentos não documentados que se revelaram acidentes esquecidos, e o negócio decidiu não os carregar para frente.
+Cada divergência era triada. Algumas eram bug real no serviço novo. Algumas eram comportamento não documentado do antigo que se revelava intencional e precisava ser portado. Algumas eram comportamento não documentado que, na verdade, era acidente esquecido, e o negócio decidia deixar pra trás.
 
-A performance recebia o mesmo tratamento. O tráfego em shadow expunha onde o novo serviço era mais lento do que o caminho inline — o cold start de um processo separado, um hop de rede desnecessário, uma escolha de serialização que importava no p99 mas não no p50. Nada disso é visível em um load test contra um caminho feliz. Só é visível quando tráfego de produção, no formato de produção, passa pelas duas implementações ao mesmo tempo.
+Pra performance valia a mesma coisa. O tráfego em shadow expunha onde o serviço novo era mais lento que o caminho inline — o cold start de um processo separado, um hop de rede desnecessário, uma escolha de serialização que importava no p99 mas não no p50. Nada disso aparece em load test contra um caminho feliz. Só aparece quando tráfego de produção, no formato de produção, passa pelas duas implementações ao mesmo tempo.
 
-Não passávamos adiante enquanto o relatório de comparação não mostrasse duas coisas no mesmo dashboard: paridade de saídas dentro de uma tolerância aceita, e latência dentro de um budget aceito.
+A gente não passava adiante enquanto o relatório de comparação não mostrasse duas coisas no mesmo dashboard: paridade de saídas dentro de uma tolerância aceita, e latência dentro de um budget aceito.
 
-| Fase | Tráfego no novo serviço | O que observávamos | Critério de saída |
+| Fase | Tráfego no serviço novo | O que a gente observava | Critério de saída |
 | --- | --- | --- | --- |
 | Shadow | 0% (espelhado async) | Paridade de saídas, p50/p99 vs antigo | Taxa de paridade acima da meta em todos os mercados |
 | Canary | 1% | Conversão, receita por sessão, taxa de erro | Sem regressão estatisticamente significativa |
@@ -203,25 +203,25 @@ Não passávamos adiante enquanto o relatório de comparação não mostrasse du
 
 **Estágio 5. Subir a rampa atrás de uma flag.**
 
-Só depois da paridade e da performance se manterem é que começamos a rotear tráfego real para o novo serviço, e ainda assim, atrás de uma feature flag que poderíamos desligar em segundos. Pequena porcentagem primeiro. Esperar. Olhar as métricas de negócio, não só as técnicas. Aumentar. Esperar. Aumentar.
+Só depois da paridade e da performance se manterem é que a gente começou a rotear tráfego de verdade pro serviço novo, e mesmo assim, atrás de uma feature flag que dava pra desligar em segundos. Um pouquinho primeiro. Esperar. Olhar as métricas de negócio, não só as técnicas. Subir. Esperar. Subir.
 
-A flag não é só uma rede de segurança. É um contrato com o resto da empresa. Ela diz: se algo parecer errado, conseguimos colocar o comportamento de ontem de volta, em produção, enquanto descobrimos por quê.
+A flag não é só uma rede de segurança. É um contrato com o resto da empresa. Ela diz: se algo parecer errado, a gente consegue botar o comportamento de ontem de volta, em produção, enquanto descobre por quê.
 
 **Estágio 6. Remover o caminho antigo.**
 
-Esse é o passo que fecha o ciclo. Quando o novo serviço de fee já servia 100% do tráfego por tempo suficiente para cobrir sazonalidade e ciclos de parceiros, deletamos a lógica de fee inline do monólito de busca. A emenda ficou. O código legado, não.
+Esse é o passo que fecha o ciclo. Quando o serviço novo de fee já servia 100% do tráfego por tempo suficiente pra cobrir sazonalidade e ciclos de parceiros, a gente deletou a lógica de fee inline do monólito de busca. A emenda ficou. O código legado, não.
 
-Se você pula esse passo, você não fez uma migração Strangler Fig. Você construiu um segundo sistema e manteve o primeiro. Isso não é modernização — é imposto.
+Se pular esse passo, não fez migração Strangler Fig. Construiu um segundo sistema e manteve o primeiro. Isso não é modernização — é imposto.
 
-A emenda, o shadow, o log de comparação, a feature flag, a rampa, a deleção. Cada um está fazendo um trabalho diferente. Cada um ganha seu lugar reduzindo uma categoria específica de risco.
+A emenda, o shadow, o log de comparação, a feature flag, a rampa, a deleção. Cada um fazendo um trabalho diferente. Cada um se justificando ao reduzir uma categoria específica de risco.
 
-## Manter a experiência idêntica enquanto mudamos tudo por baixo
+## Manter a experiência idêntica enquanto a gente muda tudo por baixo
 
-Uma das restrições mais importantes que tínhamos era preservar a experiência do cliente. Os clientes não se importavam com nossa arquitetura. Eles se importavam em ver os preços certos. Eles se importavam em comprar com sucesso. Eles se importavam com confiança.
+Uma das coisas que a gente mais tinha que cuidar era a experiência do cliente. O cliente não tava nem aí pra nossa arquitetura. Se importava em ver os preços certos. Em comprar sem dor de cabeça. Em confiar.
 
-Isso significava que nosso primeiro objetivo não era inovação. Era compatibilidade.
+Ou seja, nosso primeiro objetivo não era inovação. Era compatibilidade.
 
-Por um período de tempo, a nova plataforma precisava produzir as mesmas saídas que os sistemas existentes. Só depois de ganhar confiança poderíamos começar a introduzir novas capacidades.
+Por um tempo, a plataforma nova precisava produzir as mesmas saídas que os sistemas existentes. Só depois de ganhar confiança é que a gente podia começar a introduzir capacidade nova.
 
 Na prática, a jornada se parecia mais com isto:
 
@@ -241,34 +241,34 @@ NPL --> FC
 @enduml
 {{< /plantuml >}}
 
-A nova camada inicialmente parecia redundante. Alguns engenheiros naturalmente questionavam seu valor. Por que construir algo que se comporta exatamente igual?
+A camada nova parecia redundante no começo. Alguns engenheiros questionaram o valor dela — e com razão. Por que construir uma coisa que se comporta exatamente igual?
 
 Porque comportamento idêntico hoje cria liberdade amanhã.
 
 ## Arquitetura transitória não é desperdício
 
-Uma lição que ficou comigo daquele período é que engenheiros frequentemente subestimam o valor da arquitetura temporária.
+Uma lição que ficou comigo daquele período é que engenheiro costuma subestimar o valor da arquitetura temporária.
 
-Gostamos de soluções permanentes. Gostamos de sistemas limpos. Gostamos de construir coisas que duram.
+A gente gosta de solução permanente. Gosta de sistema limpo. Gosta de construir coisa que dura.
 
-Mas modernização raramente acontece assim. Às vezes o componente mais valioso é aquele desenhado para desaparecer.
+Mas modernização raramente é assim. Às vezes o componente mais valioso é justamente aquele feito pra desaparecer.
 
-Camadas de roteamento. Adaptadores de compatibilidade. Serviços de migração. Caminhos de execução em shadow. Dashboards de comparação. Feature flags cujo único trabalho é serem desligadas um dia. Esses componentes podem eventualmente ser deletados, mas eles tornam o progresso possível.
+Camada de roteamento. Adaptador de compatibilidade. Serviço de migração. Caminho de execução em shadow. Dashboard de comparação. Feature flag cujo único trabalho é ser desligada um dia. Esses componentes podem ser deletados no futuro, mas é por causa deles que o progresso acontece.
 
-Arquitetura transitória não é desperdício. É andaime. E andaime é frequentemente o que nos permite construir algo maior com segurança.
+Arquitetura transitória não é desperdício. É andaime. E é o andaime que muitas vezes deixa a gente construir algo maior com segurança.
 
-O verdadeiro custo da modernização raramente é o código temporário. O verdadeiro custo vem de tentar evitar o código temporário e forçar uma migração arriscada no lugar.
+O custo de verdade da modernização raramente é o código temporário. O custo de verdade vem de tentar evitar o código temporário e forçar uma migração arriscada no lugar.
 
 ## O que aprendi
 
-Olhando para trás, entrar no time de pricing me ensinou algo que continua a influenciar como eu abordo mudanças em larga escala.
+Olhando pra trás, entrar no time de pricing me ensinou uma coisa que ainda hoje influencia como eu encaro mudança em larga escala.
 
-Frequentemente imaginamos transformação como substituição. Antigo vira novo. Legado vira moderno. Monolito vira plataforma.
+A gente costuma imaginar transformação como substituição. Antigo vira novo. Legado vira moderno. Monolito vira plataforma.
 
-A realidade normalmente é menos dramática. As transformações mais bem-sucedidas que eu vi se parecem mais com jardinagem do que com demolição. Você cria espaço. Você entende o ecossistema. Você identifica o que deve crescer. Você remove restrições com cuidado. E, com o tempo, algo novo emerge ao redor da estrutura existente.
+A realidade costuma ser menos dramática. As transformações que vi dar mais certo lembravam mais jardinagem do que demolição. A gente cria espaço. Entende o ecossistema. Identifica o que precisa crescer. Tira restrição com cuidado. E, com o tempo, algo novo nasce em volta da estrutura existente.
 
-O padrão Strangler Fig não é realmente sobre arquitetura de software. É sobre respeitar a complexidade. É sobre reconhecer que negócios não podem parar enquanto engenheiros redesenham sistemas. E é sobre reconhecer que o caminho mais seguro para o futuro é, frequentemente, um pequeno passo deliberado de cada vez.
+No fundo, o padrão Strangler Fig não tem a ver com arquitetura de software. Tem a ver com respeitar a complexidade. Tem a ver com reconhecer que negócio não para enquanto engenheiro redesenha sistema. E tem a ver com reconhecer que o caminho mais seguro pro futuro é, na maioria das vezes, um passinho deliberado de cada vez.
 
-A maior parte do Strangler Fig é trabalho sem glamour. Você não derruba nada. Você coloca uma emenda onde não havia, roteia uma cópia do tráfego por ela e depois passa alguns meses ganhando o direito de apagar um `if`. A emoção acaba na segunda semana.
+A maior parte do Strangler Fig é trabalho sem glamour. Não se derruba nada. A gente coloca uma emenda onde não tinha, roteia uma cópia do tráfego por ela e depois passa alguns meses pra ganhar o direito de apagar um `if`. A emoção acaba na segunda semana.
 
-O que sobra, depois que a emoção vai embora, é um sistema que o time consegue mudar sem prender a respiração. Esse é o prêmio inteiro. O padrão é só o meio.
+O que sobra, depois que a emoção passa, é um sistema que o time consegue mudar sem prender a respiração. É esse o prêmio. O padrão é só o meio.
