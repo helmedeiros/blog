@@ -1,5 +1,5 @@
 ---
-title: "Responsive Leadership – Part 2: Coaching, Trust, and Team Resilience"
+title: "Responsive Leadership: Coaching, Trust, and Team Resilience"
 author: helio
 layout: post
 date: 2023-07-06 10:00:00+00:00
@@ -27,6 +27,10 @@ tags:
   - five-dysfunctions
 subtitle: Build coaching culture and psychological safety using GROW model, trust frameworks, and structured feedback techniques that transform team dynamics
 ---
+
+> These are my notes from **day two of the responsive leadership training I went through at Omio in July 2023**. [Part 1](../2023-07-05-responsive-leadership-part1/) covers the first day and the context I came in with — about twenty-two months into my first Engineering Manager role, eighteen years on the engineering ladder behind it, and a practice already built around being close to the team I lead.
+>
+> The longer-form essays that follow Part 1 and this one are where I sat with each topic. The training mostly gave me **names** for what I'd been doing by feel. Where it added a sharper tool, I name it; where it confirmed the shape of my practice, I name that.
 
 ## Creating a Coaching Culture
 

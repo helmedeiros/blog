@@ -1,5 +1,5 @@
 ---
-title: "Responsive Leadership – Part 1: Leading with Presence and Adaptability"
+title: "Responsive Leadership: Leading with Presence and Adaptability"
 subtitle: Lead with presence and adaptability—mastering communication styles, engagement vs capability frameworks, and the shift from reactive to responsive leadership
 author: helio
 layout: post
@@ -26,6 +26,14 @@ tags:
   - feedback
   - fierce-conversations
 ---
+
+> These are my notes from **day one of a responsive leadership training I went through at Omio in July 2023**. The training ran over two days; this post and [Part 2](../2023-07-06-responsive-leadership-part2/) are the live recaps I wrote the same evening of each session.
+>
+> The lens I brought into the room: I've been an Engineering Manager for the first time since **September 2021** — about twenty-two months at this point. Before that, eighteen years on the engineering ladder as engineer, tech lead, and staff engineer, but never directly managing people. So I came in with a long backlog of having been *managed* by leaders with very different strengths, and a much shorter list of doing it from the other side.
+>
+> The way I lead is built on being close to my team — close enough to know what's actually going on for each of them, careful enough not to crowd that with micromanagement. The team comes to me first because the space is genuinely open; they get the read they were hoping for because I've been paying attention. That's the practice I'd built in these first two years before walking into the training.
+>
+> The longer-form essays that follow this post and Part 2 are reflections I wrote after the training. They're less about being changed by the room and more about the room giving me **names** for shapes I'd already been holding. Where the framework added something sharp, I name it. Where it confirmed what I was doing, I name that too.
 
 ## Reframing Leadership for Changing Times
 

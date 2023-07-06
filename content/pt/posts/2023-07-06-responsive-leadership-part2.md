@@ -1,5 +1,5 @@
 ---
-title: "Liderança Responsiva – Parte 2: Coaching, Confiança e Resiliência em Equipe"
+title: "Liderança Responsiva: Coaching, Confiança e Resiliência em Equipe"
 author: helio
 layout: post
 date: 2023-07-06 10:00:00+00:00
@@ -28,6 +28,10 @@ tags:
   - five-dysfunctions
 subtitle: Construa cultura de coaching e segurança psicológica usando modelo GROW, frameworks de confiança e técnicas estruturadas de feedback que transformam dinâmicas de equipe
 ---
+
+> Essas são minhas anotações do **segundo dia do treinamento de liderança responsiva que passei na Omio em julho de 2023**. A [Parte 1](../2023-07-05-responsive-leadership-part1/) cobre o primeiro dia e o contexto com que cheguei — uns vinte e dois meses no meu primeiro papel de Engineering Manager, dezoito anos na trilha técnica atrás, e uma prática já construída em torno de ficar perto do time que lidero.
+>
+> Os ensaios mais longos que seguem a Parte 1 e essa são onde sentei com cada tópico. O treinamento basicamente me deu **nomes** pro que eu vinha fazendo no feeling. Onde ele acrescentou uma ferramenta mais afiada, eu nomeio; onde confirmou a forma da minha prática, eu nomeio também.
 
 ## Criando uma Cultura de Coaching
 

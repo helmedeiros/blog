@@ -1,5 +1,5 @@
 ---
-title: "Liderança Responsiva – Parte 1: Presença e Adaptabilidade no Cotidiano"
+title: "Liderança Responsiva: Presença e Adaptabilidade no Cotidiano"
 subtitle: Lidere com presença e adaptabilidade—dominando estilos de comunicação, frameworks de engajamento vs capacidade, e a transição de liderança reativa para responsiva
 author: helio
 layout: post
@@ -24,6 +24,14 @@ tags:
   - feedback
   - fierce-conversations
 ---
+
+> Essas são minhas anotações do **primeiro dia de um treinamento de liderança responsiva que passei na Omio em julho de 2023**. O treinamento foi em dois dias; esse post e a [Parte 2](../2023-07-06-responsive-leadership-part2/) são as recapitulações ao vivo que escrevi na noite de cada sessão.
+>
+> A lente que trouxe pra dentro da sala: sou Engineering Manager pela primeira vez desde **setembro de 2021** — uns vinte e dois meses naquele momento. Antes disso, dezoito anos na trilha técnica como engenheiro, tech lead e staff engineer, mas nunca gerenciando pessoas diretamente. Então cheguei com um backlog longo de ter sido *gerenciado* por líderes com forças bem diferentes, e uma lista bem mais curta de ter feito do outro lado.
+>
+> O jeito que lidero é construído em ficar perto do meu time — perto o bastante pra saber o que de fato tá acontecendo pra cada um, cuidadoso o bastante pra não invadir esse espaço com micromanagement. O time vem em mim primeiro porque o espaço é genuinamente aberto; eles recebem a leitura que esperavam porque eu venho prestando atenção. Essa é a prática que construí nesses primeiros dois anos antes de entrar no treinamento.
+>
+> Os ensaios mais longos que seguem esse post e a Parte 2 são reflexões que escrevi depois do treinamento. São menos sobre ter sido mudado pela sala e mais sobre a sala ter me dado **nomes** pras formas que eu já vinha sustentando. Onde o framework adicionou algo afiado, eu nomeio. Onde confirmou o que eu já fazia, nomeio também.
 
 ## Reenquadrando a Liderança em Tempos de Mudança
 
