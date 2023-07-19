@@ -69,7 +69,7 @@ A surpresa de verdade não era a equação. Eram as pessoas que apareciam em vol
 
 Um dos primeiros conceitos que precisei entender foi a diferença entre fee e markup. Soam parecido. Às vezes compartilham caminho de código. Não são a mesma coisa.
 
-Uma fee normalmente é explícita. O cliente costuma ver ela no resumo da compra — booking fee, service fee, processing fee, operational fee. Fee não é só mecanismo de receita. É também mecanismo de confiança. No instante em que um recibo lê "taxa de serviço", o leitor para um segundo pra julgar se aquilo é justo.
+Uma fee normalmente é explícita. O cliente costuma ver ela no resumo da compra — booking fee, service fee, processing fee, operational fee. Fee não é só mecanismo de receita. É também mecanismo de confiança. No instante em que um recibo mostra "taxa de serviço", o leitor para um segundo pra julgar se aquilo é justo.
 
 Markup é outra história. Ele modifica o preço do produto antes do cliente ver. O cliente raramente vê o markup em si; vê o preço que o markup produziu.
 
