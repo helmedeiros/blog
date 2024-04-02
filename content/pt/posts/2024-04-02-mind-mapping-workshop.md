@@ -56,9 +56,16 @@ Um mapa mental não é uma lista de tarefas, um fluxograma com lógica rígida, 
 
 ## Quando Usar
 
-Após o workshop, incentivei todo o time a mapear mentalmente antes de criar uma especificação no Confluence, escrever um ticket, liderar um kickoff, preparar um post-mortem, ou planejar um projeto pessoal ou trilha de aprendizado.
+Após o workshop, incentivei todo o time a mapear mentalmente nestas situações:
 
-Não precisamos de mapas mentais todos os dias. Mas precisamos deles nos dias em que a cabeça parece um navegador com 30 abas abertas.
+- Antes de criar uma especificação no Confluence ou documento técnico
+- Ao escrever um ticket complexo que afeta múltiplos sistemas
+- Antes de liderar um kickoff de projeto ou sessão de planejamento
+- Durante a preparação de post-mortem para mapear conexões do incidente
+- Ao planejar um projeto pessoal ou trilha de aprendizado
+- Sempre que a cabeça parecer um navegador com 30 abas abertas
+
+Não precisamos de mapas mentais todos os dias, mas eles se tornam valiosos quando a complexidade supera o pensamento linear.
 
 ## Experimente Agora
 

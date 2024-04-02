@@ -56,9 +56,16 @@ A mind map is not a list of todos, a flowchart with strict logic, or a diagram m
 
 ## When to Use
 
-After this workshop, I encouraged everyone in the tribe to start mind mapping before creating a Confluence spec, writing a ticket, leading a kickoff, preparing a post-mortem, or planning a personal project or learning path.
+After this workshop, I encouraged everyone in the tribe to start mind mapping in these situations:
 
-We don't need mind maps every day. But we need them on days when the brain feels like a browser with 30 tabs open.
+- Before creating a Confluence spec or technical document
+- When writing a complex ticket that touches multiple systems
+- Before leading a project kickoff or planning session
+- During post-mortem preparation to map incident connections
+- When planning a personal project or learning path
+- Whenever your brain feels like a browser with 30 tabs open
+
+We don't need mind maps every day, but they become invaluable when complexity overwhelms linear thinking.
 
 ## Try It Now
 
