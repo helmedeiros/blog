@@ -53,7 +53,7 @@ This session isn't where you plan your quarter. It's where you learn what's actu
 We don't run this session like a spreadsheet. We run it like a collaborative draft board. Here's the structure:
 
 1. **Milestone Review** – Go one by one. A teammate presents a milestone card and walks through context.
-2. **Effort Estimation** – The group sizes the milestone (S/M/L), using heuristics based on prior delivery experience.
+2. **Effort Estimation** – The group sizes the milestone (`S/M/L`), using heuristics based on prior delivery experience.
 3. **Business & UX Value** – Participants score the milestone on business impact (`$/$$/$$$`) and UX value (`♥/♥♥/♥♥♥`).
 4. **Dependencies** – Team calls out any blocking coordination, e.g. Platform, BI, DS, or external providers.
 5. **Skills Needed** – In pairs, identify core skills needed to deliver the milestone (e.g., Design, Frontend, Backend).
@@ -80,7 +80,7 @@ Don't waste cycles debating if something is Medium or Large. The goal is shared 
 
 | Attribute      | Scale          | Used To...                               |
 | -------------- | -------------- | ---------------------------------------- |
-| Effort         | S / M / L      | Estimate delivery complexity             |
+| Effort         | `S / M / L`    | Estimate delivery complexity             |
 | Business Value | `$ / $$ / $$$` | Predict monetization or strategic payoff |
 | UX Value       | `♥ / ♥♥ / ♥♥♥` | Reflect end-user experience impact       |
 | Dependencies   | Free text      | Reveal coordination needs & risks        |
