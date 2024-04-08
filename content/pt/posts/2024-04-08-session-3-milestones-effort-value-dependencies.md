@@ -67,7 +67,7 @@ Ela não é uma planilha. É um quadro colaborativo em construção. A estrutura
 1. **Revisar Marco** – Um membro apresenta o contexto da ideia.
 2. **Estimar Esforço** – O grupo atribui `S/M/L`, baseado em experiência prévia.
 3. **Valor de Negócio e UX** – Avaliam-se impacto de negócio (`$/$$/$$$`) e valor de experiência (`♥/♥♥/♥♥♥`).
-4. **Dependências** – Chamam-se bloqueios ou colaborações necessárias (ex: Plataforma, BI, DS).
+4. **Dependências** – Chamam-se bloqueios ou colaborações necessárias (ex: Plataforma, Infraestrutura, Developer Experience, Site Reliability Engineering, Quality Assurance, Data Science, Business Intelligence).
 5. **Habilidades Necessárias** – Em duplas, definem-se as competências chave para entregar (Design, Frontend, Backend, etc).
 
 ```bash
@@ -126,6 +126,6 @@ Marco: Recomendações inteligentes de partidas
 Esforço: M
 Valor de Negócio: $$
 Valor UX: ♥♥
-Dependências: API de ranking, apoio de DS
+Dependências: API de ranking, apoio de Data Science
 Habilidades: Frontend, DS, Analytics
 ```
