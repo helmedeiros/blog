@@ -115,23 +115,3 @@ Ao envolver todos desde o início, criamos clareza, compromisso e contexto.
 - Trocas e cortes são menos dolorosos porque o time participou da escolha.
 
 Esse framework também constrói confiança. Quando sua visão inclui as ideias dos engenheiros e suas métricas respeitam os limites reais, as pessoas se engajam. Você deixa de ouvir "Por que estamos fazendo isso?" e começa a ouvir "Quando começamos?"
-
----
-
-## O Que Vem a Seguir?
-
-No próximo artigo, vou explicar como **facilitar cada sessão** — com perguntas, visuais e dicas para evitar travamentos. Você terá:
-
-- Checklists para facilitadores
-- Templates prontos para screenshot
-- Dicas práticas quando o engajamento cair
-
-Esse não é um processo para vender. É um processo para adotar, adaptar e melhorar com seu time.
-
-Enquanto isso, aqui vão três ações para você considerar:
-
-- Convide seu time para refletir sobre os OKRs do último trimestre.
-- Faça a Sessão #0 ou #1 antes do próximo kickoff.
-- Compartilhe os resultados. Queremos ver como você faz do seu jeito.
-
----
