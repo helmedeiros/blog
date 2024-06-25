@@ -1,7 +1,5 @@
 ---
-title:
-  "Da Estratégia ao Compromisso: Como Pernelle e Eu Criamos Alinhamento de OKRs
-  com Nossos Times"
+title: "O Framework OKRA Completo: 5 Sessões para Transformar Estratégia em OKRs com Senso de Pertencimento do Time"
 categories:
   - Leadership
   - Agile
