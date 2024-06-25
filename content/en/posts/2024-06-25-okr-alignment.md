@@ -2,99 +2,61 @@
 title: "From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our Teams"
 date: 2024-06-25
 description: "A practical guide to engaging your team in building quarterly OKRs together through transparent, structured facilitation."
+series: ["OKRA"]
+series_order: 6
 ---
 
 ## Why We Created the OKRA Framework
 
-Since Q3 of 2022, Pernelle and I have been refining a method to define OKRs that isn't top-down, opaque, or ignored by the end of week two. The method, which we now call the OKRA (OKR Agreement) framework, was born from a simple belief: people commit to what they help build. What started as a practical workaround to poorly aligned quarterly kickoffs turned into a repeatable process that's now core to how our team works.
+Our team is driven by empathy, customer centricity, efficiency, data-driven decisions, collaboration, and a remote-first mindset. We believe that when teams have true clarity—of purpose, priorities, and outcomes—performance naturally rises. The OKRA (OKR Agreement) framework is our way of making that clarity real, so everyone can focus on what matters most: delivering meaningful results for our customers, together.
 
-We were tired of the false dichotomy between "alignment" and "autonomy." We wanted both. We needed both. And over time, we found that our structured, step-by-step process actually made tough trade-offs easier and gave people a clear role in shaping our direction. This post is an invitation to try it for yourself.
-
-If you're a tech lead, product manager, or engineering manager looking to move from performative OKRs to impactful, co-owned goals, this post is for you. In this first article, I'll introduce the process, walk through the purpose and output of each session, and give you the templates we use.
+Since Q3 of 2022, Pernelle and I have been on a mission to help teams move beyond confusion and misalignment. We saw that when everyone understands the 'why' and 'how' behind our goals, we not only move faster, but we also discover better solutions and build better products. OKRA is about empowering every team member to contribute, learn, and grow—so we can achieve more, together, with purpose and accountability.
 
 ## The Five-Session Process Overview
 
 The OKRA process is built around five collaborative sessions. Each one is designed to produce a specific output, progressively transforming abstract ideas into executable goals.
 
-| Session                              | When to Use It                      | Outcome                                                  |
-| ------------------------------------ | ----------------------------------- | -------------------------------------------------------- |
-| Session #0: Vision & Ideation        | When company-level OKRs are unclear | Shared team vision and prioritization of themes          |
-| Session #1: OKRs Ideation            | When company OKRs are known         | Draft team-level OKRs linked to company goals            |
-| Session #2: Milestones Brainstorming | After drafting OKRs                 | Milestones, epics, and spikes to validate key results    |
-| Session #3: OKR Finalization         | Before execution begins             | Team- and stakeholder-approved OKRs                      |
-| Session #4: Execution Planning       | After OKRs are finalized            | A roadmap with clear owners, estimates, and dependencies |
+| Session                                                              | When to Use It                           | Outcome                                                                       | Learn More                                                                           |
+| -------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow       | When company strategy is unclear or late | Shared team vision and context for the quarter                                | [Read Session #0](/posts/2023-03-18-session-0-product-vision/)                       |
+| OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil      | When company OKRs are clear              | Team-drafted OKRs grounded in real constraints and opportunities              | [Read Session #1](/posts/2023-04-08-session-1-okrs-ideation/)                        |
+| OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action | After team OKRs are drafted              | Actionable milestones, epics, and validation work mapped to OKRs              | [Read Session #2](/posts/2023-04-18-session-2-milestones-brainstorming/)             |
+| OKRA Session #3: Milestones Value, Effort & Dependencies             | After milestones are mapped              | Shared understanding of complexity, value, and constraints for each milestone | [Read Session #3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
+| OKRA Session #4: OKR Quarter Draft Plan                              | Before execution begins                  | Visual, collaborative draft plan for the quarter, making alignment visible    | [Read Session #4](/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
 
 Let's now break down each one.
 
 ---
 
-## Session #0: Vision & Ideation (Optional but Powerful)
+## OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow
 
-This is the most misunderstood session in our process, and yet it's the most transformative when done right. We run it when company-level strategy is unclear, late, or misaligned with our reality. Rather than waiting for answers, we gather known inputs: customer pains, product gaps, tech opportunities, and unmet stakeholder expectations.
+When company strategy is missing, unclear, or late, this session helps teams create shared context and vision for the quarter. Instead of waiting for direction, the team collaborates to map out what they already know—customer pains, platform strengths, business opportunities, stakeholder expectations, and constraints. The outcome is a single, co-created vision statement that guides all future OKR work and helps the team say no to distractions.
 
-We use visual templates to organize contributions under five lenses:
+[Read the full guide to Session #0](/posts/2023-03-18-session-0-product-vision/) for detailed facilitation tips, templates, and real-world examples.
 
-- Customer Pains
-- Customer Gains
-- Business Opportunities
-- Stakeholder Expectations
-- Platform Constraints or Leverage
+## OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil
 
-The team then votes on what resonates most. These aren't yet objectives—they're raw themes of impact. From these, we co-create a vision statement for the quarter. This vision isn't for branding; it's for alignment. It helps us say no to distractions later.
+With company OKRs in hand, the team translates them into actionable, team-owned OKRs. This session is about surfacing real constraints, customer pains, and opportunities, then drafting OKRs that are both inspiring and grounded. The process is highly collaborative, using silent idea generation, clustering, and pairing to ensure all voices are heard. The result: a set of draft OKRs the team actually believes in.
 
-When this session is skipped, teams tend to mimic previous quarters or defer too heavily to management for guidance. When we include it, even skeptical engineers leave energized, having seen their daily pain points translated into strategic direction.
+[Read the full guide to Session #1](/posts/2023-04-08-session-1-okrs-ideation/) for step-by-step facilitation instructions and proven patterns.
 
-### Sample Vision Statement:
+## OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action
 
-> "This quarter, we will reduce payment friction for our cross-border users while laying the technical foundation for dynamic service fees."
+Now the team turns OKRs into a concrete plan. This session is not about timelines, but about identifying the essential work—milestones, epics, spikes, and experiments—that will validate the OKRs. The team works collaboratively to map out what needs to be shipped, tested, or learned, ensuring every commitment is grounded in learning and not just wishful thinking.
 
----
+[Read the full guide to Session #2](/posts/2023-04-18-session-2-milestones-brainstorming/) for facilitation techniques and milestone categorization.
 
-## Session #1: Vision and OKRs Ideation
+## OKRA Session #3: Milestones Value, Effort & Dependencies
 
-Assuming the company OKRs are clear, this session focuses on drafting team-level OKRs that contribute meaningfully. First, we revisit company goals. We don't just read them out—we ask, "What can we actually influence here?" This framing moves us from strategy theater to grounded discussions.
+With milestones in hand, the team reality-checks each one. This session is about surfacing assumptions, estimating effort (S/M/L), scoring business and UX value, and calling out dependencies and required skills. The goal is not perfect precision, but shared understanding—so the team can prioritize, avoid overcommitment, and sequence work based on real constraints.
 
-Next, we inventory the features, services, or platforms our team owns. Many teams fail here: they either forget legacy components or over-promise on systems they don't control. We map each feature to potential contributions.
+[Read the full guide to Session #3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) for scoring frameworks and common pitfalls to avoid.
 
-Then comes the OKR writestorm. Everyone writes as many ideas as possible in silence—quantity over quality. Later, we group, merge, and refine them.
+## OKRA Session #4: OKR Quarter Draft Plan
 
-**During the session we reflect on:**
+The final session brings everything together in a visual, collaborative draft plan for the quarter. The team sequences milestones, annotates risks and dependencies, and makes alignment visible for all. This isn't about locking in dates, but about mapping intention and creating a shared artifact that guides execution, enables adjustment, and keeps everyone focused on what matters most.
 
-- Which customer pain/gain this idea solves?
-- Which company objective it supports?
-- What hypothesis we're testing?
-- How will we know if it worked?
-
-We close the session with voting. The top-voted OKRs form our draft.
-
-### Example Table: Writestorm Template Fields
-
-| Field              | Description                                    |
-| ------------------ | ---------------------------------------------- |
-| Idea               | Initial OKR proposal (Objective + Key Results) |
-| Customer Pain/Gain | What does it improve?                          |
-| Metric or Proxy    | How we measure impact                          |
-| Hypothesis         | Why we believe it matters                      |
-| Alignment          | Which company OKR it supports                  |
-
----
-
-## Session #2: Milestones Brainstorming
-
-Now that we have our draft OKRs, it's time to deconstruct them into tangible work. This is where most teams fall into the trap of "goals with no glue." Good OKRs are inspiring, but without clear initiatives, they become vague aspirations.
-
-We break into groups, each taking one OKR. For 20 minutes, they brainstorm and map:
-
-- Milestones: critical delivery check-points
-- Epics: bundles of work tied to user value
-- Spikes: knowledge-gathering investigations
-- Experiments: safe-to-fail tests that validate risky assumptions
-
-We capture them visually using templates with three horizontal lanes (Objectives) and vertical columns (time or phases).
-
-The magic here is focus. We encourage the group to choose _what not to do_ as clearly as what to do. We ask: "If we only delivered these three initiatives, would we still move the needle on this OKR?"
-
-We close the session by reviewing and refining. The team prunes vague ideas and consolidates similar items. At the end, we've got a clean map of how the quarter could unfold.
+[Read the full guide to Session #4](/posts/2024-05-10-session-4-quarter-draft-plan/) for visual planning techniques and facilitation tips.
 
 ---
 
