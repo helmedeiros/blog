@@ -35,6 +35,35 @@ O processo OKRA é composto por cinco sessões colaborativas. Cada uma gera um r
 
 Vamos agora detalhar cada uma.
 
+## Timing das Sessões: Quando Executar Cada Sessão
+
+Uma das perguntas mais comuns que recebemos é sobre o intervalo entre as sessões. Aqui estão nossas recomendações baseadas na execução do OKRA com dezenas de times:
+
+**Princípios Gerais:**
+
+- **Não espalhe as sessões demais** - Contexto e momentum são cruciais para o alinhamento
+- **Permita tempo de processamento entre sessões-chave** - Os times precisam internalizar saídas complexas
+- **Programe baseado no ritmo do seu time** - Alguns times preferem workshops intensivos, outros precisam de tempo de reflexão
+
+**Recomendações Específicas de Timing:**
+
+- **Sessão #0 → Sessão #1**: 3-5 dias de intervalo. Times precisam de tempo para processar a visão e aguardar os OKRs da empresa chegarem.
+- **Sessão #1 → Sessão #2**: Não mais que 1 semana de intervalo. As hipóteses dos OKRs estão frescas e precisam ser traduzidas imediatamente em ação.
+- **Sessão #2 → Sessão #3**: 1-2 dias de intervalo (ou no mesmo dia). A avaliação dos marcos funciona melhor quando as ideias ainda estão quentes.
+- **Sessão #3 → Sessão #4**: 2-3 dias de intervalo. Os times se beneficiam de uma pausa curta para absorver os insights de esforço/valor antes do planejamento visual.
+
+**Por que Esses Intervalos Funcionam:**
+
+- **Momentum**: Intervalos menores mantêm energia e contexto vivos
+- **Processamento**: Sessões estratégicas (#0, #1) precisam de tempo de reflexão; sessões táticas (#2, #3, #4) se beneficiam de sucessão rápida
+- **Restrições práticas**: Times precisam de tempo para coordenar calendários e preparar materiais
+
+**Erros Comuns de Timing a Evitar:**
+
+- Executar todas as sessões em um dia (sobrecarga cognitiva)
+- Aguardar mais de 2 semanas entre qualquer sessão (perda de contexto)
+- Programar a Sessão #4 muito próximo ao sprint planning (sem tempo para incorporar insights)
+
 ---
 
 ## OKRA Sessão #0: Plantando as Sementes da Visão Antes dos OKRs Crescerem

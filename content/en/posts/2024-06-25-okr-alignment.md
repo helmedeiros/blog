@@ -35,6 +35,35 @@ The OKRA process is built around five collaborative sessions. Each one is design
 
 Let's now break down each one.
 
+## Session Timing: When to Run Each Session
+
+One of the most common questions we get is about timing between sessions. Here are our recommendations based on running OKRA with dozens of teams:
+
+**General Principles:**
+
+- **Don't spread sessions too far apart** - Context and momentum are crucial for alignment
+- **Allow processing time between key sessions** - Teams need time to internalize complex outputs
+- **Schedule based on your team's rhythm** - Some teams prefer intensive workshops, others need reflection time
+
+**Specific Timing Recommendations:**
+
+- **Session #0 → Session #1**: 3-5 days apart. Teams need time to process the vision and let company OKRs arrive.
+- **Session #1 → Session #2**: No more than 1 week apart. OKR hypotheses are fresh and need immediate translation to action.
+- **Session #2 → Session #3**: 1-2 days apart (or same day). Milestone evaluation works best when ideas are still warm.
+- **Session #3 → Session #4**: 2-3 days apart. Teams benefit from a short break to absorb effort/value insights before visual planning.
+
+**Why These Intervals Work:**
+
+- **Momentum**: Shorter gaps keep energy and context alive
+- **Processing**: Strategic sessions (#0, #1) need reflection time; tactical sessions (#2, #3, #4) benefit from quick succession
+- **Practical constraints**: Teams need time to coordinate calendars and prepare materials
+
+**Common Timing Mistakes to Avoid:**
+
+- Running all sessions in one day (cognitive overload)
+- Waiting more than 2 weeks between any sessions (context loss)
+- Scheduling Session #4 too close to sprint planning (no time to incorporate insights)
+
 ---
 
 ## OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow
