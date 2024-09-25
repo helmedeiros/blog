@@ -59,7 +59,7 @@ The challenge was no longer expressing business decisions. It was deciding among
 
 This is where pricing models entered the conversation.
 
-Not because machine learning was fashionable. Not because the organisation wanted more technology. Because the learning system had accumulated more knowledge than humans could easily apply.
+Not because modelling was fashionable. Not because the organisation wanted more technology. Because the learning system had accumulated more knowledge than the rules layer could express by hand.
 
 A useful way to think about a model is as a compression of everything the team has learned so far:
 
