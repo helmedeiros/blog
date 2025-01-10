@@ -168,17 +168,17 @@ The interface provides helpful starter prompts for common scenarios—from writi
 
 After implementing this approach across our Pricing/Premium team (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), here's how our user story creation evolved:
 
-**June 2022**: Team milestone leaders creating stories → **2-3 hours each**, inconsistent quality, dependent on individual engineer skills
+**June 2022**: Team milestone leaders creating stories → **3-4 hours**, inconsistent quality, dependent on individual engineer skills
 
-**January 2023**: EM facilitating OKRA sessions, creating epics with user stories → **1-2 hours each**, improved structure
+**January 2023**: EM facilitating OKRA sessions, creating epics with user stories → **1-2 hours**, improved structure
 
-**June 2023**: Team trained on better user story practices, new Scrum cadence → **2-3 hours each**, consistent content and format
+**June 2023**: Team trained on better user story practices, new Scrum cadence → **2-3 hours**, consistent content and format
 
-**June 2024**: After new team members joined → **2-3 hours each**, back to inconsistent content, not everyone contributing proactively
+**June 2024**: After new team members joined → **2-3 hours**, back to inconsistent content, not everyone contributing proactively
 
-**January 2025**: GPT Storyteller introduced → **10-20 minutes each**, consistent content and format, proactive adoption
+**January 2025**: GPT Storyteller introduced → **10-20 minutes**, consistent content and format, proactive adoption
 
-**The Impact**: We went from spending 2-3 hours per story with inconsistent results to 10-20 minutes with consistent, high-quality outputs—a **90% time reduction** while dramatically improving quality and team adoption.
+**The Impact**: We went from spending 2-3 hours with inconsistent results to 10-20 minutes with consistent, high-quality outputs—a **90% time reduction** while dramatically improving quality and team adoption.
 
 ### When the GPT Needs Human Guidance
 
