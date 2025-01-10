@@ -1,5 +1,5 @@
 ---
-title: "Coaching User Stories with AI"
+title: "From 3 Hours to 10 Minutes: How We Automated User Story Creation"
 categories:
   - AI
   - Agile
@@ -14,7 +14,7 @@ tags:
   - genai
   - automation
 description: "How we transformed user story creation from hours to minutes using a custom GPT—embedding agile coaching expertise into an AI tool that scales consistency across teams."
-subtitle: "From manual coaching to AI augmentation—building a User Storyteller GPT that embeds agile expertise and scales story quality across engineering teams."
+subtitle: "Building a custom GPT that cut our story writing time by 90% while improving quality and consistency across teams."
 ---
 
 ## Where It Started
@@ -115,7 +115,7 @@ Tell a small story about the problem being faced...
 
 These structured formats ensure consistency and completeness across all team documentation, regardless of who creates the initial draft.
 
-## How We Made Our GPT Even More Impactful
+## Adding Context For Even More Impact
 
 While our initial GPT was helpful, the real breakthrough came when we started feeding it domain-specific knowledge about our systems and customer behaviors. Here's how we evolved our User Storyteller GPT from a generic writing assistant into a true domain expert:
 
