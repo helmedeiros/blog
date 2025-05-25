@@ -4,7 +4,6 @@
     "config:recommended",
     ":dependencyDashboard",
     ":semanticCommits",
-    ":automergeDigests",
     ":automergeBranch"
   ],
   "timezone": "America/Sao_Paulo",
