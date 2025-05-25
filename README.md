@@ -45,16 +45,51 @@ The blog covers various technology topics including:
 
 This is a Hugo-generated static site with:
 
-- Custom Beautiful Hugo theme
-- Responsive design
-- SEO optimization
-- Social sharing integration
-- Search functionality
+- **Hugo Static Site Generator** with Beautiful Hugo theme
+- **Bilingual Support**: English and Portuguese content
+- **GitHub Actions**: Automated build and deployment
+- **Custom Domain**: `old-blog.heliomedeiros.com`
+- **Responsive design** with SEO optimization
+- **Social sharing integration**
+
+## 🚀 Deployment
+
+The site is automatically deployed using GitHub Actions:
+
+1. **Source files** are stored in this repository
+2. **GitHub Actions** builds the Hugo site on every push to `main`/`master`
+3. **Generated static files** are deployed to GitHub Pages
+4. **Custom domain** `old-blog.heliomedeiros.com` serves the content
+
+### Local Development
+
+```bash
+# Install Hugo (macOS)
+brew install hugo
+
+# Clone the repository
+git clone [repository-url]
+cd blog
+
+# Start local development server
+hugo server -D
+
+# Build for production
+hugo --minify
+```
+
+### Manual Deployment
+
+If needed, you can manually trigger deployment:
+
+1. Go to the **Actions** tab in GitHub
+2. Select **Deploy Hugo site to Pages**
+3. Click **Run workflow**
 
 ## 📖 Reading
 
-- **Browse in English**: Start at the [Posts page](/posts/)
-- **Ler em Português**: Visite a [página de Posts em Português](/pt/posts/)
+- **Browse in English**: [old-blog.heliomedeiros.com](https://old-blog.heliomedeiros.com)
+- **Ler em Português**: [old-blog.heliomedeiros.com/pt](https://old-blog.heliomedeiros.com/pt)
 
 ---
 

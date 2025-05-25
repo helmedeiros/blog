@@ -1,4 +1,37 @@
-baseurl = "https://helmedeiros.github.io//"
-languageCode = "en-us"
+baseurl = "https://old-blog.heliomedeiros.com/"
+defaultContentLanguage = "en"
 title = "Helio Medeiros"
 theme = "beautifulhugo"
+
+[languages]
+  [languages.en]
+    languageCode = "en-us"
+    languageName = "English"
+    title = "Helio Medeiros - Technology Blog"
+    weight = 1
+    contentDir = "content/en"
+
+  [languages.pt]
+    languageCode = "pt-br"
+    languageName = "Português"
+    title = "Helio Medeiros - Blog de Tecnologia"
+    weight = 2
+    contentDir = "content/pt"
+
+[params]
+  subtitle = "Technology insights and agile development"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
