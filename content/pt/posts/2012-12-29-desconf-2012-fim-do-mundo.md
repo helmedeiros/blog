@@ -3,7 +3,6 @@ title: Desconf 2012 – Fim do mundo
 author: helio
 layout: post
 date: 2012-12-29T13:32:02+00:00
-url: /2012/12/29/desconf-2012-fim-do-mundo/
 embed:
   - This is the default text
 seo_follow:
@@ -15,7 +14,6 @@ categories:
 tags:
   - desconf
   - desconf2012
-
 ---
 &nbsp;<figure id="attachment_700" style="width: 467px" class="wp-caption aligncenter">
 

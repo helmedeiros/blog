@@ -3,7 +3,6 @@ title: "Masking the approaching BDUF with an RUP template?"
 author: helio
 layout: post
 date: 2008-07-12T09:24:51+00:00
-url: /2008/07/12/modelando-com-rup/
 categories:
   - RUP
 tags:

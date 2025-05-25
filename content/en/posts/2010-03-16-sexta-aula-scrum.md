@@ -3,7 +3,6 @@ title: "Sixth lesson!! SCRUM!!!"
 author: helio
 layout: post
 date: 2010-03-17T01:32:39+00:00
-url: /2010/03/16/sexta-aula-scrum/
 idptt_tweeted: 
 categories:
   - Uncategorized

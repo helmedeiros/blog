@@ -3,7 +3,6 @@ title: "Code metrics, what I want them for? -Mauricio Aniche"
 author: helio
 layout: post
 date: 2013-06-26T18:56:30+00:00
-url: /2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche/
 embed: 
 seo_follow: 
 seo_noindex: 

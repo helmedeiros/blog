@@ -3,7 +3,6 @@ title: "Second lesson taught! Project...Process..."
 author: helio
 layout: post
 date: 2010-03-03T01:21:54+00:00
-url: /2010/03/02/segunda-aula-ministrada-projeto…processo/
 idptt_tweeted: 
 categories:
   - Ageis

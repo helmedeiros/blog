@@ -3,7 +3,6 @@ title: Não adivinhe o futuro, acompanhe-o! MVP e Livro de Possibilidades!
 author: helio
 layout: post
 date: 2011-11-27T17:08:43+00:00
-url: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/
 embed:
   - This is the default text
 seo_follow:
@@ -24,7 +23,6 @@ tags:
   - Lean Startup
   - Livro de possibilidades
   - MVP
-
 ---
 <figure id="attachment_436" style="width: 474px" class="wp-caption aligncenter">[<img class="size-full wp-image-436" src="/uploads/2011/11/keepYoureyesOpen.jpg" alt="" width="474" height="228" srcset="/uploads/2011/11/keepYoureyesOpen.jpg 519w, /uploads/2011/11/keepYoureyesOpen-300x144.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]<figcaption class="wp-caption-text">KYEO</figcaption></figure> 
 

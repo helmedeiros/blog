@@ -3,7 +3,6 @@ title: Stefanini Open Talks – PLUGUE-SE com SONGDORO
 author: helio
 layout: post
 date: 2011-04-19T00:38:19+00:00
-url: /2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - Pomodoro
   - Songdoro
   - Stefanini
-
 ---
 Continuando a tradição dos [brown bags seminars][1] na Stefanini, realizei esta semana mais uma apresentação num conjunto que tendo a afirmar como o tripé produtivo moderno; depois da última apresentação no Stefanini Open Talks, na qual falei apresentei dicas e relatei um pouco da minha experiência e resultados atingidos com a aplicação de [POMODORO][2], chegou a vez de falar sobre um conceito que durante o último agile brazil ouvi o Daniel Wildt falando e mais recentemente assistindo o filme “Rede Social” ouvi mais algumas varias vezes falar-se sobre plugar-se como o segredo para aumentar a sua capacidade produtiva as alturas.
 

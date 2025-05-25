@@ -4,7 +4,6 @@ Mapping: the challenge of selecting the first slice of the product (
 author: helio
 layout: post
 date: 2013-06-26T15:58:21+00:00
-url: /2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/
 embed: 
 seo_follow: 
 seo_noindex: 

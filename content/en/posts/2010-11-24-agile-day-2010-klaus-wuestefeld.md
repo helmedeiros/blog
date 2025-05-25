@@ -3,7 +3,6 @@ title: "AGILE DAY 2010 – Klaus Wuestefeld"
 author: helio
 layout: post
 date: 2010-11-25T01:41:25+00:00
-url: /2010/11/24/agile-day-2010-klaus-wuestefeld/
 idptt_tweeted: 
 embed: 
 seo_follow: 

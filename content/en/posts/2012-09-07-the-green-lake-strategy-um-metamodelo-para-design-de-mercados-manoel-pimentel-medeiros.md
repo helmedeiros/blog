@@ -3,7 +3,6 @@ title: "The Green Lake Strategy – A for market design – Manoel Pimentel Mede
 author: helio
 layout: post
 date: 2012-09-07T12:12:40+00:00
-url: /2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/
 embed: 
 seo_follow: 
 seo_noindex: 

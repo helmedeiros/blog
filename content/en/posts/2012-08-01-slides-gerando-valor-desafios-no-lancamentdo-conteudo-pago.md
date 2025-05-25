@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2012-08-02T01:38:48+00:00
-url: /2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/
 embed: 
 seo_follow: 
 seo_noindex: 

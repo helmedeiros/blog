@@ -3,7 +3,6 @@ title: 'Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Ro
 author: helio
 layout: post
 date: 2012-09-06T18:07:51+00:00
-url: /2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/
 embed:
   - This is the default text
 seo_follow:
@@ -21,7 +20,6 @@ tags:
   - Agile Portfolio Planning
   - Johanna Rothman
   - Project Portfolio
-
 ---
 &nbsp;
 

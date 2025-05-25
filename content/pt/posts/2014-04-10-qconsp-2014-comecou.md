@@ -3,7 +3,6 @@ title: QConSP 2014! Começou!
 author: helio
 layout: post
 date: 2014-04-10T12:50:51+00:00
-url: /2014/04/10/qconsp-2014-comecou/
 embed:
   - This is the default text
 seo_follow:
@@ -12,7 +11,6 @@ seo_noindex:
   - 'false'
 categories:
   - Eventos
-
 ---
 &nbsp;<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter">
 

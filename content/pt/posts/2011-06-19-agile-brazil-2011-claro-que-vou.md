@@ -3,7 +3,6 @@ title: Agile Brazil 2011 – EU VOU!!
 author: helio
 layout: post
 date: 2011-06-19T15:49:35+00:00
-url: /2011/06/19/agile-brazil-2011-claro-que-vou/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - geracaoy
   - Pomodoro
   - Songdoro
-
 ---
 Este ano o <a title="Agile Brazil" href="http://agilebrazil.com" target="_blank">Agile Brazil</a> vai acontecer dos dias 27 de Junho a 1º de Julho em Fortaleza/CE, com mais de 50 palestras cobrindo boa parte dos &#8220;_must haves_&#8221; do cenário mundial agile.
 

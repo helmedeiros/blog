@@ -3,7 +3,6 @@ title: Caelum Day in Rio – Muito Sol e excelentes palestrantes
 author: helio
 layout: post
 date: 2009-11-07T23:27:21+00:00
-url: /2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/
 dsq_thread_id:
   - 4969845367
 categories:
@@ -30,7 +29,6 @@ tags:
   - Ruby On Rails
   - Sergio Junior
   - VRaptor3
-
 ---
 <p style="text-align: center;">
   <figure id="attachment_69" style="width: 417px" class="wp-caption aligncenter"><img class="size-full wp-image-69" src="/uploads/2009/11/dsc004811.jpg" alt="Caelum day in Rio" width="417" height="313" srcset="/uploads/2009/11/dsc004811.jpg 417w, /uploads/2009/11/dsc004811-300x225.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /><figcaption class="wp-caption-text">Caelum day in Rio</figcaption></figure> 

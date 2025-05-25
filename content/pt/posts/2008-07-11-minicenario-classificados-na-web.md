@@ -3,10 +3,8 @@ title: 'Minicenário: CLASSIFICADOS NA WEB'
 author: helio
 layout: post
 date: 2008-07-12T01:57:56+00:00
-url: /2008/07/11/minicenario-classificados-na-web/
 categories:
   - UML
-
 ---
 Dando início a esta sessão do meu blog apresentarei 4 minicenários, criados durante o primeiro módulo da minha pós-graduação em Projetos de Sistemas Web, ministrada pelo professor Osmar Fernandes Jr.
 

@@ -3,10 +3,8 @@ title: Padrões de Análise
 author: helio
 layout: post
 date: 2008-07-12T03:27:57+00:00
-url: /2008/07/12/padroes-de-analise/
 categories:
   - Padrões de Análise
-
 ---
 Há algumas semanas, tive durante a aula de MODELAGEM ORIENTADA A OBJETOS E UML, ministrada pelo professor Osmar Fernandes Jr., uma breve introdução aos Padrões de Software, para Análise (Analysis Patterns) e Projetos (Design Patterns), sobre a qual me faço nesta página, abrindo um pequeno espaço a aqueles, que assim como eu estão iniciando os seus estudos na área.
 

@@ -4,7 +4,6 @@ Planning: Managing Your Project Portfolio – "
 author: helio
 layout: post
 date: 2012-09-06T18:07:51+00:00
-url: /2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/
 embed: 
 seo_follow: 
 seo_noindex: 

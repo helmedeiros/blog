@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2010-04-11T12:45:09+00:00
-url: /2010/04/11/materializando-os-valores-xp-aula-13/
 idptt_tweeted: 
 embed: 
 seo_follow: 

@@ -3,7 +3,6 @@ title: DESCONF 2011-Mustache edition
 author: helio
 layout: post
 date: 2011-11-29T18:53:53+00:00
-url: /2011/11/29/desconf-2011-mustache-edition/
 embed:
   - This is the default text
 seo_follow:
@@ -17,7 +16,6 @@ tags:
   - desconf
   - Faculdade Dom Bosco
   - poa
-
 ---
 [<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
 

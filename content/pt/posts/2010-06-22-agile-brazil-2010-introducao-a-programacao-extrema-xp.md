@@ -3,7 +3,6 @@ title: Agile Brazil 2010 – Introdução a programação Extrema (XP)
 author: helio
 layout: post
 date: 2010-06-22T02:54:34+00:00
-url: /2010/06/22/agile-brazil-2010-introducao-a-programacao-extrema-xp/
 idptt_tweeted:
   - 1
 embed:
@@ -14,7 +13,6 @@ seo_noindex:
   - 'false'
 categories:
   - Eventos
-
 ---
 Extra oficialmente o <a title="Agile Brazil 2010" href="http://www.agilebrazil.com/" target="_blank">Agile Brazil 2010</a> começou hoje!
 

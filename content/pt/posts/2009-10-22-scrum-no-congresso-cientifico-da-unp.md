@@ -3,7 +3,6 @@ title: SCRUM no congresso científico da UnP !!!
 author: helio
 layout: post
 date: 2009-10-22T05:31:22+00:00
-url: /2009/10/22/scrum-no-congresso-cientifico-da-unp/
 idptt_tweeted:
   - 1
 categories:
@@ -13,7 +12,6 @@ categories:
 tags:
   - Congresso Cientifico
   - UnP
-
 ---
 Nos dias 22 e 23 de outubro vai rolar na <a href="http://unp.br" target="_blank">Universidade Potiguar &#8211; RN</a> o seu <a href="http://congressocientifico.unp.br/jportal/portal.jsf?pagina=12005" target="_blank">décimo primeiro congresso científico</a>.
 

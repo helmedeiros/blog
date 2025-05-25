@@ -3,7 +3,6 @@ title: Poised for Changes – The Virtuous cycle of business Agility – Rebecca
 author: helio
 layout: post
 date: 2013-06-27T13:12:28+00:00
-url: /2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/
 embed:
   - This is the default text
 seo_follow:
@@ -14,7 +13,6 @@ categories:
   - Ageis
   - Eventos
   - Metodologias
-
 ---
 O que é agilidade em negócios? Esta foi a pergunta inicial da Rebecca, provavelmente o principal ponto é fazer entregas mais rápido com mais valor, onde o negócio alcance mais eficiência, com medições constantes de hipóteses, e assim que conseguimos confirma-las, então podemos incorpora-las.
 

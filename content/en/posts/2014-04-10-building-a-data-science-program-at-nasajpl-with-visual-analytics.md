@@ -4,7 +4,6 @@ To: Building a Data Science Program at NASA/JPL with "
 author: helio
 layout: post
 date: 2014-04-10T13:54:41+00:00
-url: /2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/
 embed: 
 seo_follow: 
 seo_noindex: 

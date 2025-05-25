@@ -3,7 +3,6 @@ title: "Welcome to AgileBR!! ("
 author: helio
 layout: post
 date: 2013-06-26T13:26:47+00:00
-url: /2013/06/26/agilebr-bem-vindo/
 embed: 
 seo_follow: 
 seo_noindex: 

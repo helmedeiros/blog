@@ -3,7 +3,6 @@ title: "Another teacher in the family!"
 author: helio
 layout: post
 date: 2010-01-26T23:47:13+00:00
-url: /2010/01/26/ola-unp-mais-um-professor-na-familia/
 idptt_tweeted: 
 dsq_thread_id: 
 categories:

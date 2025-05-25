@@ -3,7 +3,6 @@ title: Sétima aula !! SCRUM !!!
 author: helio
 layout: post
 date: 2010-03-18T03:18:19+00:00
-url: /2010/03/18/setima-aula-scrum-processo/
 idptt_tweeted:
   - 1
 categories:
@@ -22,7 +21,6 @@ tags:
   - sprint review
   - UnP
   - user story
-
 ---
 Segunda apresentação sobre a metodologia ágil SCRUM lecionada junto a Universidade Potiguar. Nesta aula são definidas as etapas e os benefícios trazidos aos projetos que adotam essa metodologia.
 

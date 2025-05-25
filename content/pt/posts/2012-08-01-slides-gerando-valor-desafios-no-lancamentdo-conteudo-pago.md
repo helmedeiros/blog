@@ -3,7 +3,6 @@ title: 'Slides: Gerando valor – Desafios no lançamentdo conteúdo pago'
 author: helio
 layout: post
 date: 2012-08-02T01:38:48+00:00
-url: /2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - Lean Startup
   - RBS
   - Testes
-
 ---
 Hoje tivemos no <a title="Grupo RBS" href="http://www.gruporbs.com.br/" target="_blank">Grupo RBS</a> mais uma edição do <a title="HotSpot Grupo RBS" href="https://twitter.com/hotspot_cinco" target="_blank">HotSpot</a>, onde apresentei junto a <a title="Cintia Lima" href="https://twitter.com/cinti4lim4" target="_blank">Cintia Lima</a> o case sobre os desafios do lançamento do conteúdo pago da ferramenta de Jornais do Grupo RBS; um projeto de grande importância, que assim como outros possui um escopo variante  e exploratoriamente priorizado/validado, construido com uma equipe recém-formada.
 

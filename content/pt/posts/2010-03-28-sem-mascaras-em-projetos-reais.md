@@ -3,7 +3,6 @@ title: Sem mascaras em PROJETOS REAIS !!
 author: helio
 layout: post
 date: 2010-03-28T17:47:30+00:00
-url: /2010/03/28/sem-mascaras-em-projetos-reais/
 idptt_tweeted:
   - 1
 categories:
@@ -16,7 +15,6 @@ tags:
   - Homem Mascarado
   - Masked Man
   - Steve McConnell
-
 ---
 <div>
   <div style="text-align: left">

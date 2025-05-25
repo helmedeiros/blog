@@ -3,7 +3,6 @@ title: "Fifth Lesson, Introducing Agility!!!"
 author: helio
 layout: post
 date: 2010-03-11T10:21:39+00:00
-url: /2010/03/11/quinta-aula-introduzindo-agilidade/
 idptt_tweeted: 
 categories:
   - Ageis

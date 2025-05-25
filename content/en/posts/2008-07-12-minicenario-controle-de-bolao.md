@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2008-07-12T02:14:52+00:00
-url: /2008/07/12/minicenario-controle-de-bolao/
 categories:
   - UML
 ---

@@ -3,7 +3,6 @@ title: "Agile Coffee in Recife"
 author: helio
 layout: post
 date: 2010-05-22T21:39:56+00:00
-url: /2010/05/22/cafe-agil-em-recife/
 idptt_tweeted: 
 embed: 
 seo_follow: 

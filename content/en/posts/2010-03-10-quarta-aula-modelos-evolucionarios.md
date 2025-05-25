@@ -3,7 +3,6 @@ title: "Fourth class!! Evolutionary models..."
 author: helio
 layout: post
 date: 2010-03-10T02:42:59+00:00
-url: /2010/03/10/quarta-aula-modelos-evolucionarios/
 idptt_tweeted: 
 categories:
   - Metodologias

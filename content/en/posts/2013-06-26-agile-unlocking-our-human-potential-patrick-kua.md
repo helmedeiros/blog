@@ -4,7 +4,6 @@ Agile: Unlocking our Human Potential –
 author: helio
 layout: post
 date: 2013-06-26T13:45:53+00:00
-url: /2013/06/26/agile-unlocking-our-human-potential-patrick-kua/
 embed: 
 seo_follow: 
 seo_noindex: 

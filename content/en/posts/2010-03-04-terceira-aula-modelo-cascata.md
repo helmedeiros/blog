@@ -3,7 +3,6 @@ title: "Third Lesson!! Waterfall Model…"
 author: helio
 layout: post
 date: 2010-03-04T02:53:58+00:00
-url: /2010/03/04/terceira-aula-modelo-cascata/
 idptt_tweeted: 
 categories:
   - Uncategorized

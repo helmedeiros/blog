@@ -3,7 +3,6 @@ title: “Se virol” – Reunião de Abril do GUMA-RS
 author: helio
 layout: post
 date: 2012-04-12T01:37:54+00:00
-url: /2012/04/11/reuniao-de-abril-do-guma-rs/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - Marco Enes
   - Meganti
   - se virol
-
 ---
 [<img class="aligncenter size-full wp-image-508" src="/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="/uploads/2012/04/gumaJuly.jpg 417w, /uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 

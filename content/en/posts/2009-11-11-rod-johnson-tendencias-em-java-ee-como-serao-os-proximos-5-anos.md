@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2009-11-11T13:07:38+00:00
-url: /2009/11/11/rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/
 idptt_tweeted: 
 dsq_thread_id: 
 categories:

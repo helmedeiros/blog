@@ -3,7 +3,6 @@ title: "The objective shouldn't be to deliver great functionalities ?"
 author: helio
 layout: post
 date: 2010-02-09T23:49:20+00:00
-url: /2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/
 idptt_tweeted: 
 categories:
   - Ageis

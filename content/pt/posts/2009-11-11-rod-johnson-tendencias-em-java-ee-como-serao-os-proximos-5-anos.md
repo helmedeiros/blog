@@ -3,7 +3,6 @@ title: 'Rod Johnson – Tendências em Java EE: Como serão os próximos 5 anos'
 author: helio
 layout: post
 date: 2009-11-11T13:07:38+00:00
-url: /2009/11/11/rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/
 idptt_tweeted:
   - 1
 dsq_thread_id:
@@ -24,7 +23,6 @@ tags:
   - TDC
   - tendências
   - vmware
-
 ---
 <img class="aligncenter size-full wp-image-94" src="/uploads/2009/11/dsc00655.jpg" alt="TDC 2009" width="417" height="280" srcset="/uploads/2009/11/dsc00655.jpg 417w, /uploads/2009/11/dsc00655-300x201.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
 

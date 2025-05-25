@@ -3,7 +3,6 @@ title: "Don't predict the future, follow it! MVP and Book of Possibilities!"
 author: helio
 layout: post
 date: 2011-11-27T17:08:43+00:00
-url: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/
 embed: 
 seo_follow: 
 seo_noindex: 

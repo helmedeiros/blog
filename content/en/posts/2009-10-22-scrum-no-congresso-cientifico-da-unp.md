@@ -3,7 +3,6 @@ title: "SCRUM at the scientific conference of UnP!!!"
 author: helio
 layout: post
 date: 2009-10-22T05:31:22+00:00
-url: /2009/10/22/scrum-no-congresso-cientifico-da-unp/
 idptt_tweeted: 
 categories:
   - Ageis

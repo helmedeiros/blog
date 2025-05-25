@@ -3,7 +3,6 @@ title: WS-46 na Caelum com Phillip Calçado
 author: helio
 layout: post
 date: 2009-11-09T23:37:20+00:00
-url: /2009/11/09/ws-46-na-caelum-com-phillip-calcado/
 dsq_thread_id:
   - 4969844886
 categories:
@@ -15,7 +14,6 @@ tags:
   - Phillip Calçado
   - Rio
   - WS-46
-
 ---
 <img class="aligncenter size-full wp-image-83" src="/uploads/2009/11/dsc00511.jpg" alt="WS-46 Domain-Driven Design" width="417" height="267" srcset="/uploads/2009/11/dsc00511.jpg 417w, /uploads/2009/11/dsc00511-300x192.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
 

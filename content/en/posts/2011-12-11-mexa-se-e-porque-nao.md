@@ -3,7 +3,6 @@ title: "Get moving and why not!!"
 author: helio
 layout: post
 date: 2011-12-11T17:52:30+00:00
-url: /2011/12/11/mexa-se-e-porque-nao/
 embed: 
 seo_follow: 
 seo_noindex: 

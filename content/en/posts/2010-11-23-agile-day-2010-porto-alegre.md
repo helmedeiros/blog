@@ -3,7 +3,6 @@ title: "Agile Day 2010 – Porto Alegre"
 author: helio
 layout: post
 date: 2010-11-24T00:09:00+00:00
-url: /2010/11/23/agile-day-2010-porto-alegre/
 idptt_tweeted: 
 embed: 
 seo_follow: 

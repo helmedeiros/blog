@@ -3,7 +3,6 @@ title: Sexta aula !! SCRUM !!!
 author: helio
 layout: post
 date: 2010-03-17T01:32:39+00:00
-url: /2010/03/16/sexta-aula-scrum/
 idptt_tweeted:
   - 1
 categories:
@@ -18,7 +17,6 @@ tags:
   - Sprint Burn up
   - UnP
   - user story
-
 ---
 Primeira aula sobre a metodologia ágil SCRUM apresentada junto a Universidade Potiguar. Nesta aula é apresentada a origem do SCRUM, seus papeis e responsabilidades, ciclo de via e artefatos.
 

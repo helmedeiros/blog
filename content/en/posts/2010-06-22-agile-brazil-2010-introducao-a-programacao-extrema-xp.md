@@ -3,7 +3,6 @@ title: "Agile Brazil 2010 – Introduction to Extreme Programming (XP)"
 author: helio
 layout: post
 date: 2010-06-22T02:54:34+00:00
-url: /2010/06/22/agile-brazil-2010-introducao-a-programacao-extrema-xp/
 idptt_tweeted: 
 embed: 
 seo_follow: 

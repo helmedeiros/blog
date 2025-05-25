@@ -3,7 +3,6 @@ title: Neal Ford – Abstraction Distractions
 author: helio
 layout: post
 date: 2013-08-21T20:14:02+00:00
-url: /2013/08/21/neal-ford-abstraction-distractions/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - '#AgileBR'
   - AGILE
   - agile brazil
-
 ---
 Falar sobre abstrações nos dias atuais, é refletir sobre a própria natureza da ciência da computação e da engenharia de software. Soluções escaláveis, problemas rotineiros, todos passam em algum momento pela escolha de como serão visto pelos usuários finais, e é comumente aí em que soterramos sob camadas e mais camadas de abstração as nossas soluções.
 

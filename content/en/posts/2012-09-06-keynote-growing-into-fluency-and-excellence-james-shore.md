@@ -4,7 +4,6 @@ Título: Crescendo FLUENCY AND EXCELLENCE
 author: helio
 layout: post
 date: 2012-09-06T13:48:33+00:00
-url: /2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/
 embed: 
 seo_follow: 
 seo_noindex: 
