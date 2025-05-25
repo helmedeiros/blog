@@ -7,60 +7,97 @@
     ":automergeBranch"
   ],
   "timezone": "America/Sao_Paulo",
-  "schedule": ["before 6am on monday"],
-  "labels": ["dependencies"],
-  "assignees": ["@helio.medeiros"],
-  "reviewers": ["@helio.medeiros"],
+  "schedule": [
+    "before 6am on monday"
+  ],
+  "labels": [
+    "dependencies"
+  ],
+  "assignees": [
+    "@helio.medeiros"
+  ],
+  "reviewers": [
+    "@helio.medeiros"
+  ],
   "packageRules": [
     {
       "description": "Hugo version updates",
-      "matchFileNames": [".github/workflows/hugo.yml"],
-      "matchStrings": ["HUGO_VERSION: (?<currentValue>.*?)\\n"],
+      "matchFileNames": [
+        ".github/workflows/hugo.yml"
+      ],
+      "matchStrings": [
+        "HUGO_VERSION: (?<currentValue>.*?)\\n"
+      ],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "gohugoio/hugo",
       "extractVersionTemplate": "^v(?<version>.*)$"
     },
     {
       "description": "GitHub Actions updates",
-      "matchManagers": ["github-actions"],
+      "matchManagers": [
+        "github-actions"
+      ],
       "automerge": true,
       "automergeType": "branch",
       "ignoreTests": true
     },
     {
       "description": "Git submodules (themes)",
-      "matchManagers": ["git-submodules"],
+      "matchManagers": [
+        "git-submodules"
+      ],
       "automerge": false,
       "reviewersFromCodeOwners": true
     },
     {
       "description": "Hugo minor and patch updates - auto merge",
-      "matchFileNames": [".github/workflows/hugo.yml"],
-      "matchStrings": ["HUGO_VERSION: (?<currentValue>.*?)\\n"],
+      "matchFileNames": [
+        ".github/workflows/hugo.yml"
+      ],
+      "matchStrings": [
+        "HUGO_VERSION: (?<currentValue>.*?)\\n"
+      ],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "gohugoio/hugo",
       "extractVersionTemplate": "^v(?<version>.*)$",
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "automerge": true,
       "automergeType": "branch"
     },
     {
       "description": "Hugo major updates - manual review",
-      "matchFileNames": [".github/workflows/hugo.yml"],
-      "matchStrings": ["HUGO_VERSION: (?<currentValue>.*?)\\n"],
+      "matchFileNames": [
+        ".github/workflows/hugo.yml"
+      ],
+      "matchStrings": [
+        "HUGO_VERSION: (?<currentValue>.*?)\\n"
+      ],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "gohugoio/hugo",
       "extractVersionTemplate": "^v(?<version>.*)$",
-      "matchUpdateTypes": ["major"],
+      "matchUpdateTypes": [
+        "major"
+      ],
       "automerge": false,
-      "labels": ["hugo-major-update", "needs-review"]
+      "labels": [
+        "hugo-major-update",
+        "needs-review"
+      ]
     }
   ],
-  "regexManagers": [
+  "customManagers": [
     {
+      "customType": "regex",
       "description": "Update Hugo version in GitHub Actions",
-      "fileMatch": ["^\\.github/workflows/.*\\.ya?ml$"],
-      "matchStrings": ["HUGO_VERSION: (?<currentValue>.*?)\\n"],
+      "managerFilePatterns": [
+        "/^\\.github/workflows/.*\\.ya?ml$/"
+      ],
+      "matchStrings": [
+        "HUGO_VERSION: (?<currentValue>.*?)\\n"
+      ],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "gohugoio/hugo",
       "extractVersionTemplate": "^v(?<version>.*)$"
