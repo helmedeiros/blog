@@ -1,0 +1,149 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/custom-layout.css">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <!-- Article Header -->
+      <header class="article-header">
+        <h1 class="article-title">{{ .Title }}</h1>
+        {{ if .Params.subtitle }}
+          <h2 class="article-subtitle">{{ .Params.subtitle }}</h2>
+        {{ end }}
+        <div class="article-meta">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="article-date">
+            <i class="fas fa-calendar"></i> {{ .Date.Format "January 2, 2006" }}
+          </time>
+          {{ if .Params.categories }}
+            <span class="article-categories">
+              <i class="fas fa-folder"></i>
+              {{ range $index, $category := .Params.categories }}
+                <span class="category">{{ $category }}</span>{{ if lt $index (sub (len $.Params.categories) 1) }}, {{ end }}
+              {{ end }}
+            </span>
+          {{ end }}
+          {{ if .ReadingTime }}
+            <span class="reading-time">
+              <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
+            </span>
+          {{ end }}
+        </div>
+      </header>
+
+      <!-- Article Content -->
+      <article role="main" class="blog-post article-content">
+        {{ .Content }}
+      </article>
+
+      <!-- Article Footer -->
+      <footer class="article-footer">
+        {{ if .Params.tags }}
+          <div class="article-tags">
+            <h4><i class="fas fa-tags"></i> Tags</h4>
+            <div class="tags-list">
+              {{ range .Params.tags }}
+                <a href="{{"tags" | absLangURL}}/{{ . | urlize }}/" class="tag-link">{{ . }}</a>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+
+        {{ if $.Param "socialShare" }}
+          <div class="social-share">
+            <h4><i class="fas fa-share-alt"></i> Share this article</h4>
+            <div class="share-buttons">
+              {{ partial "share-links" . }}
+            </div>
+          </div>
+        {{ end }}
+      </footer>
+
+      <!-- Related Posts -->
+      {{ if .Site.Params.showRelatedPosts }}
+        {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+          {{ $.Scratch.Set "has_related" true }}
+        {{ end }}
+
+        {{ if $.Scratch.Get "has_related" }}
+          <section class="related-posts">
+            <h4><i class="fas fa-lightbulb"></i> {{ i18n "seeAlso" | default "Related Articles" }}</h4>
+            <div class="related-posts-list">
+              {{ $num_to_show := .Site.Params.related_content_limit | default 5 }}
+              {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+                <a href="{{ .RelPermalink }}" class="related-post-link">
+                  <span class="related-post-title">{{ .Title }}</span>
+                  <span class="related-post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                </a>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
+      {{ end }}
+
+      <!-- Navigation -->
+      {{ if ne .Type "page" }}
+        <nav class="article-navigation">
+          {{ if .PrevInSection }}
+            <div class="nav-previous">
+              <a href="{{ .PrevInSection.Permalink }}" class="nav-link">
+                <span class="nav-direction"><i class="fas fa-chevron-left"></i> Previous</span>
+                <span class="nav-title">{{ .PrevInSection.Title }}</span>
+              </a>
+            </div>
+          {{ end }}
+          {{ if .NextInSection }}
+            <div class="nav-next">
+              <a href="{{ .NextInSection.Permalink }}" class="nav-link">
+                <span class="nav-direction">Next <i class="fas fa-chevron-right"></i></span>
+                <span class="nav-title">{{ .NextInSection.Title }}</span>
+              </a>
+            </div>
+          {{ end }}
+        </nav>
+      {{ end }}
+
+      <!-- Comments Section -->
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
+        <section class="comments-section">
+          {{ if .Site.Params.cusdisID }}
+            <div id="cusdis_thread"
+              data-host="https://cusdis.com"
+              data-app-id="{{ .Site.Params.cusdisID }}"
+              data-page-id="{{ .Permalink }}"
+              data-page-url="{{ .Permalink }}"
+              data-page-title="{{ .Title }}"
+              data-theme="auto"
+            ></div>
+            <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+          {{ end }}
+
+          {{ if .Site.Config.Services.Disqus.Shortname }}
+            {{ if .Site.Params.delayDisqus }}
+              <div class="disqus-comments">
+                <button id="show-comments" class="btn btn-primary" type="button">{{ i18n "show" }} <span class="disqus-comment-count" data-disqus-url="{{ trim .Permalink "/" }}">{{ i18n "comments" }}</span></button>
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                  var disqus_config = function () {
+                  this.page.url = '{{ trim .Permalink "/" }}';
+                };
+                </script>
+              </div>
+            {{ else }}
+              <div class="disqus-comments">
+                {{ partial "disqus-wrapper.html" . }}
+              </div>
+            {{ end }}
+          {{ end }}
+
+          {{ if .Site.Params.staticman }}
+            <div class="staticman-comments">
+              {{ partial "staticman-comments.html" . }}
+            </div>
+          {{ end }}
+        </section>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
