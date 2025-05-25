@@ -63,3 +63,5 @@ Mom says what's needed.
 The goal is a product that goes to mom's house, all technical aspects for launch tested and tested, and now evolved!
 
 Restrictions inspire creativity, value through the customer's perspective, and seek to validate their assumptions!
+
+[1]: /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png

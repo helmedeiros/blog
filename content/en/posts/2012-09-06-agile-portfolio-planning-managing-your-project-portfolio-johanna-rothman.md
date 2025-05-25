@@ -66,3 +66,13 @@ Qualitative questions should be considered just like quantitative ones but alway
 What type is yours in your portfolio? &emsp; Thus, if we decide which project is most important, we can help everyone understand our company, avoiding each one choosing their favorites and all feeling lost, with more progress and less imperfections. &emsp; And will agile and Lean help?
 
 Maybe if we have in mind that people are not machines and we need not only automation but a prioritization of humanization! &emsp; It doesn't matter how many projects you start; just count how many you finish.
+
+[2]: /uploads/2012/09/whatsTheProblem.png
+
+[3]: http://en.wikipedia.org/wiki/Human_multitasking "Podemos fazer tarefas simultâneas?"
+
+[1]: http://www.jrothman.com/ "johanna Rothman"
+
+[5]: /uploads/2012/09/projectPortfolioFlow.png
+
+[4]: /uploads/2012/09/whatThesePortfoliosAreMissing.png

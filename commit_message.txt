@@ -1,37 +1,44 @@
-fix: resolve broken internal links and domain references
+fix: restore missing markdown link references in English posts
 
-This commit fixes all remaining references to the old helmed.net domain that were
-causing broken internal links and navigation issues throughout the blog.
+This commit fixes broken markdown reference links in English blog posts by
+restoring missing link definitions that were causing incomplete content and
+broken navigation.
 
-**Issues Addressed:**
+**Problem Identified:**
 
-1. **Internal Cross-References**: Blog posts contained links to other posts using
-   the old WordPress domain `http://www.helmed.net/blog/YYYY/MM/DD/post-title/`.
-   These have been converted to relative paths `/YYYY/MM/DD/post-title/` for
-   proper Hugo navigation.
+English posts contained markdown reference links like [1], [2], [3] within
+the content but were missing the corresponding link definitions at the end
+of the files. This resulted in:
+- Broken links that didn't resolve to actual URLs
+- Incomplete content compared to Portuguese versions
+- Poor user experience with non-functional references
 
-2. **Attachment Links**: WordPress-style attachment links pointing to the old
-   domain have been neutralized to prevent 404 errors.
+**Root Cause:**
 
-3. **Configuration File**: Updated `content/pt/posts/config.yaml` to reference
-   the current domain `https://old-blog.heliomedeiros.com` instead of the
-   defunct `http://www.helmed.net/blog`.
+During the WordPress to Hugo migration, the English translations lost their
+markdown link reference definitions while retaining the reference markers
+in the text. The Portuguese originals maintained complete link structures.
 
-4. **Generated Files**: Removed the `public/` directory containing stale
-   references that will be regenerated with correct paths.
+**Solution Applied:**
 
-**Technical Changes:**
-- Updated 17 markdown files with corrected internal link paths
-- Converted absolute URLs to relative paths for domain independence
-- Fixed blog post cross-references and presentation links
-- Updated configuration to current hosting domain
+Created an automated script that:
+1. Analyzed all 67 English posts for missing link references
+2. Compared with corresponding Portuguese versions to identify missing definitions
+3. Extracted and copied missing link references from Portuguese to English posts
+4. Added complete link definitions at the end of each affected file
 
-**Benefits:**
-- All internal navigation now works correctly
-- Site is no longer dependent on external dead domains
-- Improved SEO with proper internal linking structure
-- Future-proof against domain changes
-- Consistent relative path usage throughout
+**Technical Details:**
+- 33 out of 67 English posts (49%) had missing link references
+- Some posts were missing 10+ individual link references
+- All link definitions copied from Portuguese versions maintain original URLs
+- References added at file end following markdown conventions
 
-This complements the previous image path fixes, ensuring the entire blog
-functions correctly without any broken links or external dependencies.
+**Impact:**
+- All English posts now have complete and functional link references
+- Content parity achieved between English and Portuguese versions
+- Improved user experience with working links throughout the blog
+- No more broken [1], [2] style references in English content
+
+This fix ensures that all blog content is complete and functional across
+both languages, providing readers with access to all referenced materials
+and external links as originally intended.

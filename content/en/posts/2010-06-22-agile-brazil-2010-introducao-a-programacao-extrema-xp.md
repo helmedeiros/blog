@@ -53,3 +53,7 @@ In the afternoon, there was a paired development session on a simple problem, co
  - Agile Brazil 2010</figcaption></figure> The course was a continuous learning experience that led us to have more ATTITUDE, strengthen our COMMUNICATION by working as a TEAM and continuously improving!!
 
 Worth it!!
+
+[2]: /uploads/2010/06/DSC044221.jpg
+
+[1]: /uploads/2010/06/DSC04413.jpg

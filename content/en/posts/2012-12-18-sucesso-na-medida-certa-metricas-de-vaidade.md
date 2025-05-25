@@ -101,3 +101,9 @@ Think always, act as if, and remove what's not aligned as soon as possible.
 <p style="text-align: center">
  [slideshare id=15678328&doc=desconf2012-metricasdevaidade-121217200546-phpapp02] 
 </p>
+
+[2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
+
+[3]: http://www.mit.edu/
+
+[1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png

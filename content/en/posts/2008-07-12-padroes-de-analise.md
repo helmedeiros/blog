@@ -77,3 +77,13 @@ Reusable Object Models</a>, [Analysis Pattern
  - Organization Structure][3], and [Analysis Pattern
 
  - Quantity][4] placeholders exactly as written, as instructed.
+
+[2]: /uploads/2008/07/picture-3.png
+
+[3]: /uploads/2008/07/picture-4.png
+
+[1]: /uploads/2008/07/picture-2.png
+
+[5]: /uploads/2008/07/picture-6.png
+
+[4]: /uploads/2008/07/picture-5.png

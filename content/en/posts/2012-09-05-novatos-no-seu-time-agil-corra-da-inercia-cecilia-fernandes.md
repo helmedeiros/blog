@@ -59,3 +59,11 @@ Technical lunches for newbies were set up, warm requests for involvement in disc
 If nothing resolves... let everyone make mistakes, this way it may be possible to reinitiate the process through a new search on how to solve them and believing in decision-making to get out of inertia, better change than just another brick on the wall!
 
 See the presentation video at infoq: <a title="Novatos no time Ágil" href="http://www.infoq.com/br/presentations/novatos-time-agil" target="_blank">http://www.infoq.com/br/presentations/novatos-time-agil</a> &nbsp;
+
+[2]: http://pt.wikipedia.org/wiki/In%C3%A9rcia "inércia"
+
+[4]: /uploads/2012/09/resgatandoAgilidade.jpg
+
+[3]: /uploads/2012/09/identificandoInercia.jpg
+
+[1]: /uploads/2012/09/corraDaInerciaCecilia.jpg

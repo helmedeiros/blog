@@ -36,3 +36,7 @@ That's it!
 Let's start our AGILE BRAZIL!!!
 
 Event Photos: <a href="http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/" target="_blank">http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/</a>
+
+[2]: https://twitter.com/manoelp
+
+[1]: /uploads/2013/06/AGILEBR2013.png

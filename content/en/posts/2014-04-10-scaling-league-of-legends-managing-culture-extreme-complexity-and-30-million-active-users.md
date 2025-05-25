@@ -78,3 +78,17 @@ Contribute and get involved
  Note:
 
 The translation may not be perfect, as the text contains technical terms and cultural references that might be difficult to translate accurately.
+
+[2]: http://na.leagueoflegends.com/ "League of Legends"
+
+[3]: /uploads/2014/04/League-of-legends-3.jpg
+
+[1]: http://qconsp.com/user/jarrod-overson
+
+[5]: /uploads/2014/04/rioters.png
+
+[4]: http://www.riotgames.com/ "Riot Game"
+
+[6]: http://asmjs.org/ "ASM.js"
+
+[7]: https://twitter.com/jsoverson "Jarred Overson - Twitter"

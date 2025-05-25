@@ -41,3 +41,7 @@ There are well-formulated instructions on Daniel's blog for those who want to de
  [slideshare id=7669335&doc=opentalkspomodoro-110418190839-phpapp01] 
 </p>
  &nbsp; &nbsp;
+
+[2]: /2011/01/13/stefanini-open-talks-pomodoro-technique/ "POMODORO"
+
+[1]: http://en.wikipedia.org/wiki/Brown_bag_seminars "Brown bags seminars"
