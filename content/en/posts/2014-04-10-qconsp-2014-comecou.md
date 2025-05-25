@@ -1,0 +1,47 @@
+---
+title: "QConSP 2014! It's started!
+
+(Note: I kept the placeholder text exactly as written, as per your request.)"
+author: helio
+layout: post
+date: 2014-04-10T12:50:51+00:00
+url: /2014/04/10/qconsp-2014-comecou/
+embed:
+  - This is the default text
+seo_follow:
+  - 'false'
+seo_noindex:
+  - 'false'
+categories:
+  - Eventos
+---
+
+Here is the translation of the Portuguese text to English, keeping all __PLACEHOLDER__ text exactly as written:
+
+<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png 476w, http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure>
+
+In its 5th edition, Qcon starts in São Paulo, at WTC, with a new location, new infrastructure, larger network intervals. This year, the sponsor tracks will be separated and named as solution tracks to provide transparency on what to expect.
+
+QconSP has 6 tracks, with specific programming that can be followed by visiting <http://qconsp.com/schedule>.
+
+1. Big Data, Data Science, and the Power of Data
+2. Performance and Scalability in Practice
+3. Front-end universe: JS, HTML5, and new frontiers of UX __PLACEHOLDER__ 
+4. Java on the Cutting Edge
+5. Architectures You Always Wanted to Know __PLACEHOLDER__
+6. Dynamics and Functionality: Languages and Techniques for the Polyglot Dev
+7. Frontiers of Development __PLACEHOLDER__ 
+8. Mobile: Portable and Furious __PLACEHOLDER__ 
+9. Creating Cultures and Teams that Work __PLACEHOLDER__ 
+10. From Projects to Products: DevOps, Continuous Delivery, and Beyond __PLACEHOLDER__
+11. Solutions Track
+
+I'll be posting about the great presentations here over the next two days!!
+
+The photos will be available at:
+
+<a title="QConSP 14 - FlickR" href="https://www.flickr.com/photos/qconsp/" target="_blank">https://www.flickr.com/photos/qconsp/</a>
+
+Thanks!
