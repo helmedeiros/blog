@@ -43,3 +43,7 @@ Impala added a feature that specifies where a data set should know its replicas.
 Currently, disk throughput isn't as fast as we can access them to process files in real-time, with the weight of files, and for this _Impala_ has optimized HDFS to read directly from main memory.
 
 By these and other improvements _Impala_ puts itself 5-10x faster than <a title="Hive" href="http://hive.apache.org/" target="_blank"><em>Hive</em></a> for simple queries and 20-50x for complex queries with joins.
+
+[2]: /uploads/2014/04/cloudera_impala.jpg
+
+[1]: http://www.cloudera.com/content/cloudera/en/home.html "cloudera"

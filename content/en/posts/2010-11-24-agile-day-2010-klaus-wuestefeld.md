@@ -59,3 +59,7 @@ Next, we discussed how many of the dirtiness in code is linked to the difficulty
 Finally, we should be concerned with standards and good technical practices instead of bickering over dilemmas like quality vs. deadline, for sure quality always so that deadlines are always more realistic and productivity is greater.
 
 Klaus ended his presentation with a quote from GO, "throw away your first 100 games as quickly as possible".
+
+[2]: /uploads/2010/11/KlausAgileDay2010.jpg
+
+[1]: /uploads/2010/11/agileday2010.jpg

@@ -62,3 +62,19 @@ Follow them and wisely discard</figcaption></figure> A while ago, I saw the movi
 The character had a book where all her future expectations as a perfect husband, house, travel, and domestic routines were stored and worked on to come true.
 
 MAS NÃO ESQUEÇA DE MANTER OS SEUS OLHOS ABERTOS! [<img class="aligncenter size-full wp-image-440" src="/uploads/2011/11/Vision_Test_POSTER.jpg" alt="" width="474" height="228" srcset="/uploads/2011/11/Vision_Test_POSTER.jpg 519w, /uploads/2011/11/Vision_Test_POSTER-300x144.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />][15]
+
+[2]: http://www.moleskine.com/ "moleskine"
+
+[3]: http://desconf.com.br/ "DESCONF 2011"
+
+[1]: /uploads/2011/11/keepYoureyesOpen.jpg
+
+[5]: /uploads/2011/11/DEsconf2011.png
+
+[6]: http://www.imdb.com/title/tt0408985/ "Last Holiday"
+
+[4]: http://www.slideshare.net/heliomedeiros/usar-e-esquecer-suas-ideias-desconf-2011 "Desconf 2011 - Usar e esquecer suas ideias"
+
+[15]: /uploads/2011/11/Vision_Test_POSTER.jpg
+
+[7]: http://www.imdb.com/name/nm0001451/

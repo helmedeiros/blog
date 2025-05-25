@@ -64,3 +64,35 @@ Let's hope for the 2012 edition.
 <p style="text-align: center">
  [slideshare id=10341848&doc=desconf2011-usareesquecersuasideias-111126103515-phpapp02] 
 </p>
+
+[8]: http://www.slideshare.net/dwildt/mantra-das-possibilidades "Mantra de Possibilidade - Daniel Wildt"
+
+[1]: /uploads/2011/11/desconf2011.png
+
+[14]: http://www.slideshare.net/pedrobel/thoughts-on-user-experience "thoughts-on-user-experience - Pedro Belleza"
+
+[10]: http://t.co/NXJON9jH "Ecologias Criativas - Carlos Villela"
+
+[15]: http://twitter.com/#!/codepo8
+
+[13]: http://t.co/9Vu1FoVx "Lado Negro das Startups - Flavio Steffens"
+
+[11]: http://t.co/VS8MZkNs "Negociação - Guilherm Motta"
+
+[2]: www.faculdadedombosco.edu.br/ "Faculdade Dom Bosco"
+
+[3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
+
+[5]: http://twitter.com/#!/nataliarsand "Natalia Arsand"
+
+[12]: http://blog.lfzawacki.com/hackerspace-na-desconf/ "Hackerspace - Lucas Fialho"
+
+[6]: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
+
+[4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
+
+[9]: http://www.slideshare.net/deborawx/despertando-o-uau "Despertando o UAU - Deb Xavier"
+
+[16]: http://www.slideshare.net/cheilmann/be-a-kickass-speaker-mozcamp-2011
+
+[7]: twitter.com/ericries "Eric Ries"

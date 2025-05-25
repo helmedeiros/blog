@@ -57,3 +57,27 @@ Values such as [CORAGEM][12] and __MD_Ref_12__ of [Extreme Programming][14] are 
 <p style="text-align: center">
  [slideshare id=14055677&doc=testdrivendevelopment-embuscadefeedbackutileconcreto-120823190008-phpapp02] 
 </p>
+
+[2]: http://jorgekotickaudy.wordpress.com/2012/08/14/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/ "1ª Semana de Lightining talks e Fishbowls no Tecnopuc"
+
+[3]: /apresentacoes/ "Apresentações"
+
+[1]: http://jorgekotickaudy.wordpress.com/2012/08/23/2308-4o-dia-semana/ "4º dia"
+
+[5]: http://blog.scrumhalf.com.br/2011/10/criterios-de-aceitacao-das-user-stories/ "Critérios de Aceitação"
+
+[12]: http://improveit.com.br/xp/valores/coragem "Valores XP - Coragem"
+
+[6]: http://pt.wikipedia.org/wiki/Bug "Bug"
+
+[14]: http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema "Programação Extrema"
+
+[4]: http://pt.wikipedia.org/wiki/Garantia_da_qualidade "Quality Assurance"
+
+[9]: http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/0321146530/patterns-for-test-driven-development/app01 "Influence diagram"
+
+[10]: http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/0321146530/patterns-for-test-driven-development/app01 "Gerald Weinberg - Influence Graph"
+
+[7]: http://pt.wikipedia.org/wiki/Cen%C3%A1rio_(software) "Cenários de Teste"
+
+[11]: http://en.wikipedia.org/wiki/Kent_Beck "Kent Beck"

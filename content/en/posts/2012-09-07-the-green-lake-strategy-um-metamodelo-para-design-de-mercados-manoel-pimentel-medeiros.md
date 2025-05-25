@@ -73,3 +73,15 @@ The tip is that it's easier to create a lake than an ocean!
  Note:
 
 I kept all the text exactly as written, as per your request.
+
+[2]: /uploads/2012/09/nirvanaManoel.png
+
+[3]: /uploads/2012/09/whatThesePortfoliosAreMissing1.png
+
+[1]: http://en.wikipedia.org/wiki/Blue_Ocean_Strategy "Blue Ocean Strategy"
+
+[5]: http://en.wikipedia.org/wiki/VRIO "VRIO"
+
+[4]: http://xisgaucho.com.br/ "xis-gaucho"
+
+[6]: http://www.slideshare.net/manoelp/tae-teoria-da-alavancagem-estrelar-manoel-pimentel "TAE"

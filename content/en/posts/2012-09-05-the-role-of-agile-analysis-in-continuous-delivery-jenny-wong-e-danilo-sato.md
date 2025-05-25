@@ -81,3 +81,7 @@ See the presentation below:
  <strong> <a href="http://www.slideshare.net/JennyWong8/role-of-agile-analysis-in-continuous-delivery" title="Role of Agile analysis in continuous delivery" target="_blank">Role of Agile analysis in continuous delivery</a> </strong> from <strong><a href="http://www.slideshare.net/JennyWong8" target="_blank">Jenny Wong</a></strong> 
 </div>
  Note that some placeholders are not replaced with actual English text, but kept exactly as written in the original Portuguese text.
+
+[2]: http://www.slideshare.net/JennyWong8/slicing-and-dicing-your-user-stories "Slicing and Dicing user stories"
+
+[1]: /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png

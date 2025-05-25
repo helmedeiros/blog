@@ -72,3 +72,5 @@ The gains also go in terms of processing speed;
  <span style="line-height: 1.5em"><strong><a title="Apache Flume" href="http://flume.apache.org/" target="_blank">Flume</a>:</strong> allows importing data to the HDFS while it is generated on any number of machines.</span>
 </p>
  <figure id="attachment_849" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-849" alt="Reducing Soft kitties!!" src="/uploads/2014/04/mapreduce.jpg" width="468" height="240" srcset="/uploads/2014/04/mapreduce.jpg 468w, /uploads/2014/04/mapreduce-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][1]<figcaption class="wp-caption-text">Reducing Soft kitties!!</figcaption></figure>
+
+[1]: /uploads/2014/04/mapreduce.jpg

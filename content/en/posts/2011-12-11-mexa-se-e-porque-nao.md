@@ -49,3 +49,39 @@ As Rafael Bandeira said... there's a lot of offline experience waiting for us!!
  [slideshare id=10501695&doc=opentalks2011mexase-111207101430-phpapp02] 
 </p>
  &nbsp;
+
+[8]: http://twitter.com/#!/miprotzek "Michelle Protzek"
+
+[1]: http://twitter.com/dwildt "Daniel Wildt"
+
+[14]: http://twitter.com/#!/dtsato "Danilo Sato"
+
+[10]: http://twitter.com/#!/lcparzianello "Luiz C. Parzianello"
+
+[19]: /2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
+
+[13]: http://twitter.com/#!/hugocorbucci "Hugo Corbucci"
+
+[11]: http://twitter.com/#!/manoelp "Manoel Pimentel"
+
+[2]: http://twitter.com/brunopedroso "Bruno Pedroso"
+
+[3]: http://twitter.com/#!/alegomes "Alexandre Gomes"
+
+[12]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
+
+[17]: http://twitter.com/#!/rafajagua "Rafael Camargo"
+
+[20]: /2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
+
+[6]: http://twitter.com/#!/joaostein "João Stein"
+
+[18]: http://twitter.com/#!/thiagoesser "Thiago Esser"
+
+[4]: http://twitter.com/#!/rwilli "Willi"
+
+[9]: http://twitter.com/#!/fkenjikamei "Fernando Kenji Kamei"
+
+[16]: http://twitter.com/#!/paulocaroli "Paulo Caroli"
+
+[7]: http://twitter.com/#!/julioprotzek "Júlio Protzek"

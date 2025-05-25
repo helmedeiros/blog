@@ -52,3 +52,5 @@ Wait for more news during the event; I'll be posting daily about the talks and i
 If you haven't registered yet, you can still <a title="Inscrição Agile Brazil 2011" href="http://submissoes.agilebrazil.com/attendees/new" target="_blank">inscrever online</a>.
 
 See you there in Fortaleza! &nbsp; &nbsp;
+
+[1]: /uploads/2011/06/banner-250.png

@@ -37,3 +37,11 @@ A final edge can be drawn that represents "who saw, also saw". [Fauno][4] is a g
 It allows using the Gremlin traversal language and operates on a distributed graph database Titan or on HDFS in various text and binary formats.
 
 The company has used Fauno, <a title="rexster" href="https://github.com/tinkerpop/rexster/wiki" target="_blank">Rexster</a>, Cassandra, and all other technologies to reveal all data to the business team that uses it
+
+[2]: http://qconsp.com/user/renato-pedigoni
+
+[4]: http://thinkaurelius.github.io/faunus/ "Faunus"
+
+[3]: http://www.magazineluiza.com.br/ "Magazine Luiza"
+
+[1]: http://qconsp.com/user/andre-fatala

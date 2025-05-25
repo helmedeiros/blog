@@ -39,3 +39,5 @@ The HTML file for this page will be sent by email;
  - A certain bet may be used in other pools.
 
 Consider that all operations are performed by Jairo, who can be identified as the Pool Manager. **USAGE SCENARIO DIAGRAM** ![Diagrama Casos Uso Bolão][1]
+
+[1]: /uploads/2008/07/controle-bolao.png

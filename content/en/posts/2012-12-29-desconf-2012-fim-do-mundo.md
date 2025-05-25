@@ -29,3 +29,7 @@ As a central point, I expected we would have more people to exchange ideas than 
 The event began at 19:00h with an open coffee break in the auditorium itself, which was a great strategy for getting the presenters familiar with the location and where we would spend the next 2 hours, or rather, 3 hours, exchanging many ideas.
 
 At 20:00h, Daniel gave the starting signal with a quick talk that took less than 5 minutes to familiarize new unconference participants with the history and dynamics of the event; basically, we didn't have an order for presentations, so each speaker felt the affinity between subjects and presented themselves as candidates for the next presentation. ... [rest of text remains untranslated due to ] **Fotos do evento:** <a title="Desconf 2012 by heliomedeiros, on Flickr" href="http://www.flickr.com/photos/heliomedeiros/sets/72157632285483390/with/8287625374/" target="_blank"><img alt="Galeria Desconf 2012" src="http://farm9.staticflickr.com/8495/8287625374_4d3d01c959.jpg" width="65" height="48" /></a>][2]
+
+[2]: http://www.flickr.com/photos/heliomedeiros/8286564917/in/set-72157632285483390
+
+[1]: http://twitter.com/#!/nataliarsand "Natalia Arsand"

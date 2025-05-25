@@ -79,3 +79,5 @@ We can analyze quickly and understand what happens.
 Look at [CodeCity][1], use DSM, Matrix Pyramid, see Kiviat, JDpendent, JavaNCSS, Eclipse Metrics!
 
 Not everything is perfect, but it's worth testing!!
+
+[1]: http://www.inf.usi.ch/phd/wettel/codecity.html "code city"

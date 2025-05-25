@@ -53,3 +53,5 @@ THE MORE DIVERSED OUR TEAMS ARE AND THE GREATER THE INTERACTION BETWEEN THEM, TH
 Agile leaders, who are most of those working, are not people who command or tell everyone what to do, but those who help others with their qualities.
 
 The final message: think about autonomy, excellence, and purpose, cooperation and leadership; the event will help us with that!! @pakua [slideshare id=23530373&doc=unlockingourhumanpotential-130626141837-phpapp02]
+
+[1]: /uploads/2013/06/unlockingourhumanpotential.png

@@ -34,3 +34,5 @@ As I mentioned earlier, I'll be working soon as a teacher at one of my city's ed
 Because we can't work in the market quietly about what really interests us.
 
 We truly want to give our best so that our clients' systems are successful.
+
+[1]: http://www.slideshare.net/pcalcado/tudo-que-eu-queria-saber-antes-de-virar-um-lder-tcnico "Caelum Day in Rio"
