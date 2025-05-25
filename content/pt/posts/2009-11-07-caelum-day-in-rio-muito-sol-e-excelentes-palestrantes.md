@@ -33,7 +33,7 @@ tags:
 
 ---
 <p style="text-align: center;">
-  <figure id="attachment_69" style="width: 417px" class="wp-caption aligncenter"><img class="size-full wp-image-69" src="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc004811.jpg" alt="Caelum day in Rio" width="417" height="313" srcset="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc004811.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc004811-300x225.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /><figcaption class="wp-caption-text">Caelum day in Rio</figcaption></figure> 
+  <figure id="attachment_69" style="width: 417px" class="wp-caption aligncenter"><img class="size-full wp-image-69" src="/uploads/2009/11/dsc004811.jpg" alt="Caelum day in Rio" width="417" height="313" srcset="/uploads/2009/11/dsc004811.jpg 417w, /uploads/2009/11/dsc004811-300x225.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /><figcaption class="wp-caption-text">Caelum day in Rio</figcaption></figure> 
   
   <p>
     Mesmo com todo o sol que convidava os cariocas e visitantes a refrescarem-se nas frias águas das praias cariocas, houveram pouquíssimas cadeiras vazias no primeiro evento, da Caelum unidade Rio, intitulado <a title="Caelum Day in Rio" href="http://www.caelum.com.br/caelumday/" target="_blank">Caelum Day in Rio</a>.
@@ -72,7 +72,7 @@ tags:
     Como todo evento ou curso da Caelum, palestrantes e coffee breaks incríveis. O evento começou pontualmente com algumas palavras sobre tendências e o posicionamento da Caelum no mercado proferidas pelo Paulo Silveira, em seus Por que estou aqui ? 7 curtos slides. Em seguida foi iniciada a palestra do Phillip Calçado.
   </p><figure id="attachment_63" style="width: 300px" class="wp-caption aligncenter">
   
-  <img class="size-medium wp-image-63" src="http://www.helmed.net/blog/wp-content/uploads/2009/11/4039450800_a816d7cd46-300x225.jpg" alt="Tudo que eu gostaria de saber antes de ter virado um líder técnico" width="300" height="225" srcset="http://www.helmed.net/blog/wp-content/uploads/2009/11/4039450800_a816d7cd46-300x225.jpg 300w, http://www.helmed.net/blog/wp-content/uploads/2009/11/4039450800_a816d7cd46.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Tudo que eu gostaria de saber antes de ter virado um líder técnico</figcaption></figure> 
+  <img class="size-medium wp-image-63" src="/uploads/2009/11/4039450800_a816d7cd46-300x225.jpg" alt="Tudo que eu gostaria de saber antes de ter virado um líder técnico" width="300" height="225" srcset="/uploads/2009/11/4039450800_a816d7cd46-300x225.jpg 300w, /uploads/2009/11/4039450800_a816d7cd46.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Tudo que eu gostaria de saber antes de ter virado um líder técnico</figcaption></figure> 
   
   <p>
     O Phillip iniciou  falando sobre o seu entusiasmos na apresentação do keynote, que já propõe pelo seu formato algo ágil e cheio de novidades, reunindo algumas lições aprendidas durante os seus anos como líder de equipes. Durante esta abertura ocorreu um fato que foi nomeado pelos corredores do evento de a vingança dos agilistas; o Phillip já havia durante o inicio da palestra informado que não se sentia muito a vontade com microfones e que as vezes algo que não devia sair escapulia,  e foi exatamente o que aconteceu quando em uma troca de palavras acabou por sair um &#8220;chefe de equipe&#8221;, antes que este pudesse corrigir a troca de palavras, o projetor e as luzes da área de palestras foram desligadas&#8230;

@@ -16,7 +16,7 @@ tags:
   - TDC 2009
 ---
 
-<img class="aligncenter size-full wp-image-97" src="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00699.jpg" alt="Mike Keith" width="417" height="291" srcset="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00699.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00699-300x209.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /> Mike Keith's presentation started at 11:00h, after the coffee break, with some jokes and questions about the time spent between the launch of new Java versions, whether the audience thought it was a lot or little, and if they didn't care because they thought Microsoft would kill Java.
+<img class="aligncenter size-full wp-image-97" src="/uploads/2009/11/dsc00699.jpg" alt="Mike Keith" width="417" height="291" srcset="/uploads/2009/11/dsc00699.jpg 417w, /uploads/2009/11/dsc00699-300x209.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /> Mike Keith's presentation started at 11:00h, after the coffee break, with some jokes and questions about the time spent between the launch of new Java versions, whether the audience thought it was a lot or little, and if they didn't care because they thought Microsoft would kill Java.
 
 I know there might have been problems saying something like that at some point... but from what I've heard here in Rio, according to Phillip himself, .NET with C
 

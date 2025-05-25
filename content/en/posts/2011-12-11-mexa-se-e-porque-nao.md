@@ -14,7 +14,7 @@ categories:
 ---
 
 <p style="text-align: center">
- <a href="http://www.helmed.net/blog/wp-content/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png"><img class="aligncenter size-full wp-image-476" src="http://www.helmed.net/blog/wp-content/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png" alt="" width="474" height="228" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png 519w, http://www.helmed.net/blog/wp-content/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" /></a> 
+ <a href="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png"><img class="aligncenter size-full wp-image-476" src="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png" alt="" width="474" height="228" srcset="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png 519w, /uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" /></a> 
 </p>
  
 <p style="text-align: left">

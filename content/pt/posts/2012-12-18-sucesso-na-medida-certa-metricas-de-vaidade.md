@@ -26,7 +26,7 @@ tags:
   - porto alegre
 
 ---
-<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure> 
+<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure> 
 
 Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?!? Talvez, ambos?
 
@@ -52,6 +52,6 @@ Vamos lá, todos possuem ótimas idéias em algum ponto da vida. Então porque n
   [slideshare id=15678328&doc=desconf2012-metricasdevaidade-121217200546-phpapp02]
 </p>
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png
+ [1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png
  [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
  [3]: http://www.mit.edu/

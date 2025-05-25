@@ -18,4 +18,4 @@ Not included in the count are: the product value, title text, contact name, up t
 
 Those who become subscribers to the virtual classified receive a daily email summary of site offers.
 
-The customer can create sections of interest to receive new announcements via email without needing to access the site. **USE CASES** ![Diagrama Casos Uso Classificados Web][1] CLASSIFIED WEB DIAGRAM <img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/classificado-na-web-diagrama-de-classe.png" alt="Classified Web Diagram" height="367" width="682" />
+The customer can create sections of interest to receive new announcements via email without needing to access the site. **USE CASES** ![Diagrama Casos Uso Classificados Web][1] CLASSIFIED WEB DIAGRAM <img src="/uploads/2008/07/classificado-na-web-diagrama-de-classe.png" alt="Classified Web Diagram" height="367" width="682" />

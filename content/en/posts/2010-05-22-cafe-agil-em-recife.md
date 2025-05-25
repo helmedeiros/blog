@@ -20,7 +20,7 @@ tags:
 
 Last Saturday, May 15th, I attended a quick and quite interesting event called <a title="cafe ágil" href="http://www.thoughtworks.com/cafe-agil-em-recife" target="_blank">Café Ágil</a>.
 
-This initiative by [ThoughtWorks Brazil][1] together with UFPE gathered three heavyweight speakers, Paulo Caroli (TW Br), Luiz Borba (Pitang) and Jim Webber (TW UK), and around 90 people at the Center for Informatics of UFPE, to discuss topics such XP, TDD, and Rest. [<img class="aligncenter size-full wp-image-199" src="http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2] The event started at 08:30h with a name-tagged café and plenty of conversation.
+This initiative by [ThoughtWorks Brazil][1] together with UFPE gathered three heavyweight speakers, Paulo Caroli (TW Br), Luiz Borba (Pitang) and Jim Webber (TW UK), and around 90 people at the Center for Informatics of UFPE, to discuss topics such XP, TDD, and Rest. [<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2] The event started at 08:30h with a name-tagged café and plenty of conversation.
 
 I met the SCRUM Paraíba folks face-to-face and had no idea about their existence until that moment.
 

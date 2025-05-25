@@ -16,7 +16,7 @@ tags:
   - poa
 ---
 
-[<img class="aligncenter size-full wp-image-457" src="http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011.png 519w, http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] On the last Saturday, November 29th, 2011, I had the pleasure of exchanging many ideas during the second edition of a new type of event that brings innovation in its name DESCONF!
+[<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] On the last Saturday, November 29th, 2011, I had the pleasure of exchanging many ideas during the second edition of a new type of event that brings innovation in its name DESCONF!
 
 Hosted by [Faculdade Dom Bosco][2], the DESCONF 2011 mustache edition declared freedom of expression as its theme, with an unconventional format that mixed open spaces and [lightning talks][3], having a representation of 62% of its registered participants as speakers, but which in proportions of time inside and outside the auditorium everyone ended up defining and debating their lines of thought, and couldn't offer anything less than a day of great learning.
 

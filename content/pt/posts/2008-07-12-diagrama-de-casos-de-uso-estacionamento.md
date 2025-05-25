@@ -24,4 +24,4 @@ Ao retornar ao estacionamento, o cliente entrega o ticket. O tempo de permanênc
 
 **DIAGRAMA DE CASOS DE USO**
   
-<img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/estacionamento.png" alt="Diagrama de Casos de Uso Estacionamento" height="425" width="656" />
+<img src="/uploads/2008/07/estacionamento.png" alt="Diagrama de Casos de Uso Estacionamento" height="425" width="656" />

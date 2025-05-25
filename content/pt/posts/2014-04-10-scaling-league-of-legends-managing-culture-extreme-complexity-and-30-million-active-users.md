@@ -20,7 +20,7 @@ tags:
 ---
 O keynote do [Jarrod Overson][1] começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &#8220;remunerados&#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o [League of Legends][2], em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!<figure id="attachment_825" style="width: 468px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-825" alt="League of legends" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][3]<figcaption class="wp-caption-text">League of legends</figcaption></figure> 
+[<img class="size-full wp-image-825" alt="League of legends" src="/uploads/2014/04/League-of-legends-3.jpg" width="468" height="240" srcset="/uploads/2014/04/League-of-legends-3.jpg 468w, /uploads/2014/04/League-of-legends-3-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][3]<figcaption class="wp-caption-text">League of legends</figcaption></figure> 
 
 Imagine agora seu código, ou o código escrito por Jarrod ou sua equipe para aguentar tantos acessos, agora pense em como a empresa cresce para acompanhar o sucesso e escalar as necessidades de um novo mercado que se abre.
 
@@ -34,7 +34,7 @@ A internet é cega para classe, raça e espécie,  e achar o valor nesta divers
 
 A [RIOT Games][4] tem feito um pouco de cada uma destas coisas, a mudança é para melhor porque não abraça-la. Construção de uma comunidade, a contribuição e aprendizagem, cultura de abertura e igualdade.<figure id="attachment_827" style="width: 468px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-827" alt="Rioters are GAMERS" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters.png" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters.png 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters-300x153.png 300w" sizes="(max-width: 468px) 100vw, 468px" />][5]<figcaption class="wp-caption-text">Rioters are GAMERS</figcaption></figure> 
+[<img class="size-full wp-image-827" alt="Rioters are GAMERS" src="/uploads/2014/04/rioters.png" width="468" height="240" srcset="/uploads/2014/04/rioters.png 468w, /uploads/2014/04/rioters-300x153.png 300w" sizes="(max-width: 468px) 100vw, 468px" />][5]<figcaption class="wp-caption-text">Rioters are GAMERS</figcaption></figure> 
 
 A web tem mudado tanto, que assim como as empresas ela precisa cada vez mais de pessoas, e de todas as origens, paradigmas e linguagens.
 
@@ -56,8 +56,8 @@ A WEB em todos os seus aspectos é o maior exemplo de como podemos atingir escal
 
  [1]: http://qconsp.com/user/jarrod-overson
  [2]: http://na.leagueoflegends.com/ "League of Legends"
- [3]: http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3.jpg
+ [3]: /uploads/2014/04/League-of-legends-3.jpg
  [4]: http://www.riotgames.com/ "Riot Game"
- [5]: http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters.png
+ [5]: /uploads/2014/04/rioters.png
  [6]: http://asmjs.org/ "ASM.js"
  [7]: https://twitter.com/jsoverson "Jarred Overson - Twitter"

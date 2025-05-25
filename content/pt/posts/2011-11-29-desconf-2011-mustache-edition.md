@@ -19,7 +19,7 @@ tags:
   - poa
 
 ---
-[<img class="aligncenter size-full wp-image-457" src="http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011.png 519w, http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
+[<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
 
 No último sábado, 29 de Novembro de 2011, tive o prazer de trocar várias idéias durante a segunda edição de uma nova modalidade de evento que trás a inovação em seu nome DESCONF!
 
@@ -46,7 +46,7 @@ Após todo o dia não tinha mais nada a fazer do que agradecer a todos os que pa
   [slideshare id=10341848&doc=desconf2011-usareesquecersuasideias-111126103515-phpapp02]
 </p>
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2011/11/desconf2011.png
+ [1]: /uploads/2011/11/desconf2011.png
  [2]: www.faculdadedombosco.edu.br/ "Faculdade Dom Bosco"
  [3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
  [4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
