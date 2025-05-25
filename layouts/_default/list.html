@@ -1,0 +1,61 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/custom-layout.css">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      {{ with .Content }}
+        <div class="page-description">
+          {{.}}
+        </div>
+      {{ end }}
+
+      <!-- Featured Posts Section (First 2 posts) -->
+      {{ $posts := .Paginator.Pages }}
+      {{ if gt (len $posts) 0 }}
+        <section class="featured-posts">
+          <h2 class="section-title">Featured Posts</h2>
+          {{ range first 2 $posts }}
+            {{ partial "post_preview_featured.html" . }}
+          {{ end }}
+        </section>
+      {{ end }}
+
+      <!-- Recent Posts Section (Remaining posts) -->
+      {{ if gt (len $posts) 2 }}
+        <section class="recent-posts">
+          <h2 class="section-title">All Posts</h2>
+          <div class="posts-list-simple">
+            {{ range after 2 $posts }}
+              {{ partial "post_preview_simple.html" . }}
+            {{ end }}
+          </div>
+        </section>
+      {{ end }}
+
+      <!-- Pagination -->
+      {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+        <nav class="pagination-nav">
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <li class="previous">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/" class="pagination-link">
+                  <i class="fas fa-chevron-left"></i> {{ i18n "newerPosts" | default "Newer Posts" }}
+                </a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="next">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/" class="pagination-link">
+                  {{ i18n "olderPosts" | default "Older Posts" }} <i class="fas fa-chevron-right"></i>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </nav>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
