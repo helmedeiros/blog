@@ -33,3 +33,42 @@ scripts/*.log
 *_temp.txt
 commit_message*.txt
 commit_msg.txt
+
+# Security and sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.csr
+*.enc
+*.secret
+.env*
+.secrets
+config.local.*
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
+
+# Backup files
+*.bak
+*.backup
+*~
+*.orig
+
+# IDE and editor files
+.vscode/settings.json
+.idea/
+*.sublime-*
+.project
+.classpath
+
+# OS specific files
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
