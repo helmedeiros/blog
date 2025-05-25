@@ -1,0 +1,49 @@
+feat: update header design to match heliomedeiros.com portal
+
+This commit updates the blog header to create a consistent brand experience
+with the main portal at heliomedeiros.com:
+
+## Header Design Changes
+
+### Navigation Updates
+- Changed brand name from "Helio Medeiros" to "hello." to match portal
+- Updated navigation structure to match portal layout:
+  - About → redirects to https://heliomedeiros.com/
+  - Work → redirects to https://heliomedeiros.com/work/
+  - Posts → local blog posts listing
+  - Contact → redirects to https://heliomedeiros.com/contact/
+
+### Site Title Updates
+- Updated main title from "Helio Medeiros" to "helio."
+- Updated English title from "Helio Medeiros - Technology Blog" to "helio."
+- Updated Portuguese title from "Helio Medeiros - Blog de Tecnologia" to "helio."
+
+### Styling Improvements
+- Implemented clean, minimal design matching portal aesthetic
+- Added proper spacing and typography with gray text (#666666)
+- Fixed header overlay issue with proper body padding (70px desktop, 60px mobile)
+- Added smooth hover transitions and professional spacing
+- Implemented mobile-responsive design with touch-friendly elements
+
+### Navigation Logic
+- Local links for blog-specific content (Posts)
+- External links to main portal for personal/professional content
+- Maintained bilingual language switcher functionality
+- Removed local About page in favor of portal redirect
+
+## Technical Improvements
+
+- Fixed navbar fixed-top positioning with proper content spacing
+- Added responsive design for mobile devices
+- Maintained all existing Hugo functionality
+- Preserved multilingual capabilities
+
+## Benefits
+
+- **Unified Brand Experience**: Consistent navigation between blog and portal
+- **Professional Design**: Clean, minimal aesthetic matching main site
+- **Better UX**: Proper spacing and mobile optimization
+- **Seamless Integration**: Smart routing between blog and portal content
+
+This creates a cohesive digital presence where the blog serves as a content
+extension of the main heliomedeiros.com portal.
