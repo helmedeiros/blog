@@ -1,4 +1,4 @@
-baseurl = "https://old-blog.heliomedeiros.com/"
+baseurl = "https://blog.heliomedeiros.com/"
 defaultContentLanguage = "en"
 title = "Helio Medeiros"
 theme = "beautifulhugo"

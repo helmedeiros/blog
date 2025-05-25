@@ -48,7 +48,7 @@ This is a Hugo-generated static site with:
 - **Hugo Static Site Generator** with Beautiful Hugo theme
 - **Bilingual Support**: English and Portuguese content
 - **GitHub Actions**: Automated build and deployment
-- **Custom Domain**: `old-blog.heliomedeiros.com`
+- **Custom Domain**: `blog.heliomedeiros.com`
 - **Responsive design** with SEO optimization
 - **Social sharing integration**
 
@@ -59,7 +59,7 @@ The site is automatically deployed using GitHub Actions:
 1. **Source files** are stored in this repository
 2. **GitHub Actions** builds the Hugo site on every push to `main`/`master`
 3. **Generated static files** are deployed to GitHub Pages
-4. **Custom domain** `old-blog.heliomedeiros.com` serves the content
+4. **Custom domain** `blog.heliomedeiros.com` serves the content
 
 ### Local Development
 
@@ -88,8 +88,8 @@ If needed, you can manually trigger deployment:
 
 ## 📖 Reading
 
-- **Browse in English**: [old-blog.heliomedeiros.com](https://old-blog.heliomedeiros.com)
-- **Ler em Português**: [old-blog.heliomedeiros.com/pt](https://old-blog.heliomedeiros.com/pt)
+- **Browse in English**: [blog.heliomedeiros.com](https://blog.heliomedeiros.com)
+- **Ler em Português**: [blog.heliomedeiros.com/pt](https://blog.heliomedeiros.com/pt)
 
 ---
 
