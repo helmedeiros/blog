@@ -32,4 +32,18 @@ Estive trocando algumas figurinhas recentes com algumas pessoas do meio e acho q
 
 Segue abaixo slides da apresentação, para os interessados.
 
-[slideshare id=2517685&doc=treinamentoscrum1-unp-091117034411-phpapp01]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2517685"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

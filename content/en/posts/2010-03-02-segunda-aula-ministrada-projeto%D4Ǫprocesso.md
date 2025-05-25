@@ -24,4 +24,18 @@ We had a brief passage through the history of software creation today, we talked
 
 The components of a software project were presented and we discussed some scenarios and what influence each of these has on the final result, success or failure in the project.
 
-We saw software engineering concepts and their need to guide through techniques for software with quality, repeatable deliveries that meet needs but cost little or are interesting comparing cost and ROI. [slideshare id=3321154&doc=unp-aula2-100302190530-phpapp02]
+We saw software engineering concepts and their need to guide through techniques for software with quality, repeatable deliveries that meet needs but cost little or are interesting comparing cost and ROI. <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3321154"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

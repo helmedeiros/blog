@@ -49,7 +49,21 @@ Mesmo assim ainda podem dizer que temos todos os dados estatísticos necessário
 Vamos lá, todos possuem ótimas idéias em algum ponto da vida. Então porque nós não as criamos? E quem sabe enquanto fazemos isso colocamos no papel a estratégia como um grande mapa rascunhado, no qual podemos a cada encruzilhada parar e pensar mas sem nunca perder o foco na meta final. Pensar sempre, fazer as vezes e remover o quanto antes o que não estiver alinhado.
 
 <p style="text-align: center">
-  [slideshare id=15678328&doc=desconf2012-metricasdevaidade-121217200546-phpapp02]
+  <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/15678328"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
 </p>
 
  [1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png

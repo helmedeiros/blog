@@ -36,4 +36,18 @@ I believe that we were able to share a bit of our experience, implementing and u
 
 I've been exchanging recent updates with some people in the field and I think it's very valuable to learn about agile frameworks or even coaching during their learning process.
 
-Below are the presentation slides for those interested: [slideshare id=2517685&doc=treinamentoscrum1-unp-091117034411-phpapp01]
+Below are the presentation slides for those interested: <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2517685"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

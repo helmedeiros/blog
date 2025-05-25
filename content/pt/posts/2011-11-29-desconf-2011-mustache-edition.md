@@ -43,7 +43,21 @@ Houveram várias convergências de idéias e assuntos complementares, e a cada n
 Após todo o dia não tinha mais nada a fazer do que agradecer a todos os que participaram, pelas ideias que ouvi e discuti. As pizzas estavam ótimas e o ambiente realmente propicio ao aprendizado e a evolução de idéias. E da idéia de que a #desconf deveria ir ao mainstream deixo a pergunta se apenas os mais experientes devem ser ouvidos, e a frase do [Christian Heilmann][15] &#8220;[Where do Known speakers come from][16]?&#8221;. MUITO OBRIGADO A DESCONF! Que venha a edição de 2012.
 
 <p style="text-align: center">
-  [slideshare id=10341848&doc=desconf2011-usareesquecersuasideias-111126103515-phpapp02]
+  <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/10341848"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
 </p>
 
  [1]: /uploads/2011/11/desconf2011.png

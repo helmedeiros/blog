@@ -17,4 +17,18 @@ tags:
 ---
 Esta é a terceira aula ministrada junto a disciplina de engenharia de software da <a href="http://unp.br" target="_blank">Universidade Potiguar</a>, onde é apresentada a fundamentação para a escolha de um modelo baseado em processo sequencial e definido para resolução dos problemas conhecidos e imutáveis. É exibido o modelo cascata e sua incompatibilidade com os cenários reais&#8230; desenvolver software não é construir prédio.
 
-[slideshare id=3331054&doc=unp-aula3-100303204328-phpapp01]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3331054"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

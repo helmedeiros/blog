@@ -16,4 +16,18 @@ tags:
 
 This is the third lecture given along with the software engineering discipline of <a href="http://unp.br" target="_blank">Universidade Potiguar</a>, where the foundation for choosing a sequential process-based model is presented and defined for resolving known and immutable problems.
 
-The waterfall model and its incompatibility with real-life scenarios are displayed... developing software isn't building a building. [slideshare id=3331054&doc=unp-aula3-100303204328-phpapp01]
+The waterfall model and its incompatibility with real-life scenarios are displayed... developing software isn't building a building. <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3331054"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

@@ -46,7 +46,21 @@ Last week, I shared this idea with new members of Stefanini, and I hope 2012 wil
 
 As Rafael Bandeira said... there's a lot of offline experience waiting for us!! 
 <p style="text-align: center">
- [slideshare id=10501695&doc=opentalks2011mexase-111207101430-phpapp02] 
+ <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/10501695"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div> 
 </p>
  &nbsp;
 

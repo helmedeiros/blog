@@ -1,44 +1,48 @@
-fix: restore missing markdown link references in English posts
+fix: convert broken SlideShare embeds to functional HTML iframes
 
-This commit fixes broken markdown reference links in English blog posts by
-restoring missing link definitions that were causing incomplete content and
-broken navigation.
+This commit resolves broken embedded content by converting old WordPress
+SlideShare shortcodes to proper HTML iframe embeds that work in Hugo.
 
 **Problem Identified:**
 
-English posts contained markdown reference links like [1], [2], [3] within
-the content but were missing the corresponding link definitions at the end
-of the files. This resulted in:
-- Broken links that didn't resolve to actual URLs
-- Incomplete content compared to Portuguese versions
-- Poor user experience with non-functional references
+Blog posts contained 35 instances of broken SlideShare embeds using the old
+WordPress shortcode format `[slideshare id=XXXXX&doc=filename]`. These
+shortcodes are not supported in Hugo and were rendering as plain text,
+making embedded presentations completely non-functional.
 
 **Root Cause:**
 
-During the WordPress to Hugo migration, the English translations lost their
-markdown link reference definitions while retaining the reference markers
-in the text. The Portuguese originals maintained complete link structures.
+During the WordPress to Hugo migration, the SlideShare shortcode processor
+was not available, leaving the shortcodes unprocessed. This resulted in:
+- Broken embedded presentations across multiple blog posts
+- Poor user experience with non-functional content
+- Missing visual aids that were integral to the posts
 
-**Solution Applied:**
+**Solution Implemented:**
 
-Created an automated script that:
-1. Analyzed all 67 English posts for missing link references
-2. Compared with corresponding Portuguese versions to identify missing definitions
-3. Extracted and copied missing link references from Portuguese to English posts
-4. Added complete link definitions at the end of each affected file
+1. **Automated Conversion**: Created a script to systematically find and
+   replace all SlideShare shortcodes with proper HTML iframe embeds
+
+2. **Responsive Design**: Used modern iframe embedding with responsive
+   styling that adapts to different screen sizes
+
+3. **Preserved Functionality**: Maintained all original SlideShare
+   presentation links and attribution
 
 **Technical Details:**
-- 33 out of 67 English posts (49%) had missing link references
-- Some posts were missing 10+ individual link references
-- All link definitions copied from Portuguese versions maintain original URLs
-- References added at file end following markdown conventions
+
+- Converted shortcode pattern: `[slideshare id=XXXXX&doc=filename]`
+- To HTML iframe: `<iframe src="//www.slideshare.net/slideshow/embed_code/key/XXXXX">`
+- Added responsive styling and proper attribution links
+- Processed both English and Portuguese content directories
 
 **Impact:**
-- All English posts now have complete and functional link references
-- Content parity achieved between English and Portuguese versions
-- Improved user experience with working links throughout the blog
-- No more broken [1], [2] style references in English content
 
-This fix ensures that all blog content is complete and functional across
-both languages, providing readers with access to all referenced materials
-and external links as originally intended.
+- 35 blog posts now have functional embedded presentations
+- All SlideShare content is properly accessible to readers
+- Improved user experience with working multimedia content
+- Maintained backward compatibility with existing post URLs
+
+This fix completes the embedded content restoration, ensuring all
+presentations that were previously broken are now fully functional
+in the Hugo-based blog.

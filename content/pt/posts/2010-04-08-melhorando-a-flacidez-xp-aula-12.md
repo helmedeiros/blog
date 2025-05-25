@@ -28,4 +28,18 @@ tags:
 ---
 Primeira aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentadas falhas em outras metodologias, incluindo as ágeis, no que diz respeito a descuido com a qualidade interna dos projetos, o que reforça, segundo Martin Fowler em <a title="FlaccidScrum" href="http://martinfowler.com/bliki/FlaccidScrum.html" target="_blank">Scrum Flácido</a> a necessidade de metodologias focadas em práticas técnicas, que retirem e não adicionem débitos técnicos. São apresentados também os problemas encontrados em ambientes de softwares e as soluções do XP para os mesmo. Por fim são evidenciados os valores que o orientam a metodologia.
 
-[slideshare id=3666315&doc=unp-aula12-100408092336-phpapp02]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3666315"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

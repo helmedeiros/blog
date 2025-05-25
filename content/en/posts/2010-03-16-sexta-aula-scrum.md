@@ -21,4 +21,18 @@ tags:
 
 First lesson on the agile methodology SCRUM presented along with the Universidade Potiguar.
 
-In this lesson, the origin of SCRUM, its roles and responsibilities, iteration cycle and artifacts are presented. [slideshare id=3451696&doc=unp-aula6-100316202213-phpapp01]
+In this lesson, the origin of SCRUM, its roles and responsibilities, iteration cycle and artifacts are presented. <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3451696"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
