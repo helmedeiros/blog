@@ -43,4 +43,4 @@ Existem instruções bem formuladas no blog do Daniel para aqueles que desejam s
 &nbsp;
 
  [1]: http://en.wikipedia.org/wiki/Brown_bag_seminars "Brown bags seminars"
- [2]: http://www.helmed.net/blog/2011/01/13/stefanini-open-talks-pomodoro-technique/ "POMODORO"
+ [2]: /2011/01/13/stefanini-open-talks-pomodoro-technique/ "POMODORO"

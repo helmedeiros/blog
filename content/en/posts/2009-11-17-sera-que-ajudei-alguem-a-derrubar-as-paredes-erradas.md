@@ -20,7 +20,7 @@ tags:
   - UnP
 ---
 
-Approximately a month ago, I conducted a mini-course together with my former colleague and friend Germano Carvalho on <a title="Congresso Cientifico" href="http://www.helmed.net/blog/?p=49" target="_self">metodologias ágeis e scrum</a> at the 11th scientific congress of UnP.
+Approximately a month ago, I conducted a mini-course together with my former colleague and friend Germano Carvalho on <a title="Congresso Cientifico" href="/?p=49" target="_self">metodologias ágeis e scrum</a> at the 11th scientific congress of UnP.
 
 Initially, we were concerned about the number of participants and their interest in the subject.
 

@@ -18,7 +18,7 @@ categories:
 </p>
  
 <p style="text-align: left">
- A recent participation in <a title="DESCONF 2011-Mustache edition" href="http://www.helmed.net/blog/2011/11/29/desconf-2011-mustache-edition/">Desconf 2011</a>, as well as conversations and events that aren't so recent, made me reflect on our behavior as agents of change in our work environment.
+ A recent participation in <a title="DESCONF 2011-Mustache edition" href="/2011/11/29/desconf-2011-mustache-edition/">Desconf 2011</a>, as well as conversations and events that aren't so recent, made me reflect on our behavior as agents of change in our work environment.
 
 Many times we've heard or started debates with the phrase "this would never work where I work", happens... but you'll never be sure until you try. 
 </p>

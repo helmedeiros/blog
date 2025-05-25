@@ -48,7 +48,7 @@ O Desenvolvimento Orientado a Testes ou TDD, é uma técnica para desenvolviment
 
  [1]: http://jorgekotickaudy.wordpress.com/2012/08/23/2308-4o-dia-semana/ "4º dia"
  [2]: http://jorgekotickaudy.wordpress.com/2012/08/14/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/ "1ª Semana de Lightining talks e Fishbowls no Tecnopuc"
- [3]: http://www.helmed.net/blog/apresentacoes/ "Apresentações"
+ [3]: /apresentacoes/ "Apresentações"
  [4]: http://pt.wikipedia.org/wiki/Garantia_da_qualidade "Quality Assurance"
  [5]: http://blog.scrumhalf.com.br/2011/10/criterios-de-aceitacao-das-user-stories/ "Critérios de Aceitação"
  [6]: http://pt.wikipedia.org/wiki/Bug "Bug"

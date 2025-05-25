@@ -51,7 +51,7 @@ Após todo o dia não tinha mais nada a fazer do que agradecer a todos os que pa
  [3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
  [4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
  [5]: http://twitter.com/#!/nataliarsand "Natalia Arsand"
- [6]: http://www.helmed.net/blog/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
+ [6]: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
  [7]: twitter.com/ericries "Eric Ries"
  [8]: http://www.slideshare.net/dwildt/mantra-das-possibilidades "Mantra de Possibilidade - Daniel Wildt"
  [9]: http://www.slideshare.net/deborawx/despertando-o-uau "Despertando o UAU - Deb Xavier"

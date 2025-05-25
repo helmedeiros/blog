@@ -26,7 +26,7 @@ The [James Shore][1] started his presentation at 09:10 talking about how he got 
 
 After several deliveries, the project was CLOSED, and something that he noticed for the first time was that even without cultural evolution, we still continue to worry about unimportant points, leaving out concerns about where the money comes from, for example.
 
-It doesn't make sense <a title="Construindo rapidamente a coisa certa!" href="http://www.helmed.net/blog/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/" target="_blank">construir rapidamente a coisa errada</a>.
+It doesn't make sense <a title="Construindo rapidamente a coisa certa!" href="/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/" target="_blank">construir rapidamente a coisa errada</a>.
 
 The project magically received new resources, and after that period of bitterness, everything changed!
 

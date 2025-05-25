@@ -1,26 +1,37 @@
-fix: resolve broken image paths in blog posts
+fix: resolve broken internal links and domain references
 
-This commit fixes all broken images in the blog by addressing two main issues:
+This commit fixes all remaining references to the old helmed.net domain that were
+causing broken internal links and navigation issues throughout the blog.
 
-1. **Moved images to correct Hugo location**: All images were previously stored
-   in `content/pt/posts/wp-content/uploads/` but Hugo expects static assets
-   in the `static/` directory. Moved all images to `static/uploads/` to follow
-   Hugo's conventions.
+**Issues Addressed:**
 
-2. **Updated image references in markdown files**: All blog posts were still
-   referencing the old WordPress domain `http://www.helmed.net/blog/wp-content/uploads/`.
-   Updated 71 markdown files across both English and Portuguese content to use
-   relative paths `/uploads/` instead.
+1. **Internal Cross-References**: Blog posts contained links to other posts using
+   the old WordPress domain `http://www.helmed.net/blog/YYYY/MM/DD/post-title/`.
+   These have been converted to relative paths `/YYYY/MM/DD/post-title/` for
+   proper Hugo navigation.
 
-The images were always present in the repository but were inaccessible due to
-incorrect paths and location. This fix ensures all historical blog post images
-display correctly without requiring external dependencies on the old domain.
+2. **Attachment Links**: WordPress-style attachment links pointing to the old
+   domain have been neutralized to prevent 404 errors.
 
-Changes:
-- Moved wp-content/uploads/ → static/uploads/
-- Updated image URLs in 71 markdown files
-- Removed duplicate wp-content directory
-- Verified images are accessible via Hugo server
+3. **Configuration File**: Updated `content/pt/posts/config.yaml` to reference
+   the current domain `https://old-blog.heliomedeiros.com` instead of the
+   defunct `http://www.helmed.net/blog`.
 
-All images spanning from 2008-2016 are now properly served and display correctly
-in both development and production environments.
+4. **Generated Files**: Removed the `public/` directory containing stale
+   references that will be regenerated with correct paths.
+
+**Technical Changes:**
+- Updated 17 markdown files with corrected internal link paths
+- Converted absolute URLs to relative paths for domain independence
+- Fixed blog post cross-references and presentation links
+- Updated configuration to current hosting domain
+
+**Benefits:**
+- All internal navigation now works correctly
+- Site is no longer dependent on external dead domains
+- Improved SEO with proper internal linking structure
+- Future-proof against domain changes
+- Consistent relative path usage throughout
+
+This complements the previous image path fixes, ensuring the entire blog
+functions correctly without any broken links or external dependencies.
