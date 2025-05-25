@@ -30,3 +30,6 @@ scripts/*.log
 # Temporary files
 *.tmp
 *.temp
+*_temp.txt
+commit_message*.txt
+commit_msg.txt
