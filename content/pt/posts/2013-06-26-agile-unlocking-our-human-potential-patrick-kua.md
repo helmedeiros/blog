@@ -39,18 +39,12 @@ Podemos ver cooperação e liderança intrínseca em como os métodos ágeis nos
 A mensagem final, pense em autonomia, excelência e propósito, cooperação e liderança o evento vai nos ajudar com isso!! @pakua
 
 <div style="margin-bottom: 20px;">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/23530373"
-        width="595"
-        height="485"
-        frameborder="0"
-        marginwidth="0"
-        marginheight="0"
-        scrolling="no"
-        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
-        allowfullscreen>
-</iframe>
+<iframe src="https://www.slideserve.com/embed/7318736"
+        width="597" height="486" frameborder="0" marginwidth="0" marginheight="0"
+        scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen></iframe>
 <div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+    <strong><a href="https://www.slideserve.com/thekua/agile-unlocking-our-human-potential-7318736" target="_blank">Agile: Unlocking our human potential by Patrick Kua</a></strong>
 </div>
 </div>
 
