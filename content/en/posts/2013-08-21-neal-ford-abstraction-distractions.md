@@ -41,3 +41,5 @@ Lost threads and more lost code without interpretation?
 Martin Fowler covers the topic at: <http://martinfowler.com/bliki/InternalReprogrammability.html>.
 
 It's worth seeing the talk: [ ][1] Note that I left the text exactly as written, as requested.
+
+[1]: http://vimeo.com/44235657

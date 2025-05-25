@@ -63,3 +63,7 @@ TDD leaves developers programming tests, which is excellent.
 According to Borba, one of the main problems in implementation is the cultural aspect of implementation; many times a developer gets used to testing, only to forget it quickly if no one reminds them and forces them to perform the tests.
 
 Once the initial phase is overcome, a new problem arises; developers accustomed to testing become desperate when they don't have them in other projects. <a title="fotos Café Ágil" href="http://www.flickr.com/photos/heliomedeiros/sets/72157623961656217/with/4617934563/" target="_blank">Fotos do evento</a> Please note that I left all text exactly as written.
+
+[2]: /uploads/2010/05/DSC04067.jpg
+
+[1]: http://www.thoughtworks.com/developer-porto-alegre

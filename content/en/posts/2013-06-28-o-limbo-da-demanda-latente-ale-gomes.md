@@ -81,3 +81,5 @@ So Alê adds that we need more than software functioning
  - we need the right software!!
 
 Applauded standing up, the message remains: let's change the country!
+
+[1]: http://www.ashmaurya.com/ "Ash Maurya"
