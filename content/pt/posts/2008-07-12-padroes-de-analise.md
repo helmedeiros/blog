@@ -40,8 +40,8 @@ Dentre os padrões de projeto estabelecidos pelo autor supracitado podemos ressa
 
   * Compound Units: Uma unidade composta é a combinação entre unidades atômicas, por exemplo milhas por hora. Uma operação de conversão sofisticada pode usar um conversor em uma unidade atômica para converter unidades compostas.
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-2.png
- [2]: http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-3.png
- [3]: http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-4.png
- [4]: http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-5.png
- [5]: http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-6.png
+ [1]: /uploads/2008/07/picture-2.png
+ [2]: /uploads/2008/07/picture-3.png
+ [3]: /uploads/2008/07/picture-4.png
+ [4]: /uploads/2008/07/picture-5.png
+ [5]: /uploads/2008/07/picture-6.png

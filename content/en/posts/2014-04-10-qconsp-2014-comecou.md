@@ -11,7 +11,7 @@ categories:
   - Eventos
 ---
 
-<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter"> <img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png 476w, http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure> In its 5th edition, Qcon starts in São Paulo, at WTC, with a new location, new infrastructure, larger network intervals.
+<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter"> <img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="/uploads/2014/04/qconSP14.png 476w, /uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure> In its 5th edition, Qcon starts in São Paulo, at WTC, with a new location, new infrastructure, larger network intervals.
 
 This year, the sponsor tracks will be separated and named as solution tracks to provide transparency on what to expect.
 

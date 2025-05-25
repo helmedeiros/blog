@@ -22,7 +22,7 @@ tags:
   - manoelep
 
 ---
-[<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013.png 478w, http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1]
+[<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1]
 
 Hoje, 26 de Junho dia de um dos maiores protestos desta nossa nova mudança brasileira, estamos reunidos para o início do maior evento de métodos ágeis do hemisfério sul.
 
@@ -36,5 +36,5 @@ O Agile brasil é fundamentado em auto-organização, com o time todo ganhando u
 
 Fotos do Evento: <a href="http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/" target="_blank">http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/</a>
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013.png
+ [1]: /uploads/2013/06/AGILEBR2013.png
  [2]: https://twitter.com/manoelp

@@ -20,7 +20,7 @@ tags:
   - Henrique Imbertti
 ---
 
-[<img class="aligncenter size-full wp-image-746" alt="baby.com" src="http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1] Imbertti started talking about why agile, for him one of the things is to discover the product and meet the time-to-market; another point is to work together and debate the topics.
+[<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1] Imbertti started talking about why agile, for him one of the things is to discover the product and meet the time-to-market; another point is to work together and debate the topics.
 
 Story Mapping is developing the product in layers, where the first layer, which is the lowest part of a cake, can still be realized as a party, the more you learn and evolve the cake gains layers and can get better.
 

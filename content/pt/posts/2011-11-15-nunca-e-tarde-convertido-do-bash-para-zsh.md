@@ -162,7 +162,7 @@ Caso você não tenha o [wget][15] instalado é bem provável que você verá um
 Quando terminar tudo você verá uma tela como a seguinte, daí é só abrir uma nova sessão para ver o thema do Robby Russel fazendo a sua mágica.
 
 <p style="text-align: center">
-  <a href="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png"><img class="aligncenter size-full wp-image-415" src="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png" alt="" width="478" height="247" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png 671w, http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a>
+  <a href="/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png"><img class="aligncenter size-full wp-image-415" src="/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png" alt="" width="478" height="247" srcset="/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png 671w, /uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a>
 </p>
 
 &nbsp;

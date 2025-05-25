@@ -25,7 +25,7 @@ tags:
 
 <figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa
 
- - Métricas de vaidade" src="http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, http://www.helmed.net/blog/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1] <figcaption class="wp-caption-text">Success in the right measure – Vanity metrics</figcaption></figure> Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
+ - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1] <figcaption class="wp-caption-text">Success in the right measure – Vanity metrics</figcaption></figure> Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
 
 They were presenting a graph that showed when they started focusing on quality, they saw a growth in the number of registrations.
 

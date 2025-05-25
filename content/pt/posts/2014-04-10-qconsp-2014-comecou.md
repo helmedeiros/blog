@@ -16,7 +16,7 @@ categories:
 ---
 &nbsp;<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14.png 476w, http://www.helmed.net/blog/wp-content/uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure> 
+<img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="/uploads/2014/04/qconSP14.png 476w, /uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure> 
 
 Em sua 5a edição a Qcon começa em São Paulo, no WTC, com novo local, nova infra-estrutura, intervalos maiores para network. Este ano as tracks dos patrocinadores estarão separadas e nomeadas como solutions tracks para que haja transparência sobre oque esperar.
 

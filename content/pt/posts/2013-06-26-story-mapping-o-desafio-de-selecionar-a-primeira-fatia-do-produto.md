@@ -23,7 +23,7 @@ tags:
   - Henrique Imbertti
 
 ---
-[<img class="aligncenter size-full wp-image-746" alt="baby.com" src="http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1]
+[<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1]
 
 O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
 
@@ -45,4 +45,4 @@ Deployment triggers, as funcionalidades eram puxadas! A mãe diz oque precisa. O
 
 As restrições inspiram a criatividade, valor pela ótica do cliente e busque validar suas suposições!
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png
+ [1]: /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png

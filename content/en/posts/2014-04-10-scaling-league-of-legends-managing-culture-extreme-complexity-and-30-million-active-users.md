@@ -21,7 +21,7 @@ The keynote at [Jarrod Overson][1] started at 10:58h with a bit about his backgr
 
  - he couldn't work on something different as a gamer.
 
-With 15 years "remunerated" (as he says), he reached the point where his company has a huge product today, like [League of Legends][2], where online players get destroyed while the platform becomes ENORME!! <figure id="attachment_825" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-825" alt="League of legends" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/League-of-legends-3-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][3]<figcaption class="wp-caption-text">League of legends</figcaption></figure> Imagine now his code, or the code written by Jarrod or his team to handle so many accesses.
+With 15 years "remunerated" (as he says), he reached the point where his company has a huge product today, like [League of Legends][2], where online players get destroyed while the platform becomes ENORME!! <figure id="attachment_825" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-825" alt="League of legends" src="/uploads/2014/04/League-of-legends-3.jpg" width="468" height="240" srcset="/uploads/2014/04/League-of-legends-3.jpg 468w, /uploads/2014/04/League-of-legends-3-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][3]<figcaption class="wp-caption-text">League of legends</figcaption></figure> Imagine now his code, or the code written by Jarrod or his team to handle so many accesses.
 
 Now think about how the company grows to follow the success and scale the needs of a new market that opens up.
 
@@ -45,7 +45,7 @@ The internet is blind to class, race, and species, and finding value in this div
 
  - the change is for better because it doesn't cling to it.
 
-Building a community, contribution, learning, cultural openness and equality. <figure id="attachment_827" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-827" alt="Rioters are GAMERS" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters.png" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters.png 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/rioters-300x153.png 300w" sizes="(max-width: 468px) 100vw, 468px" />][5]<figcaption class="wp-caption-text">Rioters are GAMERS</figcaption></figure> The web has changed so much that just like companies, it needs more people and from all origins, paradigms, and languages.
+Building a community, contribution, learning, cultural openness and equality. <figure id="attachment_827" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-827" alt="Rioters are GAMERS" src="/uploads/2014/04/rioters.png" width="468" height="240" srcset="/uploads/2014/04/rioters.png 468w, /uploads/2014/04/rioters-300x153.png 300w" sizes="(max-width: 468px) 100vw, 468px" />][5]<figcaption class="wp-caption-text">Rioters are GAMERS</figcaption></figure> The web has changed so much that just like companies, it needs more people and from all origins, paradigms, and languages.
 
 The next big change to handle all the load on top of it will be supplied by all new APIs, frameworks, tags, and ideas and more ideas that are emerging, evolving, and surviving.
 
