@@ -54,15 +54,7 @@ The rule of dirt refers to statistically knowing how dirty your environment was 
 I saw significant improvements in quality and efficiency in my work using this technique, so I found it interesting to present it to the other team members.
 
 Thank you to Stefanini for the space and the team for participating; and I hope that future Stefanini Open Talks will be even better. <div style="margin-bottom: 20px;">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6554537"
-        width="595"
-        height="485"
-        frameborder="0"
-        marginwidth="0"
-        marginheight="0"
-        scrolling="no"
-        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
-        allowfullscreen>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 </iframe>
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>

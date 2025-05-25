@@ -20,15 +20,7 @@ There was a time when I commented on <a title="UnP" href="/2010/01/26/ola-unp-ma
 Below is the first lesson, welcome anyone who has some tips or suggestions.
 
 I really wanted to learn these subjects during my undergraduate studies, before even writing my first lines of code, this class may get close to it, I hope to help them write better codes. <div style="margin-bottom: 20px;">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3261384"
-        width="595"
-        height="485"
-        frameborder="0"
-        marginwidth="0"
-        marginheight="0"
-        scrolling="no"
-        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
-        allowfullscreen>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/DOY0KvX1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 </iframe>
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
