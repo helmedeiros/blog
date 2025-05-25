@@ -1,5 +1,138 @@
 /* Custom Homepage Layout Styles */
 
+/* Header Navigation Styling - Match heliomedeiros.com portal */
+.navbar-custom {
+    background-color: #ffffff !important;
+    border: none;
+    border-bottom: 1px solid #f0f0f0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    padding: 0.5rem 0;
+    min-height: 60px;
+}
+
+/* Fix body padding to account for fixed navbar */
+body {
+    padding-top: 70px !important;
+}
+
+/* Adjust intro header to not overlap */
+.intro-header {
+    margin-top: 0 !important;
+    padding-top: 2rem !important;
+}
+
+.navbar-brand {
+    font-size: 1.5rem !important;
+    font-weight: 400 !important;
+    color: #333333 !important;
+    letter-spacing: -0.5px;
+    padding: 15px 20px !important;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #333333 !important;
+    text-decoration: none;
+}
+
+.navbar-nav > li > a {
+    color: #666666 !important;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 15px 20px !important;
+    text-transform: none;
+    letter-spacing: 0;
+    transition: color 0.2s ease;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+    color: #333333 !important;
+    background-color: transparent !important;
+}
+
+/* Active page styling */
+.navbar-nav > li.active > a,
+.navbar-nav > li.active > a:hover,
+.navbar-nav > li.active > a:focus {
+    color: #333333 !important;
+    background-color: transparent !important;
+    font-weight: 500;
+}
+
+/* Mobile menu button */
+.navbar-toggle {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 9px 10px !important;
+}
+
+.navbar-toggle:hover,
+.navbar-toggle:focus {
+    background-color: #f8f9fa !important;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #666666 !important;
+    height: 2px;
+    border-radius: 1px;
+}
+
+/* Language switcher styling */
+.navlinks-container .navlinks-parent {
+    color: #666666 !important;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 15px 20px !important;
+    cursor: pointer;
+}
+
+.navlinks-children {
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.navlinks-children a {
+    color: #666666 !important;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.navlinks-children a:hover {
+    background-color: #f8f9fa;
+    color: #333333 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+    .navbar-nav {
+        margin: 0;
+    }
+
+    .navbar-nav > li > a {
+        padding: 12px 20px !important;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .navbar-nav > li:last-child > a {
+        border-bottom: none;
+    }
+
+    /* Adjust body padding for mobile */
+    body {
+        padding-top: 60px !important;
+    }
+
+    /* Adjust navbar height for mobile */
+    .navbar-custom {
+        min-height: 50px;
+    }
+}
+
 /* Global Page Styling - Force white background everywhere */
 html,
 body {

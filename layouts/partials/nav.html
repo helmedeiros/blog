@@ -1,0 +1,53 @@
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">{{ i18n "toggleNavigation" }}</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ "" | absLangURL }}">hello.</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a title="About" href="https://heliomedeiros.com/">About</a>
+        </li>
+        <li>
+          <a title="Work" href="https://heliomedeiros.com/work/">Work</a>
+        </li>
+        <li>
+          <a title="Posts" href="{{ "/posts/" | relLangURL }}">Posts</a>
+        </li>
+        <li>
+          <a title="Contact" href="https://heliomedeiros.com/contact/">Contact</a>
+        </li>
+
+        {{ if hugo.IsMultilingual }}
+          {{ if ge (len .Site.Languages) 3 }}
+            <li class="navlinks-container">
+              <a class="navlinks-parent" role="button" tabindex="0">{{ i18n "languageSwitcherLabel" }}</a>
+              <div class="navlinks-children">
+                {{ range .Translations }}
+                  {{ if not (eq .Lang $.Site.Language.Lang) }}
+                  <a href="{{ .Permalink }}">{{ default .Lang .Site.Language.LanguageName }}</a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </li>
+          {{ else }}
+            <li>
+              {{ if .IsTranslated }}
+                {{ range .Translations }}
+                  <a href="{{ .Permalink }}">{{ default .Lang .Site.Language.LanguageName }}</a>
+                {{ end}}
+              {{ end }}
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
