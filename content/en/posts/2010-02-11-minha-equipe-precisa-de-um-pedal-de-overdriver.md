@@ -3,7 +3,6 @@ title: "My team needs an overdrive pedal"
 author: helio
 layout: post
 date: 2010-02-12T01:55:03+00:00
-url: /2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/
 idptt_tweeted: 
 categories:
   - Ageis

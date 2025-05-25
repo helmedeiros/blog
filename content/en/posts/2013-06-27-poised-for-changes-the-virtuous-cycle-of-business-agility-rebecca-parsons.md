@@ -3,7 +3,6 @@ title: "Ready for Changes – The Virtuous cycle of business Agility – Rebecca
 author: helio
 layout: post
 date: 2013-06-27T13:12:28+00:00
-url: /2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/
 embed: 
 seo_follow: 
 seo_noindex: 

@@ -3,7 +3,6 @@ title: "Welcome to Agile Brazil 2012"
 author: helio
 layout: post
 date: 2012-09-05T14:33:33+00:00
-url: /2012/09/05/bem-vindo-ao-agile-brazil-2012/
 embed: 
 seo_follow: 
 seo_noindex: 

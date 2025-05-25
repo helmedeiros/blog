@@ -3,7 +3,6 @@ title: Segunda aula ministrada! Projeto…Processo…
 author: helio
 layout: post
 date: 2010-03-03T01:21:54+00:00
-url: /2010/03/02/segunda-aula-ministrada-projeto…processo/
 idptt_tweeted:
   - 1
 categories:
@@ -17,7 +16,6 @@ tags:
   - ROI
   - Sis5Na
   - UnP
-
 ---
 Segue a baixo a segunda aula ministrada a disciplina de engenharia de software da UnP, quem tiver algumas dicas ou sugestões, ainda continuam sendo bem vindos. Tivemos hoje uma breve passagem pela história da criação de software, falamos da &#8220;crise de software&#8221;  que apesar de ser datada de muito tempo atrás ainda não se evidência a correção de todos os fatores que a influenciaram.
 

@@ -3,7 +3,6 @@ title: 'Scaling League of Legends: managing culture, extreme complexity and 30 m
 author: helio
 layout: post
 date: 2014-04-10T15:03:02+00:00
-url: /2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/
 embed:
   - This is the default text
 seo_follow:
@@ -16,7 +15,6 @@ tags:
   - Jarrod Overson
   - qconsp
   - riot games
-
 ---
 O keynote do [Jarrod Overson][1] começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &#8220;remunerados&#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o [League of Legends][2], em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!<figure id="attachment_825" style="width: 468px" class="wp-caption aligncenter">
 

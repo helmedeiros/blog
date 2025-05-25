@@ -3,7 +3,6 @@ title: Mascarando a aproximação BDUF com template RUP ?
 author: helio
 layout: post
 date: 2008-07-12T09:24:51+00:00
-url: /2008/07/12/modelando-com-rup/
 categories:
   - RUP
 tags:
@@ -12,7 +11,6 @@ tags:
   - Disciplina
   - RUP
   - template
-
 ---
 Tivemos um debate nos últimos dias em nossa classe de Pós-Graduação sobre, <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front" title="Big Design Up Front" target="_blank">BDUF</a>, e se seria possível reduzir a bagagem de documentos não compiláveis, através da composição de novos templates junto ao RUP, endeusado por alguns profissionais da escola do escopo fechado. O Rational Unified Process(RUP) é um processo de engenharia de software,  que oferece uma abordagem baseada em disciplinas para atribuir tarefas e responsabilidades dentro de uma organização de desenvolvimento; guiado pelos princípios <a href="http://www.ibm.com/developerworks/rational/library/oct05/kroll/index.html" title="ABCDE" target="_blank">ABCDE</a> do <a href="http://www.devx.com/ibm/Article/30308" title="Business Driven Development" target="_blank">BDD</a> que garante um processo adaptável, com gerência de níveis de prioridade e colaboração entre membros do time. Sendo assim, tentamos elaborar este template que coube bem às nossas necessidades diárias.
 

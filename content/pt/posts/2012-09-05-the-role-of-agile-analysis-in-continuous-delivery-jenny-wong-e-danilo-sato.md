@@ -3,7 +3,6 @@ title: The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo
 author: helio
 layout: post
 date: 2012-09-05T17:45:08+00:00
-url: /2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/
 embed:
   - This is the default text
 seo_follow:
@@ -23,7 +22,6 @@ tags:
   - Danilo Sato
   - Jenny Wong
   - MVP
-
 ---
 [<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 

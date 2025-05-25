@@ -3,10 +3,8 @@ title: 'Minicenário: CONTROLE DE OBRAS'
 author: helio
 layout: post
 date: 2008-07-12T09:24:08+00:00
-url: /2008/07/12/minicenario-controle-de-obras/
 categories:
   - UML
-
 ---
 Neste terceiro minicenário temos que:
 

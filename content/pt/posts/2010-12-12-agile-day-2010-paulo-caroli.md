@@ -3,7 +3,6 @@ title: AGILE DAY 2010 – Paulo Caroli
 author: helio
 layout: post
 date: 2010-12-12T12:21:35+00:00
-url: /2010/12/12/agile-day-2010-paulo-caroli/
 idptt_tweeted:
   - 1
 embed:
@@ -26,7 +25,6 @@ tags:
   - kanban
   - paulo caroli
   - pucrs
-
 ---
 No último dia 29 de novembro tivemos durante a tarde do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010 Porto Alegre</a> uma excelente transferência de experiências conduzida pelo <a title="@paulocaroli" href="http://twitter.com/paulocaroli" target="_blank">Paulo Caroli</a> da <a title="Thoughtworks" href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.<figure id="attachment_242" style="width: 417px" class="wp-caption aligncenter">
 

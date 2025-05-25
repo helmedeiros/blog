@@ -3,7 +3,6 @@ title: "First lesson taught! Starting..."
 author: helio
 layout: post
 date: 2010-02-24T02:10:53+00:00
-url: /2010/02/24/primeira-aula-ministrada-comecando/
 idptt_tweeted: 
 categories:
   - Uncategorized

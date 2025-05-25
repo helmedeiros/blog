@@ -3,7 +3,6 @@ title: "Success in the right measure"
 author: helio
 layout: post
 date: 2012-12-18T02:42:59+00:00
-url: /2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/
 embed: 
 seo_follow: 
 seo_noindex: 

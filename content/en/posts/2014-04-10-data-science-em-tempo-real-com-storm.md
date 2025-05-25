@@ -3,7 +3,6 @@ title: "Real-time Data Science with Storm"
 author: helio
 layout: post
 date: 2014-04-10T18:32:54+00:00
-url: /2014/04/10/data-science-em-tempo-real-com-storm/
 embed: 
 seo_follow: 
 seo_noindex: 

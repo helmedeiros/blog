@@ -3,7 +3,6 @@ title: "Caelum Day in Rio – A lot of Sun and excellent speakers"
 author: helio
 layout: post
 date: 2009-11-07T23:27:21+00:00
-url: /2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/
 dsq_thread_id: 
 categories:
   - Eventos

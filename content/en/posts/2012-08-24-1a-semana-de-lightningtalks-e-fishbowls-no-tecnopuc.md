@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2012-08-24T12:06:34+00:00
-url: /2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/
 embed: 
 seo_follow: 
 seo_noindex: 

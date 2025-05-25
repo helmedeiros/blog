@@ -3,7 +3,6 @@ title: "Stefanini Open Talks – Technique"
 author: helio
 layout: post
 date: 2011-01-14T01:07:59+00:00
-url: /2011/01/13/stefanini-open-talks-pomodoro-technique/
 idptt_tweeted: 
 embed: 
 seo_follow: 

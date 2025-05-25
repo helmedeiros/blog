@@ -3,7 +3,6 @@ title: Stefanini Open Talks – Pomodoro Technique
 author: helio
 layout: post
 date: 2011-01-14T01:07:59+00:00
-url: /2011/01/13/stefanini-open-talks-pomodoro-technique/
 idptt_tweeted:
   - 1
 embed:
@@ -21,7 +20,6 @@ tags:
   - Pomodoro
   - Stefanini
   - TECNOPUC
-
 ---
 Aconteceu nesta quinta-feira dia 13 de Janeiro, no Auditório da Assespro prédio 96 da <a title="TECNOPUC" href="http://www.pucrs.br/agt/tecnopuc/" target="_blank">Tecnopuc</a>, o primeiro encontro do <a title="Stefanini" href="http://www.stefanini.com.br/BR/home.html" target="_blank">Stefanini </a>Open Talks.
 

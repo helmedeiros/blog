@@ -3,7 +3,6 @@ title: AgileBR bem vindo!!
 author: helio
 layout: post
 date: 2013-06-26T13:26:47+00:00
-url: /2013/06/26/agilebr-bem-vindo/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - agile brazil
   - agilebrazil2013
   - manoelep
-
 ---
 [<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1]
 

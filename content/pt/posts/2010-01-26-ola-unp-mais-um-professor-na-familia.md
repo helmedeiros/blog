@@ -3,7 +3,6 @@ title: Mais um professor na família !
 author: helio
 layout: post
 date: 2010-01-26T23:47:13+00:00
-url: /2010/01/26/ola-unp-mais-um-professor-na-familia/
 idptt_tweeted:
   - 1
 dsq_thread_id:
@@ -16,7 +15,6 @@ tags:
   - Professor
   - Universidade Potiguar
   - UnP
-
 ---
 Não esperava que isto pudesse acontecer tão cedo, o fluxo a seguir tratando-se da área acadêmica é sempre muito longo e normalmente pretere os mais experientes, mas acontece que em 2010 minha família ganhará um novo professor.
 

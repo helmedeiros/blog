@@ -3,7 +3,6 @@ title: "Technology isn't enough! Barry O'Reilly"
 author: helio
 layout: post
 date: 2014-11-06T12:57:31+00:00
-url: /2014/11/06/technology-is-not-enough-barry-oreilly/
 seo_follow:
 seo_noindex:
 embed:

@@ -3,7 +3,6 @@ title: 'Um Sistema de recomendação de produtos baseado em grafos: Titan, Cassa
 author: helio
 layout: post
 date: 2014-04-10T21:27:50+00:00
-url: /2014/04/10/um-sistema-de-recomendacao-de-produtos-baseado-em-grafos-titan-cassandra-redis-e-hadoop-em-producao/
 embed:
   - This is the default text
 seo_follow:
@@ -17,7 +16,6 @@ categories:
 tags:
   - big data
   - data scientist
-
 ---
 > Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it..
 

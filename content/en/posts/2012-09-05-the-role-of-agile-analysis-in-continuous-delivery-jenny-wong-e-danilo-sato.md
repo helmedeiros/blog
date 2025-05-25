@@ -3,7 +3,6 @@ title: "The role of Agile analysis in Continuous Delivery – Jenny Wong and Dan
 author: helio
 layout: post
 date: 2012-09-05T17:45:08+00:00
-url: /2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/
 embed: 
 seo_follow: 
 seo_noindex: 

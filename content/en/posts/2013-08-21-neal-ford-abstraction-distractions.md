@@ -3,7 +3,6 @@ title: "Neal Ford – _PLACEHOLDER_ Distrações"
 author: helio
 layout: post
 date: 2013-08-21T20:14:02+00:00
-url: /2013/08/21/neal-ford-abstraction-distractions/
 embed: 
 seo_follow: 
 seo_noindex: 

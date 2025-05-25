@@ -3,7 +3,6 @@ title: ""
 author: helio
 layout: post
 date: 2009-08-05T12:03:24+00:00
-url: /2009/08/05/yuml-por-que-escrever-um-blog/
 categories:
   - UML
   - Uncategorized

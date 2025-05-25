@@ -3,7 +3,6 @@ title: "Improving flaccidity... XP - Class 12"
 author: helio
 layout: post
 date: 2010-04-08T14:29:59+00:00
-url: /2010/04/08/melhorando-a-flacidez-xp-aula-12/
 idptt_tweeted:
 embed:
 seo_follow:

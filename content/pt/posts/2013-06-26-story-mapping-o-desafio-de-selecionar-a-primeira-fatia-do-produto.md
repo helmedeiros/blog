@@ -3,7 +3,6 @@ title: 'Story Mapping: o desafio de selecionar a primeira fatia do produto'
 author: helio
 layout: post
 date: 2013-06-26T15:58:21+00:00
-url: /2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/
 embed:
   - This is the default text
 seo_follow:
@@ -21,7 +20,6 @@ tags:
   - agile brazil
   - agilebrazil
   - Henrique Imbertti
-
 ---
 [<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1]
 

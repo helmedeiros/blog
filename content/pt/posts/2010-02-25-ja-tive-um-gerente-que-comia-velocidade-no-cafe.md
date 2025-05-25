@@ -3,7 +3,6 @@ title: Já tive um gerente que comia velocidade no café
 author: helio
 layout: post
 date: 2010-02-26T00:44:26+00:00
-url: /2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/
 idptt_tweeted:
   - 1
 categories:
@@ -14,7 +13,6 @@ tags:
   - Pontos de Função
   - SCRUM
   - Velocidade
-
 ---
 Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos <a title="Pontos por função" href="http://en.wikipedia.org/wiki/Function_point" target="_blank">pontos de função</a>, outros visualizam apenas <a title="Linhas de Código" href="http://en.wikipedia.org/wiki/Source_lines_of_code" target="_blank">linhas de código</a> e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.
 

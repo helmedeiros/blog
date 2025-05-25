@@ -3,7 +3,6 @@ title: "Never is too late! Converted from Bash to ZSH!"
 author: helio
 layout: post
 date: 2011-11-15T20:23:19+00:00
-url: /2011/11/15/nunca-e-tarde-convertido-do-bash-para-zsh/
 embed: 
 seo_follow: 
 seo_noindex: 

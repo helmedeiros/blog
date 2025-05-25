@@ -3,7 +3,6 @@ title: "Without masks in REAL PROJECTS!!"
 author: helio
 layout: post
 date: 2010-03-28T17:47:30+00:00
-url: /2010/03/28/sem-mascaras-em-projetos-reais/
 idptt_tweeted: 
 categories:
   - Ageis

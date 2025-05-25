@@ -3,12 +3,10 @@ title: Diagrama de Casos de Uso ESTACIONAMENTO
 author: helio
 layout: post
 date: 2008-07-12T02:48:10+00:00
-url: /2008/07/12/diagrama-de-casos-de-uso-estacionamento/
 dsq_thread_id:
   - 4969844895
 categories:
   - UML
-
 ---
 O últmo cenário dentre os itens propostos seguem a seguinte regra de negócio.
 
