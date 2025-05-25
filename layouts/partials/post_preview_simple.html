@@ -1,0 +1,19 @@
+<div class="post-simple">
+    <a href="{{ .Permalink }}" class="post-simple-title">
+        {{ .Title }}
+    </a>
+    <div class="post-simple-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "January 2, 2006" }}
+        </time>
+        {{ if .Params.categories }}
+            {{ $categoriesLen := len .Params.categories }}
+            {{ if gt $categoriesLen 0 }}
+                <span class="separator">•</span>
+                {{ range $index, $category := .Params.categories }}
+                    <span class="category">{{ $category }}</span>{{ if lt $index (sub $categoriesLen 1) }}, {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
