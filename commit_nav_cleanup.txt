@@ -1,0 +1,43 @@
+refactor: simplify navigation by removing Work and Contact links
+
+This commit streamlines the blog navigation to focus on core blog functionality
+by removing external portal links that are not essential for the blog experience.
+
+## Navigation Changes
+
+### Removed Links
+- **Work** link (previously pointed to https://heliomedeiros.com/work/)
+- **Contact** link (previously pointed to https://heliomedeiros.com/contact/)
+
+### Retained Links
+- **hello.** (brand/home) - Blog homepage
+- **About** - Redirects to main portal (https://heliomedeiros.com/)
+- **Posts** - Blog posts listing
+- **Language switcher** - Bilingual functionality (EN/PT)
+
+## Rationale
+
+The simplified navigation provides a cleaner, more focused user experience:
+
+1. **Reduced Cognitive Load**: Fewer navigation options make it easier for visitors to focus on blog content
+2. **Clear Purpose**: Navigation now clearly distinguishes between blog content (Posts) and external portal (About)
+3. **Improved UX**: Streamlined interface reduces decision fatigue for users
+4. **Consistent Branding**: Maintains connection to main portal through About link without overwhelming the blog interface
+
+## Technical Impact
+
+- Cleaner HTML structure with fewer navigation elements
+- Faster rendering due to reduced DOM complexity
+- Maintained responsive design and mobile functionality
+- Preserved all existing Hugo functionality and multilingual support
+
+## User Journey
+
+The simplified navigation creates a clear user flow:
+- **Blog content consumption**: Posts link for reading articles
+- **Author information**: About link to learn more about Helio
+- **Language preference**: Language switcher for bilingual users
+- **Return to blog**: hello. brand link to return to homepage
+
+This change aligns the blog navigation with its primary purpose as a content
+platform while maintaining essential connections to the broader digital presence.
