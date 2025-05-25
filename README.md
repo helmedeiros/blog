@@ -30,6 +30,25 @@ The translation was accomplished using a sophisticated workflow with local AI:
 
 For technical details and scripts used, see [`scripts/README.md`](scripts/README.md).
 
+## 📁 Project Structure
+
+```
+blog/
+├── docs/           # 📚 Project documentation
+├── scripts/        # 🔧 Python automation scripts
+├── layouts/        # 🎨 Custom Hugo layouts
+├── static/         # 📁 Static assets (images, CSS)
+├── content/        # 📝 Blog content (EN/PT)
+└── themes/         # 🎭 Hugo theme files
+```
+
+### Key Directories
+
+- **[`docs/`](docs/)** - All project documentation and reports
+- **[`scripts/`](scripts/)** - Python scripts for blog restoration and automation
+- **[`layouts/`](layouts/)** - Custom Hugo templates for enhanced design
+- **[`static/css/`](static/css/)** - Custom CSS for white background and modern styling
+
 ## 📚 Content Topics
 
 The blog covers various technology topics including:
