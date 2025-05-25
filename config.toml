@@ -1,20 +1,20 @@
 baseurl = "https://blog.heliomedeiros.com/"
 defaultContentLanguage = "en"
-title = "Helio Medeiros"
+title = "helio."
 theme = "beautifulhugo"
 
 [languages]
   [languages.en]
     languageCode = "en-us"
     languageName = "English"
-    title = "Helio Medeiros - Technology Blog"
+    title = "helio."
     weight = 1
     contentDir = "content/en"
 
   [languages.pt]
     languageCode = "pt-br"
     languageName = "Português"
-    title = "Helio Medeiros - Blog de Tecnologia"
+    title = "helio."
     weight = 2
     contentDir = "content/pt"
 
@@ -33,7 +33,3 @@ theme = "beautifulhugo"
     name = "Posts"
     url = "/posts/"
     weight = 1
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
