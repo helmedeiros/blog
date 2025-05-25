@@ -38,6 +38,20 @@ Podemos ver cooperação e liderança intrínseca em como os métodos ágeis nos
 
 A mensagem final, pense em autonomia, excelência e propósito, cooperação e liderança o evento vai nos ajudar com isso!! @pakua
 
-[slideshare id=23530373&doc=unlockingourhumanpotential-130626141837-phpapp02]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/23530373"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
 
  [1]: /uploads/2013/06/unlockingourhumanpotential.png

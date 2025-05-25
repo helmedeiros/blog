@@ -20,4 +20,18 @@ Tem um tempo que comentei sobre o <a title="UnP" href="/2010/01/26/ola-unp-mais-
 
 Segue a baixo a primeira aula, quem tiver algumas dicas ou sugestões, sejam bem vindos. Queria muito ter aprendido estes assuntos em minha graduação, antes mesmo de escrever minhas primeiras linhas de código, esta turma poderá chegar próximo a isto, espero ajudá-los a escrever códigos melhores.
 
-[slideshare id=3261384&doc=unp-aula1-100223193724-phpapp01]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3261384"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

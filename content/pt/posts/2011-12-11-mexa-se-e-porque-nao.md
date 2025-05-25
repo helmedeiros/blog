@@ -33,7 +33,21 @@ Nestas últimas duas semanas, tenho me movimentado muito para retomar o Stefanin
 Pelos lugares por onde passei, vejo que qualquer equipe é capaz e deve lutar para estabelecer relações não só profissionais mas de amizade e compromisso sobre o crescimento intelectual dos colegas, um crescimento mútuo. Tenho trabalhado em uma grande equipe, e cada dia que passa damos mais um passo na direção que procurava ao vir para cá, mas estou bem surpreso como pode ser ainda melhor ser uma parte ativa da transformação. Semana passada transmiti esta idéia aos novos integrante da Stefanini, e espero que 2012 venha com mais personalidade, open talks, grupos de estudos e muito aprendizado. Como disse o Rafael Bandeira&#8230; existe muita experiência off-line nos esperando!!
 
 <p style="text-align: center">
-  [slideshare id=10501695&doc=opentalks2011mexase-111207101430-phpapp02]
+  <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/10501695"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
 </p>
 
 &nbsp;

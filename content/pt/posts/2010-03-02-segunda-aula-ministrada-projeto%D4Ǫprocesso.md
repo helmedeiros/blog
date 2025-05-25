@@ -23,4 +23,18 @@ Segue a baixo a segunda aula ministrada a disciplina de engenharia de software d
 
 Foi apresentado os componentes de um projeto de software e discutimos alguns cenários e qual a influência de cada um destes no resultado final, sucesso ou falha no projeto. Vimos conceitos de engenharia de software e sua necessidade em encaminhar por meio de técnicas para software com qualidade, entregas repetíveis que atendam as necessidades mas que custe pouco ou que, sejam interessantes comparando custo e ROI.
 
-[slideshare id=3321154&doc=unp-aula2-100302190530-phpapp02]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3321154"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

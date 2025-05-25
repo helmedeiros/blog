@@ -16,4 +16,18 @@ tags:
   - UnP
 ---
 
-The fifth class taught in the Systems of Information course at UnP began presenting agile methodologies as another strategy in empirical processes for us to work focused on quality with fixed costs and varied scope. [slideshare id=3392936&doc=unp-aula5-100310231121-phpapp02]
+The fifth class taught in the Systems of Information course at UnP began presenting agile methodologies as another strategy in empirical processes for us to work focused on quality with fixed costs and varied scope. <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3392936"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
