@@ -8,8 +8,8 @@ categories:
   - Uncategorized
 ---
 
-I bring the good news:
+I bring the good news with this first post:
 I'm starting today this new experience, creating my first personal blog.
-And bad news too:
+And the bad news too:
 I still haven't decided how to start the work...
-Then... stay tuned!
+So... stay alert!
