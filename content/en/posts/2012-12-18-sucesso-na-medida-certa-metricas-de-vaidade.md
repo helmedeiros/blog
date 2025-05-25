@@ -99,7 +99,21 @@ And who knows when we do that, we put our strategy on paper like a rough map, wh
 
 Think always, act as if, and remove what's not aligned as soon as possible. 
 <p style="text-align: center">
- [slideshare id=15678328&doc=desconf2012-metricasdevaidade-121217200546-phpapp02] 
+ <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/15678328"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div> 
 </p>
 
 [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"

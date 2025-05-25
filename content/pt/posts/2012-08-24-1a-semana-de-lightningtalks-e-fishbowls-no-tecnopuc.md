@@ -43,7 +43,21 @@ Muitas empresas tem se mantido congelados na estratégia inicial de [cenários][
 O Desenvolvimento Orientado a Testes ou TDD, é uma técnica para desenvolvimento de software, criada/apresentada pelo [Kent Beck][11], que nos direciona ao trabalho baseado em escolhas conscientes e minimamente viáveis, estimulando o aumento na confiança sobre oque está sendo entregue. O TDD trabalha a ordem e o modo que entregamos novas funcionalidades, automatizando nossas listas de critérios de aceitação ou funcionalidades internas do sistema, com pequenos passos seguros que permitem num curto tempo a execução destes planos, assim como crescimentos de aplicações de forma a sabermos quando tudo está certo ou não!! Valores como [CORAGEM][12] e [FEEDBACK][13] da [Extreme Programming][14] são reforçados, quanto mais você anda com feedback constante sobre o efeito de suas alterações no resto do código, maior sua coragem para abraçar mudanças e realmente evoluir sua aplicação.
 
 <p style="text-align: center">
-  [slideshare id=14055677&doc=testdrivendevelopment-embuscadefeedbackutileconcreto-120823190008-phpapp02]
+  <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/14055677"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>
 </p>
 
  [1]: http://jorgekotickaudy.wordpress.com/2012/08/23/2308-4o-dia-semana/ "4º dia"

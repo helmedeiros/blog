@@ -26,4 +26,18 @@ tags:
 ---
 Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.
 
-[slideshare id=3687352&doc=unp-aula13-100410222236-phpapp01]
+<div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3687352"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div>

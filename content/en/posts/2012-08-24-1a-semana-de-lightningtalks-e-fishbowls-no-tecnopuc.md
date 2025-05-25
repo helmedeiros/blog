@@ -55,7 +55,21 @@ TDD works the order and manner in which we deliver new functionalities, automati
 
 Values such as [CORAGEM][12] and __MD_Ref_12__ of [Extreme Programming][14] are reinforced, the more you walk with constant feedback about the effect of your changes on the rest of the code, the greater your courage to embrace changes and really evolve your application. 
 <p style="text-align: center">
- [slideshare id=14055677&doc=testdrivendevelopment-embuscadefeedbackutileconcreto-120823190008-phpapp02] 
+ <div style="margin-bottom: 20px;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/14055677"
+        width="595"
+        height="485"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+        allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
+</div>
+</div> 
 </p>
 
 [2]: http://jorgekotickaudy.wordpress.com/2012/08/14/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/ "1ª Semana de Lightining talks e Fishbowls no Tecnopuc"
