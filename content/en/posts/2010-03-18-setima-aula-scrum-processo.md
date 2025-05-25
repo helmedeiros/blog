@@ -4,13 +4,12 @@ author: helio
 layout: post
 date: 2010-03-18T03:18:19+00:00
 url: /2010/03/18/setima-aula-scrum-processo/
-idptt_tweeted:
-  - 1
+idptt_tweeted: 
 categories:
   - Uncategorized
 tags:
   - burndown
-  - Engenharia de Software
+  - Engenharia Software
   - planning poker
   - product backlog
   - SCRUM
@@ -24,6 +23,6 @@ tags:
   - user story
 ---
 
-Second presentation on the agile SCRUM methodology taught alongside Potiguar University. In this class, the stages and benefits brought to projects that adopt this methodology are defined.
+Second presentation on the agile SCRUM methodology taught alongside Potiguar University.
 
-[slideshare id=3462783&doc=unp-aula7-100317220152-phpapp01]
+In this class, the stages and benefits brought to projects that adopt this methodology are defined. [slideshare id=3462783&doc=unp-aula7-100317220152-phpapp01]

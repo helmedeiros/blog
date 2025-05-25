@@ -1,11 +1,11 @@
 ---
-title: "Usage Diagram: PARKING"
+title: "Usage"
+Diagram: PARKING"
 author: helio
 layout: post
 date: 2008-07-12T02:48:10+00:00
 url: /2008/07/12/diagrama-de-casos-de-uso-estacionamento/
-dsq_thread_id:
-  - 4969844895
+dsq_thread_id: 
 categories:
   - UML
 ---
@@ -18,11 +18,12 @@ To help, Bruno's sister is developing an application for parking control.
 
 When a vehicle enters the parking lot, the attendant observes its plate number and it is registered along with the vehicle model and color.
 
-The entry time is generated automatically, corresponding to the moment of the plate registration. After parking the vehicle, the customer takes the ticket where the following information is printed: the license plate number, vehicle model, color, date, and entry time.
+The entry time is generated automatically, corresponding to the moment of the plate registration.
 
-When returning to the parking lot, the customer delivers the ticket. The time of permanence is calculated. Considering this time of permanence, the price table is applied, knowing that the Saturday table is not the same as weekdays' tables, and sometimes, depending on the year's season, owners launch promotions during weekdays
+After parking the vehicle, the customer takes the ticket where the following information is printed: the license plate number, vehicle model, color, date, and entry time.
 
-**USAGE CASE DIAGRAM**
+When returning to the parking lot, the customer delivers the ticket.
 
-<img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/estacionamento.png" alt="Usage Case Diagram Parking Lot" height="425" width="656" />
+The time of permanence is calculated.
 
+Considering this time of permanence, the price table is applied, knowing that the Saturday table is not the same as weekdays' tables, and sometimes, depending on the year's season, owners launch promotions during weekdays **USAGE CASE DIAGRAM** <img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/estacionamento.png" alt="Usage Case Diagram Parking Lot" height="425" width="656" />
