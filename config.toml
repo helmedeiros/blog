@@ -20,6 +20,7 @@ theme = "beautifulhugo"
 
 [params]
   subtitle = "Technology insights and agile development"
+  comments = false
 
 [markup]
   [markup.goldmark]

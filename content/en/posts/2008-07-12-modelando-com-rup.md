@@ -14,74 +14,76 @@ tags:
   - template
 ---
 
-We had a debate in our Master's class over the last few days about <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front" title="Big Design Up Front" target="_blank">BDUF</a>, and whether it would be possible to reduce the baggage of non-compilable documents by composing new templates together with RUP, as some professionals from the school scope have suggested. The Rational Unified Process (RUP) is a software engineering process that offers an approach based on disciplines to assign tasks and responsibilities within a development organization; guided by the principles <a href="http://www.ibm.com/developerworks/rational/library/oct05/kroll/index.html" title="ABCDE" target="_blank">ABCDE</a> of <a href="http://www.devx.com/ibm/Article/30308" title="Business Driven Development" target="_blank">BDD</a>, which ensures a flexible process with management of priority levels and collaboration among team members. Therefore, we tried to create this template that would fit well into our daily needs.
+We had a debate in our Master's class over the last few days about <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front" title="Big Design Up Front" target="_blank">BDUF</a>, and whether it would be possible to reduce the baggage of non-compilable documents by composing new templates together with RUP, as some professionals from the school scope have suggested.
 
-**Discipline**: Environment
+The Rational Unified Process (RUP) is a software engineering process that offers an approach based on disciplines to assign tasks and responsibilities within a development organization; guided by the principles <a href="http://www.ibm.com/developerworks/rational/library/oct05/kroll/index.html" title="ABCDE" target="_blank">ABCDE</a> of <a href="http://www.devx.com/ibm/Article/30308" title="Business Driven Development" target="_blank">BDD</a>, which ensures a flexible process with management of priority levels and collaboration among team members.
 
-**Activity**: Preparing the project environment
+Therefore, we tried to create this template that would fit well into our daily needs. **Discipline**:
 
-**Task**: Developing the case study
+Environment **Activity**:
 
-**Artifact**: Software Development Plan
+Preparing the project environment **Task**:
 
-**Included Artifacts**:
+Developing the case study **Artifact**:
 
-- [Artefato: Guia de Modelagem de Caso de Uso][1]
-- [Artefato: Guia de Interface do Usuário][2]
-- <u>[<u>Artefato: Plano de Gerenciamento de Riscos</u>][3]</u>
-- [Artefato: Guia de Teste][4]
-- <u>[<u>Artefato: Plano de Garantia de Qualidade</u>][5]</u>
+Software Development Plan **Included Artifacts**:
 
-**Discipline**: Business Modeling
+ - [Artefato:
 
-**Activity**:
+Guia Modelagem Caso Uso][1]
 
-- [Explorar automação de processos][6]
+ - [Artefato:
 
-**Artifact**:
+Guia Interface Usuário][2]
 
-- [Visão do negócio][7]
+ - <u>[<u>Artefato:
 
-**Discipline**: Requirements
+Plano Gerenciamento Riscos</u>][3]</u>
 
-**Activity**:
+ - [Artefato:
 
-- [Definir o sistema][8]
+Guia Teste][4]
 
-**Task**:
+ - <u>[<u>Artefato:
 
-- [Desenvolver Visão][9]
+Plano Garantia quality</u>][5]</u> **Discipline**:
 
-**Artifact**:
+Business Modeling **Activity**:
 
-- [Visão][10]
+ - [Explorar automação de processos][6] **Artifact**:
 
-**Discipline**: Project Management
+ - [Visão do negócio][7] **Discipline**:
 
-**Activity**:
+Requirements **Activity**:
 
-- Identify and analyze risks
-- Plan phases and iterations
-- Select team
-- Compile software development plan
-- Review project approval
-- Schedule and assign work
+ - [Definir o sistema][8] **Task**:
 
-**Artifact**:
+ - [Desenvolver Visão][9] **Artifact**:
 
-- [Plano de Desenvolvimento de Software][11]
+ - [Visão][10] **Discipline**:
 
-**Discipline**: Analysis and Design
+Project Management **Activity**:
 
-**Activity**:
+ - Identify and analyze risks
 
-- [Realizar Síntese Arquitetural][12]
+ - Plan phases and iterations
 
-**Task:**
+ - Select team
 
-- <a href="http://www.wthreex.com/rup/process/activity/ac_arcan.htm" target="_blank">Análise arquitetural</a>
+ - Compile software development plan
 
-**Artifact**:
+ - Review project approval
 
-- [Arquitetura de Referência][13]
-- [Documento de Arquitetura de Software][14]
+ - Schedule and assign work **Artifact**:
+
+ - [Plano Desenvolvimento Software][11] **Discipline**:
+
+Analysis and Design **Activity**:
+
+ - [Realizar Síntese Arquitetural][12] **Task:**
+
+ - <a href="http://www.wthreex.com/rup/process/activity/ac_arcan.htm" target="_blank">Análise arquitetural</a> **Artifact**:
+
+ - [Arquitetura Referência][13]
+
+ - [Documento Arquitetura Software][14]

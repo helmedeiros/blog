@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2009-10-22T05:31:22+00:00
 url: /2009/10/22/scrum-no-congresso-cientifico-da-unp/
-idptt_tweeted:
-  - 1
+idptt_tweeted: 
 categories:
   - Ageis
   - Eventos
@@ -19,6 +18,12 @@ On days 22 and 23 of October, your <a href="http://congressocientifico.unp.br/jp
 
 This year I was invited by the course direction of systems of information to give a mini-SCRUM course, "How to transform teams into high-performance teams with repetitive value deliveries to clients in eight hours".
 
-I attended as a student some of these congresses listening to lectures from my current boss Prof. Paulo Benício about Open-GL programming, at the time the congresses were excellent and I hope this year will be even better!
+I attended as a student some of these congresses listening to lectures from my current boss Prof.
 
-The <a href="http://admin.unp.br/UserFiles/File/Atividades_Programacao_19%2010%202009.pdf" target="_blank">programação</a> is quite different, presenting current topics. Well, you can't miss it anyway! See you there!
+Paulo Benício about Open-GL programming, at the time the congresses were excellent and I hope this year will be even better!
+
+The <a href="http://admin.unp.br/UserFiles/File/Atividades_Programacao_19%2010%202009.pdf" target="_blank">programação</a> is quite different, presenting current topics.
+
+Well, you can't miss it anyway!
+
+See you there!

@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2009-11-07T23:27:21+00:00
 url: /2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/
-dsq_thread_id:
-  - 4969845367
+dsq_thread_id: 
 categories:
   - Eventos
 tags:
@@ -32,7 +31,9 @@ tags:
   - VRaptor3
 ---
 
-<p style="__PLACEHOLDER__">The conference started with a keynote speech by Fábio Kung, who presented an overview of cloud computing and its applications. He also mentioned some challenges he faced while implementing cloud solutions in his previous company.</p>
+<p style="">
+ The conference started with a keynote speech by Fábio Kung, who presented an overview of cloud computing and its applications.
 
-... (rest of the text)
-
+He also mentioned some challenges he faced while implementing cloud solutions in his previous company. 
+</p>
+ ... (rest of the text)

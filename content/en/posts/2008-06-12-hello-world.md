@@ -8,9 +8,7 @@ categories:
   - Uncategorized
 ---
 
-I'm bringing good news with this first post:
-
-**I am** starting **today** this new experience, **creating** my **first** **blog** personal.
+I'm bringing good news with this first post: **I am** starting **today** this new experience, **creating** my **first** **blog** personal.
 
 And bad news too:
 
