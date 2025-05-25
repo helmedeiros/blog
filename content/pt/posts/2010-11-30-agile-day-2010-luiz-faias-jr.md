@@ -28,7 +28,7 @@ tags:
   - pucrs
 
 ---
-<figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-226" src="http://www.helmed.net/blog/wp-content/uploads/2010/11/adpoa10LuizFaias.jpg" alt="Luiz Faias Junior - Aprendizado" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/11/adpoa10LuizFaias.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/11/adpoa10LuizFaias-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption></figure> 
+<figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-226" src="/uploads/2010/11/adpoa10LuizFaias.jpg" alt="Luiz Faias Junior - Aprendizado" width="417" height="342" srcset="/uploads/2010/11/adpoa10LuizFaias.jpg 417w, /uploads/2010/11/adpoa10LuizFaias-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption></figure> 
 
 Na tarde do dia 29/11 tivemos a frente do palco do <a title="adpoa10" href="http://www.helmed.net/blog/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre o <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>,  diretor de tecnologia da <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente  aprendizagem!
 
@@ -90,4 +90,4 @@ VALEU LUIZ E ANDRÉ&#8230; por mais uma empresa que estimula as boas práticas e
 
 <a title="Apresentação" href="http://www.slideshare.net/bluesoftbr/construindo-uma-cultura-de-aprendizagem-5880225" target="_blank">Construindo uma cultura de aprendizagem </a>
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2010/11/adpoa10LuizFaias.jpg
+ [1]: /uploads/2010/11/adpoa10LuizFaias.jpg

@@ -26,19 +26,19 @@ The strategy of [oceano azul][1], is a book that teaches how to create and work 
 
 But "how can we escape the red ocean" find unexplored markets where you can be alone, or where competition is irrelevant, where differentiation by innovation can be done through value generated, which is directly pointed to by the market.
 
-The blue ocean may take you to nirvana. [<img class="aligncenter size-full wp-image-636" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/nirvanaManoel.png" alt="" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/nirvanaManoel.png 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/nirvanaManoel-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][2] A point of discomfort arises with the questioning about whether someone has already created an ocean?
+The blue ocean may take you to nirvana. [<img class="aligncenter size-full wp-image-636" src="/uploads/2012/09/nirvanaManoel.png" alt="" width="470" height="249" srcset="/uploads/2012/09/nirvanaManoel.png 470w, /uploads/2012/09/nirvanaManoel-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][2] A point of discomfort arises with the questioning about whether someone has already created an ocean?
 
 How do we get out of one ocean and enter another?
 
 Can we think in terms of competitive advantage?
 
-Or perhaps competitive implication? [<img class="size-full wp-image-638" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption> The implication of competition asks what value, rarity, difficulty of being imitated can be leveraged from the product (<http://en.wikipedia.org/wiki/VRIO>).
+Or perhaps competitive implication? [<img class="size-full wp-image-638" src="/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption> The implication of competition asks what value, rarity, difficulty of being imitated can be leveraged from the product (<http://en.wikipedia.org/wiki/VRIO>).
 
 Products are copiable!
 
 Strategies aren't, or perhaps it's more difficult!
 
-Then shall we apply VRIO to strategies? [<img class="size-full wp-image-638" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption> You discover the ocean, but you create the lake!
+Then shall we apply VRIO to strategies? [<img class="size-full wp-image-638" src="/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption> You discover the ocean, but you create the lake!
 
 So Manuel presents a new idea for not leaving the red ocean for the blue one, but rather creating an internal ecosystem within the red ocean through a green lake, which can be developed, designed, and later evolved, allowing for future connections to new markets in the blue ocean.
 

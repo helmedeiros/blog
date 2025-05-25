@@ -29,7 +29,7 @@ O <a title="Impala" href="http://en.wikipedia.org/wiki/Cloudera_Impala" target="
 
 Quando fazemos um deploy do Impala em nosso ambiente o que temos por baixo dos panos são dois daemons, o impalad e o _statestored_. O _impalad_ lida com todos os requestes dos clientes; o _statestored _ trata com todos os estados necessários ao funcionamento dos _daemons. _Cada requisição ao _Impala é feita via odbc/jdbc_, estas requisições são paralisadas por meio de planos de execução.<figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">arquitetura da cloudera impala</figcaption></figure> 
+[<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="/uploads/2014/04/cloudera_impala.jpg 468w, /uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">arquitetura da cloudera impala</figcaption></figure> 
 
 Quais são as melhorias trazidas pelo Impala ao HDFS?
 
@@ -40,4 +40,4 @@ Atualmente a vazão dos discos não são tão rápidos que possamos, acessá-los
 Por estas e outras melhorias _impala _se coloca 5-10x mais rápido que o <a title="Hive" href="http://hive.apache.org/" target="_blank"><em>Hive</em></a> para queries simples e 20-50x em queries complexas com joins.
 
  [1]: http://www.cloudera.com/content/cloudera/en/home.html "cloudera"
- [2]: http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg
+ [2]: /uploads/2014/04/cloudera_impala.jpg

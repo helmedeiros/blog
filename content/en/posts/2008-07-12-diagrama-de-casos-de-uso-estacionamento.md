@@ -26,4 +26,4 @@ When returning to the parking lot, the customer delivers the ticket.
 
 The time of permanence is calculated.
 
-Considering this time of permanence, the price table is applied, knowing that the Saturday table is not the same as weekdays' tables, and sometimes, depending on the year's season, owners launch promotions during weekdays **USAGE CASE DIAGRAM** <img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/estacionamento.png" alt="Usage Case Diagram Parking Lot" height="425" width="656" />
+Considering this time of permanence, the price table is applied, knowing that the Saturday table is not the same as weekdays' tables, and sometimes, depending on the year's season, owners launch promotions during weekdays **USAGE CASE DIAGRAM** <img src="/uploads/2008/07/estacionamento.png" alt="Usage Case Diagram Parking Lot" height="425" width="656" />

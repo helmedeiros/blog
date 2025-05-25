@@ -19,7 +19,7 @@ tags:
   - manoelep
 ---
 
-[<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013.png 478w, http://www.helmed.net/blog/wp-content/uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1] Today, June 26th, a day for one of the biggest protests of our new Brazilian change, we are gathered to start the largest agile methods event in the southern hemisphere.
+[<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1] Today, June 26th, a day for one of the biggest protests of our new Brazilian change, we are gathered to start the largest agile methods event in the southern hemisphere.
 
 The great [Manoel Pimentel][2], started working at 09:30h with the presentation of our honored guests and what they would be talking about.
 

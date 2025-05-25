@@ -24,7 +24,7 @@ tags:
   - vmware
 ---
 
-<img class="aligncenter size-full wp-image-94" src="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00655.jpg" alt="TDC 2009" width="417" height="280" srcset="http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00655.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2009/11/dsc00655-300x201.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /> Wednesday <a title="TDC RIO 2009" href="http://www.thedevelopersconference.com.br:80/tdc/2009/rio/programacao.seam" target="_blank">TDC Rio</a>, one of the most anticipated talks is by Rod Johnson, creator of Spring and responsible for <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" target="_blank">por livros muito interessantes</a>.
+<img class="aligncenter size-full wp-image-94" src="/uploads/2009/11/dsc00655.jpg" alt="TDC 2009" width="417" height="280" srcset="/uploads/2009/11/dsc00655.jpg 417w, /uploads/2009/11/dsc00655-300x201.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /> Wednesday <a title="TDC RIO 2009" href="http://www.thedevelopersconference.com.br:80/tdc/2009/rio/programacao.seam" target="_blank">TDC Rio</a>, one of the most anticipated talks is by Rod Johnson, creator of Spring and responsible for <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" target="_blank">por livros muito interessantes</a>.
 
 The talk started at 10:00h and discussed changes and trends from his point of view.
 

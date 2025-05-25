@@ -34,7 +34,7 @@ When we deploy Impala in our environment, what's behind the scenes are two daemo
 
 The _impalad_ handles all client requests; the _statestored_ deals with all necessary states for the operation of the _daemons_.
 
-Each request to _Impala_ is made via odbc/jdbc_; these requests are paused by means of execution plans. <figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">Cloudera Impala architecture</figcaption></figure> What are the improvements brought by Impala to HDFS?
+Each request to _Impala_ is made via odbc/jdbc_; these requests are paused by means of execution plans. <figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="/uploads/2014/04/cloudera_impala.jpg 468w, /uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">Cloudera Impala architecture</figcaption></figure> What are the improvements brought by Impala to HDFS?
 
 First, Impala is concerned with low-latency queries and for this, it doesn't exclude distributed scenarios, such as co-located replicas blocked, by local reading versus network speed.
 

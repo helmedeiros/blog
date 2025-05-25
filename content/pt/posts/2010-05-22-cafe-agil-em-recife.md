@@ -24,7 +24,7 @@ tags:
 ---
 No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o <a title="cafe ágil" href="http://www.thoughtworks.com/cafe-agil-em-recife" target="_blank">Café Ágil</a>. Esta iniciativa da [ThoughtWorks Brazil][1] juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
 
-[<img class="aligncenter size-full wp-image-199" src="http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+[<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
 
 O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa. Conheci de cara o pessoal do SCRUM Paraíba e confesso que não sabia da existência do grupo até aquele momento.
 
@@ -61,4 +61,4 @@ Segundo Borba um dos principais problemas na implantação é a cultura da impla
 <a title="fotos Café Ágil" href="http://www.flickr.com/photos/heliomedeiros/sets/72157623961656217/with/4617934563/" target="_blank">Fotos do evento</a>
 
  [1]: http://www.thoughtworks.com/developer-porto-alegre
- [2]: http://www.helmed.net/blog/wp-content/uploads/2010/05/DSC04067.jpg
+ [2]: /uploads/2010/05/DSC04067.jpg

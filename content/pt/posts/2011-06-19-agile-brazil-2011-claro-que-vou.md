@@ -26,7 +26,7 @@ Este ano o <a title="Agile Brazil" href="http://agilebrazil.com" target="_blank"
 
 Para que não ficasse assim tão simples minha participação nos eventos,  quando estava em Natal/RN invejava a distância, após 6 meses de minha mudança para Porto Alegre para trabalhar junto a equipe de _services_ da Dell, fui aceito para apresentar no <a title="Agile Brazil 2011" href="http://www.agilebrazil.com/" target="_blank">Agile Brazil 2011</a> dois lightining talks bem pertinho de onde saí. Então vamos a um resumo sobre o que vou apresentar!!<figure id="attachment_359" style="width: 250px" class="wp-caption alignleft">
 
-[<img class="size-full wp-image-359" src="http://www.helmed.net/blog/wp-content/uploads/2011/06/banner-250.png" alt="Agile Brazil 2011" width="250" height="354" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/06/banner-250.png 250w, http://www.helmed.net/blog/wp-content/uploads/2011/06/banner-250-211x300.png 211w" sizes="(max-width: 250px) 100vw, 250px" />][1]<figcaption class="wp-caption-text">Agile Brazil 2011</figcaption></figure> 
+[<img class="size-full wp-image-359" src="/uploads/2011/06/banner-250.png" alt="Agile Brazil 2011" width="250" height="354" srcset="/uploads/2011/06/banner-250.png 250w, /uploads/2011/06/banner-250-211x300.png 211w" sizes="(max-width: 250px) 100vw, 250px" />][1]<figcaption class="wp-caption-text">Agile Brazil 2011</figcaption></figure> 
 
 **Dia 27 e 28 de Junho:**
   
@@ -74,4 +74,4 @@ Esperem por mais notícias durante o evento, estarei diariamente postando sobr
 
 &nbsp;
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2011/06/banner-250.png
+ [1]: /uploads/2011/06/banner-250.png

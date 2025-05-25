@@ -31,13 +31,13 @@ tags:
   - pucrs
 
 ---
-<figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-217" src="http://www.helmed.net/blog/wp-content/uploads/2010/11/agileday2010.jpg" alt="Agile day 2010" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/11/agileday2010.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/11/agileday2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Agile day 2010</figcaption></figure> 
+<figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-217" src="/uploads/2010/11/agileday2010.jpg" alt="Agile day 2010" width="417" height="342" srcset="/uploads/2010/11/agileday2010.jpg 417w, /uploads/2010/11/agileday2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Agile day 2010</figcaption></figure> 
 
 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
 
 A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção! Ele disse que estes eram os caras que ele respeitava.<figure id="attachment_215" style="width: 417px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-215" src="http://www.helmed.net/blog/wp-content/uploads/2010/11/KlausAgileDay2010.jpg" alt="Klaus Wuestefeld" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/11/KlausAgileDay2010.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/11/KlausAgileDay2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]<figcaption class="wp-caption-text">Klaus Wuestefeld Agile Day 2010</figcaption></figure> 
+[<img class="size-full wp-image-215" src="/uploads/2010/11/KlausAgileDay2010.jpg" alt="Klaus Wuestefeld" width="417" height="342" srcset="/uploads/2010/11/KlausAgileDay2010.jpg 417w, /uploads/2010/11/KlausAgileDay2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]<figcaption class="wp-caption-text">Klaus Wuestefeld Agile Day 2010</figcaption></figure> 
 
 Logo em seguida o Klaus começou a apresentar um pouco da sua historia, desde a casa dos amigos com o código do caça-níquel, escapando de métodos formais após a ida ao evento XP na Itália em 2000 e  passando pelo plug-in Byecycle &#8211; fractal feito com o Kent beck em uma semana até o dia de hoje e o agile day e o dilema a ser tratado nesta palestra&#8230; Como e até quanto ponderar qualidade de um projeto mediante o pedido imediatista de urgencia de seu P.O.. pois se temos duas variáveis e teoricamente só podemos aumentar uma, diminuindo a outra&#8230;
 
@@ -63,5 +63,5 @@ Por fim devemos nos preocupar com padrões e boas práticas técnicas ao invés 
 
 Klaus terminou sua palestra com um ditado do GO, &#8220;perca suas primeiras cem partidas a mais rápido possível&#8221;.
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2010/11/agileday2010.jpg
- [2]: http://www.helmed.net/blog/wp-content/uploads/2010/11/KlausAgileDay2010.jpg
+ [1]: /uploads/2010/11/agileday2010.jpg
+ [2]: /uploads/2010/11/KlausAgileDay2010.jpg

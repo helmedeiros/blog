@@ -26,6 +26,6 @@ O cliente pode cadastrar seções de interesse, a fim de receber os novos anúnc
 
 DIAGRAMA DE CLASSES
 
-<img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/classificado-na-web-diagrama-de-classe.png" alt="Diagrama de Classes Classificados Web" height="367" width="682" />
+<img src="/uploads/2008/07/classificado-na-web-diagrama-de-classe.png" alt="Diagrama de Classes Classificados Web" height="367" width="682" />
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2008/07/classificado-na-web.png
+ [1]: /uploads/2008/07/classificado-na-web.png

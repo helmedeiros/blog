@@ -11,7 +11,7 @@ seo_noindex:
   - 'false'
 
 ---
-[<img class="aligncenter size-full wp-image-571" title="About Me" src="http://www.helmed.net/blog/wp-content/uploads/2008/02/IMG_0379.jpg" alt="" width="750" height="250" srcset="http://www.helmed.net/blog/wp-content/uploads/2008/02/IMG_0379.jpg 750w, http://www.helmed.net/blog/wp-content/uploads/2008/02/IMG_0379-300x100.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][1]
+[<img class="aligncenter size-full wp-image-571" title="About Me" src="/uploads/2008/02/IMG_0379.jpg" alt="" width="750" height="250" srcset="/uploads/2008/02/IMG_0379.jpg 750w, /uploads/2008/02/IMG_0379-300x100.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
 <p class="snap_preview">
   Sou <strong>Hélio Cabral Medeiros</strong>, desenvolvo software a alguns anos. Sou entusiasta por desenvolvimento ágil de software e os benefícios que ele nos porporciona em nossa constante jornada por mais tempo livre para aprender.
@@ -42,4 +42,4 @@ Este blog trará minhas opniões e pensamentos em orientação a objetos, desenv
   * Youtube: <a title="Youtube" href="http://www.youtube.com/helmed" target="_blank">http://www.youtube.com/helmed</a>
   * Tumblr: <a title="Tumblr" href="http://heliomedeiros.tumblr.com" target="_blank">http://heliomedeiros.tumblr.com</a>
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2008/02/IMG_0379.jpg
+ [1]: /uploads/2008/02/IMG_0379.jpg

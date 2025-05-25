@@ -16,7 +16,7 @@ categories:
   - Metodologias
 
 ---
-[<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="http://www.helmed.net/blog/wp-content/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="http://www.helmed.net/blog/wp-content/uploads/2013/06/unlockingourhumanpotential.png 470w, http://www.helmed.net/blog/wp-content/uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
+[<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 
 Existe mais para o desenvolvimento de produtos do que apenas o desenvolvê-os. O patrcik já trabalha há algum tempo com software, e muitos problemas depois ele vê métodos ágeis como a forma de fazê-lo potencializando o pensamento.
 
@@ -40,4 +40,4 @@ A mensagem final, pense em autonomia, excelência e propósito, cooperação e l
 
 [slideshare id=23530373&doc=unlockingourhumanpotential-130626141837-phpapp02]
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2013/06/unlockingourhumanpotential.png
+ [1]: /uploads/2013/06/unlockingourhumanpotential.png

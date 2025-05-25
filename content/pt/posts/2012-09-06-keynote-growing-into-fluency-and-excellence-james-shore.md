@@ -48,17 +48,17 @@ Por fim se alterou a cultura organizacional e a fluência em se entregar de form
 
 Este crescimento aconteceu muito rapidamente mas com uma progressão natural, não só apresentando mas realmente particionando a vivência de realmente melhorar, de entregar não só valor, mais o maior valor possível! Excelente não?<figure id="attachment_619" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-619" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/diagramaInicial.png" alt="O caminho de uma equipe através de fluência ágil " width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/diagramaInicial.png 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/diagramaInicial-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][8]<figcaption class="wp-caption-text">O caminho de uma equipe através de fluência ágil</figcaption></figure> 
+[<img class="size-full wp-image-619" src="/uploads/2012/09/diagramaInicial.png" alt="O caminho de uma equipe através de fluência ágil " width="470" height="249" srcset="/uploads/2012/09/diagramaInicial.png 470w, /uploads/2012/09/diagramaInicial-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][8]<figcaption class="wp-caption-text">O caminho de uma equipe através de fluência ágil</figcaption></figure> 
 
 O James shore se apresentou como um amante de bom código, e uma coisa que ele acha incrível é como grandes empresas não se importam com isso, e tem um péssimo código, que os trava em melhorar suas entregas, de forma que eles não conseguem realmente alcançar as mudanças no negócio necessários, e aqui está realmente o valor da equipe, e enquanto todos conseguem satisfazer seus clientes, você passa a só entregar fora do tempo de mercado. Então ambos estão diretamente ligados e por isso o crescimento das habilidades da equipe não podem ser esquecidos quando falamos de agilidade. Mas não só isso, se as pessoas do seu time e você não estiverem preocupado com o sucesso das pessoas, elas vão acabar procurando outros que o façam. E estes itens são indispensáveis para a melhoria e atingir uma real excelência. &#8220;Bons negócios formam uma empresa, a tecnologia ruim mata a empresa e cola de isto tudo são as pessoas&#8221;.<figure id="attachment_616" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-616" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/internaEstrela.jpg 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Componentes de um ambiente fluente</figcaption></figure> 
+[<img class="size-full wp-image-616" src="/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="/uploads/2012/09/internaEstrela.jpg 470w, /uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Componentes de um ambiente fluente</figcaption></figure> 
 
 Para o James não deve ser o objetivo de todos atingir as 4 estrelas, por que as empresas são diferentes e possuem recursos diferentes, e equipe diferente, e todos estes níveis provêem grande vantagem sobre os outros e fluência em algum destes já o faz melhor ainda do que já é. Uma estrela lhe faz fluente em Fundamentos Ágeis, com a segunda estrela você atingiu uma sustentabilidade Agil, a terceira é uma promessa Agile, e por fim o futuro do ágil. Mas novamente sua empresa deve buscar o crescimento mas o objetivo não deve ser realmente mais ágil mas sim usá-la a teu favor.
 
 Mas como sabemos onde estamos, para avaliarmos se o próximo passo é onde queremos estar? Que tal métricas? Então quem sabe depois de encontrar todo este caminho para a qualidade possamos realmente agradecer e ter certeza que estamos trabalhando nos melhores lugares no melhor momento de nossas vidas!!
 
-[<img class="aligncenter size-full wp-image-618" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/jamesShoreAndI.png" alt="" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/jamesShoreAndI.png 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/jamesShoreAndI-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][10]
+[<img class="aligncenter size-full wp-image-618" src="/uploads/2012/09/jamesShoreAndI.png" alt="" width="470" height="249" srcset="/uploads/2012/09/jamesShoreAndI.png 470w, /uploads/2012/09/jamesShoreAndI-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][10]
 
  [1]: https://twitter.com/jamesshore "@jamesshore"
  [2]: http://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming"
@@ -67,6 +67,6 @@ Mas como sabemos onde estamos, para avaliarmos se o próximo passo é onde quere
  [5]: http://www.languagehunters.org/ "language hunters"
  [6]: http://en.wikipedia.org/wiki/Charlie_Rose "Charlie Rose"
  [7]: http://martinfowler.com/articles/agileFluency.html "agileFluency"
- [8]: http://www.helmed.net/blog/wp-content/uploads/2012/09/diagramaInicial.png
- [9]: http://www.helmed.net/blog/wp-content/uploads/2012/09/internaEstrela.jpg
- [10]: http://www.helmed.net/blog/wp-content/uploads/2012/09/jamesShoreAndI.png
+ [8]: /uploads/2012/09/diagramaInicial.png
+ [9]: /uploads/2012/09/internaEstrela.jpg
+ [10]: /uploads/2012/09/jamesShoreAndI.png

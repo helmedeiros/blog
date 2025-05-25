@@ -26,4 +26,4 @@ São controles oferecidos pela aplicação:
 
 DIAGRAMA DE CASOS DE USO
 
-<img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/controle-de-obras.png" alt="Minicenário: CONTROLE DE OBRAS" height="426" width="642" />
+<img src="/uploads/2008/07/controle-de-obras.png" alt="Minicenário: CONTROLE DE OBRAS" height="426" width="642" />

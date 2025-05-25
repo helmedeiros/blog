@@ -27,4 +27,4 @@ Considere que todas as operações são realizadas pelo jairo, que pode ser iden
   
 ![Diagrama de Casos de Uso Bolão][1]
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2008/07/controle-bolao.png
+ [1]: /uploads/2008/07/controle-bolao.png

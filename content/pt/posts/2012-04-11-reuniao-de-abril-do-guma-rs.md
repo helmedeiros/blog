@@ -22,7 +22,7 @@ tags:
   - se virol
 
 ---
-[<img class="aligncenter size-full wp-image-508" src="http://www.helmed.net/blog/wp-content/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/04/gumaJuly.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
+[<img class="aligncenter size-full wp-image-508" src="/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="/uploads/2012/04/gumaJuly.jpg 417w, /uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
 Aconteceu hoje, **11 de Abril de 2012, **na Faculdade de Informática da PUC-RS sala 516**,** mais uma reunião do Grupo de Usuários de Metodologias Ágeis do Rio Grande do Sul. Realmente tem valido a pena estar em terras gauchas!! Grandes talks, muito networking e várias idéias&#8230;.
 
@@ -102,7 +102,7 @@ Não é de hoje que muitos seguem a estrada do [But this but that][11] e adentra
 
 &nbsp;
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2012/04/gumaJuly.jpg
+ [1]: /uploads/2012/04/gumaJuly.jpg
  [2]: http://twitter.com/marcoenes
  [3]: https://twitter.com/meganti_br "Meganti"
  [4]: http://manifestoagil.com.br/ "Manifesto ágil"

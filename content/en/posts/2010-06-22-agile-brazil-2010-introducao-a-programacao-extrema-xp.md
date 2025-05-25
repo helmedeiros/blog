@@ -24,9 +24,9 @@ At this hour, the experience and openness of the speakers will make all the diff
 
 I saw an unconventional format that caught my attention and with some contacts, I chose the first course I would participate in at the event.
 
-Good grade, good instructors, and many participants; bring your notebook because we'll implement something in an extreme universe... it could only be very interesting. [<img class="aligncenter size-full wp-image-206" src="http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC04413.jpg" alt="XP
+Good grade, good instructors, and many participants; bring your notebook because we'll implement something in an extreme universe... it could only be very interesting. [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP
 
- - AgileBrazil2010" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC04413.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1] The <a title="XP" href="http://www.agilebrazil.com/2010/pt/xp.html" target="_blank">Introdução a programação Extrema</a> course started at 10:00 am on June 22nd with Bruno Pedroso, Dairton Bassi, Daniel Wildt, Giovanni Bassi, Hugo Corbucci, and Renato Willi sharing a bit about their career paths.
+ - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1] The <a title="XP" href="http://www.agilebrazil.com/2010/pt/xp.html" target="_blank">Introdução a programação Extrema</a> course started at 10:00 am on June 22nd with Bruno Pedroso, Dairton Bassi, Daniel Wildt, Giovanni Bassi, Hugo Corbucci, and Renato Willi sharing a bit about their career paths.
 
 At this point, an element emerged that would be part of most of the event, namely <a title="Pomodoro" href="http://www.pomodorotechnique.com/" target="_blank">POMODORO TIMER</a>, as there was a vast subject to be explored and even more baggage of examples, cases, and other things from our 6 instructors' domain; but there was a path to follow to reach the expected content, and tomatoes were defined for each theme, with each one taking turns until it sounded for the first time, and we began our immersion in XP.
 
@@ -46,9 +46,9 @@ Some consecutive tomatoes explored history, the XP life cycle, principles, value
 
 As usual, several teams failed to execute, with some parts of the team involved in practices and others not, something quite common in our daily lives.
 
-In the afternoon, there was a paired development session on a simple problem, converting numbers from English to writing, done in groups. <figure id="attachment_205" style="width: 417px" class="wp-caption aligncenter"> [<img class="size-full wp-image-205" src="http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC044221.jpg" alt="XP
+In the afternoon, there was a paired development session on a simple problem, converting numbers from English to writing, done in groups. <figure id="attachment_205" style="width: 417px" class="wp-caption aligncenter"> [<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP
 
- - Agile Brazil 2010" width="417" height="342" srcset="http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC044221.jpg 417w, http://www.helmed.net/blog/wp-content/uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]</figcaption>XP
+ - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]</figcaption>XP
 
  - Agile Brazil 2010</figcaption></figure> The course was a continuous learning experience that led us to have more ATTITUDE, strengthen our COMMUNICATION by working as a TEAM and continuously improving!!
 

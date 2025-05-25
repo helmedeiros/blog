@@ -1,0 +1,26 @@
+fix: resolve broken image paths in blog posts
+
+This commit fixes all broken images in the blog by addressing two main issues:
+
+1. **Moved images to correct Hugo location**: All images were previously stored
+   in `content/pt/posts/wp-content/uploads/` but Hugo expects static assets
+   in the `static/` directory. Moved all images to `static/uploads/` to follow
+   Hugo's conventions.
+
+2. **Updated image references in markdown files**: All blog posts were still
+   referencing the old WordPress domain `http://www.helmed.net/blog/wp-content/uploads/`.
+   Updated 71 markdown files across both English and Portuguese content to use
+   relative paths `/uploads/` instead.
+
+The images were always present in the repository but were inaccessible due to
+incorrect paths and location. This fix ensures all historical blog post images
+display correctly without requiring external dependencies on the old domain.
+
+Changes:
+- Moved wp-content/uploads/ → static/uploads/
+- Updated image URLs in 71 markdown files
+- Removed duplicate wp-content directory
+- Verified images are accessible via Hugo server
+
+All images spanning from 2008-2016 are now properly served and display correctly
+in both development and production environments.

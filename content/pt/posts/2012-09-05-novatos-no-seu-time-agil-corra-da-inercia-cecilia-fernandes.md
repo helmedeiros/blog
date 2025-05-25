@@ -23,7 +23,7 @@ tags:
   - Cecilia Fernandes
 
 ---
-<figure id="attachment_606" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-606" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/corraDaInerciaCecilia.jpg" alt="Evitando mudanças" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/corraDaInerciaCecilia.jpg 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/corraDaInerciaCecilia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]<figcaption class="wp-caption-text">Evitando mudanças</figcaption></figure> 
+<figure id="attachment_606" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-606" src="/uploads/2012/09/corraDaInerciaCecilia.jpg" alt="Evitando mudanças" width="470" height="249" srcset="/uploads/2012/09/corraDaInerciaCecilia.jpg 470w, /uploads/2012/09/corraDaInerciaCecilia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]<figcaption class="wp-caption-text">Evitando mudanças</figcaption></figure> 
 
 Começou falando sobre [inércia][2], explicando que inércia não quer dizer parado, mas pode ser … Então como fugir deste comportamento com os novatos?
 
@@ -37,7 +37,7 @@ Neste momento paramos para fazer duas práticas primeiramente questionamento, &#
 
 &nbsp;<figure id="attachment_607" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-607" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/identificandoInercia.jpg" alt="Identificando Inércia" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/identificandoInercia.jpg 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/identificandoInercia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">Identificando Inércia</figcaption></figure> <figure id="attachment_608" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-608" src="http://www.helmed.net/blog/wp-content/uploads/2012/09/resgatandoAgilidade.jpg" alt="Resgatando Agilidade" width="470" height="249" srcset="http://www.helmed.net/blog/wp-content/uploads/2012/09/resgatandoAgilidade.jpg 470w, http://www.helmed.net/blog/wp-content/uploads/2012/09/resgatandoAgilidade-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][4]<figcaption class="wp-caption-text">Resgatando Agilidade</figcaption></figure> 
+[<img class="size-full wp-image-607" src="/uploads/2012/09/identificandoInercia.jpg" alt="Identificando Inércia" width="470" height="249" srcset="/uploads/2012/09/identificandoInercia.jpg 470w, /uploads/2012/09/identificandoInercia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">Identificando Inércia</figcaption></figure> <figure id="attachment_608" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-608" src="/uploads/2012/09/resgatandoAgilidade.jpg" alt="Resgatando Agilidade" width="470" height="249" srcset="/uploads/2012/09/resgatandoAgilidade.jpg 470w, /uploads/2012/09/resgatandoAgilidade-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][4]<figcaption class="wp-caption-text">Resgatando Agilidade</figcaption></figure> 
 
 Na Caelum aconteceu este problema, e a inércia poderia ter acabado com algo de muita importância para eles a agilidade, e como algo de bom e importância houve uma mudança interna compartilhada com várias iniciativas feitas! Primeiro foram criadas várias formas de se compartilhar o conhecimento, dentre todo o time, em eventos como &#8220;brown bags&#8221; e incentivo/cobrança em participações de eventos da própria empresa.  Logo em seguida, foi se gerando uma mudança cultural no incentivo da iteração dos novatos, para que eles ensinem, que &#8220;quem ensina aprende duas vezes&#8221;. Foram criados almoço técnicos dos novatos, pedidos calorosos para o envolvimento destes em listas de discussões, na criação de posts.
 
@@ -47,7 +47,7 @@ Veja o vídeo da apresentação na infoq: <a title="Novatos no time Ágil" href
 
 &nbsp;
 
- [1]: http://www.helmed.net/blog/wp-content/uploads/2012/09/corraDaInerciaCecilia.jpg
+ [1]: /uploads/2012/09/corraDaInerciaCecilia.jpg
  [2]: http://pt.wikipedia.org/wiki/In%C3%A9rcia "inércia"
- [3]: http://www.helmed.net/blog/wp-content/uploads/2012/09/identificandoInercia.jpg
- [4]: http://www.helmed.net/blog/wp-content/uploads/2012/09/resgatandoAgilidade.jpg
+ [3]: /uploads/2012/09/identificandoInercia.jpg
+ [4]: /uploads/2012/09/resgatandoAgilidade.jpg
