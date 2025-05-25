@@ -3,7 +3,6 @@ title: "QConSP 2014! It's started! ("
 author: helio
 layout: post
 date: 2014-04-10T12:50:51+00:00
-url: /2014/04/10/qconsp-2014-comecou/
 embed: 
 seo_follow: 
 seo_noindex: 

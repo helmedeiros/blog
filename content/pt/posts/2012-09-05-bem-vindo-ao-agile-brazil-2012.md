@@ -3,7 +3,6 @@ title: Bem vindo ao Agile Brazil 2012
 author: helio
 layout: post
 date: 2012-09-05T14:33:33+00:00
-url: /2012/09/05/bem-vindo-ao-agile-brazil-2012/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - AGILE
   - agile brazil
   - agilebrazil2012
-
 ---
 Chegou o Agile Brazil 2012! Começamos as 09:40h com o [Dairton Bassi][1] fazendo as honras, o evento deste ano conta com a participação de 782 participantes, 302 empresas, 121 apresentações e 38 patrocinadores.
 

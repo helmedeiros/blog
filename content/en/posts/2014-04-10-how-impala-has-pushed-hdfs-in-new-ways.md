@@ -3,7 +3,6 @@ title: "Como a Impala tem Empurrado o HDFS Novas Direções How Impala has Pushe
 author: helio
 layout: post
 date: 2014-04-10T16:05:02+00:00
-url: /2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/
 embed: 
 seo_follow: 
 seo_noindex: 

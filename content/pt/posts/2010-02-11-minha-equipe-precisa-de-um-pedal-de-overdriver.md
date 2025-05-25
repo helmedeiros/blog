@@ -3,7 +3,6 @@ title: Minha equipe precisa de um pedal de overdriver
 author: helio
 layout: post
 date: 2010-02-12T01:55:03+00:00
-url: /2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/
 idptt_tweeted:
   - 1
 categories:
@@ -12,7 +11,6 @@ categories:
 tags:
   - AGILE
   - XP
-
 ---
 Estou a algum tempo pesquisando sobre o as relações e como podemos trabalhar junto as equipes constituindo um crescimento naturalmente feliz e produtivo.
 

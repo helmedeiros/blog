@@ -3,7 +3,6 @@ title: "UNCONFUSED 2011-Mustache edition"
 author: helio
 layout: post
 date: 2011-11-29T18:53:53+00:00
-url: /2011/11/29/desconf-2011-mustache-edition/
 embed: 
 seo_follow: 
 seo_noindex: 

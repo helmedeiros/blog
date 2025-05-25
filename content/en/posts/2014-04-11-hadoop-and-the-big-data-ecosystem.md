@@ -3,7 +3,6 @@ title: "Hadoop and the Big Data Ecosystem"
 author: helio
 layout: post
 date: 2014-04-11T13:36:05+00:00
-url: /2014/04/11/hadoop-and-the-big-data-ecosystem/
 embed:
 seo_follow:
 seo_noindex:

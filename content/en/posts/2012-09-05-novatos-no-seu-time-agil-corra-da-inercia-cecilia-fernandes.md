@@ -3,7 +3,6 @@ title: "Newbies on your agile team? Break free from inertia! – Cecilia Fernand
 author: helio
 layout: post
 date: 2012-09-05T19:51:01+00:00
-url: /2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/
 embed: 
 seo_follow: 
 seo_noindex: 

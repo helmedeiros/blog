@@ -3,7 +3,6 @@ title: "Will I have helped someone tear down the walls?"
 author: admin
 layout: post
 date: 2009-11-17T10:06:49+00:00
-url: /2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/
 idptt_tweeted: 
 dsq_thread_id: 
 categories:

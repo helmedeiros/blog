@@ -3,7 +3,6 @@ title: "AGILE DAY 2010"
 author: helio
 layout: post
 date: 2010-11-30T02:35:31+00:00
-url: /2010/11/30/agile-day-2010-luiz-faias-jr/
 idptt_tweeted: 
 embed: 
 seo_follow: 

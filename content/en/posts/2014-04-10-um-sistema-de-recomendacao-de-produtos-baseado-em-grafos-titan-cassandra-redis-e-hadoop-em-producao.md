@@ -4,7 +4,6 @@ graphs: Titan, Cassandra, Redis and Hadoop in production"
 author: helio
 layout: post
 date: 2014-04-10T21:27:50+00:00
-url: /2014/04/10/um-sistema-de-recomendacao-de-produtos-baseado-em-grafos-titan-cassandra-redis-e-hadoop-em-producao/
 embed: 
 seo_follow: 
 seo_noindex: 

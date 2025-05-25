@@ -3,7 +3,6 @@ title: "Agile Brazil 2011 – I'M GOING!!"
 author: helio
 layout: post
 date: 2011-06-19T15:49:35+00:00
-url: /2011/06/19/agile-brazil-2011-claro-que-vou/
 embed: 
 seo_follow: 
 seo_noindex: 

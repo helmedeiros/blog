@@ -3,7 +3,6 @@ title: Agile Day 2010 – Porto Alegre
 author: helio
 layout: post
 date: 2010-11-24T00:09:00+00:00
-url: /2010/11/23/agile-day-2010-porto-alegre/
 idptt_tweeted:
   - 1
 embed:
@@ -23,7 +22,6 @@ tags:
   - poa
   - pucrs
   - RS
-
 ---
 Amanhã dia 24/11 acontecerá na FACIN/PUCRS o último evento, para o ano de 2010, promovido pelo grupo de usuários de metodologias ágeis do Rio Grande do Sul, o <a title="AGILEDAY 2010" href="http://sites.google.com/site/agileday2010/" target="_blank">AGILE DAY 2010</a>.
 

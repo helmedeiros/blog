@@ -3,7 +3,6 @@ title: "Desconf 2012 – End of the world"
 author: helio
 layout: post
 date: 2012-12-29T13:32:02+00:00
-url: /2012/12/29/desconf-2012-fim-do-mundo/
 embed:
 seo_follow:
 seo_noindex:

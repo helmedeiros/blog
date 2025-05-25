@@ -3,7 +3,6 @@ title: "Analysis Patterns"
 author: helio
 layout: post
 date: 2008-07-12T03:27:57+00:00
-url: /2008/07/12/padroes-de-analise/
 categories:
   - Padrões Análise
 ---

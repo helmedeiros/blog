@@ -3,7 +3,6 @@ title: 1ª Semana de LightningTalks e FishBowls no TecnoPUC
 author: helio
 layout: post
 date: 2012-08-24T12:06:34+00:00
-url: /2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/
 embed:
   - This is the default text
 seo_follow:
@@ -24,7 +23,6 @@ tags:
   - Test Driven Development
   - Testes
   - XP
-
 ---
 Aconteceu há algumas horas o [4º dia][1] da [1ª Semana de LightningTalks e FishBowls no TecnoPUC][2] onde apresentei a Lightning Talk [ Test Driven Development &#8211; Em busca de feedback útil e concreto][3], que abordava o conceito de feedback validado na construção de software.
 

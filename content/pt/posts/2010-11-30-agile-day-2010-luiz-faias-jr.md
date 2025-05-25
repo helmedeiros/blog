@@ -3,7 +3,6 @@ title: AGILE DAY 2010 – Luiz Faias Jr.
 author: helio
 layout: post
 date: 2010-11-30T02:35:31+00:00
-url: /2010/11/30/agile-day-2010-luiz-faias-jr/
 idptt_tweeted:
   - 1
 embed:
@@ -26,7 +25,6 @@ tags:
   - guma
   - poa
   - pucrs
-
 ---
 <figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-226" src="/uploads/2010/11/adpoa10LuizFaias.jpg" alt="Luiz Faias Junior - Aprendizado" width="417" height="342" srcset="/uploads/2010/11/adpoa10LuizFaias.jpg 417w, /uploads/2010/11/adpoa10LuizFaias-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption></figure> 
 

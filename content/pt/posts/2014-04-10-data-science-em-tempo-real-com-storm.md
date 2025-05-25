@@ -3,7 +3,6 @@ title: Data Science em Tempo Real com Storm
 author: helio
 layout: post
 date: 2014-04-10T18:32:54+00:00
-url: /2014/04/10/data-science-em-tempo-real-com-storm/
 embed:
   - This is the default text
 seo_follow:
@@ -20,7 +19,6 @@ tags:
   - Fabiane Nardon
   - qconsp
   - storm
-
 ---
 Hoje sabemos que temos um monte de dados, e dai descobrimos que estes dados não é só uma caixinha mais várias, você aplica processadores estatísticos, algo de inteligência artificial, e no final temos uma saída com os dados que são esperados.
 

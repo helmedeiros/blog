@@ -3,11 +3,10 @@ title: Technology is not enough! Barry O’Reilly
 author: helio
 layout: post
 date: 2014-11-06T12:57:31+00:00
-url: /2014/11/06/technology-is-not-enough-barry-oreilly/
 seo_follow:
-  - 'false'
+  - "false"
 seo_noindex:
-  - 'false'
+  - "false"
 embed:
   - This is the default text
 categories:
@@ -16,10 +15,10 @@ categories:
   - Eventos
   - Metodologias
 tags:
-  - '#AgileBR'
+  - "#AgileBR"
   - "Barry O'Reilly"
-
 ---
+
 Durante os anos empresas aparecem e desaparecem com uma certa frequência, e não apenas pequenas tem desaparecido mas com muita frequência as grandes tem perecido. Para onde foram as ideias? O que aconteceu com o mercado? Estamos fazendo o certo? Estamos tentando controlar o incontrolável o imprevisível?
 
 Boa parte destas empresas, que se extinguiram, são fundamentadas em profundas e verticalizadas organizações. Como conseguiremos trabalhar no imprevisível enquanto as decisões apenas dessem estas grandes cachoeiras!

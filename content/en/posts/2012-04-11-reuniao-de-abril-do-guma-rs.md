@@ -3,7 +3,6 @@ title: "Se virol – April Meeting of GUMA-RS"
 author: helio
 layout: post
 date: 2012-04-12T01:37:54+00:00
-url: /2012/04/11/reuniao-de-abril-do-guma-rs/
 embed: 
 seo_follow: 
 seo_noindex: 

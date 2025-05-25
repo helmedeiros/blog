@@ -3,7 +3,6 @@ title: "AGILE DAY 2010 – Paulo Caroli"
 author: helio
 layout: post
 date: 2010-12-12T12:21:35+00:00
-url: /2010/12/12/agile-day-2010-paulo-caroli/
 idptt_tweeted: 
 embed: 
 seo_follow: 

@@ -3,7 +3,6 @@ title: The Green Lake Strategy – Um metamodelo para design de mercados – Man
 author: helio
 layout: post
 date: 2012-09-07T12:12:40+00:00
-url: /2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/
 embed:
   - This is the default text
 seo_follow:
@@ -23,7 +22,6 @@ tags:
   - manoelep
   - metamodelo
   - The Green Lake Strategy
-
 ---
 A estratégia do [oceano azul][1], é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &#8220;como podemos escapar do oceano vermlho&#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado. O oceano azul pode te levar a um nirvana.
 

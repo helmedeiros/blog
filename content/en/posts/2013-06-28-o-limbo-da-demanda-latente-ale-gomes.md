@@ -3,7 +3,6 @@ title: "The latent demand limbo – Alê Gomes"
 author: helio
 layout: post
 date: 2013-06-28T13:20:24+00:00
-url: /2013/06/28/o-limbo-da-demanda-latente-ale-gomes/
 embed: 
 seo_follow: 
 seo_noindex: 

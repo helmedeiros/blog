@@ -3,7 +3,6 @@ title: "Stefanini Open Talks – CONNECT WITH SONGDORO"
 author: helio
 layout: post
 date: 2011-04-19T00:38:19+00:00
-url: /2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/
 embed: 
 seo_follow: 
 seo_noindex: 

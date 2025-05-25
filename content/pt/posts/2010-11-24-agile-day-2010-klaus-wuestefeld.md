@@ -3,7 +3,6 @@ title: AGILE DAY 2010 – Klaus Wuestefeld
 author: helio
 layout: post
 date: 2010-11-25T01:41:25+00:00
-url: /2010/11/24/agile-day-2010-klaus-wuestefeld/
 idptt_tweeted:
   - 1
 embed:
@@ -29,7 +28,6 @@ tags:
   - Klaus Wuestefeld
   - poa
   - pucrs
-
 ---
 <figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-217" src="/uploads/2010/11/agileday2010.jpg" alt="Agile day 2010" width="417" height="342" srcset="/uploads/2010/11/agileday2010.jpg 417w, /uploads/2010/11/agileday2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Agile day 2010</figcaption></figure> 
 

@@ -3,7 +3,6 @@ title: Nunca é tarde! Convertido do Bash para ZSH!
 author: helio
 layout: post
 date: 2011-11-15T20:23:19+00:00
-url: /2011/11/15/nunca-e-tarde-convertido-do-bash-para-zsh/
 embed:
   - This is the default text
 seo_follow:
@@ -17,7 +16,6 @@ tags:
   - oh-my-zsh
   - shell
   - zsh
-
 ---
 Após um bom tempo utilizando o zsh, apresentei recentemente a um amigo que se surpreendeu, após conversarmos um pouco surgiu a idéia de aprender um pouco mais, e compartilhar&#8230;. Fui influenciado há certo tempo pela onda [oh-my-zsh][1], mas acabei por não contribuir em nada. Quem sabe agora?!?!
 

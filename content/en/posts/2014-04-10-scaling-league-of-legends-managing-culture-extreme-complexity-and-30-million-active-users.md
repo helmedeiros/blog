@@ -5,7 +5,6 @@ Legends: managing culture, extreme complexity and active users"
 author: helio
 layout: post
 date: 2014-04-10T15:03:02+00:00
-url: /2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/
 embed: 
 seo_follow: 
 seo_noindex: 

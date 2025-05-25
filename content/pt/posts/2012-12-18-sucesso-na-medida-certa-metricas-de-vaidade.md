@@ -3,7 +3,6 @@ title: Sucesso na medida certa – Métricas de vaidade
 author: helio
 layout: post
 date: 2012-12-18T02:42:59+00:00
-url: /2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/
 embed:
   - This is the default text
 seo_follow:
@@ -24,7 +23,6 @@ tags:
   - métricas de vaidade
   - poa
   - porto alegre
-
 ---
 <figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure> 
 

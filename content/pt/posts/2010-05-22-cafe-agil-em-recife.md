@@ -3,7 +3,6 @@ title: Café Ágil em Recife
 author: helio
 layout: post
 date: 2010-05-22T21:39:56+00:00
-url: /2010/05/22/cafe-agil-em-recife/
 idptt_tweeted:
   - 1
 embed:
@@ -20,7 +19,6 @@ tags:
   - Cafe agil
   - Thoughtworks
   - XP
-
 ---
 No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o <a title="cafe ágil" href="http://www.thoughtworks.com/cafe-agil-em-recife" target="_blank">Café Ágil</a>. Esta iniciativa da [ThoughtWorks Brazil][1] juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
 

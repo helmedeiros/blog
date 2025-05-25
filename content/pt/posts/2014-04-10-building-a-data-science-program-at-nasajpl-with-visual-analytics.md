@@ -3,7 +3,6 @@ title: Building a Data Science Program at NASA/JPL with Visual Analytics
 author: helio
 layout: post
 date: 2014-04-10T13:54:41+00:00
-url: /2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/
 embed:
   - This is the default text
 seo_follow:
@@ -16,7 +15,6 @@ tags:
   - data scientist
   - NASA
   - qconsp
-
 ---
 <span style="line-height: 1.5em">Explorar o universo gera um conjunto enorme de dados. E quando estamos falando sobre os dados que nos deparamos o tempo todo, estamos falando com um conjunto de satélites que estão processando e enviando dados dia e noite durante todo o dia.</span>
 

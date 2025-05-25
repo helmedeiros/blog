@@ -3,7 +3,6 @@ title: "I already had a manager who ate at speed in the ."
 author: helio
 layout: post
 date: 2010-02-26T00:44:26+00:00
-url: /2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/
 idptt_tweeted: 
 categories:
   - Ageis
