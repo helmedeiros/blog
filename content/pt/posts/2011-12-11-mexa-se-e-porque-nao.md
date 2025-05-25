@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  A recente participação na <a title="DESCONF 2011-Mustache edition" href="http://www.helmed.net/blog/2011/11/29/desconf-2011-mustache-edition/">Desconf 2011</a>, assim como conversas e acontecimentos não tão recentes, me fizeram refletir sobre o nosso comportamento como agente transformador de nosso ambiente de trabalho. Muitas e muitas vez ouvimos ou começamos debates com a frase &#8220;isso nunca funcionaria onde trabalho&#8221;, acontece&#8230; mas você nunca terá certeza até tentar.
+  A recente participação na <a title="DESCONF 2011-Mustache edition" href="/2011/11/29/desconf-2011-mustache-edition/">Desconf 2011</a>, assim como conversas e acontecimentos não tão recentes, me fizeram refletir sobre o nosso comportamento como agente transformador de nosso ambiente de trabalho. Muitas e muitas vez ouvimos ou começamos debates com a frase &#8220;isso nunca funcionaria onde trabalho&#8221;, acontece&#8230; mas você nunca terá certeza até tentar.
 </p>
 
 Um ano atrás twittei feliz que estava saindo de Natal para encarar novas tarefas, conhecer novas pessoas, imergir em novos domínios e encarar de peito aberto as mudanças. O que não me soava estranho na época, apesar de ter sido alertado pelo GLeydson Lima, mas que hoje faz todo o sentido era a minha posição em tudo isso. Acredito que todos já passaram ou devam passar por um situação destas, de se colocar menor ao desafio com única perspectiva de que irá absolver muito mais estando apenas em uma posição passiva na aprendizagem. Acontece que as coisas nem sempre são como imaginamos e ser surpreendido aprendendo enquanto fazia, fala ou apenas ajudava tem sido excelente.
@@ -56,5 +56,5 @@ Pelos lugares por onde passei, vejo que qualquer equipe é capaz e deve lutar pa
  [16]: http://twitter.com/#!/paulocaroli "Paulo Caroli"
  [17]: http://twitter.com/#!/rafajagua "Rafael Camargo"
  [18]: http://twitter.com/#!/thiagoesser "Thiago Esser"
- [19]: http://www.helmed.net/blog/2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
- [20]: http://www.helmed.net/blog/2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
+ [19]: /2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
+ [20]: /2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
