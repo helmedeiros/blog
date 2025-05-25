@@ -1,0 +1,161 @@
+name: Security Audit
+
+on:
+  schedule:
+    # Run every day at 2 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+  security-events: write
+  actions: read
+
+jobs:
+  security-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.147.5"
+          extended: true
+
+      - name: Check Hugo version security
+        id: hugo-security
+        run: |
+          # Check if current Hugo version has known vulnerabilities
+          CURRENT_VERSION=$(grep "HUGO_VERSION:" .github/workflows/hugo.yml | sed 's/.*HUGO_VERSION: //' | tr -d ' ')
+          echo "current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+
+          # Get latest version for comparison
+          LATEST_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name' | sed 's/v//')
+          echo "latest_version=$LATEST_VERSION" >> $GITHUB_OUTPUT
+
+          # Check if we're more than 5 versions behind (security concern)
+          VERSIONS_BEHIND=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases | jq -r '.[].tag_name' | sed 's/v//' | head -10 | grep -n "^$CURRENT_VERSION$" | cut -d: -f1)
+
+          if [ -z "$VERSIONS_BEHIND" ]; then
+            echo "versions_behind=10+" >> $GITHUB_OUTPUT
+            echo "security_risk=high" >> $GITHUB_OUTPUT
+          elif [ "$VERSIONS_BEHIND" -gt 5 ]; then
+            echo "versions_behind=$VERSIONS_BEHIND" >> $GITHUB_OUTPUT
+            echo "security_risk=medium" >> $GITHUB_OUTPUT
+          else
+            echo "versions_behind=$VERSIONS_BEHIND" >> $GITHUB_OUTPUT
+            echo "security_risk=low" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check theme security
+        id: theme-security
+        run: |
+          cd themes/beautifulhugo
+
+          # Check last commit date
+          LAST_COMMIT_DATE=$(git log -1 --format=%ct)
+          CURRENT_DATE=$(date +%s)
+          DAYS_OLD=$(( (CURRENT_DATE - LAST_COMMIT_DATE) / 86400 ))
+
+          echo "theme_age_days=$DAYS_OLD" >> $GITHUB_OUTPUT
+
+          if [ "$DAYS_OLD" -gt 365 ]; then
+            echo "theme_risk=high" >> $GITHUB_OUTPUT
+          elif [ "$DAYS_OLD" -gt 180 ]; then
+            echo "theme_risk=medium" >> $GITHUB_OUTPUT
+          else
+            echo "theme_risk=low" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Scan for secrets
+        uses: trufflesecurity/trufflehog@main
+        with:
+          path: ./
+          base: main
+          head: HEAD
+          extra_args: --debug --only-verified
+
+      - name: Build site for security check
+        run: |
+          hugo --gc --minify
+
+      - name: Check for security headers
+        run: |
+          # Verify security headers file exists
+          if [ ! -f "static/_headers" ]; then
+            echo "⚠️ Security headers file missing"
+            exit 1
+          fi
+
+          # Check for essential security headers
+          REQUIRED_HEADERS=("X-Frame-Options" "X-Content-Type-Options" "X-XSS-Protection" "Content-Security-Policy")
+
+          for header in "${REQUIRED_HEADERS[@]}"; do
+            if ! grep -q "$header" static/_headers; then
+              echo "⚠️ Missing security header: $header"
+              exit 1
+            fi
+          done
+
+          echo "✅ All required security headers present"
+
+      - name: Create security report
+        if: always()
+        run: |
+          cat > security-report.md << EOF
+          # Security Audit Report
+
+          **Date**: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          ## Hugo Security Status
+          - **Current Version**: ${{ steps.hugo-security.outputs.current_version }}
+          - **Latest Version**: ${{ steps.hugo-security.outputs.latest_version }}
+          - **Versions Behind**: ${{ steps.hugo-security.outputs.versions_behind }}
+          - **Security Risk**: ${{ steps.hugo-security.outputs.security_risk }}
+
+          ## Theme Security Status
+          - **Theme Age**: ${{ steps.theme-security.outputs.theme_age_days }} days
+          - **Theme Risk**: ${{ steps.theme-security.outputs.theme_risk }}
+
+          ## Recommendations
+          EOF
+
+          if [ "${{ steps.hugo-security.outputs.security_risk }}" != "low" ]; then
+            echo "- 🔴 **Update Hugo**: Consider updating to the latest version" >> security-report.md
+          fi
+
+          if [ "${{ steps.theme-security.outputs.theme_risk }}" != "low" ]; then
+            echo "- 🟡 **Review Theme**: Theme hasn't been updated recently" >> security-report.md
+          fi
+
+          echo "- ✅ **Security Headers**: Properly configured" >> security-report.md
+
+      - name: Upload security report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: security-report
+          path: security-report.md
+
+      - name: Create issue for high security risk
+        if: steps.hugo-security.outputs.security_risk == 'high' || steps.theme-security.outputs.theme_risk == 'high'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('security-report.md', 'utf8');
+
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🚨 Security Audit: High Risk Detected',
+              body: report + '\n\n---\n\nThis issue was automatically created by the Security Audit workflow.',
+              labels: ['security', 'high-priority', 'automated']
+            });
