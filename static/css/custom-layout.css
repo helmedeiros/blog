@@ -253,16 +253,17 @@ footer,
     max-height: calc(1.6em * 3); /* 3 lines * line-height */
 }
 
-.post-featured .post-read-more {
-    color: #6c757d;
-    font-weight: normal;
+.post-preview.post-featured .post-read-more {
+    color: #6c757d !important;
+    font-weight: normal !important;
     text-decoration: none;
     font-size: 1.1rem;
     opacity: 0.7;
     transition: opacity 0.2s ease;
+    float: none !important;
 }
 
-.post-featured .post-read-more:hover {
+.post-preview.post-featured .post-read-more:hover {
     opacity: 1;
     text-decoration: none;
 }
