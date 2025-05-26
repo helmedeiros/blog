@@ -23,8 +23,7 @@
         {{ else }}
             {{ $content = .Content }}
         {{ end }}
-        {{ $content | truncate 200 | plainify }}
-        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+        {{ $content | truncate 200 | plainify }} <a href="{{ .Permalink }}" class="post-read-more">»</a>
     </div>
 
     <div class="post-date">
