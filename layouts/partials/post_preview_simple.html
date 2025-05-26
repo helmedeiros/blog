@@ -1,5 +1,7 @@
+{{ if and .Title (ne .Title "") (not .Draft) }}
 <li class="post-simple">
     <a href="{{ .Permalink }}" class="post-simple-title">
         {{ .Title }}
     </a>
 </li>
+{{ end }}

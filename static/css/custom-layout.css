@@ -22,7 +22,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 1.5rem !important;
+    font-size: 1.7rem !important;
     font-weight: 400 !important;
     color: #333333 !important;
     letter-spacing: -0.5px;
@@ -37,7 +37,7 @@ body {
 
 .navbar-nav > li > a {
     color: #666666 !important;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 400;
     padding: 15px 20px !important;
     text-transform: none;
@@ -81,7 +81,7 @@ body {
 /* Language switcher styling */
 .navlinks-container .navlinks-parent {
     color: #666666 !important;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 400;
     padding: 15px 20px !important;
     cursor: pointer;
@@ -99,7 +99,7 @@ body {
     padding: 10px 15px;
     display: block;
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
 }
 
 .navlinks-children a:hover {
@@ -186,7 +186,7 @@ footer,
 /* Section Titles */
 .section-title {
     color: #404040;
-    font-size: 1.8rem;
+    font-size: 2.0rem;
     font-weight: 600;
     margin: 2rem 0 1.5rem 0;
     padding-bottom: 0.5rem;
@@ -214,7 +214,7 @@ footer,
 }
 
 .post-featured .post-title {
-    font-size: 2.0rem;
+    font-size: 2.2rem;
     font-weight: 700;
     color: #2c3e50;
     margin-bottom: 0.5rem;
@@ -222,7 +222,7 @@ footer,
 }
 
 .post-featured .post-subtitle {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: #6c757d;
     font-weight: 400;
     margin-bottom: 1rem;
@@ -238,7 +238,7 @@ footer,
 }
 
 .post-featured .post-entry {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     line-height: 1.6;
     color: #495057;
 }
@@ -257,7 +257,7 @@ footer,
     color: #6c757d !important;
     font-weight: normal !important;
     text-decoration: none;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     opacity: 0.7;
     transition: opacity 0.2s ease;
     float: none !important;
@@ -269,7 +269,7 @@ footer,
 }
 
 .post-featured .post-date {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     color: #adb5bd;
     margin-top: 1rem;
     text-align: left;
@@ -288,7 +288,7 @@ footer,
     padding: 0.25rem 0.75rem;
     border-radius: 20px;
     text-decoration: none;
-    font-size: 0.85rem;
+    font-size: 1.05rem;
     margin-right: 0.5rem;
     margin-bottom: 0.5rem;
     display: inline-block;
@@ -340,7 +340,7 @@ footer,
 }
 
 .post-simple-title {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 400;
     color: #666666;
     text-decoration: none;
@@ -353,7 +353,7 @@ footer,
 }
 
 .post-simple-meta {
-    font-size: 1.05rem;
+    font-size: 1.25rem;
     color: #6c757d;
     line-height: 1.3;
 }
@@ -383,7 +383,7 @@ footer,
 }
 
 .article-title {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     font-weight: 700;
     color: #2c3e50;
     margin-bottom: 1rem;
@@ -392,7 +392,7 @@ footer,
 }
 
 .article-subtitle {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: #6c757d;
     font-weight: 400;
     margin-bottom: 1.5rem;
@@ -404,7 +404,7 @@ footer,
     justify-content: center;
     flex-wrap: wrap;
     gap: 1.5rem;
-    font-size: 0.95rem;
+    font-size: 1.15rem;
     color: #6c757d;
 }
 
@@ -427,7 +427,7 @@ footer,
     border: 1px solid #f1f3f4;
     margin-bottom: 3rem;
     line-height: 1.8;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     color: #2c3e50;
 }
 
@@ -445,13 +445,13 @@ footer,
 }
 
 .article-content h2 {
-    font-size: 1.8rem;
+    font-size: 2.0rem;
     border-bottom: 2px solid #e9ecef;
     padding-bottom: 0.5rem;
 }
 
 .article-content h3 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     color: #34495e;
 }
 
@@ -474,7 +474,7 @@ footer,
     background: #f8f9fa;
     padding: 0.2rem 0.4rem;
     border-radius: 4px;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: #e74c3c;
     border: 1px solid #e9ecef;
 }
@@ -519,7 +519,7 @@ footer,
 .article-tags h4,
 .social-share h4 {
     color: #2c3e50;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     margin-bottom: 1rem;
     display: flex;
     align-items: center;
@@ -543,7 +543,7 @@ footer,
     padding: 0.5rem 1rem;
     border-radius: 20px;
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     font-weight: 500;
     transition: all 0.3s ease;
     box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
@@ -568,7 +568,7 @@ footer,
 
 .related-posts h4 {
     color: #2c3e50;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-bottom: 1.5rem;
     display: flex;
     align-items: center;
@@ -612,7 +612,7 @@ footer,
 
 .related-post-date {
     color: #6c757d;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
 }
 
 /* Article Navigation */
@@ -653,7 +653,7 @@ footer,
 
 .nav-direction {
     display: block;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: #6c757d;
     margin-bottom: 0.5rem;
     font-weight: 500;
@@ -756,10 +756,89 @@ footer,
     text-align: center;
 }
 
+/* ========================================
+   TAGS PAGE STYLING
+   ======================================== */
+
+.tags-page {
+    padding: 2rem 0;
+}
+
+.page-title {
+    font-size: 2.7rem;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.tags-page .page-description {
+    font-size: 1.4rem;
+    color: #6c757d;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.tags-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.tag-card {
+    background: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.tag-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    border-color: #3498db;
+}
+
+.tag-card-link {
+    display: block;
+    padding: 2rem 1.5rem;
+    text-decoration: none;
+    color: inherit;
+}
+
+.tag-card-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tag-name {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+}
+
+.tag-count {
+    font-size: 1.2rem;
+    color: #6c757d;
+    font-weight: 400;
+}
+
+.tag-card:hover .tag-name {
+    color: #3498db;
+}
+
+.tag-card:hover .tag-count {
+    color: #2980b9;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .section-title {
-        font-size: 1.5rem;
+        font-size: 1.7rem;
         margin: 1.5rem 0 1rem 0;
     }
 
@@ -769,11 +848,11 @@ footer,
     }
 
     .post-featured .post-title {
-        font-size: 1.5rem;
+        font-size: 1.7rem;
     }
 
     .post-featured .post-subtitle {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
     }
 
     .posts-list-simple {
@@ -791,11 +870,11 @@ footer,
     }
 
     .article-title {
-        font-size: 2rem;
+        font-size: 2.2rem;
     }
 
     .article-subtitle {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
 
     .article-meta {
@@ -805,7 +884,7 @@ footer,
 
     .article-content {
         padding: 1.5rem;
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     .article-navigation {
@@ -844,5 +923,29 @@ footer,
 
     .page-description {
         padding: 1.5rem;
+    }
+
+    /* Tags page responsive */
+    .tags-page .page-title {
+        font-size: 2.2rem;
+    }
+
+    .tags-page .page-description {
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+        padding: 0;
+    }
+
+    .tags-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .tag-card-link {
+        padding: 1.5rem 1rem;
+    }
+
+    .tag-name {
+        font-size: 1.4rem;
     }
 }
