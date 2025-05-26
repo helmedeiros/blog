@@ -1,0 +1,26 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/custom-layout.css">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <div class="tags-page">
+        <h1 class="page-title">Tags</h1>
+        <p class="page-description">Explore articles by topic</p>
+
+        <div class="tags-grid">
+          {{ range $key, $value := .Data.Terms.ByCount }}
+            <div class="tag-card">
+              <a href="{{ $.Data.Plural | absLangURL }}/{{ $value.Name | urlize }}/" class="tag-card-link">
+                <h3 class="tag-name">{{ $value.Name }}</h3>
+                <span class="tag-count">{{ $value.Count }} {{ if eq $value.Count 1 }}article{{ else }}articles{{ end }}</span>
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+{{ end }}
