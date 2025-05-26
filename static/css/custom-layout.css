@@ -265,6 +265,14 @@ footer,
     text-decoration: underline;
 }
 
+.post-featured .post-date {
+    font-size: 0.9rem;
+    color: #adb5bd;
+    margin-top: 1rem;
+    text-align: right;
+    font-style: italic;
+}
+
 .post-featured .blog-tags {
     margin-top: 1.5rem;
     padding-top: 1rem;
