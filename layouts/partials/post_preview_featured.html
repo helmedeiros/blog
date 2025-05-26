@@ -16,9 +16,6 @@
         {{ end }}
     </a>
 
-    <p class="post-meta">
-        {{ partial "post_meta.html" . }}
-    </p>
     <div class="post-entry post-entry-limited">
         {{ $content := "" }}
         {{ if or (.Truncated) (.Params.summary) }}
@@ -28,6 +25,10 @@
         {{ end }}
         {{ $content | truncate 200 | plainify }}
         <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+    </div>
+
+    <div class="post-date">
+        {{ .Date.Format "January 2, 2006" }}
     </div>
 
     {{ if .Params.tags }}
