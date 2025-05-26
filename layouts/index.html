@@ -24,11 +24,11 @@
         {{ if gt (len $pag.Pages) 2 }}
           <div class="recent-posts">
             <h2 class="section-title">{{ i18n "recentPosts" | default "Recent Posts" }}</h2>
-            <div class="posts-list-simple">
+            <ul class="posts-list-simple">
               {{ range after 2 $pag.Pages }}
                 {{ partial "post_preview_simple" . }}
               {{ end }}
-            </div>
+            </ul>
           </div>
         {{ end }}
 
