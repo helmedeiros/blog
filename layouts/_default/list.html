@@ -24,7 +24,7 @@
       <!-- Recent Posts Section (Remaining posts) -->
       {{ if gt (len $posts) 2 }}
         <section class="recent-posts">
-          <h2 class="section-title">All Posts</h2>
+          <h2 class="section-title">Previous Articles</h2>
           <ul class="posts-list-simple">
             {{ range after 2 $posts }}
               {{ partial "post_preview_simple.html" . }}
