@@ -18,6 +18,9 @@ theme = "beautifulhugo"
     weight = 2
     contentDir = "content/pt"
 
+[pagination]
+  pagerSize = 50
+
 [params]
   subtitle = "Technology insights and agile development"
   comments = false
