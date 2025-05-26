@@ -54,13 +54,6 @@
             {{ end }}
           {{ end }}
 
-          &nbsp;&bull;&nbsp;&copy;
-          {{ if .Site.Params.since }}
-            {{ .Site.Params.since }} - {{ .Site.Lastmod.Format "2006" }}
-          {{ else }}
-            {{ .Site.Lastmod.Format "2006" }}
-          {{ end }}
-
           {{ if .Site.Title }}
             &nbsp;&bull;&nbsp;
             <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
