@@ -516,6 +516,13 @@ footer,
     box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 
+.article-footer .article-meta {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+    justify-content: flex-start;
+}
+
 .article-tags h4,
 .social-share h4 {
     color: #2c3e50;
@@ -880,6 +887,11 @@ footer,
     .article-meta {
         flex-direction: column;
         gap: 0.5rem;
+    }
+
+    .article-footer .article-meta {
+        justify-content: flex-start;
+        align-items: flex-start;
     }
 
     .article-content {
