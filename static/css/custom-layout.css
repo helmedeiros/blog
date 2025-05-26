@@ -306,10 +306,17 @@ footer,
 }
 
 .posts-list-simple {
-    list-style: disc;
+    list-style: disc !important;
+    list-style-type: disc !important;
     padding-left: 2rem;
     margin: 0;
     background: none;
+}
+
+.posts-list-simple li {
+    display: list-item !important;
+    list-style: disc !important;
+    list-style-type: disc !important;
 }
 
 .post-simple {
