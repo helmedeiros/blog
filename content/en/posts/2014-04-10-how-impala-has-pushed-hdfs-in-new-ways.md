@@ -1,11 +1,11 @@
 ---
-title: "Como a Impala tem Empurrado o HDFS Novas Direções How Impala has Pushed HDFS in New Ways ("
+title: "How Impala Has Pushed HDFS in New Directions"
 author: helio
 layout: post
 date: 2014-04-10T16:05:02+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
+embed:
+seo_follow:
+seo_noindex:
 categories:
   - Eventos
 tags:
@@ -33,7 +33,7 @@ When we deploy Impala in our environment, what's behind the scenes are two daemo
 
 The _impalad_ handles all client requests; the _statestored_ deals with all necessary states for the operation of the _daemons_.
 
-Each request to _Impala_ is made via odbc/jdbc_; these requests are paused by means of execution plans. <figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="/uploads/2014/04/cloudera_impala.jpg 468w, /uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">Cloudera Impala architecture</figcaption></figure> What are the improvements brought by Impala to HDFS?
+Each request to _Impala_ is made via odbc/jdbc\_; these requests are paused by means of execution plans. <figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter"> [<img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="/uploads/2014/04/cloudera_impala.jpg 468w, /uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][2]<figcaption class="wp-caption-text">Cloudera Impala architecture</figcaption></figure> What are the improvements brought by Impala to HDFS?
 
 First, Impala is concerned with low-latency queries and for this, it doesn't exclude distributed scenarios, such as co-located replicas blocked, by local reading versus network speed.
 
@@ -44,5 +44,4 @@ Currently, disk throughput isn't as fast as we can access them to process files 
 By these and other improvements _Impala_ puts itself 5-10x faster than <a title="Hive" href="http://hive.apache.org/" target="_blank"><em>Hive</em></a> for simple queries and 20-50x for complex queries with joins.
 
 [2]: /uploads/2014/04/cloudera_impala.jpg
-
 [1]: http://www.cloudera.com/content/cloudera/en/home.html "cloudera"
