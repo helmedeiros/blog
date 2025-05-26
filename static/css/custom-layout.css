@@ -243,6 +243,16 @@ footer,
     color: #495057;
 }
 
+.post-featured .post-entry-limited {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.6;
+    max-height: calc(1.6em * 3); /* 3 lines * line-height */
+}
+
 .post-featured .post-read-more {
     color: #3498db;
     font-weight: 600;
