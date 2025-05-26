@@ -25,11 +25,11 @@
       {{ if gt (len $posts) 2 }}
         <section class="recent-posts">
           <h2 class="section-title">All Posts</h2>
-          <div class="posts-list-simple">
+          <ul class="posts-list-simple">
             {{ range after 2 $posts }}
               {{ partial "post_preview_simple.html" . }}
             {{ end }}
-          </div>
+          </ul>
         </section>
       {{ end }}
 

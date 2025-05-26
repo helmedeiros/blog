@@ -306,41 +306,31 @@ footer,
 }
 
 .posts-list-simple {
-    background: #f8f9fa;
-    border-radius: 8px;
-    padding: 1.5rem;
+    list-style: disc;
+    padding-left: 2rem;
+    margin: 0;
+    background: none;
 }
 
 .post-simple {
-    padding: 0.75rem 0;
-    border-bottom: 1px solid #e9ecef;
-    transition: all 0.2s ease;
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
 }
 
 .post-simple:last-child {
-    border-bottom: none;
-}
-
-.post-simple:hover {
-    background-color: #f1f3f4;
-    border-radius: 4px;
-    margin: 0 -0.5rem;
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
-}
-
-.post-simple-title {
-    font-size: 1.3rem;
-    font-weight: 500;
-    color: #2c3e50;
-    text-decoration: none;
-    display: block;
-    line-height: 1.4;
     margin-bottom: 0;
 }
 
+.post-simple-title {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #666666;
+    text-decoration: none;
+    line-height: 1.6;
+}
+
 .post-simple-title:hover {
-    color: #3498db;
+    color: #333333;
     text-decoration: none;
 }
 
@@ -769,7 +759,7 @@ footer,
     }
 
     .posts-list-simple {
-        padding: 1rem;
+        padding-left: 1.5rem;
     }
 
     .featured-posts {
