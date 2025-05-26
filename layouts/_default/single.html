@@ -10,6 +10,16 @@
         {{ if .Params.subtitle }}
           <h2 class="article-subtitle">{{ .Params.subtitle }}</h2>
         {{ end }}
+      </header>
+
+      <!-- Article Content -->
+      <article role="main" class="blog-post article-content">
+        {{ .Content }}
+      </article>
+
+      <!-- Article Footer -->
+      <footer class="article-footer">
+        <!-- Article Meta Information -->
         <div class="article-meta">
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="article-date">
             <i class="fas fa-calendar"></i> {{ .Date.Format "January 2, 2006" }}
@@ -28,15 +38,7 @@
             </span>
           {{ end }}
         </div>
-      </header>
 
-      <!-- Article Content -->
-      <article role="main" class="blog-post article-content">
-        {{ .Content }}
-      </article>
-
-      <!-- Article Footer -->
-      <footer class="article-footer">
         {{ if .Params.tags }}
           <div class="article-tags">
             <h4><i class="fas fa-tags"></i> Tags</h4>
