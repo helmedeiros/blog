@@ -1,18 +1,18 @@
 ---
 title: ""
-Título: Crescendo FLUENCY AND EXCELLENCE
+Título: Growing FLUENCY AND EXCELLENCE
 author: helio
 layout: post
 date: 2012-09-06T13:48:33+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
+embed:
+seo_follow:
+seo_noindex:
 categories:
   - Ageis
   - Eventos
   - Metodologias
 tags:
-  - '#AgileBR'
+  - "#AgileBR"
   - 2012
   - adoção ágil
   - agile brazil
@@ -68,11 +68,7 @@ What about metrics?
 Then who knows after finding this path to quality that we can really appreciate and be certain that we're working in the best places at the best time in our lives!! [<img class="aligncenter size-full wp-image-618" src="/uploads/2012/09/jamesShoreAndI.png" alt="" width="470" height="249" srcset="/uploads/2012/09/jamesShoreAndI.png 470w, /uploads/2012/09/jamesShoreAndI-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][10]
 
 [2]: http://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming"
-
 [8]: /uploads/2012/09/diagramaInicial.png
-
 [10]: /uploads/2012/09/jamesShoreAndI.png
-
 [1]: https://twitter.com/jamesshore "@jamesshore"
-
 [9]: /uploads/2012/09/internaEstrela.jpg

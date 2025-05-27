@@ -1,18 +1,18 @@
 ---
-title: "Neal Ford – _PLACEHOLDER_ Distrações"
+title: "Neal Ford – Abstraction Distractions"
 author: helio
 layout: post
 date: 2013-08-21T20:14:02+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
+embed:
+seo_follow:
+seo_noindex:
+dsq_thread_id:
 categories:
   - Ageis
   - Eventos
   - Metodologias
 tags:
-  - '#AgileBR'
+  - "#AgileBR"
   - AGILE
   - agile brazil
 ---
@@ -21,7 +21,7 @@ Discussing abstractions in today's context is reflecting on the very nature of c
 
 Scalable solutions, routine problems
 
- - all pass through the choice of how they will be perceived by end-users at some point, and it is common for us to bury our solutions under layer after layer of abstraction.
+- all pass through the choice of how they will be perceived by end-users at some point, and it is common for us to bury our solutions under layer after layer of abstraction.
 
 We think about ease of understanding, maintenance, and even expansion; but how do we deal with the problems that exist in the parts we cover up with abstraction?
 

@@ -1,19 +1,18 @@
 ---
-title: "Story"
-Mapping: the challenge of selecting the first slice of the product (
+title: "Story Mapping: the challenge of selecting the first slice of the product"
 author: helio
 layout: post
 date: 2013-06-26T15:58:21+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
+embed:
+seo_follow:
+seo_noindex:
+dsq_thread_id:
 categories:
   - Ageis
   - Eventos
   - Metodologias
 tags:
-  - '#AgileBR'
+  - "#AgileBR"
   - agile brazil
   - agilebrazil
   - Henrique Imbertti
