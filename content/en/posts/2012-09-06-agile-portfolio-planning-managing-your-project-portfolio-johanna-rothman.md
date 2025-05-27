@@ -1,18 +1,17 @@
 ---
-title: "Agile Portfolio"
-Planning: Managing Your Project Portfolio – "
+title: "Agile Portfolio - Planning: Managing Your Project Portfolio – "
 author: helio
 layout: post
 date: 2012-09-06T18:07:51+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
+embed:
+seo_follow:
+seo_noindex:
 categories:
   - Ageis
   - Eventos
   - Metodologias
 tags:
-  - '#AgileBR'
+  - "#AgileBR"
   - AGILE
   - agile brazil
   - Agile Portfolio Planning
@@ -67,11 +66,7 @@ What type is yours in your portfolio? &emsp; Thus, if we decide which project is
 Maybe if we have in mind that people are not machines and we need not only automation but a prioritization of humanization! &emsp; It doesn't matter how many projects you start; just count how many you finish.
 
 [2]: /uploads/2012/09/whatsTheProblem.png
-
 [3]: http://en.wikipedia.org/wiki/Human_multitasking "Podemos fazer tarefas simultâneas?"
-
 [1]: http://www.jrothman.com/ "johanna Rothman"
-
 [5]: /uploads/2012/09/projectPortfolioFlow.png
-
 [4]: /uploads/2012/09/whatThesePortfoliosAreMissing.png
