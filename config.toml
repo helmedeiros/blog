@@ -30,6 +30,13 @@ theme = "beautifulhugo"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
 
 [menu]
   [[menu.main]]
