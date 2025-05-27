@@ -960,3 +960,256 @@ footer,
         font-size: 1.4rem;
     }
 }
+
+/* ========================================
+   ENHANCED CODE BLOCK STYLING - LIGHT THEME
+   ======================================== */
+
+/* Inline code improvements */
+.article-content code:not(.hljs) {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    color: #e74c3c;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    font-weight: 500;
+}
+
+/* Pre code block container - Light theme with exact color */
+.article-content pre {
+    background: #f3f3f3 !important;
+    color: #2c3e50 !important;
+    padding: 1.2rem 1.5rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    margin: 1.5rem 0;
+    position: relative;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Code inside pre blocks */
+.article-content pre code {
+    background: none !important;
+    color: #2c3e50 !important;
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    font-size: inherit !important;
+    font-weight: normal !important;
+}
+
+/* Highlight.js and Chroma overrides - Light theme */
+.highlight,
+.chroma {
+    background: transparent !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    margin: 1.5rem 0 !important;
+    position: relative;
+    border: none !important;
+    padding: 0 !important;
+}
+
+.highlight pre,
+.chroma pre {
+    background: transparent !important;
+    margin: 0 !important;
+    padding: 1.2rem 1.5rem !important;
+    border: none !important;
+    border-radius: 8px !important;
+    color: #2c3e50 !important;
+}
+
+/* Base styling for language labels - only applied to specific languages */
+.language-bash .highlight::before,
+.language-shell .highlight::before,
+.language-javascript .highlight::before,
+.language-js .highlight::before,
+.language-python .highlight::before,
+.language-css .highlight::before,
+.language-html .highlight::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border-radius: 12px 0 8px 0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    z-index: 15;
+}
+
+/* Bash/shell specific styling */
+.language-bash .highlight::before,
+.language-shell .highlight::before {
+    content: "BASH" !important;
+    background: rgba(46, 204, 113, 0.9) !important;
+}
+
+.language-javascript .highlight::before,
+.language-js .highlight::before {
+    content: "JS" !important;
+    background: rgba(241, 196, 15, 0.9) !important;
+}
+
+.language-python .highlight::before {
+    content: "PYTHON" !important;
+    background: rgba(52, 152, 219, 0.9) !important;
+}
+
+.language-css .highlight::before {
+    content: "CSS" !important;
+    background: rgba(155, 89, 182, 0.9) !important;
+}
+
+.language-html .highlight::before {
+    content: "HTML" !important;
+    background: rgba(231, 76, 60, 0.9) !important;
+}
+
+/* Copy button improvements */
+.copyCodeButton {
+    background: rgba(52, 152, 219, 0.9) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 6px !important;
+    padding: 0.4rem 0.8rem !important;
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s ease !important;
+    position: absolute !important;
+    top: 0.5rem !important;
+    right: 0.5rem !important;
+    z-index: 20 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: translateY(-3px) scale(0.8) !important;
+    pointer-events: none !important;
+}
+
+.highlight:hover .copyCodeButton,
+.chroma:hover .copyCodeButton {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) scale(1) !important;
+    pointer-events: auto !important;
+}
+
+.copyCodeButton:hover {
+    background: rgba(41, 128, 185, 1) !important;
+    transform: translateY(0) scale(1.05) !important;
+}
+
+/* Syntax highlighting improvements for light theme */
+.chroma .c,
+.chroma .c1,
+.chroma .cm {
+    color: #6c757d !important;
+    font-style: italic !important;
+}
+
+.chroma .k,
+.chroma .kd,
+.chroma .kn,
+.chroma .kp,
+.chroma .kr,
+.chroma .kt {
+    color: #0066cc !important;
+    font-weight: bold !important;
+}
+
+.chroma .s,
+.chroma .s1,
+.chroma .s2,
+.chroma .sb,
+.chroma .sc,
+.chroma .sd,
+.chroma .se,
+.chroma .sh,
+.chroma .si,
+.chroma .sx {
+    color: #28a745 !important;
+}
+
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .mo {
+    color: #e83e8c !important;
+}
+
+.chroma .nf {
+    color: #dc3545 !important;
+    font-weight: bold !important;
+}
+
+.chroma .o,
+.chroma .ow {
+    color: #2c3e50 !important;
+}
+
+/* Scrollbar styling for code blocks */
+.article-content pre::-webkit-scrollbar {
+    height: 8px;
+}
+
+.article-content pre::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0.05);
+    border-radius: 4px;
+}
+
+.article-content pre::-webkit-scrollbar-thumb {
+    background: rgba(52, 152, 219, 0.4);
+    border-radius: 4px;
+}
+
+.article-content pre::-webkit-scrollbar-thumb:hover {
+    background: rgba(52, 152, 219, 0.6);
+}
+
+/* Additional overrides to ensure background color is applied */
+pre.chroma,
+.highlight pre,
+div.highlight pre,
+.article-content .highlight pre,
+.article-content pre.chroma,
+.article-content div.highlight pre {
+    background: #f3f3f3 !important;
+    color: #2c3e50 !important;
+}
+
+/* Override any theme-specific code styling - remove container backgrounds */
+.chroma,
+.highlight,
+div.highlight {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 1.5rem 0 !important;
+}
+
+.chroma code,
+.highlight code,
+div.highlight code,
+pre code {
+    background: none !important;
+    color: #2c3e50 !important;
+}
+
+/* ========================================
+   REMOVED DUPLICATE CODE BLOCK STYLING
+   (Using the light theme version above)
+   ======================================== */
