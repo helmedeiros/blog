@@ -1,7 +1,7 @@
 ---
 title: "Building for Uncertainty, Not Control"
 author: "helio"
-date: 2025-05-27T09:22:12+02:00
+date: 2015-10-18T09:22:12+02:00
 subtitle: "Why most companies fail at growth and how to build for uncertainty using networked structures and scientific experimentation."
 tags: ["growth", "product", "org design", "experimentation", "network"]
 categories: ["Technology", "Management"]
