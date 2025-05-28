@@ -63,7 +63,7 @@ A modelagem UML nos ajuda a organizar essas funcionalidades de forma clara, most
 
 ---
 
-### **📚 Navegação da Série**
+### **Navegação da Série**
 
 - **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
 - **Anterior**: [Parte 2 - Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/)

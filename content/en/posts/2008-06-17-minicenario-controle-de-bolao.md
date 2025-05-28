@@ -63,7 +63,7 @@ UML modeling helps us organize these complexities in a clear and understandable 
 
 ---
 
-### **📚 Series Navigation**
+### **Series Navigation**
 
 - **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
 - **Previous**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)
