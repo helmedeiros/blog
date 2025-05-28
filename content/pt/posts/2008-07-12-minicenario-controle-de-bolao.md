@@ -1,28 +1,53 @@
 ---
-title: 'Minicenário: CONTROLE DE BOLÃO'
+title: "Minicenário: CONTROLE DE BOLÃO"
 author: helio
 layout: post
 date: 2008-07-12T02:14:52+00:00
 categories:
   - UML
 ---
-Continuando a sessão, vamos ao segundo Minicenário.
 
-Jairo trabalha no Departamento de Informática de uma grande empresa. Ele e seus amigos estão sempre fazendo bolão de MegaSena, Quina e outros tipos de jogos. Jairo sempre controla numa planilha Excel os números apostados, além das pessoas que entraram no bolão, seus  e-mails(para receberem os números apostados) e se pagaram suas cotas. Enretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou em desenvolver uma aplicação que atenda àas seguintes funcionalidades:
+# Minicenário: Controle de Bolão
 
-  * Permita cadastrar os participantes de cada bolão, com seus ramais e e-mails;
-  * Para cada bolão feito, cadastrar o valor da cota, número de cotas, os cartões apostados ( com suas relação de números), o tipo de jogo ( MegaSena, Quina etc.), o número do concurso e a data em que será realizado o sorteio;
-  * Controlar quem pagou cada cota;
-  * gerar automaticamente uma página Web com os dados do sorteio, participantes do bolão com suas cotas e os números apostados. O arquivo HTML dessa página será enviada por e-mail;
-  * cada participante poderá adquirir mais de uma cota;
-  * gerar lista de participantes que ainda não pagaram;
-  * a aplicação deve verificar se o total das cotas é igual ao total apostado;
-  * uma determinada aposta pode ser aproveitada em outros bolões.
+Dando continuidade à sessão, este é o segundo Minicenário.
 
-Considere que todas as operações são realizadas pelo jairo, que pode ser identificado como Gestor do bolão.
+Jairo trabalha no Departamento de Informática de uma grande empresa. Ele e seus amigos estão sempre organizando bolões da Mega-Sena, Quina e outros jogos. Até então, Jairo controlava tudo via planilhas Excel: os números apostados, quem participou, e-mails para notificação, e quem já pagou sua cota.
 
-**DIAGRAMA DE CASOS DE USO**
-  
-![Diagrama de Casos de Uso Bolão][1]
+Como isso consumia muito tempo, Jairo decidiu criar um sistema para automatizar esse processo com as seguintes funcionalidades:
 
- [1]: /uploads/2008/07/controle-bolao.png
+- Cadastro de participantes, com e-mail e ramal.
+- Cadastro de bolões, com valor da cota, número de cotas, cartões apostados (com os números), tipo de jogo (Mega-Sena, Quina...), número do concurso e data do sorteio.
+- Controle de quem pagou cada cota.
+- Geração automática de uma página web com os dados do bolão, participantes e suas apostas. A página HTML será enviada por e-mail.
+- Permitir que um participante compre mais de uma cota.
+- Geração de lista com participantes inadimplentes.
+- Verificação se o total arrecadado bate com o valor das apostas.
+- Reutilização de uma mesma aposta em diferentes bolões.
+
+Todas essas operações são realizadas pelo Jairo, identificado no sistema como **Gestor do Bolão**.
+
+## Diagrama de Casos de Uso
+
+![Diagrama de Casos de Uso Bolão](/uploads/2008/07/controle-bolao.png)
+
+Este **Diagrama de Casos de Uso UML** mostra as ações possíveis do sistema do ponto de vista do usuário principal, o Gestor do Bolão:
+
+- **Manter participantes por bolão**: permite incluir ou remover pessoas do bolão.
+- **Controlar pagamento de cotas**: registra quem já pagou sua parte.
+- **Gerar arquivo HTML**: automatiza a página com os dados do bolão.
+- **Enviar e-mail**: funcionalidade acoplada ao HTML para envio automático.
+- **Consultar tipos de jogos**: lista os jogos disponíveis no sistema.
+- **Manter bolão** e **manter apostas** são ações principais de gestão.
+- **Adquirir cota**: usada quando um participante quer entrar em um bolão.
+
+### Glossário rápido:
+
+- **Caso de Uso**: representa uma ação ou objetivo do usuário (ex: "Controlar pagamento cotas").
+- **<<include>>**: indica que um caso sempre inclui outro (ex: "Enviar e-mail" é incluído após "Gerar arquivo HTML").
+- **<<extend>>**: representa uma ação opcional ou condicional (ex: "Manter apostas" estende "Manter bolão").
+
+## Conclusão
+
+A criação de bolões é uma prática comum, mas quando feita manualmente pode se tornar ineficiente. Este sistema proposto automatiza todos os passos críticos — do cadastro ao controle financeiro — e ainda gera e-mails automáticos. Com isso, Jairo ganha tempo e reduz erros, mantendo a diversão dos jogos sem o estresse da gestão.
+
+Nos próximos posts, trarei mais minicenários práticos construídos ao longo do curso.
