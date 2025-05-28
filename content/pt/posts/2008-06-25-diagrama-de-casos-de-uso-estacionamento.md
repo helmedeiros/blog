@@ -70,7 +70,7 @@ Cada cenário ilustra aspectos diferentes da modelagem UML, desde casos de uso s
 
 ---
 
-### **📚 Navegação da Série**
+### **Navegação da Série**
 
 - **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
 - **Anterior**: [Parte 3 - Controle de Obras](../2008-06-21-minicenario-controle-de-obras/)
