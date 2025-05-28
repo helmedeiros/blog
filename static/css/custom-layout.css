@@ -1213,3 +1213,167 @@ pre code {
    REMOVED DUPLICATE CODE BLOCK STYLING
    (Using the light theme version above)
    ======================================== */
+
+/* Modern Table Styling - Bright and Clean Design */
+.article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    background-color: #ffffff !important;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e2e8f0;
+}
+
+.article-content table thead {
+    background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%) !important;
+}
+
+.article-content table thead th {
+    color: #ffffff !important;
+    font-weight: 700;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 1.25rem 1.5rem;
+    text-align: left;
+    border: none !important;
+    border-bottom: none !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.article-content table tbody tr {
+    background-color: #ffffff !important;
+    border-top: none !important;
+    transition: all 0.2s ease;
+}
+
+.article-content table tbody tr:nth-child(even) {
+    background-color: #f1f5f9 !important;
+}
+
+.article-content table tbody tr:hover {
+    background-color: #dbeafe !important;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.article-content table tbody td {
+    padding: 1.25rem 1.5rem;
+    border: none !important;
+    border-bottom: 1px solid #e2e8f0 !important;
+    color: #1e293b !important;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.article-content table tbody tr:last-child td {
+    border-bottom: none !important;
+}
+
+/* Table cell content styling */
+.article-content table td strong,
+.article-content table th strong {
+    font-weight: 700;
+    color: #0f172a !important;
+}
+
+.article-content table td code,
+.article-content table th code {
+    background: linear-gradient(135deg, #fef3c7 0%, #fbbf24 100%) !important;
+    color: #92400e !important;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.85em;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-weight: 600;
+    border: 1px solid #f59e0b !important;
+}
+
+/* Responsive table design */
+@media (max-width: 768px) {
+    .article-content table {
+        font-size: 0.9rem;
+        margin: 1.5rem 0;
+        border-radius: 8px;
+    }
+
+    .article-content table thead th,
+    .article-content table tbody td {
+        padding: 1rem;
+    }
+
+    .article-content table thead th {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 640px) {
+    .article-content table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        border-radius: 8px;
+    }
+
+    .article-content table thead th,
+    .article-content table tbody td {
+        padding: 0.75rem;
+        min-width: 140px;
+    }
+}
+
+/* Override theme table styles with maximum specificity */
+.article-content table tr {
+    border-top: none !important;
+    background-color: transparent !important;
+}
+
+.article-content table tr:nth-child(2n) {
+    background-color: transparent !important;
+}
+
+.article-content table tr th,
+.article-content table tr td {
+    border: none !important;
+    margin: 0 !important;
+}
+
+/* Force bright colors even in dark mode */
+@media (prefers-color-scheme: dark) {
+    .article-content table {
+        background-color: #ffffff !important;
+        border-color: #e2e8f0 !important;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
+    }
+
+    .article-content table thead {
+        background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%) !important;
+    }
+
+    .article-content table tbody tr {
+        background-color: #ffffff !important;
+    }
+
+    .article-content table tbody tr:nth-child(even) {
+        background-color: #f1f5f9 !important;
+    }
+
+    .article-content table tbody tr:hover {
+        background-color: #dbeafe !important;
+    }
+
+    .article-content table tbody td {
+        color: #1e293b !important;
+        border-bottom-color: #e2e8f0 !important;
+    }
+
+    .article-content table td code,
+    .article-content table th code {
+        background: linear-gradient(135deg, #fef3c7 0%, #fbbf24 100%) !important;
+        color: #92400e !important;
+        border-color: #f59e0b !important;
+    }
+}
