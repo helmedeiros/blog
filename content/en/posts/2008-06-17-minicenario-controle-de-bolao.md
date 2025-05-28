@@ -2,14 +2,23 @@
 title: "Mini-scenario: Lottery Pool Control System"
 author: helio
 layout: post
-date: 2008-07-12T02:14:52+00:00
+date: 2008-06-17T02:14:52+00:00
 categories:
   - UML
+tags:
+  - mini-scenarios
+  - uml-series
 ---
+
+> **Series: UML Mini-scenarios** | **Part 2 of 4** > _Developed during Master's in Web Systems Projects_
 
 # Mini-scenario: Betting Pool Management
 
-Continuing this series, here is the second Mini-scenario.
+**Continuing this series**, here is the second mini-scenario developed under the guidance of Professor Osmar Fernandes Jr. After exploring a web classifieds system, we now model a different domain: lottery pool management.
+
+This scenario demonstrates how UML can capture more complex business rules, involving financial control, automatic notifications, and participant management.
+
+## Scenario
 
 Jairo works in the IT department of a large company. He and his friends often organize betting pools for Mega-Sena, Quina, and other lottery games. Until now, Jairo has managed everything with Excel spreadsheets — tracking bet numbers, participants, emails for communication, and who has paid their share.
 
@@ -48,6 +57,16 @@ This **UML Use Case Diagram** shows the available system actions from the perspe
 
 ## Conclusion
 
-Organizing betting pools is common, but doing it manually can be inefficient. The proposed system automates all critical steps — from registration to financial tracking — and even handles email notifications. This way, Jairo saves time, avoids errors, and keeps the fun of lottery pools alive without the management headache.
+This second scenario illustrates how apparently simple systems can involve complex business rules. Compared to the [web classifieds system](../2008-06-13-minicenario-classificados-na-web/), here we have greater integration between functionalities and more rigorous financial controls.
 
-In upcoming posts, I'll present more practical mini-scenarios developed throughout the course.
+UML modeling helps us organize these complexities in a clear and understandable way.
+
+---
+
+### **📚 Series Navigation**
+
+- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
+- **Previous**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)
+- **Current**: Part 2 - Betting Pool Control
+- **Next**: [Part 3 - Construction Control](../2008-06-21-minicenario-controle-de-obras/)
+- **Complete series**: [Web Classifieds](../2008-06-13-minicenario-classificados-na-web/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
