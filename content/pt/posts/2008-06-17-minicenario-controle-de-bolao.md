@@ -2,14 +2,23 @@
 title: "Minicenário: CONTROLE DE BOLÃO"
 author: helio
 layout: post
-date: 2008-07-12T02:14:52+00:00
+date: 2008-06-17T02:14:52+00:00
 categories:
   - UML
+tags:
+  - mini-scenarios
+  - uml-series
 ---
+
+> **Série: Mini-cenários UML** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
 # Minicenário: Controle de Bolão
 
-Dando continuidade à sessão, este é o segundo Minicenário.
+**Dando continuidade à série**, este é o segundo mini-cenário desenvolvido sob orientação do Professor Osmar Fernandes Jr. Após explorarmos um sistema de classificados web, agora vamos modelar um domínio diferente: o controle de bolões de loteria.
+
+Este cenário demonstra como a UML pode capturar regras de negócio mais complexas, envolvendo controle financeiro, notificações automáticas e gestão de participantes.
+
+## Cenário
 
 Jairo trabalha no Departamento de Informática de uma grande empresa. Ele e seus amigos estão sempre organizando bolões da Mega-Sena, Quina e outros jogos. Até então, Jairo controlava tudo via planilhas Excel: os números apostados, quem participou, e-mails para notificação, e quem já pagou sua cota.
 
@@ -48,6 +57,16 @@ Este **Diagrama de Casos de Uso UML** mostra as ações possíveis do sistema do
 
 ## Conclusão
 
-A criação de bolões é uma prática comum, mas quando feita manualmente pode se tornar ineficiente. Este sistema proposto automatiza todos os passos críticos — do cadastro ao controle financeiro — e ainda gera e-mails automáticos. Com isso, Jairo ganha tempo e reduz erros, mantendo a diversão dos jogos sem o estresse da gestão.
+Este segundo cenário ilustra como sistemas aparentemente simples podem envolver regras de negócio complexas. Comparado ao [sistema de classificados](../2008-06-13-minicenario-classificados-na-web/), aqui temos maior integração entre funcionalidades e controles financeiros mais rigorosos.
 
-Nos próximos posts, trarei mais minicenários práticos construídos ao longo do curso.
+A modelagem UML nos ajuda a organizar essas complexidades de forma clara e compreensível.
+
+---
+
+### **📚 Navegação da Série**
+
+- **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
+- **Anterior**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)
+- **Atual**: Parte 2 - Controle de Bolão
+- **Próximo**: [Parte 3 - Controle de Obras](../2008-06-21-minicenario-controle-de-obras/)
+- **Série completa**: [Classificados Web](../2008-06-13-minicenario-classificados-na-web/) | [Controle de Obras](../2008-06-21-minicenario-controle-de-obras/) | [Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

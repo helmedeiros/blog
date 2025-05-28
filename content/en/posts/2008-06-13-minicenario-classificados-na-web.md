@@ -2,14 +2,21 @@
 title: "Mini-scenario: Web Classifieds"
 author: helio
 layout: post
-date: 2008-07-12T01:57:56+00:00
+date: 2008-06-13T01:57:56+00:00
 categories:
   - UML
+tags:
+  - mini-scenarios
+  - uml-series
 ---
+
+> **Series: UML Mini-scenarios** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_
 
 # Mini-scenario: Web Classifieds
 
-As part of my Master's in Web Systems Projects, I created four mini-scenarios under the guidance of Professor Osmar Fernandes Jr. In this post, I'll walk through the first one: a web-based classifieds system imagined and shared by Dalila with her friends from school, her neighborhood, and a local club.
+As part of my Master's in Web Systems Projects, I created four mini-scenarios under the guidance of Professor Osmar Fernandes Jr. This series explores different business domains through UML modeling, demonstrating how use cases and class diagrams can capture real-world requirements.
+
+**In this first scenario**, I present a web-based classifieds system imagined by Dalila to share with her friends from school, her neighborhood, and a local club.
 
 ## Description
 
@@ -57,8 +64,15 @@ This **Class Diagram** represents the system's structure using classes, their at
 - **Usuário**: The system user, with login credentials.
 - **Associations** like `0..*`, `1`, `0..1`: Show how many instances relate to each other (e.g., one client can have multiple interest sections).
 
-## Final Thoughts
+## Conclusion
 
-Even in a simple web classifieds scenario, we can model quite a few rich interactions. From a small idea — Dalila offering her friends a classifieds board — we get a functional web system, with clear actor roles, use case relationships, and domain object structures.
+This first scenario demonstrates how an apparently simple system can involve multiple actors and complex relationships. UML modeling helps us capture both the interactions (use cases) and the data structure (classes) required.
 
-In future posts, I'll cover three more mini-scenarios we developed as part of this project.
+---
+
+### **📚 Series Navigation**
+
+- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
+- **Current**: Part 1 - Web Classifieds
+- **Next**: [Part 2 - Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/)
+- **Complete series**: [Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
