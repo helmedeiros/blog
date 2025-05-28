@@ -7,10 +7,10 @@ categories:
   - Uncategorized
 ---
 
-I'm bringing good news with this first post: **I am** starting **today** this new experience, **creating** my **first** **blog** personal.
+I'm bringing good news with this first post: **I am** starting **today** this new experience, **creating** my **first** personal **blog**.
 
 And bad news too:
 
 I still **haven't** decided on **how** **to start** the **works**...
 
-So... stay **attentive** !
+So... stay **tunned** !
