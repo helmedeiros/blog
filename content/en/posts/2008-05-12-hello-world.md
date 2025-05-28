@@ -2,7 +2,7 @@
 title: "Ready to start!"
 author: helio
 layout: post
-date: 2008-06-12T20:16:38+00:00
+date: 2008-05-12T20:16:38+00:00
 categories:
   - Uncategorized
 ---
