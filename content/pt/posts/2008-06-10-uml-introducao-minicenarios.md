@@ -26,17 +26,13 @@ Em todos os cenários da série, usamos UML como **ferramenta comum de modelagem
 
 Este post é o ponto de partida: apresenta os tipos de diagramas e notações que usaremos ao longo da série.
 
----
-
-## 🧠 O Que a UML Traz Para o Jogo
+## O Que a UML Traz Para o Jogo
 
 UML não é uma metodologia. Ela não dita _como_ construir seu sistema. Em vez disso, oferece uma **caixa de ferramentas de diagramas** para expressar o sistema por diferentes perspectivas.
 
 Aqui estão os dois principais tipos que usaremos na série:
 
----
-
-## 🎯 Diagramas de Casos de Uso
+## Diagramas de Casos de Uso
 
 Presentes nos quatro minicenários, esses diagramas respondem à pergunta:
 **O que os usuários podem fazer no sistema?**
@@ -49,9 +45,7 @@ Presentes nos quatro minicenários, esses diagramas respondem à pergunta:
 
 Esse tipo de diagrama é ideal para alinhar **requisitos com stakeholders**. Não é técnico demais — é sobre entendimento comum.
 
----
-
-## 🗃️ Diagramas de Classes
+## Diagramas de Classes
 
 Usados no cenário de Classificados Web, descrevem a **estrutura de dados** e os **relacionamentos** do sistema.
 
@@ -65,9 +59,7 @@ Usados no cenário de Classificados Web, descrevem a **estrutura de dados** e os
 
 Esses diagramas são essenciais para **modelagem de domínio**, **banco de dados** e **refinamento da arquitetura**.
 
----
-
-## 💬 Por Que Usamos UML Nesses Casos
+## Por Que Usamos UML Nesses Casos
 
 A verdade é simples: diagramas sem padrão criam silos.
 
@@ -80,9 +72,7 @@ Quando bem aplicada, a UML:
 
 Não é necessário usar todos os tipos de diagrama, nem ferramentas sofisticadas. Basta seguir a **notação e lógica**. Até um rascunho no papel pode ser claro se usar os conceitos da UML.
 
----
-
-## 🔍 O Que Vem a Seguir
+## O Que Vem a Seguir
 
 Nos próximos quatro posts, vamos abordar:
 
@@ -95,9 +85,7 @@ Todos com o mesmo modelo: **diagrama de casos de uso** para comportamento, e qua
 
 Começar com UML é garantir que qualquer leitor consiga acompanhar o raciocínio — mesmo sem nunca ter visto o projeto antes.
 
----
-
-### **📚 Navegação da Série**
+### ** Navegação da Série**
 
 - **Atual**: Introdução - Por que UML Ainda Importa
 - **Próximo**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)

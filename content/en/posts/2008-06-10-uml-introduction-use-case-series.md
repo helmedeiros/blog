@@ -26,17 +26,13 @@ Across all scenarios, we use UML as a **common modeling tool**. Why? Because wit
 
 This post sets the foundation — it introduces the types of diagrams and notations we use consistently across the series.
 
----
-
-## 🧠 What UML Brings to the Table
+## What UML Brings to the Table
 
 UML is not a methodology. It doesn't tell you _how_ to build your system. Instead, it gives you a **toolbox of diagrams** to express your system from different angles.
 
 Here are the two main types we'll use throughout the series:
 
----
-
-## 🎯 Use Case Diagrams
+## Use Case Diagrams
 
 Used in all four posts, these diagrams answer a simple question:
 **What can users do with the system?**
@@ -49,9 +45,7 @@ Used in all four posts, these diagrams answer a simple question:
 
 Use Case Diagrams are ideal for aligning **requirements with stakeholders**. They're not for technical depth — they're for shared understanding.
 
----
-
-## 🗃️ Class Diagrams
+## Class Diagrams
 
 Featured in the Web Classifieds scenario, class diagrams describe system **data structures** and **relationships**.
 
@@ -65,9 +59,7 @@ Featured in the Web Classifieds scenario, class diagrams describe system **data 
 
 These diagrams are essential for **domain modeling**, **data modeling**, and architecture refinement.
 
----
-
-## 💬 Why We Use UML in These Scenarios
+## Why We Use UML in These Scenarios
 
 Here's the truth: diagrams without standards create silos.
 
@@ -80,9 +72,7 @@ UML, when done right:
 
 You don't need to use all UML diagrams. You don't even need a UML tool. Just stick to the **notation and structure** — even hand-drawn diagrams can do the job.
 
----
-
-## 🔍 What's Next
+## What's Next
 
 Over the next four posts, we'll walk through:
 
@@ -95,9 +85,7 @@ Each will follow the same modeling approach: use case diagrams for behavior, and
 
 By starting with UML, we guarantee that anyone reading can follow the logic — even if they've never seen the project before.
 
----
-
-### **📚 Series Navigation**
+### ** Series Navigation**
 
 - **Current**: Introduction - Why UML Still Matters
 - **Next**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)
