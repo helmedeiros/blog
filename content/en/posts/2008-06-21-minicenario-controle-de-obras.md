@@ -63,7 +63,7 @@ UML modeling helps us organize these functionalities clearly, showing how histor
 
 ---
 
-### **📚 Series Navigation**
+### **Series Navigation**
 
 - **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
 - **Previous**: [Part 2 - Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/)

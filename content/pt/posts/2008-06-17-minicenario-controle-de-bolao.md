@@ -63,7 +63,7 @@ A modelagem UML nos ajuda a organizar essas complexidades de forma clara e compr
 
 ---
 
-### **📚 Navegação da Série**
+### **Navegação da Série**
 
 - **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
 - **Anterior**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)

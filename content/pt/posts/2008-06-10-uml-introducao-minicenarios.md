@@ -12,8 +12,6 @@ tags:
 
 > **Série: Mini-cenários UML** | **Introdução** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
-# Por que UML Ainda Importa: Uma Linguagem Compartilhada para Projetar Sistemas
-
 Antes de mergulharmos na série com quatro minicenários — **Classificados Web**, **Controle de Bolão**, **Gestão de Estacionamento** e **Controle de Obras** — vale uma pausa para entender _como_ escolhemos representar esses sistemas.
 
 A resposta: **UML** — Linguagem de Modelagem Unificada.
@@ -85,7 +83,7 @@ Todos com o mesmo modelo: **diagrama de casos de uso** para comportamento, e qua
 
 Começar com UML é garantir que qualquer leitor consiga acompanhar o raciocínio — mesmo sem nunca ter visto o projeto antes.
 
-### ** Navegação da Série**
+### **Navegação da Série**
 
 - **Atual**: Introdução - Por que UML Ainda Importa
 - **Próximo**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)

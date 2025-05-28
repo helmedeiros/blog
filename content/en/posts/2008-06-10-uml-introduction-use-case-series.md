@@ -12,8 +12,6 @@ tags:
 
 > **Series: UML Mini-scenarios** | **Introduction** > _Developed during Master's in Web Systems Projects_
 
-# Why UML Still Matters: A Shared Language for Software Design
-
 Before we dive into the series of four mini-scenarios — **Web Classifieds**, **Betting Pool Control**, **Parking Lot Management**, and **Construction Control** — let's pause for a moment to understand _how_ we chose to describe them.
 
 The answer: **UML** — Unified Modeling Language.
@@ -85,7 +83,7 @@ Each will follow the same modeling approach: use case diagrams for behavior, and
 
 By starting with UML, we guarantee that anyone reading can follow the logic — even if they've never seen the project before.
 
-### ** Series Navigation**
+### **Series Navigation**
 
 - **Current**: Introduction - Why UML Still Matters
 - **Next**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)

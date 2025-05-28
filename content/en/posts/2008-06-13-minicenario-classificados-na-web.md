@@ -70,7 +70,7 @@ This first scenario demonstrates how an apparently simple system can involve mul
 
 ---
 
-### **📚 Series Navigation**
+### **Series Navigation**
 
 - **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
 - **Current**: Part 1 - Web Classifieds

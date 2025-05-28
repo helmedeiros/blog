@@ -70,7 +70,7 @@ Este primeiro cenário demonstra como um sistema aparentemente simples pode envo
 
 ---
 
-### **📚 Navegação da Série**
+### **Navegação da Série**
 
 - **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
 - **Atual**: Parte 1 - Classificados Web
