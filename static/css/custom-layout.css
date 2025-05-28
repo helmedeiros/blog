@@ -468,12 +468,12 @@ footer,
 }
 
 .article-content code {
-    background: #f8f9fa;
-    padding: 0.2rem 0.4rem;
-    border-radius: 4px;
-    font-size: 1.1rem;
-    color: #e74c3c;
-    border: 1px solid #e9ecef;
+    background: #f1f5f9;
+    padding: 0.05rem 0.2rem;
+    border-radius: 2px;
+    font-size: 0.85em;
+    color: #475569;
+    border: 1px solid #e2e8f0;
 }
 
 .article-content pre {
@@ -967,14 +967,13 @@ footer,
 
 /* Inline code improvements */
 .article-content code:not(.hljs) {
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    color: #e74c3c;
-    padding: 0.3rem 0.6rem;
-    border-radius: 6px;
-    font-size: 1.2em;
+    background: #f1f5f9;
+    color: #475569;
+    padding: 0.1rem 0.25rem;
+    border-radius: 2px;
+    font-size: 0.9em;
     font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-    border: 1px solid #dee2e6;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border: 1px solid #e2e8f0;
     font-weight: 500;
 }
 
