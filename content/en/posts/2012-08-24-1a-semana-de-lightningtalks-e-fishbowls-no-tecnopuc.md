@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "First Week of Lightning Talks and Fishbowls at TecnoPUC"
 author: helio
 layout: post
 date: 2012-08-24T12:06:34+00:00

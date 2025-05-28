@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Rod Johnson: Trends in Java EE - What Will the Next 5 Years Look Like?"
 author: helio
 layout: post
 date: 2009-11-11T13:07:38+00:00

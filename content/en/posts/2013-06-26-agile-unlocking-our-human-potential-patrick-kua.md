@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Agile: Unlocking Our Human Potential - Patrick Kua"
 Agile: Unlocking our Human Potential –
 author: helio
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mini-scenario: Lottery Pool Control System"
 author: helio
 layout: post
 date: 2008-07-12T02:14:52+00:00
@@ -19,23 +19,23 @@ However, this has been taking up a considerable amount of his time.
 
 Therefore, he thought about developing an application that meets the following functionalities:
 
- - Allows each participant to be registered for each pool, with their aliases and emails;
+- Allows each participant to be registered for each pool, with their aliases and emails;
 
- - For each pool made, register the value of the share, number of shares, the cards bet on (with their relationship of numbers), the type of game (MegaSena, Quina etc.), the drawing number, and the date when the drawing will be held;
+- For each pool made, register the value of the share, number of shares, the cards bet on (with their relationship of numbers), the type of game (MegaSena, Quina etc.), the drawing number, and the date when the drawing will be held;
 
- - Control who has paid for each share;
+- Control who has paid for each share;
 
- - Generate an automatically-generated Web page with the drawing data, pool participants with their shares, and the numbers bet on.
+- Generate an automatically-generated Web page with the drawing data, pool participants with their shares, and the numbers bet on.
 
 The HTML file for this page will be sent by email;
 
- - Each participant can acquire more than one share;
+- Each participant can acquire more than one share;
 
- - Generate a list of participants who have not yet paid;
+- Generate a list of participants who have not yet paid;
 
- - The application must verify if the total amount of shares is equal to the total bet on;
+- The application must verify if the total amount of shares is equal to the total bet on;
 
- - A certain bet may be used in other pools.
+- A certain bet may be used in other pools.
 
 Consider that all operations are performed by Jairo, who can be identified as the Pool Manager. **USAGE SCENARIO DIAGRAM** ![Diagrama Casos Uso Bolão][1]
 

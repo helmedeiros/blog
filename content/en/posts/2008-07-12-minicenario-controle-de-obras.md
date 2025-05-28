@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mini-scenario: Construction Control"
 author: helio
 layout: post
 date: 2008-07-12T09:24:08+00:00
