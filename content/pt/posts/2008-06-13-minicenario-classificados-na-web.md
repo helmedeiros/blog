@@ -12,8 +12,6 @@ tags:
 
 > **Série: Mini-cenários UML** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
-# Mini-cenário: Classificados Web
-
 Como parte do meu Mestrado em Projetos de Sistemas Web, criei quatro mini-cenários sob orientação do Professor Osmar Fernandes Jr. Esta série explora diferentes domínios de negócio através da modelagem UML, demonstrando como casos de uso e diagramas de classes podem capturar requisitos do mundo real.
 
 **Neste primeiro cenário**, apresento um sistema de classificados online imaginado por Dalila para compartilhar com amigos da escola, do bairro e de um clube local.

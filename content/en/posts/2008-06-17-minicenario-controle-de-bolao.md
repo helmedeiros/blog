@@ -12,8 +12,6 @@ tags:
 
 > **Series: UML Mini-scenarios** | **Part 2 of 4** > _Developed during Master's in Web Systems Projects_
 
-# Mini-scenario: Betting Pool Management
-
 **Continuing this series**, here is the second mini-scenario developed under the guidance of Professor Osmar Fernandes Jr. After exploring a web classifieds system, we now model a different domain: lottery pool management.
 
 This scenario demonstrates how UML can capture more complex business rules, involving financial control, automatic notifications, and participant management.

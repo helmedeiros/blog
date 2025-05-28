@@ -12,8 +12,6 @@ tags:
 
 > **Série: Mini-cenários UML** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
-# Minicenário: Controle de Bolão
-
 **Dando continuidade à série**, este é o segundo mini-cenário desenvolvido sob orientação do Professor Osmar Fernandes Jr. Após explorarmos um sistema de classificados web, agora vamos modelar um domínio diferente: o controle de bolões de loteria.
 
 Este cenário demonstra como a UML pode capturar regras de negócio mais complexas, envolvendo controle financeiro, notificações automáticas e gestão de participantes.

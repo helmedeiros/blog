@@ -12,8 +12,6 @@ tags:
 
 > **Series: UML Mini-scenarios** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_
 
-# Mini-scenario: Web Classifieds
-
 As part of my Master's in Web Systems Projects, I created four mini-scenarios under the guidance of Professor Osmar Fernandes Jr. This series explores different business domains through UML modeling, demonstrating how use cases and class diagrams can capture real-world requirements.
 
 **In this first scenario**, I present a web-based classifieds system imagined by Dalila to share with her friends from school, her neighborhood, and a local club.
