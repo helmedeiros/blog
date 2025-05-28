@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Generating Value – Challenges in Launching Paid Content"
 author: helio
 layout: post
 date: 2012-08-02T01:38:48+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
+embed:
+seo_follow:
+seo_noindex:
 categories:
   - Apresentações
   - Eventos

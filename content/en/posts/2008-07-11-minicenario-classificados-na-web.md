@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mini-scenario: Web Classifieds"
 author: helio
 layout: post
 date: 2008-07-12T01:57:56+00:00

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Materializing XP Values - Class 13"
 author: helio
 layout: post
 date: 2010-04-11T12:45:09+00:00

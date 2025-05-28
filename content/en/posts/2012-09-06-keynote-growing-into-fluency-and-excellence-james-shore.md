@@ -1,6 +1,5 @@
 ---
-title: ""
-Título: Growing FLUENCY AND EXCELLENCE
+title: "Growing Fluency and Excellence"
 author: helio
 layout: post
 date: 2012-09-06T13:48:33+00:00
@@ -55,7 +54,7 @@ So, both are directly linked, and therefore the growth of the team's skills cann
 
 But it's not just that; if people on your team and you aren't worried about the success of individuals, they will end up looking for others to do it for them.
 
-And these items are indispensable for improvement and achieving real excellence. “Good businesses form a company, bad technology kills the company, and this is all tied together with people.” <figure id="attachment_616" style="width: 470px" class="wp-caption aligncenter"> [<img class="size-full wp-image-616" src="/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="/uploads/2012/09/internaEstrela.jpg 470w, /uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Components of a fluent environment</figcaption></figure> For James, it shouldn't be the goal for everyone to reach four stars, because companies are different and have different resources, teams, and levels that provide great advantages over others and fluency in some of these already makes them better than they are.
+And these items are indispensable for improvement and achieving real excellence. "Good businesses form a company, bad technology kills the company, and this is all tied together with people." <figure id="attachment_616" style="width: 470px" class="wp-caption aligncenter"> [<img class="size-full wp-image-616" src="/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="/uploads/2012/09/internaEstrela.jpg 470w, /uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Components of a fluent environment</figcaption></figure> For James, it shouldn't be the goal for everyone to reach four stars, because companies are different and have different resources, teams, and levels that provide great advantages over others and fluency in some of these already makes them better than they are.
 
 One star makes you fluent in Agile Fundamentals, with the second star, you've achieved sustainable Agile, the third is a promise of Agile, and finally, the future of Agile.
 
