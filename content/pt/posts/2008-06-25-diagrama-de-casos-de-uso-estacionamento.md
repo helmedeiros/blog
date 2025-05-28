@@ -14,8 +14,6 @@ tags:
 
 > **Série: Mini-cenários UML** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
-# Diagrama de Casos de Uso: Estacionamento
-
 **Chegamos ao cenário final** desta série de mini-cenários UML desenvolvidos sob orientação do Professor Osmar Fernandes Jr. Após explorarmos [classificados web](../2008-06-13-minicenario-classificados-na-web/), [controle de bolão](../2008-06-17-minicenario-controle-de-bolao/) e [controle de obras](../2008-06-21-minicenario-controle-de-obras/), agora modelamos um sistema de estacionamento.
 
 Este último cenário demonstra como a UML pode capturar operações em tempo real, cálculos automáticos e regras de negócio baseadas em tempo e contexto.

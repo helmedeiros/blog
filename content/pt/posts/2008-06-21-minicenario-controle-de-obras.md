@@ -12,8 +12,6 @@ tags:
 
 > **Série: Mini-cenários UML** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
 
-# Minicenário: Controle de Obras
-
 **Prosseguindo com nossa série**, este é o terceiro mini-cenário desenvolvido sob orientação do Professor Osmar Fernandes Jr. Após explorarmos [classificados web](../2008-06-13-minicenario-classificados-na-web/) e [controle de bolão](../2008-06-17-minicenario-controle-de-bolao/), agora modelamos um sistema de controle de compras para obras.
 
 Este cenário demonstra como a UML pode capturar histórico de preços, comparações automáticas e relatórios para tomada de decisão.
