@@ -1375,10 +1375,6 @@ pre code {
         background-color: #f1f5f9 !important;
     }
 
-    .article-content table tbody tr:hover {
-        background-color: #dbeafe !important;
-    }
-
     .article-content table tbody td {
         color: #1e293b !important;
         border-bottom-color: #e2e8f0 !important;
@@ -1390,4 +1386,28 @@ pre code {
         color: #475569 !important;
         border-color: #cbd5e1 !important;
     }
+}
+
+/* Analysis pattern images styling */
+.analysis-pattern-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Creational pattern images styling */
+.creational-pattern-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 700px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
