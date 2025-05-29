@@ -1423,3 +1423,15 @@ pre code {
   border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+
+/* Behavioral pattern images styling */
+.behavioral-pattern-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
