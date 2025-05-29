@@ -7,6 +7,19 @@ categories:
   - Padrões de Análise
 ---
 
+<style>
+.analysis-pattern-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+</style>
+
 Algumas semanas atrás, durante a aula de Modelagem Orientada a Objetos e UML com o professor Osmar Fernandes Jr., fomos introduzidos aos **Padrões de Análise de Software**. Este post resume esse conceito e mostra como ele nos ajuda a modelar estruturas de negócio recorrentes com clareza.
 
 ## Por que isso importa
@@ -32,7 +45,7 @@ Define um supertipo genérico para pessoas e organizações.
 - Evita duplicação de lógica entre entidades que compartilham relacionamentos (ex: endereço, telefone)
 - Útil para modelar qualquer "ator" no sistema
 
-![Analysis Pattern - Party](/uploads/2008/07/picture-2.png)
+<img src="/uploads/2008/07/picture-2.png" alt="Analysis Pattern - Party" class="analysis-pattern-img">
 
 ### Quantity e Unit
 
@@ -41,7 +54,7 @@ Representa um valor numérico com uma unidade (ex: 20 km).
 - `Quantity` encapsula valor e unidade
 - Suporta operações como `+`, `-`, `*`, `/` entre quantidades compatíveis
 
-![Analysis Pattern - Quantity](/uploads/2008/07/picture-5.png)
+<img src="/uploads/2008/07/picture-5.png" alt="Analysis Pattern - Quantity" class="analysis-pattern-img">
 
 ### Conversion Ratio
 
@@ -50,7 +63,7 @@ Permite transformar uma `Quantity` de uma unidade para outra.
 - `ConversionRatio` liga duas unidades com um fator multiplicador
 - Usado em operações como `convertTo(Unit)`
 
-![Analysis Pattern - Quantity](/uploads/2008/07/picture-6.png)
+<img src="/uploads/2008/07/picture-6.png" alt="Analysis Pattern - Conversion Ratio" class="analysis-pattern-img">
 
 ### Compound Units
 
@@ -59,7 +72,9 @@ Modela unidades compostas como km/h ou R$/m².
 - Representa combinações de múltiplas `Unit`
 - Suporta sistemas mais avançados de medição
 
-**[Imagem: Diagrama UML de Compound Units aqui]**
+<img src="/uploads/2008/07/compound-units-1.png" alt="Analysis Pattern - Compound Units Basic" class="analysis-pattern-img">
+
+<img src="/uploads/2008/07/compound-units-2.png" alt="Analysis Pattern - Compound Units Detailed" class="analysis-pattern-img">
 
 ### Hierarquias Organizacionais
 
@@ -68,7 +83,7 @@ Modela estruturas hierárquicas de forma recursiva.
 - `Organization` pode ter um `parent` e várias `subsidiaries`
 - Ideal para modelar regiões, divisões, escritórios, etc.
 
-![Analysis Pattern - Organization Hierarchies](/uploads/2008/07/picture-3.png)
+<img src="/uploads/2008/07/picture-3.png" alt="Analysis Pattern - Organization Hierarchies" class="analysis-pattern-img">
 
 ### Estrutura Organizacional
 
@@ -77,7 +92,7 @@ Explicita o tipo de relacionamento organizacional.
 - Define `Organization Structure Type` (ex: subsidiária, joint venture)
 - Separa o relacionamento das entidades envolvidas
 
-![Analysis Pattern - Organization Structure](/uploads/2008/07/picture-4.png)
+<img src="/uploads/2008/07/picture-4.png" alt="Analysis Pattern - Organization Structure" class="analysis-pattern-img">
 
 ## Conclusão
 
