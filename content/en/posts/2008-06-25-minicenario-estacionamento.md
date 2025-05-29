@@ -1,5 +1,5 @@
 ---
-title: "Use Case Diagram: PARKING"
+title: "Mini-scenario: PARKING"
 author: helio
 layout: post
 date: 2008-06-25T02:48:10+00:00
