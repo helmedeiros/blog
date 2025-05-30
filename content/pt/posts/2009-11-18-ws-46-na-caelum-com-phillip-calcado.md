@@ -2,7 +2,7 @@
 title: WS-46 na Caelum com Phillip Calçado
 author: helio
 layout: post
-date: 2009-11-10T23:37:20+00:00
+date: 2009-11-18T23:37:20+00:00
 dsq_thread_id:
   - 4969844886
 categories:

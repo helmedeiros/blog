@@ -2,9 +2,9 @@
 title: "Will I have helped someone tear down the walls?"
 author: admin
 layout: post
-date: 2009-11-17T10:06:49+00:00
-idptt_tweeted: 
-dsq_thread_id: 
+date: 2009-11-30T10:06:49+00:00
+idptt_tweeted:
+dsq_thread_id:
 categories:
   - Ageis
   - Eventos
@@ -36,6 +36,7 @@ I believe that we were able to share a bit of our experience, implementing and u
 I've been exchanging recent updates with some people in the field and I think it's very valuable to learn about agile frameworks or even coaching during their learning process.
 
 Below are the presentation slides for those interested: <div style="margin-bottom: 20px;">
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2517685"
         width="595"
         height="485"

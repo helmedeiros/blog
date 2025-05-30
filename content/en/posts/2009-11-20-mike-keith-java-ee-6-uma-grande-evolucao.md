@@ -2,7 +2,7 @@
 title: "Mike Keith - Java EE 6: A Great Evolution"
 author: helio
 layout: post
-date: 2009-11-11T14:22:51+00:00
+date: 2009-11-20T14:22:51+00:00
 idptt_tweeted:
 categories:
   - Eventos

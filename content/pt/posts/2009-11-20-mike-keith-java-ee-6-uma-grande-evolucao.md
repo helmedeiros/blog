@@ -2,7 +2,7 @@
 title: Mike Keith – Java EE 6 – Uma grande evolução
 author: helio
 layout: post
-date: 2009-11-11T14:22:51+00:00
+date: 2009-11-20T14:22:51+00:00
 idptt_tweeted:
   - 1
 categories:
@@ -15,6 +15,7 @@ tags:
   - Mike Keith
   - TDC 2009
 ---
+
 <img class="aligncenter size-full wp-image-97" src="/uploads/2009/11/dsc00699.jpg" alt="Mike Keith" width="417" height="291" srcset="/uploads/2009/11/dsc00699.jpg 417w, /uploads/2009/11/dsc00699-300x209.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
 
 A palestra de Mike Keith iniciou às 11:00h, após o coffee break, com algumas brincadeiras e perguntas sobre o tempo em que era despendido entre o lançamento das novas versões Java, sem a platéia achava muito ou pouco e se não os interessava, o slide deste momento mostrava a frase &#8220;Ou não se importa pois acha que a Microsoft irá matar o Java&#8221;. Sei que poderiam haver problemas dizer algo assim a algum tempo&#8230; mas pelo que vim escutando neste tempo aqui no Rio, pelo próprio Phillip, o .NET com C# vem apresentando coisas bem legais&#8230;
