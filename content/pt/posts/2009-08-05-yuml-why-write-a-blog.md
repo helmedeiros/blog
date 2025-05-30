@@ -23,30 +23,30 @@ Lá eu apresento diagramas de casos de uso e classes, usados para representar pe
 ## Exemplo 1: Diagrama de Classe
 
 ```text
-[Cliente]1-*[Pedido]
-[Pedido]++-1>[Pagamento]
+[Cliente]1-0..*[Pedido]
+[Pedido]<>-1[Pagamento]
 ```
 
 Visualização:
 
-![Classe](https://yuml.me/diagram/class/plain/[Cliente]1-*%5BPedido%5D,%20[Pedido]++-1%3E%5BPagamento%5D)
+![Classe](https://yuml.me/diagram/scruffy/class/[Cliente]1-0..*[Pedido],[Pedido]<>-1[Pagamento])
 
 Esse exemplo representa:
 
-- Um cliente pode ter vários pedidos.
-- Um pedido tem exatamente um pagamento, e o pagamento depende do pedido para existir (composição).
+- Um cliente pode ter zero ou vários pedidos.
+- Cada pedido tem exatamente um pagamento com agregação (relacionamento forte).
 
 ## Exemplo 2: Diagrama de Caso de Uso
 
 ```text
-[Cliente]-(Consultar Produtos),
-[Cliente]-(Fazer Pedido),
+[Cliente]-(Consultar Produtos)
+[Cliente]-(Fazer Pedido)
 [Cliente]-(Cancelar Pedido)
 ```
 
 Visualização:
 
-![Caso de Uso](<https://yuml.me/diagram/usecase/plain/[Cliente]-(Consultar%20Produtos),[Cliente]-(Fazer%20Pedido),[Cliente]-(Cancelar%20Pedido)>)
+![Caso de Uso](<https://yuml.me/diagram/scruffy/usecase/[Cliente]-(Consultar%20Produtos),[Cliente]-(Fazer%20Pedido),[Cliente]-(Cancelar%20Pedido)>)
 
 Isso modela os principais pontos de interação de um cliente com o sistema de pedidos.
 
@@ -58,7 +58,7 @@ Isso modela os principais pontos de interação de um cliente com o sistema de p
 
 Visualização:
 
-![Atividades](<https://yuml.me/diagram/activity/plain/(start)->(Validar%20Dados)->(Criar%20Conta)->(Enviar%20Email)->(end)>)
+![Atividades](<https://yuml.me/diagram/scruffy/activity/(start)-(Validar%20Dados)-(Criar%20Conta)-(Enviar%20Email)-(end)>)
 
 Representa o fluxo de uma operação comum como cadastro de usuário.
 

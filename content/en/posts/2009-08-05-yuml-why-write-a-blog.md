@@ -23,30 +23,30 @@ In that post, I explored use case and class diagrams to model real-life situatio
 ## Example 1: Class Diagram
 
 ```text
-[Customer]1-*[Order]
-[Order]++-1>[Payment]
+[Customer]1-0..*[Order]
+[Order]<>-1[Payment]
 ```
 
 Visualization:
 
-![Class](https://yuml.me/diagram/class/plain/[Customer]1-*%5BOrder%5D,%20[Order]++-1%3E%5BPayment%5D)
+![Class](https://yuml.me/diagram/scruffy/class/[Customer]1-0..*[Order],[Order]<>-1[Payment])
 
 This diagram shows:
 
-- One customer can have many orders.
-- Each order has one payment, and the payment is tightly coupled (composition) to the order.
+- One customer can have zero or many orders.
+- Each order has exactly one payment with aggregation (strong relationship).
 
 ## Example 2: Use Case Diagram
 
 ```text
-[Customer]-(Browse Products),
-[Customer]-(Place Order),
+[Customer]-(Browse Products)
+[Customer]-(Place Order)
 [Customer]-(Cancel Order)
 ```
 
 Visualization:
 
-![Use Case](<https://yuml.me/diagram/usecase/plain/[Customer]-(Browse%20Products),[Customer]-(Place%20Order),[Customer]-(Cancel%20Order)>)
+![Use Case](<https://yuml.me/diagram/scruffy/usecase/[Customer]-(Browse%20Products),[Customer]-(Place%20Order),[Customer]-(Cancel%20Order)>)
 
 This represents the main actions a customer can perform in a simple order management system.
 
@@ -58,7 +58,7 @@ This represents the main actions a customer can perform in a simple order manage
 
 Visualization:
 
-![Activity](<https://yuml.me/diagram/activity/plain/(start)->(Validate%20Info)->(Create%20Account)->(Send%20Email)->(end)>)
+![Activity](<https://yuml.me/diagram/scruffy/activity/(start)-(Validate%20Info)-(Create%20Account)-(Send%20Email)-(end)>)
 
 A basic registration workflow in activity format.
 
