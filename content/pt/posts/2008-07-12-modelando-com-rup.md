@@ -1,5 +1,5 @@
 ---
-title: Mascarando a aproximação BDUF com template RUP ?
+title: "Modelagem com RUP: Disciplina, Não Documentação"
 author: helio
 layout: post
 date: 2008-07-12T09:24:51+00:00
@@ -12,89 +12,109 @@ tags:
   - RUP
   - template
 ---
-Tivemos um debate nos últimos dias em nossa classe de Pós-Graduação sobre, <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front" title="Big Design Up Front" target="_blank">BDUF</a>, e se seria possível reduzir a bagagem de documentos não compiláveis, através da composição de novos templates junto ao RUP, endeusado por alguns profissionais da escola do escopo fechado. O Rational Unified Process(RUP) é um processo de engenharia de software,  que oferece uma abordagem baseada em disciplinas para atribuir tarefas e responsabilidades dentro de uma organização de desenvolvimento; guiado pelos princípios <a href="http://www.ibm.com/developerworks/rational/library/oct05/kroll/index.html" title="ABCDE" target="_blank">ABCDE</a> do <a href="http://www.devx.com/ibm/Article/30308" title="Business Driven Development" target="_blank">BDD</a> que garante um processo adaptável, com gerência de níveis de prioridade e colaboração entre membros do time. Sendo assim, tentamos elaborar este template que coube bem às nossas necessidades diárias.
 
-**Disciplina**: Ambiente
+O **Rational Unified Process (RUP)** é frequentemente mal compreendido. Críticos o veem como um processo pesado, cheio de documentos, diagramas e reuniões intermináveis. Mas, quando usado corretamente, o RUP é **um framework para engenharia disciplinada**, e não uma receita para burocracia.
 
-**Atividade**: Preparar ambiente do projeto
+A modelagem no RUP não se trata de escrever coisas — trata-se de **entender, comunicar e projetar sistemas de forma colaborativa**. Este artigo aprofunda o papel da modelagem no RUP, como ela evolui ao longo das iterações e por que ainda é relevante mesmo em um mundo obcecado por agilidade e entrega enxuta.
 
-**Tarefa**: Elaborar o caso de desenvolvimento
+## O que é RUP?
 
-**Artefato**: Plano de desenvolvimento de Software
+RUP é um **framework de processo de engenharia de software** desenvolvido pela Rational (agora parte da IBM), que fornece orientação estruturada para atribuição de tarefas e responsabilidades dentro de uma equipe de desenvolvimento.
 
-**Artefatos Inclusos**:
+Características principais:
 
-  * [Artefato: Guia de Modelagem de Caso de Uso][1]
-  * [Artefato: Guia de Interface do Usuário][2]
-  * <u>[<u>Artefato: Plano de Gerenciamento de Riscos</u>][3]</u>
-  * [Artefato: Guia de Teste][4]
-  * <u>[<u>Artefato: Plano de Garantia de Qualidade</u>][5]</u>
+- **Iterativo e incremental**: O software é desenvolvido em ciclos.
+- **Centrado em arquitetura**: Foco inicial em componentes-chave do sistema.
+- **Orientado a casos de uso**: A funcionalidade é construída em torno dos objetivos do usuário.
 
-**Disciplina**: Modelagem de Negócio
+## Modelagem no RUP ≠ Documentação
 
-**Atividade**:
+Um equívoco comum: achar que modelar significa gerar enormes diagramas UML e especificações exaustivas antes de escrever código. O RUP rejeita isso.
 
-  * [Explorar automação de processos][6]
+### Modelar no RUP significa:
 
-**Artefato**:
+- Esclarecer o que será construído
+- Validar decisões arquiteturais
+- Explorar comportamento antes de codificar
+- Comunicar de forma clara entre funções e áreas
 
-  * [Visão do negócio][7]
+### Uma boa modelagem é:
 
-**Disciplina**: Requisitos
+- Visual: Usa **UML** e outras notações para representar estrutura e fluxo.
+- Intencional: Serve para responder perguntas ou resolver ambiguidade.
+- Evolutiva: Os modelos **mudam com o tempo**, conforme o entendimento melhora.
 
-**Atividade**:
+## Modelos-Chave no RUP
 
-  * [Definir o sistema][8]
+| Modelo                  | Finalidade                                               | Diagramas Típicos               |
+| ----------------------- | -------------------------------------------------------- | ------------------------------- |
+| Modelo de Casos de Uso  | Define o comportamento do sistema sob a ótica do usuário | Casos de Uso, Atores            |
+| Modelo de Análise       | Define responsabilidades e colaborações lógicas          | Classe, Sequência, Atividade    |
+| Modelo de Design        | Mapeia design lógico para a implementação                | Classe, Componente, Implantação |
+| Modelo de Implementação | Estrutura o código fonte                                 | Pacotes, Componentes            |
+| Modelo de Implantação   | Descreve a topologia física do sistema                   | Nós, Artefatos, Implantação     |
 
-**Tarefa**:
+Cada modelo serve para **informar decisões ou apoiar a implementação** — não para satisfazer burocracia.
 
-  * [Desenvolver Visão][9]
+## Quando Modelar?
 
-**Artefato**:
+### Fase de Iniciação
 
-  * [Visão][10]
+- Identificar atores e casos de uso de alto nível.
+- Criar modelo inicial de casos de uso para escopo.
 
-**Disciplina**: Gerenciamento de Projeto
+### Fase de Elaboração
 
-**Atividade**:
+- Validar a arquitetura.
+- Criar modelos de análise e design para componentes críticos.
+- Usar diagramas de sequência para detalhar interações.
 
-  * Identificar e analisar riscos
-  * Planejar fases e iterações
-  * Selecionar equipe
-  * Compilar plano de desenvolvimento de software
-  * Revisão da Aprovação do projeto
-  * Programar e atribuir trabalho
+### Fase de Construção
 
-**Artefato**:
+- Refinar modelos de design conforme necessário.
+- Associar elementos de modelo com o código real.
+- Evitar modelagem que não influencie diretamente a implementação.
 
-  * [Plano de Desenvolvimento de Software][11]
+### Fase de Transição
 
-**Disciplina**: Análise e Design
+- Criar modelos de implantação para liberação.
+- Validar topologia e configuração em produção.
 
-**Atividade**:
+## E o UML?
 
-  * [Realizar Síntese Arquitetural][12]
+RUP incentiva fortemente o uso do UML, mas com propósito.
 
-**Tarefa:**
+### Diagramas UML Comuns no RUP:
 
-  * <a href="http://www.wthreex.com/rup/process/activity/ac_arcan.htm" target="_blank">Análise arquitetural</a>
+| Diagrama    | Usado em...     | Intenção                          |
+| ----------- | --------------- | --------------------------------- |
+| Caso de Uso | Iniciação       | Escopo e interações com o sistema |
+| Classe      | Análise, Design | Estrutura e responsabilidades     |
+| Sequência   | Análise, Design | Fluxo de lógica entre componentes |
+| Componente  | Design          | Organização da implementação      |
+| Implantação | Transição       | Mapeamento físico dos nós         |
 
-**Artefato**:
+Se você não está usando UML para **clarificar**, está usando errado.
 
-  * [Arquitetura de Referência][13]
-  * [Documento de Arquitetura de Software][14]
+## Modelagem Ágil com RUP
 
- [1]: http://www.wthreex.com/rup/process/artifact/ar_ucmgl.htm
- [2]: http://www.wthreex.com/rup/process/artifact/ar_uigls.htm
- [3]: http://www.wthreex.com/rup/process/artifact/ar_riskpl.htm
- [4]: http://www.wthreex.com/rup/process/artifact/ar_tstgl.htm
- [5]: http://www.wthreex.com/rup/process/artifact/ar_qapl.htm
- [6]: http://www.wthreex.com/rup/process/workflow/busmodel/wfs_prep.htm
- [7]: http://www.wthreex.com/rup/process/artifact/ar_bvsio.htm
- [8]: http://www.wthreex.com/rup/process/workflow/requirem/wfs_defs.htm
- [9]: http://www.wthreex.com/rup/process/activity/ac_dvisn.htm
- [10]: http://www.wthreex.com/rup/process/artifact/ar_vsion.htm
- [11]: http://www.wthreex.com/rup/process/artifact/ar_sdp.htm
- [12]: http://www.wthreex.com/rup/process/workflow/ana_desi/wfs_archsyn.htm
- [13]: http://www.wthreex.com/rup/process/artifact/ar_refarch.htm
- [14]: http://www.wthreex.com/rup/process/artifact/ar_sadoc.htm
+Modelar não significa design antecipado. Em contextos ágeis, devemos:
+
+- **Modelar apenas o necessário** para entendimento compartilhado
+- **Usar quadros, diagramas e ferramentas colaborativas**
+- **Refatorar modelos** conforme arquitetura e código evoluem
+
+RUP e Agile **não são inimigos** — o RUP pode **se adaptar** a contextos ágeis com modelagem leve, iterativa e colaborativa.
+
+## Erros Comuns
+
+- **Modelar tudo**: Não. Foque nas áreas complexas ou arriscadas.
+- **Tratar modelos como especificações**: São ferramentas de comunicação, não contratos.
+- **Não manter modelos atualizados**: Modelos desatualizados são piores que não ter nenhum.
+
+## Considerações Finais
+
+A disciplina de modelagem do RUP continua extremamente relevante — especialmente para equipes que constroem sistemas grandes e evolutivos.
+Não se trata de diagramas perfeitos. É sobre usar a modelagem para **pensar, comunicar e decidir**.
+
+Use a estrutura do RUP para orientar quando e como modelar — mas deixe sempre **o valor da clareza e da tomada de decisão** guiar o esforço.
