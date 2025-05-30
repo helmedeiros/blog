@@ -1,5 +1,5 @@
 ---
-title: "Masking the approaching BDUF with an RUP template?"
+title: "Modeling with RUP: Discipline, Not Documentation"
 author: helio
 layout: post
 date: 2008-07-12T09:24:51+00:00
@@ -13,104 +13,108 @@ tags:
   - template
 ---
 
-We had a debate in our Master's class over the last few days about <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front" title="Big Design Up Front" target="_blank">BDUF</a>, and whether it would be possible to reduce the baggage of non-compilable documents by composing new templates together with RUP, as some professionals from the school scope have suggested.
+The **Rational Unified Process (RUP)** is often misunderstood. Critics see it as a heavyweight process filled with documents, diagrams, and endless meetings. But when used as intended, RUP is **a framework for disciplined engineering**, not a prescription for bureaucracy.
 
-The Rational Unified Process (RUP) is a software engineering process that offers an approach based on disciplines to assign tasks and responsibilities within a development organization; guided by the principles <a href="http://www.ibm.com/developerworks/rational/library/oct05/kroll/index.html" title="ABCDE" target="_blank">ABCDE</a> of <a href="http://www.devx.com/ibm/Article/30308" title="Business Driven Development" target="_blank">BDD</a>, which ensures a flexible process with management of priority levels and collaboration among team members.
+Modeling in RUP is not about writing things down — it's about **understanding, communicating, and designing systems collaboratively**. This article dives deep into the role of modeling in RUP, how it evolves across iterations, and why it still matters in a world obsessed with agility and lean delivery.
 
-Therefore, we tried to create this template that would fit well into our daily needs. **Discipline**:
+## What is RUP?
 
-Environment **Activity**:
+RUP is a **software engineering process framework** developed by Rational (now part of IBM) that provides structured guidance for assigning tasks and responsibilities within a development team.
 
-Preparing the project environment **Task**:
+It is:
 
-Developing the case study **Artifact**:
+- **Iterative and incremental**: You develop and refine software in cycles.
+- **Architecture-centric**: Early focus on key system components.
+- **Use-case driven**: Functionality is built around user goals.
 
-Software Development Plan **Included Artifacts**:
+## Modeling in RUP ≠ Documentation
 
- - [Artefato:
+A common misconception: that modeling means generating massive UML diagrams and exhaustive specs before any code is written. RUP rejects this.
 
-Guia Modelagem Caso Uso][1]
+### Modeling in RUP means:
 
- - [Artefato:
+- Clarifying what to build
+- Validating architectural decisions
+- Exploring behavior before committing to code
+- Communicating across team boundaries
 
-Guia Interface Usuário][2]
+### Good modeling is:
 
- - <u>[<u>Artefato:
+- Visual: Uses **UML** and other notations to convey structure and flow.
+- Purposeful: Done to answer a question or resolve ambiguity.
+- Evolutionary: Models **change across iterations** as understanding deepens.
 
-Plano Gerenciamento Riscos</u>][3]</u>
+## Key Models in RUP
 
- - [Artefato:
+| Model                | Purpose                                            | Typical Diagrams             |
+| -------------------- | -------------------------------------------------- | ---------------------------- |
+| Use-Case Model       | Define system behavior from user perspective       | Use-Case, Actor              |
+| Analysis Model       | Define logical responsibilities and collaborations | Class, Sequence, Activity    |
+| Design Model         | Map logical design to implementation               | Class, Component, Deployment |
+| Implementation Model | Organize source code structure                     | Packages, Components         |
+| Deployment Model     | Describe physical system topology                  | Nodes, Artifacts, Deployment |
 
-Guia Teste][4]
+Each model exists to **inform a decision or support implementation** — not to satisfy paperwork.
 
- - <u>[<u>Artefato:
+## When Do We Model?
 
-Plano Garantia quality</u>][5]</u> **Discipline**:
+### Inception Phase
 
-Business Modeling **Activity**:
+- Identify actors and high-level use cases.
+- Create initial use-case model to scope the system.
 
- - [Explorar automação de processos][6] **Artifact**:
+### Elaboration Phase
 
- - [Visão do negócio][7] **Discipline**:
+- Validate the architecture.
+- Build analysis and design models for key components.
+- Use sequence diagrams to clarify interactions.
 
-Requirements **Activity**:
+### Construction Phase
 
- - [Definir o sistema][8] **Task**:
+- Refine design models where needed.
+- Link model elements to actual code.
+- Minimize effort on models that don't influence current implementation.
 
- - [Desenvolver Visão][9] **Artifact**:
+### Transition Phase
 
- - [Visão][10] **Discipline**:
+- Create deployment models for rollout.
+- Validate production topology and configuration.
 
-Project Management **Activity**:
+## What About UML?
 
- - Identify and analyze risks
+RUP heavily encourages UML, but with a purpose.
 
- - Plan phases and iterations
+### Common UML Diagrams in RUP:
 
- - Select team
+| Diagram            | Used in...       | Intent                            |
+| ------------------ | ---------------- | --------------------------------- |
+| Use Case Diagram   | Inception        | Scope and actor interactions      |
+| Class Diagram      | Analysis, Design | Responsibilities and structure    |
+| Sequence Diagram   | Analysis, Design | Flow of logic across components   |
+| Component Diagram  | Design           | Implementation-level organization |
+| Deployment Diagram | Transition       | Physical node mapping             |
 
- - Compile software development plan
+If you're not using UML to aid clarity, you're doing it wrong.
 
- - Review project approval
+## Agile Modeling inside RUP
 
- - Schedule and assign work **Artifact**:
+Modeling doesn't need to mean upfront design. In an Agile context, we:
 
- - [Plano Desenvolvimento Software][11] **Discipline**:
+- **Model just enough** for shared understanding
+- **Use whiteboards, diagrams, and collaborative tools**
+- **Refactor models** as architecture and implementation evolve
 
-Analysis and Design **Activity**:
+RUP and Agile are not enemies — RUP can **adapt** to agile contexts by embracing light, iterative, collaborative modeling.
 
- - [Realizar Síntese Arquitetural][12] **Task:**
+## Common Pitfalls
 
- - <a href="http://www.wthreex.com/rup/process/activity/ac_arcan.htm" target="_blank">Análise arquitetural</a> **Artifact**:
+- **Modeling everything**: Don't. Focus on risky or complex areas.
+- **Treating models as specs**: They're communication tools, not contracts.
+- **Neglecting updates**: Stale models are worse than no models.
 
- - [Arquitetura Referência][13]
+## Final Thoughts
 
- - [Documento Arquitetura Software][14]
+RUP's modeling discipline is still incredibly relevant — especially for teams building large, evolving systems.
+It's not about producing perfect diagrams. It's about using modeling to **think, communicate, and decide**.
 
-[2]: http://www.wthreex.com/rup/process/artifact/ar_uigls.htm
-
-[8]: http://www.wthreex.com/rup/process/workflow/requirem/wfs_defs.htm
-
-[3]: http://www.wthreex.com/rup/process/artifact/ar_riskpl.htm
-
-[1]: http://www.wthreex.com/rup/process/artifact/ar_ucmgl.htm
-
-[5]: http://www.wthreex.com/rup/process/artifact/ar_qapl.htm
-
-[12]: http://www.wthreex.com/rup/process/workflow/ana_desi/wfs_archsyn.htm
-
-[6]: http://www.wthreex.com/rup/process/workflow/busmodel/wfs_prep.htm
-
-[14]: http://www.wthreex.com/rup/process/artifact/ar_sadoc.htm
-
-[4]: http://www.wthreex.com/rup/process/artifact/ar_tstgl.htm
-
-[9]: http://www.wthreex.com/rup/process/activity/ac_dvisn.htm
-
-[10]: http://www.wthreex.com/rup/process/artifact/ar_vsion.htm
-
-[7]: http://www.wthreex.com/rup/process/artifact/ar_bvsio.htm
-
-[13]: http://www.wthreex.com/rup/process/artifact/ar_refarch.htm
-
-[11]: http://www.wthreex.com/rup/process/artifact/ar_sdp.htm
+Use RUP's structure to guide when and how to model — but always let **the value of clarity and decision-making** drive your effort.
