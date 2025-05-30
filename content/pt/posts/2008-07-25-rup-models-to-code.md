@@ -60,7 +60,7 @@ Ele introduz classes concretas, lógica de interação e escolhas tecnológicas 
 
 ### Diagrama
 
-```plantuml
+{{< plantuml title="Interação do Serviço de Compra" >}}
 @startuml
 actor Usuario
 boundary CheckoutController
@@ -71,7 +71,7 @@ Usuario --> CheckoutController : iniciarCheckout()
 CheckoutController --> CompraService : processar(carrinho)
 CompraService --> Carrinho : calcularTotal()
 @enduml
-```
+{{< /plantuml >}}
 
 Esse diagrama de sequência pode orientar diretamente a estrutura de classes e serviços.
 
@@ -91,20 +91,20 @@ Quando definido cedo, esse modelo orienta CI/CD, fronteiras de artefatos e a res
 
 ### Exemplo
 
-```plantuml
+{{< plantuml title="Arquitetura de Componentes" >}}
 @startuml
 package "Gestão de Clientes" {
-  [ClienteService] --> [UsuarioRepository]
-  [ClienteService] --> [PagamentoAdapter]
+[ClienteService] --> [UsuarioRepository]
+[ClienteService] --> [PagamentoAdapter]
 }
 
 package "Gestão de Pedidos" {
-  [PedidoService] --> [PedidoRepository]
+[PedidoService] --> [PedidoRepository]
 }
 
 [ClienteService] ..> [PedidoService] : chama
 @enduml
-```
+{{< /plantuml >}}
 
 Cada pacote pode corresponder a:
 
@@ -120,17 +120,17 @@ Vamos começar com um caso de uso: **Cancelar Reserva**
 
 ### Passo 1: Diagrama de Caso de Uso
 
-```plantuml
+{{< plantuml title="Caso de Uso Cancelar Reserva" >}}
 @startuml
 actor Passageiro
 usecase "Cancelar Reserva" as UC1
 Passageiro --> UC1
 @enduml
-```
+{{< /plantuml >}}
 
 ### Passo 2: Diagrama de Sequência
 
-```plantuml
+{{< plantuml title="Sequência Cancelar Reserva" >}}
 @startuml
 actor Passageiro
 boundary ReservaController
@@ -141,7 +141,7 @@ Passageiro --> ReservaController : cancelar(reservaId)
 ReservaController --> ReservaService : cancelar(reservaId)
 ReservaService --> Reserva : marcarComoCancelada()
 @enduml
-```
+{{< /plantuml >}}
 
 ### Passo 3: Esqueleto de Código
 
