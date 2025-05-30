@@ -12,6 +12,40 @@ This is a multilingual Hugo blog with Portuguese (PT) and English (EN) content. 
 - `static/css/custom-layout.css` - Custom CSS for styling
 - Hugo server runs on localhost:1313
 
+## Git Commit Standards
+
+**CRITICAL**: All commits must follow the "Technical Conventional Commits" pattern:
+
+### Commit Message Format
+
+```
+type(scope): short description (under 50 chars)
+
+Detailed body with bullet points:
+- Specific files added/changed and their purpose
+- Technical metrics (file counts, page counts, dimensions)
+- CSS class names and styling details
+- Build statistics and verification data
+- Hugo page count changes (EN/PT)
+
+Clear summary of impact and functionality enabled.
+```
+
+### Commit Message Rules
+
+- **Accuracy**: Only describe changes actually in THIS commit
+- **No cross-references**: Don't mention previous commits unless directly relevant
+- **Technical precision**: Include specific numbers, file names, class names
+- **Verification data**: Always include Hugo build stats when applicable
+- **Professional tone**: Comprehensive but focused documentation
+- **Conventional format**: Use feat(blog), feat(automation), fix(css), etc.
+
+### Examples
+
+- `feat(blog): add behavioral design patterns articles (2008-07-08)`
+- `feat(automation): add Cursor/Claude workflow automation`
+- `fix(css): update responsive image styling for mobile`
+
 ## Article Conversion Workflow
 
 When user provides content for Hugo conversion:

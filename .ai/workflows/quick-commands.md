@@ -12,19 +12,39 @@ hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture
 hugo --buildDrafts --buildFuture --templateMetrics
 ```
 
-## Git Commit Template
+## Git Commit Template (CRITICAL PATTERN)
 
 ```bash
 git add .
-git commit -m "feat(blog): add [topic] articles (YYYY-MM-DD)
+git commit -m "type(scope): short description
 
-- Add Portuguese and English posts for [topic]
-- Include N images/diagrams: [list]
-- Add CSS styling with .[topic]-img class (Npx max-width)
-- Update Hugo builds to X EN + Y PT pages
+Detailed changes in this commit:
+- Specific file: purpose and functionality
+- Technical metrics: X files changed, Y insertions
+- Hugo build stats: X EN + Y PT pages
+- CSS classes: .class-name-img (Npx max-width)
+- Image handling: N diagrams in /static/uploads/YYYY/MM/
 
-Content covers: [description]"
+Summary: What this commit enables and its impact."
 ```
+
+### Commit Types
+
+- `feat(blog):` - New blog posts or content
+- `feat(automation):` - Workflow or tool improvements
+- `fix(css):` - Styling corrections
+- `docs():` - Documentation updates
+- `refactor():` - Code reorganization
+
+### Required Elements
+
+- ✅ Only describe changes in THIS commit
+- ✅ Include technical metrics and file counts
+- ✅ Hugo page count changes when applicable
+- ✅ Specific CSS class names and dimensions
+- ✅ Professional, comprehensive documentation
+- ❌ No references to previous commits
+- ❌ No vague or generic descriptions
 
 ## File Structure Check
 
