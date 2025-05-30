@@ -1,0 +1,7 @@
+---
+title: "{{ TITLE }}"
+date: {{ DATE }}T{{ TIME }}+02:00
+draft: false
+tags: {{ TAGS_ARRAY }}
+categories: {{ CATEGORIES_ARRAY }}
+---

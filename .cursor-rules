@@ -1,0 +1,88 @@
+# Hugo Blog Project - Cursor Rules
+
+## Project Overview
+
+This is a multilingual Hugo blog with Portuguese (PT) and English (EN) content. The blog focuses on software engineering, design patterns, and technical articles.
+
+## Project Structure
+
+- `content/en/posts/` - English blog posts
+- `content/pt/posts/` - Portuguese blog posts
+- `static/uploads/YYYY/MM/` - Images and assets organized by date
+- `static/css/custom-layout.css` - Custom CSS for styling
+- Hugo server runs on localhost:1313
+
+## Article Conversion Workflow
+
+When user provides content for Hugo conversion:
+
+### 1. Expected Input Format
+
+- Date in DD-MM-YYYY format
+- Two attached files: `@english-filename.md` and `@portuguese-filename.md`
+- **CRITICAL**: Both files must have identical filenames for Hugo multilingual system
+- List of images/diagrams if referenced in content
+- Content type (technical, tutorial, conceptual, etc.)
+
+### 2. Automatic Processing Steps
+
+1. **Create Hugo Posts**: Convert markdown to Hugo format with proper front matter
+2. **File Placement**: Place in `content/en/posts/YYYY-MM-DD-filename.md` and `content/pt/posts/YYYY-MM-DD-filename.md`
+3. **Image Handling**:
+   - Place images in `/static/uploads/YYYY/MM/`
+   - Convert image references to Hugo format: `![Alt](/uploads/YYYY/MM/image.png)`
+   - Create appropriate CSS classes with responsive max-widths
+4. **CSS Updates**: Add styling classes in `static/css/custom-layout.css`
+5. **Testing**: Verify with Hugo development server
+6. **Git Commit**: Use conventional commit format with detailed body
+
+### 3. CSS Image Styling Pattern
+
+- Create topic-specific CSS classes (e.g., `.creational-pattern-img`, `.structural-pattern-img`)
+- Use responsive max-widths: 600px-800px range depending on content type
+- Always include `width: 100%; height: auto;` for responsiveness
+
+### 4. Hugo Front Matter Template
+
+```yaml
+---
+title: "Article Title"
+date: YYYY-MM-DDTHH:mm:ss+02:00
+draft: false
+tags: ["tag1", "tag2"]
+categories: ["category"]
+---
+```
+
+### 5. Multilingual Setup
+
+- Use identical filenames in both language directories
+- Hugo automatically links translations
+- Test accessibility in both languages
+
+### 6. Development Server
+
+- Always test with: `hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture`
+- Verify page count increases in build stats
+- Check both EN and PT versions accessible
+
+### 7. Git Commit Format
+
+```
+feat(blog): add [topic] articles (YYYY-MM-DD)
+
+- Add Portuguese and English posts for [topic]
+- Include N diagrams/images: [list images]
+- Add CSS styling with .[topic]-img class (Npx max-width)
+- Update Hugo builds to X EN + Y PT pages
+
+Content covers: [brief description of topics covered]
+```
+
+## Automation Expectations
+
+- Immediate Hugo detection of new posts
+- Proper multilingual linking
+- Responsive image styling
+- Clean commits with conventional format
+- Build verification
