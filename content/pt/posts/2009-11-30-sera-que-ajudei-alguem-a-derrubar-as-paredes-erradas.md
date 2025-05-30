@@ -2,7 +2,7 @@
 title: Será que ajudei alguém a derrubar as paredes erradas?
 author: admin
 layout: post
-date: 2009-11-17T10:06:49+00:00
+date: 2009-11-30T10:06:49+00:00
 idptt_tweeted:
   - 1
 dsq_thread_id:
@@ -20,6 +20,7 @@ tags:
   - Sprint
   - UnP
 ---
+
 Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre <a title="Congresso Cientifico" href="/?p=49" target="_self">metodologias ágeis e scrum</a> no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.
 
 Não pudemos conduzir o minicurso de forma apropriada realizando todas as atividades, uma vez da falta de estudantes. Aparentemente o evento teve alguns problemas de divulgação, e acabamos por reforçar quatro amizades e por conhecer duas novas figurinhas.
