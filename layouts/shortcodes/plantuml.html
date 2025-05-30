@@ -27,23 +27,31 @@ window.plantumlState = window.plantumlState || {
 };
 
 function initializePlantUMLExternal() {
-    // Wait for encoder to be fully available
-    if (!window.plantumlEncoder || typeof window.plantumlEncoder.encode !== 'function') {
-        console.log('PlantUML encoder not ready yet, retrying...');
-        // Retry after a short delay
-        setTimeout(initializePlantUMLExternal, 200);
+    // Quick check - if encoder is ready, process immediately
+    if (window.plantumlEncoder && typeof window.plantumlEncoder.encode === 'function') {
+        console.log('PlantUML encoder ready, processing diagrams...');
+
+        const diagrams = document.querySelectorAll('.plantuml-diagram');
+        diagrams.forEach(function(diagram) {
+            processDiagram(diagram);
+        });
+
+        // Mark as loaded
+        window.plantumlState.loaded = true;
         return;
     }
 
-    console.log('PlantUML encoder ready, processing diagrams...');
+    // If encoder not ready, retry once more after short delay
+    if (!window.plantumlState.retried) {
+        window.plantumlState.retried = true;
+        console.log('PlantUML encoder not ready, retrying once...');
+        setTimeout(initializePlantUMLExternal, 100);
+        return;
+    }
 
-    const diagrams = document.querySelectorAll('.plantuml-diagram');
-    diagrams.forEach(function(diagram) {
-        processDiagram(diagram);
-    });
-
-    // Mark as loaded
-    window.plantumlState.loaded = true;
+    // After retry, show fallback
+    console.warn('PlantUML encoder still not ready, showing fallback');
+    showCodeFallback();
 }
 
 function processDiagram(diagram) {
@@ -104,13 +112,13 @@ function processDiagram(diagram) {
             showCodeFallbackForDiagram(diagram);
         };
 
-        // Set a timeout as backup
+        // Reduced timeout for faster fallback
         setTimeout(function() {
             if (loadingDiv.innerHTML === '<p>🔄 Rendering PlantUML diagram...</p>') {
                 console.log('PlantUML loading timeout, showing fallback');
                 showCodeFallbackForDiagram(diagram);
             }
-        }, 15000); // 15 second timeout
+        }, 8000); // Reduced from 15 to 8 seconds
 
     } catch (error) {
         console.log('PlantUML rendering failed:', error);
@@ -128,12 +136,12 @@ if (!window.plantumlState.loaded && !window.plantumlState.loading) {
     script.crossOrigin = 'anonymous';
 
     script.onload = function() {
-        console.log('PlantUML script loaded, waiting for encoder to be ready...');
-        // Wait a bit longer to ensure the encoder is fully initialized
+        console.log('PlantUML script loaded, initializing...');
+        // Reduced delay for faster initialization
         setTimeout(function() {
             window.plantumlState.loading = false;
             initializePlantUMLExternal();
-        }, 300);
+        }, 50); // Reduced from 300ms to 50ms
     };
 
     script.onerror = function() {
@@ -145,21 +153,17 @@ if (!window.plantumlState.loaded && !window.plantumlState.loading) {
     document.head.appendChild(script);
 } else if (window.plantumlState.loaded) {
     // Already loaded, process immediately
-    setTimeout(initializePlantUMLExternal, 100);
+    initializePlantUMLExternal();
 } else {
-    // Currently loading, wait for it to complete
-    const checkLoaded = function() {
-        if (window.plantumlState.loaded) {
+    // Currently loading, wait briefly then check
+    setTimeout(function() {
+        if (window.plantumlState.loaded || !window.plantumlState.loading) {
             initializePlantUMLExternal();
-        } else if (!window.plantumlState.loading) {
-            // Loading failed, show fallback
-            showCodeFallback();
         } else {
-            // Still loading, check again
-            setTimeout(checkLoaded, 200);
+            // Still loading after reasonable time, show fallback
+            showCodeFallback();
         }
-    };
-    setTimeout(checkLoaded, 200);
+    }, 100); // Quick check after 100ms
 }
 
 function showCodeFallback() {
