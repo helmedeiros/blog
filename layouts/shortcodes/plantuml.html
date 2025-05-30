@@ -1,0 +1,147 @@
+{{- $content := .Inner | strings.TrimSpace -}}
+{{- $align := .Get "align" | default "center" -}}
+{{- $title := .Get "title" | default "" -}}
+
+{{/* Sanitize align parameter to prevent CSS injection */}}
+{{- $validAligns := slice "left" "center" "right" "justify" -}}
+{{- if not (in $validAligns $align) -}}
+    {{- $align = "center" -}}
+{{- end -}}
+
+<div class="plantuml-diagram" style="text-align: {{ $align }}; width: 100%; margin: 20px 0;">
+    {{- if $title }}
+    <h4>{{ $title | htmlEscape }}</h4>
+    {{- end }}
+    <div class="plantuml-loading" style="padding: 10px; margin: 10px 0; color: #666;">
+        <p>🔄 Rendering PlantUML diagram...</p>
+    </div>
+    <pre class="plantuml-source" style="display: none;">{{ $content }}</pre>
+</div>
+
+<script defer>
+// Load PlantUML WASM only once
+if (!window.plantumlWasmLoaded) {
+    window.plantumlWasmLoaded = true;
+
+    // Load the official PlantUML WASM library
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/plantuml-encoder@1.4.0/dist/plantuml-encoder.min.js';
+    script.crossOrigin = 'anonymous';
+    script.onload = function() {
+        initializePlantUMLExternal();
+    };
+    script.onerror = function() {
+        console.warn('Failed to load PlantUML encoder, showing code fallback');
+        showCodeFallback();
+    };
+    document.head.appendChild(script);
+} else {
+    // PlantUML already loaded, process diagrams immediately
+    setTimeout(initializePlantUMLExternal, 100);
+}
+
+function initializePlantUMLExternal() {
+    const diagrams = document.querySelectorAll('.plantuml-diagram');
+    diagrams.forEach(function(diagram) {
+        const loadingDiv = diagram.querySelector('.plantuml-loading');
+        const sourceEl = diagram.querySelector('.plantuml-source');
+
+        if (!loadingDiv || !sourceEl || sourceEl.getAttribute('data-processed')) {
+            return;
+        }
+
+        const source = sourceEl.textContent.trim();
+        sourceEl.setAttribute('data-processed', 'true');
+
+        // Basic sanitization - remove potentially dangerous content
+        if (source.includes('<script') || source.includes('javascript:')) {
+            console.warn('Potentially dangerous content detected in PlantUML source, showing fallback');
+            showCodeFallbackForDiagram(diagram);
+            return;
+        }
+
+        try {
+            if (window.plantumlEncoder) {
+                const encoded = window.plantumlEncoder.encode(source);
+                const imgElement = document.createElement('img');
+                imgElement.src = 'https://www.plantuml.com/plantuml/svg/' + encoded;
+                imgElement.alt = 'PlantUML Diagram';
+                imgElement.loading = 'lazy';
+                imgElement.style.maxWidth = '100%';
+                imgElement.style.maxHeight = '400px';
+                imgElement.style.width = 'auto';
+                imgElement.style.height = 'auto';
+                imgElement.style.display = 'block';
+                imgElement.style.margin = '0 auto';
+                imgElement.style.boxShadow = 'none';
+                imgElement.style.border = 'none';
+
+                // Create a container with white background for centering
+                const container = document.createElement('div');
+                container.style.backgroundColor = '#ffffff';
+                container.style.border = '1px solid #e1e1e1';
+                container.style.borderRadius = '4px';
+                container.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.1)';
+                container.style.padding = '20px';
+                container.style.textAlign = 'center';
+                container.style.minHeight = '200px';
+                container.style.display = 'flex';
+                container.style.alignItems = 'center';
+                container.style.justifyContent = 'center';
+
+                imgElement.onload = function() {
+                    container.appendChild(imgElement);
+                    loadingDiv.innerHTML = '';
+                    loadingDiv.appendChild(container);
+                    console.log('PlantUML diagram loaded successfully');
+                };
+
+                imgElement.onerror = function() {
+                    console.log('PlantUML image failed to load, showing code fallback');
+                    showCodeFallbackForDiagram(diagram);
+                };
+
+                // Set a timeout as backup
+                setTimeout(function() {
+                    if (loadingDiv.innerHTML === '<p>🔄 Rendering PlantUML diagram...</p>') {
+                        console.log('PlantUML loading timeout, showing fallback');
+                        showCodeFallbackForDiagram(diagram);
+                    }
+                }, 10000); // 10 second timeout
+
+            } else {
+                showCodeFallbackForDiagram(diagram);
+            }
+        } catch (error) {
+            console.log('PlantUML rendering failed:', error);
+            showCodeFallbackForDiagram(diagram);
+        }
+    });
+}
+
+function showCodeFallback() {
+    const diagrams = document.querySelectorAll('.plantuml-diagram');
+    diagrams.forEach(function(diagram) {
+        showCodeFallbackForDiagram(diagram);
+    });
+}
+
+function showCodeFallbackForDiagram(diagram) {
+    const loadingDiv = diagram.querySelector('.plantuml-loading');
+    const sourceEl = diagram.querySelector('.plantuml-source');
+
+    if (!loadingDiv || !sourceEl) {
+        return;
+    }
+
+    const source = sourceEl.textContent.trim();
+
+    loadingDiv.innerHTML =
+        '<div style="border-left: 4px solid #ddd; padding: 10px; margin: 10px 0; font-size: 0.9em; background-color: #fafafa; width: 100%; box-sizing: border-box;">' +
+        '<strong>📊 PlantUML:</strong> <a href="http://www.plantuml.com/plantuml/uml/" target="_blank" rel="noopener">View online</a> or copy the code below.' +
+        '</div>' +
+        '<pre style="background-color: #f8f8f8; border: 1px solid #e1e1e1; border-radius: 3px; padding: 12px; overflow-x: auto; font-family: \'Monaco\', \'Menlo\', \'Consolas\', monospace; font-size: 0.9em; width: 100%; box-sizing: border-box; margin: 0;"><code class="language-plantuml">' +
+        source.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') +
+        '</code></pre>';
+}
+</script>
