@@ -46,77 +46,27 @@ Clear summary of impact and functionality enabled.
 - `feat(automation): add Cursor/Claude workflow automation`
 - `fix(css): update responsive image styling for mobile`
 
-## Article Conversion Workflow
+## Hugo Article Conversion
 
-When user provides content for Hugo conversion:
+**Workflow Reference**: Use `.ai/workflows/hugo-article-conversion.md` for detailed steps.
 
-### 1. Expected Input Format
+### Core Requirements
 
-- Date in DD-MM-YYYY format
-- Two attached files: `@english-filename.md` and `@portuguese-filename.md`
-- **CRITICAL**: Both files must have identical filenames for Hugo multilingual system
-- List of images/diagrams if referenced in content
-- Content type (technical, tutorial, conceptual, etc.)
+- **Input**: Date (DD-MM-YYYY) + two identical filename attachments
+- **Critical**: Both files must have identical names for multilingual linking
+- **Output**: Hugo posts + responsive CSS + conventional git commit
+- **Testing**: Always verify with development server and build stats
 
-### 2. Automatic Processing Steps
+### File Placement Standards
 
-1. **Create Hugo Posts**: Convert markdown to Hugo format with proper front matter
-2. **File Placement**: Place in `content/en/posts/YYYY-MM-DD-filename.md` and `content/pt/posts/YYYY-MM-DD-filename.md`
-3. **Image Handling**:
-   - Place images in `/static/uploads/YYYY/MM/`
-   - Convert image references to Hugo format: `![Alt](/uploads/YYYY/MM/image.png)`
-   - Create appropriate CSS classes with responsive max-widths
-4. **CSS Updates**: Add styling classes in `static/css/custom-layout.css`
-5. **Testing**: Verify with Hugo development server
-6. **Git Commit**: Use conventional commit format with detailed body
-
-### 3. CSS Image Styling Pattern
-
-- Create topic-specific CSS classes (e.g., `.creational-pattern-img`, `.structural-pattern-img`)
-- Use responsive max-widths: 600px-800px range depending on content type
-- Always include `width: 100%; height: auto;` for responsiveness
-
-### 4. Hugo Front Matter Template
-
-```yaml
----
-title: "Article Title"
-date: YYYY-MM-DDTHH:mm:ss+02:00
-draft: false
-tags: ["tag1", "tag2"]
-categories: ["category"]
----
-```
-
-### 5. Multilingual Setup
-
-- Use identical filenames in both language directories
-- Hugo automatically links translations
-- Test accessibility in both languages
-
-### 6. Development Server
-
-- Always test with: `hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture`
-- Verify page count increases in build stats
-- Check both EN and PT versions accessible
-
-### 7. Git Commit Format
-
-```
-feat(blog): add [topic] articles (YYYY-MM-DD)
-
-- Add Portuguese and English posts for [topic]
-- Include N diagrams/images: [list images]
-- Add CSS styling with .[topic]-img class (Npx max-width)
-- Update Hugo builds to X EN + Y PT pages
-
-Content covers: [brief description of topics covered]
-```
+- Posts: `content/{en,pt}/posts/YYYY-MM-DD-filename.md`
+- Images: `static/uploads/YYYY/MM/image-name.png`
+- CSS: Topic-specific classes with responsive max-widths (600px-800px)
 
 ## Automation Expectations
 
 - Immediate Hugo detection of new posts
-- Proper multilingual linking
-- Responsive image styling
-- Clean commits with conventional format
-- Build verification
+- Proper multilingual linking with identical filenames
+- Responsive image styling with topic-appropriate CSS classes
+- Clean commits following Technical Conventional format
+- Build verification with EN/PT page counts

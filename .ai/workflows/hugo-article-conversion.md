@@ -24,7 +24,7 @@ When user provides content with format: "Please convert these articles for [date
 
 ### Step 2: Create Hugo Posts
 
-- Generate proper Hugo front matter with timestamp
+- Generate proper Hugo front matter using `.ai/templates/hugo-front-matter.yaml`
 - Convert markdown content for Hugo compatibility
 - Place files in correct language directories:
   - `content/en/posts/YYYY-MM-DD-filename.md`
@@ -33,42 +33,35 @@ When user provides content with format: "Please convert these articles for [date
 ### Step 3: Handle Images
 
 - Create image placeholder files in `/static/uploads/YYYY/MM/`
-- Convert image references to Hugo format
-- Generate appropriate CSS class for topic
+- Convert image references to Hugo format: `![Alt](/uploads/YYYY/MM/image.png)`
+- Generate appropriate CSS class using `.ai/templates/css-image-class.css`
 - Update `static/css/custom-layout.css` with responsive styling
 
 ### Step 4: Test and Verify
 
 - Ensure Hugo development server is running
 - Verify posts appear in build statistics
-- Check both language versions are accessible
-- Confirm multilingual linking works
+- Check both language versions are accessible at localhost:1313
+- Confirm multilingual linking works (identical filenames)
 
 ### Step 5: Git Commit
 
-- Stage all changes
-- Create conventional commit with detailed body
-- Include build statistics and content summary
+- Stage all changes with `git add .`
+- Create commit following `.cursor-rules` Git Commit Standards
+- Include technical metrics and Hugo build stats
+- Verify commit message follows Technical Conventional format
 
 ## Success Criteria
 
 - ✅ Hugo detects new posts immediately
 - ✅ Both language versions accessible at localhost:1313
-- ✅ Images have responsive styling
-- ✅ Page count increases in build stats
+- ✅ Images have responsive styling with topic-appropriate CSS
+- ✅ Page count increases in build stats (EN + PT)
 - ✅ Clean git commit with conventional format
+- ✅ Multilingual linking functional with identical filenames
 
-## Example Output
+## Templates Used
 
-```
-feat(blog): add design patterns articles (2008-07-08)
-
-- Add Portuguese and English posts for behavioral patterns
-- Include 10 UML diagrams: chain-of-responsibility.png, command.png, ...
-- Add CSS styling with .behavioral-pattern-img class (800px max-width)
-- Update Hugo builds to 550 EN + 554 PT pages
-
-Content covers: 10 Gang of Four behavioral design patterns including
-Chain of Responsibility, Command, Interpreter, Iterator, Mediator,
-Memento, Observer, State, Strategy, and Template Method
-```
+- Front matter: `.ai/templates/hugo-front-matter.yaml`
+- CSS styling: `.ai/templates/css-image-class.css`
+- Commit format: Defined in `.cursor-rules` Git Commit Standards
