@@ -1,0 +1,14 @@
+{
+  "workbench.editorAssociations": {
+    "*.mdc": "default"
+  },
+  "cursor.ai.includePatterns": [
+    ".ai/**/*",
+    ".cursor/**/*"
+  ],
+  "cursor.ai.contextPatterns": [
+    ".ai/workflows/**/*.md",
+    ".ai/templates/**/*",
+    ".cursor-rules"
+  ]
+}
