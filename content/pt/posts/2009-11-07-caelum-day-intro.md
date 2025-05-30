@@ -1,46 +1,59 @@
 ---
-title: "Caelum Day no Rio – Impressões Quentes de um Sábado Inesquecível"
+title: "Caelum Day no Rio – Impressões do Sábado na Estácio"
 date: 2009-11-07T23:27:21+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Apresentando uma série sobre as palestras que tornaram este evento tech memorável"
+subtitle: "Introduzindo uma série sobre as palestras que marcaram este evento"
 tags:
   [
     "Caelum",
-    "Eventos",
+    "Events",
     "Rio de Janeiro",
     "Cloud Computing",
     "REST",
     "NoSQL",
     "Java",
     "VRaptor",
-    "Tecnologia",
-    "Conferência",
+    "Technology",
+    "Conference",
+    "Series",
   ]
-categories: ["Eventos", "Tecnologia"]
+categories: ["Events", "Technology"]
+series: "Caelum Day 2009"
 ---
 
-Acabei de sair do evento e ainda estou digerindo tudo o que aconteceu neste sábado ensolarado no campus da Estácio, no Rio de Janeiro. O **Caelum Day** foi intenso, bem organizado e cheio de conteúdo relevante, entregue por gente que realmente vive e respira tecnologia.
+> **Série: Caelum Day 2009** | **Introdução** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_
 
-As palestras foram densas, mas acessíveis. Conversamos sobre **Cloud Computing, REST, NoSQL, Java, Flex** e muito mais. E o mais interessante foi ver como todos os temas, mesmo os mais técnicos, foram tratados com um pé na prática — com exemplos, vivência e até crítica construtiva.
+Saí do evento agora pouco e ainda estou digerindo tudo que rolou neste sábado ensolarado no campus da Estácio no Rio. O **Caelum Day** foi intenso, bem organizado, e cheio de conteúdo relevante entregue por gente que claramente vive e respira tecnologia.
 
----
-
-## Porque Vale Registrar
-
-Sempre que vou a um evento assim, saio cheio de anotações e ideias para testar. Desta vez, decidi fazer diferente: vou escrever uma **série de posts**, cada um sobre uma das palestras que mais me impactaram.
-
-A ideia não é reproduzir o conteúdo na íntegra, mas compartilhar **o que aprendi, o que me fez pensar diferente, e como esses temas se conectam com o que vivemos hoje na prática profissional**.
+As palestras foram profundas, mas acessíveis. Abordamos **Cloud Computing, REST, NoSQL, Java, Flex** e mais. O que mais me chamou atenção foi como todas as apresentações se mantiveram próximas da prática real — com exemplos, experiências vividas, e até algumas críticas honestas.
 
 ---
 
-## O que Vem a Seguir
+## Por Que Vale Escrever Sobre
 
-- Parte 1: A Nuvem segundo Fábio Kung
-- Parte 2: VRaptor 3 com Guilherme Silveira e Filipe Sabella
-- Parte 3: RESTful sem confusão com Sergio Junior e Luiz Costa
-- Parte 4: NoSQL desmistificado por Nico Steppat
-- Parte 5: Flex no navegador com Rafael Martinelli
-- Parte 6: Persistência Java com Paulo Silveira
+Sempre que participo de eventos assim, saio com um caderno cheio de ideias. Dessa vez, vou fazer algo diferente: vou publicar uma **série de posts**, um pra cada uma das palestras que mais me marcaram.
 
-Se você esteve no evento, espero que essa série te ajude a revisitar os temas. E se não pôde ir, talvez seja uma forma de capturar um pouco da energia que rolou por lá. Vamos juntos!
+O objetivo não é transcrevê-las, mas compartilhar **o que aprendi, o que desafiou meu pensamento, e como esses tópicos se conectam com o que fazemos hoje no mundo tech**.
+
+---
+
+## O Que Vem Por Aí
+
+- **Parte 1**: Cloud Computing segundo Fábio Kung
+- **Parte 2**: VRaptor 3 com Guilherme Silveira e Filipe Sabella
+- **Parte 3**: REST Descomplicado com Sergio Junior e Luiz Costa
+- **Parte 4**: NoSQL Desmistificado por Nico Steppat
+- **Parte 5**: Flex no Browser com Rafael Martinelli
+- **Parte 6**: Persistência Java com Paulo Silveira
+- **Final**: Keynote sobre Liderança Técnica com Phillip Calçado
+
+Se você esteve lá, espero que essa série te ajude a revisitar as conversas. E se você perdeu, talvez seja uma forma de pegar um pouco da energia que tornou o dia tão memorável. Vamos nessa!
+
+---
+
+### **Navegação da Série**
+
+- **Atual**: Introdução - Visão Geral do Caelum Day
+- **Próximo**: [Parte 1 - Cloud Computing com Fábio Kung](../2009-11-08-caelum-day-part1-cloud-fabio-kung/)
+- **Série completa**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Liderança Técnica](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)
