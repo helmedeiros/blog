@@ -7,6 +7,8 @@ categories:
   - Padrões de Projeto
 ---
 
+> **Série: Padrões de Projeto e Análise** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
+
 Após entendermos os padrões de análise para modelar conceitos de negócio, agora avançamos para os **desafios estruturais da construção de software**. É nesse ponto que os **padrões de projeto** se destacam — ideias arquiteturais reutilizáveis que ajudam a escrever código mais limpo e fácil de manter.
 
 ## O Que É um Padrão de Projeto?
@@ -94,3 +96,12 @@ Padrões de projeto são ferramentas de pensamento testadas ao longo do tempo. E
 Nos próximos posts, vamos aprofundar em cada categoria com diagramas UML reais, exemplos, e comparações entre abordagens.
 
 Fique ligado para ver o Factory, Strategy, Observer e muitos outros em ação.
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
+- **Atual**: Parte 1 - Padrões de Projeto Overview
+- **Próximo**: [Parte 2 - Padrões de Criação](../2008-07-04-padroes-de-criacao/)
+- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

@@ -7,7 +7,9 @@ categories:
   - Padrões de Projeto
 ---
 
-Depois de entender como criar objetos com flexibilidade usando os **Padrões de Criação**, é hora de estruturar esses objetos de forma colaborativa e escalável.
+> **Série: Padrões de Projeto e Análise** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
+
+**Continuando nossa série**, depois de entender como criar objetos com flexibilidade usando os [Padrões de Criação](../2008-07-04-padroes-de-criacao/), é hora de estruturar esses objetos de forma colaborativa e escalável.
 Os **Padrões Estruturais** se concentram em **como as classes e objetos são combinados** para formar estruturas maiores — sem acoplamento desnecessário ou complexidade excessiva.
 
 ## O Que São Padrões Estruturais?
@@ -179,3 +181,13 @@ class ImageProxy implements Image {
 Os padrões estruturais nos ajudam a **compor sistemas com elegância**, permitindo adaptar, estender e simplificar a arquitetura sem criar um efeito dominó de mudanças.
 
 No próximo post, vamos explorar os **Padrões Comportamentais** — como coordenar responsabilidades e fluxos de trabalho de maneira flexível.
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
+- **Anterior**: [Parte 2 - Padrões de Criação](../2008-07-04-padroes-de-criacao/)
+- **Atual**: Parte 3 - Padrões Estruturais
+- **Próximo**: [Parte 4 - Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)
+- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

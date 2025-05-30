@@ -7,6 +7,10 @@ categories:
   - Design Patterns
 ---
 
+> **Series: Design Patterns and Analysis** | **Part 2 of 4** > _Developed during Master's in Web Systems Projects_
+
+**Continuing our series**, after understanding the [importance of design patterns](../2008-07-02-padroes-de-projeto-detalhado/), we now explore the first specific category. Creational patterns solve one of the most fundamental problems in object-oriented design.
+
 Creational patterns solve one of the most fundamental problems in object-oriented design:
 **How do we create objects in a way that is flexible, decoupled, and testable?**
 
@@ -132,3 +136,13 @@ Creational patterns shape the **starting point** of any object in your system.
 They may look simple, but they determine how flexible, testable, and reusable your entire architecture will be.
 
 Next up, we'll explore **Structural Patterns** — and how to compose objects into larger systems cleanly.
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
+- **Previous**: [Part 1 - Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/)
+- **Current**: Part 2 - Creational Patterns
+- **Next**: [Part 3 - Structural Patterns](../2008-07-06-padroes-estruturais/)
+- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Structural Patterns](../2008-07-06-padroes-estruturais/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)

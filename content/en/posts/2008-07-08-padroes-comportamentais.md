@@ -7,7 +7,10 @@ categories:
   - Design Patterns
 ---
 
-Once your objects are built (Creational) and structured (Structural), the next challenge is interaction.
+> **Series: Design Patterns and Analysis** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_
+
+**We've reached the final chapter** of this design patterns series. Once your objects are built ([Creational Patterns](../2008-07-04-padroes-de-criacao/)) and structured ([Structural Patterns](../2008-07-06-padroes-estruturais/)), the next challenge is interaction.
+
 **Behavioral Design Patterns** are all about **how objects communicate**, distribute responsibilities, and respond to events in a flexible, maintainable way.
 
 These patterns help reduce complex conditional logic, prevent tight coupling, and increase clarity.
@@ -224,3 +227,12 @@ interface Visitor {
 Behavioral patterns provide the **rules of interaction** for objects in your system. They promote clarity, extensibility, and modularity in how logic is executed and coordinated.
 
 With all three categories explored — Creational, Structural, Behavioral — we now have a solid foundation for software design that balances flexibility, clarity, and evolution.
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
+- **Previous**: [Part 3 - Structural Patterns](../2008-07-06-padroes-estruturais/)
+- **Current**: Part 4 - Behavioral Patterns (Final)
+- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Structural Patterns](../2008-07-06-padroes-estruturais/)
