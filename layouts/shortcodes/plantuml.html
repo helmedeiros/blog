@@ -19,104 +19,147 @@
 </div>
 
 <script defer>
-// Load PlantUML WASM only once
-if (!window.plantumlWasmLoaded) {
-    window.plantumlWasmLoaded = true;
+// Global state for PlantUML loading
+window.plantumlState = window.plantumlState || {
+    loaded: false,
+    loading: false,
+    pendingDiagrams: []
+};
 
-    // Load the official PlantUML WASM library
+function initializePlantUMLExternal() {
+    // Wait for encoder to be fully available
+    if (!window.plantumlEncoder || typeof window.plantumlEncoder.encode !== 'function') {
+        console.log('PlantUML encoder not ready yet, retrying...');
+        // Retry after a short delay
+        setTimeout(initializePlantUMLExternal, 200);
+        return;
+    }
+
+    console.log('PlantUML encoder ready, processing diagrams...');
+
+    const diagrams = document.querySelectorAll('.plantuml-diagram');
+    diagrams.forEach(function(diagram) {
+        processDiagram(diagram);
+    });
+
+    // Mark as loaded
+    window.plantumlState.loaded = true;
+}
+
+function processDiagram(diagram) {
+    const loadingDiv = diagram.querySelector('.plantuml-loading');
+    const sourceEl = diagram.querySelector('.plantuml-source');
+
+    if (!loadingDiv || !sourceEl || sourceEl.getAttribute('data-processed')) {
+        return;
+    }
+
+    const source = sourceEl.textContent.trim();
+    sourceEl.setAttribute('data-processed', 'true');
+
+    // Basic sanitization - remove potentially dangerous content
+    if (source.includes('<script') || source.includes('javascript:')) {
+        console.warn('Potentially dangerous content detected in PlantUML source, showing fallback');
+        showCodeFallbackForDiagram(diagram);
+        return;
+    }
+
+    try {
+        const encoded = window.plantumlEncoder.encode(source);
+        const imgElement = document.createElement('img');
+        imgElement.src = 'https://www.plantuml.com/plantuml/svg/' + encoded;
+        imgElement.alt = 'PlantUML Diagram';
+        imgElement.loading = 'lazy';
+        imgElement.style.maxWidth = '100%';
+        imgElement.style.maxHeight = '400px';
+        imgElement.style.width = 'auto';
+        imgElement.style.height = 'auto';
+        imgElement.style.display = 'block';
+        imgElement.style.margin = '0 auto';
+        imgElement.style.boxShadow = 'none';
+        imgElement.style.border = 'none';
+
+        // Create a container with white background for centering
+        const container = document.createElement('div');
+        container.style.backgroundColor = '#ffffff';
+        container.style.border = '1px solid #e1e1e1';
+        container.style.borderRadius = '4px';
+        container.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.1)';
+        container.style.padding = '20px';
+        container.style.textAlign = 'center';
+        container.style.minHeight = '200px';
+        container.style.display = 'flex';
+        container.style.alignItems = 'center';
+        container.style.justifyContent = 'center';
+
+        imgElement.onload = function() {
+            container.appendChild(imgElement);
+            loadingDiv.innerHTML = '';
+            loadingDiv.appendChild(container);
+            console.log('PlantUML diagram loaded successfully');
+        };
+
+        imgElement.onerror = function() {
+            console.log('PlantUML image failed to load, showing code fallback');
+            showCodeFallbackForDiagram(diagram);
+        };
+
+        // Set a timeout as backup
+        setTimeout(function() {
+            if (loadingDiv.innerHTML === '<p>🔄 Rendering PlantUML diagram...</p>') {
+                console.log('PlantUML loading timeout, showing fallback');
+                showCodeFallbackForDiagram(diagram);
+            }
+        }, 15000); // 15 second timeout
+
+    } catch (error) {
+        console.log('PlantUML rendering failed:', error);
+        showCodeFallbackForDiagram(diagram);
+    }
+}
+
+// Load PlantUML encoder if not already loading
+if (!window.plantumlState.loaded && !window.plantumlState.loading) {
+    window.plantumlState.loading = true;
+
+    // Load the official PlantUML encoder library
     const script = document.createElement('script');
     script.src = 'https://cdn.jsdelivr.net/npm/plantuml-encoder@1.4.0/dist/plantuml-encoder.min.js';
     script.crossOrigin = 'anonymous';
+
     script.onload = function() {
-        initializePlantUMLExternal();
+        console.log('PlantUML script loaded, waiting for encoder to be ready...');
+        // Wait a bit longer to ensure the encoder is fully initialized
+        setTimeout(function() {
+            window.plantumlState.loading = false;
+            initializePlantUMLExternal();
+        }, 300);
     };
+
     script.onerror = function() {
         console.warn('Failed to load PlantUML encoder, showing code fallback');
+        window.plantumlState.loading = false;
         showCodeFallback();
     };
+
     document.head.appendChild(script);
-} else {
-    // PlantUML already loaded, process diagrams immediately
+} else if (window.plantumlState.loaded) {
+    // Already loaded, process immediately
     setTimeout(initializePlantUMLExternal, 100);
-}
-
-function initializePlantUMLExternal() {
-    const diagrams = document.querySelectorAll('.plantuml-diagram');
-    diagrams.forEach(function(diagram) {
-        const loadingDiv = diagram.querySelector('.plantuml-loading');
-        const sourceEl = diagram.querySelector('.plantuml-source');
-
-        if (!loadingDiv || !sourceEl || sourceEl.getAttribute('data-processed')) {
-            return;
+} else {
+    // Currently loading, wait for it to complete
+    const checkLoaded = function() {
+        if (window.plantumlState.loaded) {
+            initializePlantUMLExternal();
+        } else if (!window.plantumlState.loading) {
+            // Loading failed, show fallback
+            showCodeFallback();
+        } else {
+            // Still loading, check again
+            setTimeout(checkLoaded, 200);
         }
-
-        const source = sourceEl.textContent.trim();
-        sourceEl.setAttribute('data-processed', 'true');
-
-        // Basic sanitization - remove potentially dangerous content
-        if (source.includes('<script') || source.includes('javascript:')) {
-            console.warn('Potentially dangerous content detected in PlantUML source, showing fallback');
-            showCodeFallbackForDiagram(diagram);
-            return;
-        }
-
-        try {
-            if (window.plantumlEncoder) {
-                const encoded = window.plantumlEncoder.encode(source);
-                const imgElement = document.createElement('img');
-                imgElement.src = 'https://www.plantuml.com/plantuml/svg/' + encoded;
-                imgElement.alt = 'PlantUML Diagram';
-                imgElement.loading = 'lazy';
-                imgElement.style.maxWidth = '100%';
-                imgElement.style.maxHeight = '400px';
-                imgElement.style.width = 'auto';
-                imgElement.style.height = 'auto';
-                imgElement.style.display = 'block';
-                imgElement.style.margin = '0 auto';
-                imgElement.style.boxShadow = 'none';
-                imgElement.style.border = 'none';
-
-                // Create a container with white background for centering
-                const container = document.createElement('div');
-                container.style.backgroundColor = '#ffffff';
-                container.style.border = '1px solid #e1e1e1';
-                container.style.borderRadius = '4px';
-                container.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.1)';
-                container.style.padding = '20px';
-                container.style.textAlign = 'center';
-                container.style.minHeight = '200px';
-                container.style.display = 'flex';
-                container.style.alignItems = 'center';
-                container.style.justifyContent = 'center';
-
-                imgElement.onload = function() {
-                    container.appendChild(imgElement);
-                    loadingDiv.innerHTML = '';
-                    loadingDiv.appendChild(container);
-                    console.log('PlantUML diagram loaded successfully');
-                };
-
-                imgElement.onerror = function() {
-                    console.log('PlantUML image failed to load, showing code fallback');
-                    showCodeFallbackForDiagram(diagram);
-                };
-
-                // Set a timeout as backup
-                setTimeout(function() {
-                    if (loadingDiv.innerHTML === '<p>🔄 Rendering PlantUML diagram...</p>') {
-                        console.log('PlantUML loading timeout, showing fallback');
-                        showCodeFallbackForDiagram(diagram);
-                    }
-                }, 10000); // 10 second timeout
-
-            } else {
-                showCodeFallbackForDiagram(diagram);
-            }
-        } catch (error) {
-            console.log('PlantUML rendering failed:', error);
-            showCodeFallbackForDiagram(diagram);
-        }
-    });
+    };
+    setTimeout(checkLoaded, 200);
 }
 
 function showCodeFallback() {
