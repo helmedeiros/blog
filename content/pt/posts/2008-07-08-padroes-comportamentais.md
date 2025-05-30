@@ -7,6 +7,10 @@ categories:
   - Padrões de Projeto
 ---
 
+> **Série: Padrões de Projeto e Análise** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
+
+**Chegamos ao capítulo final** desta série de padrões de projeto. Depois de construir ([Padrões de Criação](../2008-07-04-padroes-de-criacao/)) e estruturar ([Padrões Estruturais](../2008-07-06-padroes-estruturais/)) seus objetos, o próximo desafio é fazer com que eles interajam.
+
 Depois de construir (Criação) e estruturar (Estrutural) seus objetos, o próximo desafio é fazer com que eles interajam.
 **Padrões de Projeto Comportamentais** tratam de **como os objetos se comunicam**, distribuem responsabilidades e reagem a eventos de maneira flexível e de fácil manutenção.
 
@@ -224,3 +228,12 @@ interface Visitor {
 Padrões comportamentais fornecem as **regras de interação** entre os objetos do seu sistema. Promovem clareza, extensibilidade e modularidade em como a lógica é executada e coordenada.
 
 Com os três grupos explorados — Criação, Estrutural e Comportamental — temos agora uma base sólida para projetar software que equilibra flexibilidade, clareza e evolução contínua.
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
+- **Anterior**: [Parte 3 - Padrões Estruturais](../2008-07-06-padroes-estruturais/)
+- **Atual**: Parte 4 - Padrões Comportamentais (Final)
+- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/)

@@ -7,7 +7,9 @@ categories:
   - Design Patterns
 ---
 
-After exploring how to build objects with flexibility using **Creational Patterns**, it's time to understand how to structure them for better collaboration.
+> **Series: Design Patterns and Analysis** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_
+
+**Continuing our series**, after exploring how to build objects with flexibility using [Creational Patterns](../2008-07-04-padroes-de-criacao/), it's time to understand how to structure them for better collaboration.
 **Structural Design Patterns** focus on **how classes and objects are combined** to form larger structures — without unnecessary complexity or tight coupling.
 
 ## What Are Structural Patterns?
@@ -176,6 +178,16 @@ class ImageProxy implements Image {
 
 ## Final Thoughts
 
-Structural patterns let us **compose systems gracefully**, ensuring we can adapt, extend, and simplify without fear of ripple effects.
+Structural patterns help us **compose systems with elegance**, enabling adaptation, extension, and simplification of architecture without creating a domino effect of changes.
 
-Next, we'll explore **Behavioral Patterns** — how to coordinate object responsibilities and workflows in flexible ways.
+Next up, we'll explore **Behavioral Patterns** — how to coordinate responsibilities and workflows flexibly.
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
+- **Previous**: [Part 2 - Creational Patterns](../2008-07-04-padroes-de-criacao/)
+- **Current**: Part 3 - Structural Patterns
+- **Next**: [Part 4 - Behavioral Patterns](../2008-07-08-padroes-comportamentais/)
+- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)

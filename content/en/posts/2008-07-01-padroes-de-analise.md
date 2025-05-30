@@ -1,11 +1,13 @@
 ---
-title: "Analysis Patterns"
+title: Analysis Patterns
 author: helio
 layout: post
 date: 2008-07-01T03:27:57+00:00
 categories:
-  - Padrões Análise
+  - Analysis Patterns
 ---
+
+> **Series: Design Patterns and Analysis** | **Introduction** > _Developed during Master's in Web Systems Projects_
 
 <style>
 .analysis-pattern-img {
@@ -99,3 +101,11 @@ Makes explicit the type of organizational relationship.
 Analysis patterns help us visualize, discuss, and build more robust systems aligned with real-world domains. They are reusable, precise, and often save hours of discussion.
 
 In future posts, we'll explore how **design patterns** complement these concepts during implementation.
+
+---
+
+### **Series Navigation**
+
+- **Current**: Introduction - Analysis Patterns
+- **Next**: [Part 1 - Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/)
+- **Complete series**: [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Structural Patterns](../2008-07-06-padroes-estruturais/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)
