@@ -23,10 +23,9 @@ type(scope): short description (under 50 chars)
 
 Detailed body with bullet points:
 - Specific files added/changed and their purpose
-- Technical metrics (file counts, page counts, dimensions)
-- CSS class names and styling details
-- Build statistics and verification data
-- Hugo page count changes (EN/PT)
+- Technical metrics (file counts, changes, dimensions)
+- CSS class names and styling details when applicable
+- Functional improvements and features enabled
 
 Clear summary of impact and functionality enabled.
 ```
@@ -36,7 +35,7 @@ Clear summary of impact and functionality enabled.
 - **Accuracy**: Only describe changes actually in THIS commit
 - **No cross-references**: Don't mention previous commits unless directly relevant
 - **Technical precision**: Include specific numbers, file names, class names
-- **Verification data**: Always include Hugo build stats when applicable
+- **NO BUILD STATS**: Do not include Hugo build statistics or verification data
 - **Professional tone**: Comprehensive but focused documentation
 - **Conventional format**: Use feat(blog), feat(automation), fix(css), etc.
 
@@ -55,7 +54,7 @@ Clear summary of impact and functionality enabled.
 - **Input**: Date (DD-MM-YYYY) + two identical filename attachments
 - **Critical**: Both files must have identical names for multilingual linking
 - **Output**: Hugo posts + responsive CSS + conventional git commit
-- **Testing**: Always verify with development server and build stats
+- **Testing**: Always verify with development server during development
 
 ### File Placement Standards
 
@@ -69,4 +68,4 @@ Clear summary of impact and functionality enabled.
 - Proper multilingual linking with identical filenames
 - Responsive image styling with topic-appropriate CSS classes
 - Clean commits following Technical Conventional format
-- Build verification with EN/PT page counts
+- **NO BUILD VERIFICATION STATS** in commit messages
