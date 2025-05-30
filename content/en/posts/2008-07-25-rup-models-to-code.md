@@ -60,7 +60,7 @@ It introduces concrete classes, interaction logic, and technology choices—brid
 
 ### Diagram
 
-```plantuml
+{{< plantuml title="Purchase Service Interaction" >}}
 @startuml
 actor User
 boundary CheckoutController
@@ -71,7 +71,7 @@ User --> CheckoutController : initiateCheckout()
 CheckoutController --> PurchaseService : process(cart)
 PurchaseService --> Cart : calculateTotal()
 @enduml
-```
+{{< /plantuml >}}
 
 This simple sequence diagram can directly inform class structure and service wiring.
 
@@ -90,20 +90,20 @@ When defined early, this model informs CI/CD structure, artifact boundaries, and
 
 ### Example
 
-```plantuml
+{{< plantuml title="Component Architecture" >}}
 @startuml
 package "Customer Management" {
-  [CustomerService] --> [UserRepository]
-  [CustomerService] --> [PaymentGatewayAdapter]
+[CustomerService] --> [UserRepository]
+[CustomerService] --> [PaymentGatewayAdapter]
 }
 
 package "Order Management" {
-  [OrderService] --> [OrderRepository]
+[OrderService] --> [OrderRepository]
 }
 
 [CustomerService] ..> [OrderService] : calls
 @enduml
-```
+{{< /plantuml >}}
 
 Each package above might align with:
 
@@ -121,17 +121,17 @@ Let's say you start with a use case: **Cancel Booking**
 
 Define actor → use case interaction.
 
-```plantuml
+{{< plantuml title="Cancel Booking Use Case" >}}
 @startuml
 actor Traveler
 usecase "Cancel Booking" as UC1
 Traveler --> UC1
 @enduml
-```
+{{< /plantuml >}}
 
 ### Step 2: Sequence Diagram
 
-```plantuml
+{{< plantuml title="Cancel Booking Sequence" >}}
 @startuml
 actor Traveler
 boundary BookingController
@@ -142,7 +142,7 @@ Traveler --> BookingController : cancel(bookingId)
 BookingController --> BookingService : cancel(bookingId)
 BookingService --> Booking : markAsCancelled()
 @enduml
-```
+{{< /plantuml >}}
 
 ### Step 3: Code Skeleton
 
