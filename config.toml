@@ -23,6 +23,7 @@ theme = "beautifulhugo"
 
 [params]
   subtitle = "Technology insights and agile development"
+  favicon = "favicon.svg"
   comments = false
   disqusShortname = ""
 
