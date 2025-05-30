@@ -2,7 +2,7 @@
 title: WS-46 na Caelum com Phillip Calçado
 author: helio
 layout: post
-date: 2009-11-09T23:37:20+00:00
+date: 2009-11-10T23:37:20+00:00
 dsq_thread_id:
   - 4969844886
 categories:
@@ -15,6 +15,7 @@ tags:
   - Rio
   - WS-46
 ---
+
 <img class="aligncenter size-full wp-image-83" src="/uploads/2009/11/dsc00511.jpg" alt="WS-46 Domain-Driven Design" width="417" height="267" srcset="/uploads/2009/11/dsc00511.jpg 417w, /uploads/2009/11/dsc00511-300x192.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
 
 Após alguns anos acompanhando o blog do Phillip, tive nesta segunda-feira o tão esperado curso WS-46 na Caelum Rio. Em um post recente e durante nossas conversas nos intervalos do curso o Phillip disse que provavelmente este seria o último ano do curso&#8230; estou muito feliz por ter aproveitado a oportunidade.

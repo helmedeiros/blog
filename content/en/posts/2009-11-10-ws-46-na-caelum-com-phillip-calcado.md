@@ -2,8 +2,8 @@
 title: "WS-46 at Caelum with Phillip Calçado"
 author: helio
 layout: post
-date: 2009-11-09T23:37:20+00:00
-dsq_thread_id: 
+date: 2009-11-10T23:37:20+00:00
+dsq_thread_id:
 categories:
   - Eventos
 tags:
