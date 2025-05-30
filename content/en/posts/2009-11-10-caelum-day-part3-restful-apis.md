@@ -24,7 +24,9 @@ categories: ["Events", "Technology", "API Design", "Web Development"]
 series: "Caelum Day 2009"
 ---
 
-Continuing the Caelum Day in Rio series, today I want to share my impressions from **Sergio Junior and Luiz Costa's** talk on **RESTful APIs**.
+> **Series: Caelum Day 2009** | **Part 3 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
+
+**Continuing the Caelum Day in Rio series**, today I want to share my impressions from **Sergio Junior and Luiz Costa's** talk on **RESTful APIs**.
 
 ## Demystifying REST
 
@@ -66,3 +68,13 @@ The talk really opened my eyes to the idea that building RESTful APIs is not jus
 I left the room inspired to study REST further and to try out Restfulie in future projects.
 
 **Next in the series:** Nico Steppat's talk on NoSQL. See you soon!
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
+- **Previous**: [Part 2 - VRaptor 3 Framework](../2009-11-09-caelum-day-part2-vraptor3/)
+- **Current**: Part 3 - RESTful APIs
+- **Next**: [Part 4 - NoSQL Databases](../2009-11-11-caelum-day-part4-nosql/)
+- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

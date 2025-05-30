@@ -25,7 +25,9 @@ categories: ["Events", "Leadership", "Agile", "Software Engineering"]
 series: "Caelum Day 2009"
 ---
 
-Fechando a série sobre o Caelum Day no Rio, não poderia deixar de registrar o **keynote do Phillip Calçado** — um momento provocativo, cheio de metáforas e aprendizados reais sobre o papel da liderança técnica em times ágeis.
+> **Série: Caelum Day 2009** | **Parte Final (7 de 7)** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_
+
+**Fechando a série sobre o Caelum Day no Rio**, não poderia deixar de registrar o **keynote do Phillip Calçado** — um momento provocativo, cheio de metáforas e aprendizados reais sobre o papel da liderança técnica em times ágeis.
 
 ## O Começo (Desligado)
 
@@ -69,4 +71,14 @@ Saí da palestra pensando em como aplicar mais dessas práticas com meu time e n
 
 ---
 
-Encerramos assim essa série de posts sobre o Caelum Day Rio 2009. Um evento que trouxe não só conteúdo técnico de alto nível, mas também reflexões que ainda ressoam com quem constrói software com seriedade.
+**Encerramos assim essa série de posts sobre o Caelum Day Rio 2009.** Um evento que trouxe não só conteúdo técnico de alto nível, mas também reflexões que ainda ressoam com quem constrói software com seriedade.
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Visão Geral do Caelum Day](../2009-11-07-caelum-day-intro/)
+- **Anterior**: [Parte 6 - Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/)
+- **Atual**: Final - Keynote Liderança Técnica
+- **Série completa**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/)
+- **Resumo da série**: Do cloud computing à liderança técnica - explore o principal evento Java do Brasil em 2009
