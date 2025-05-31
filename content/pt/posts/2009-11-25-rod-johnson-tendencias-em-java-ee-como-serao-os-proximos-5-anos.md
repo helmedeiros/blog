@@ -28,7 +28,7 @@ tags:
 
 > **Série: TDC Rio 2009** | **Parte 2 de 2** > _Insights fundamentais da maior conferência Java do Brasil_
 
-![Foto da palestra do Rod Johnson](../../uploads/2009/11/dsc00655.jpg)
+![Foto da palestra do Rod Johnson](/uploads/2009/11/dsc00655.jpg)
 
 Na quarta-feira do **TDC no Rio**, uma das palestras mais aguardadas foi a de **Rod Johnson**, criador do Spring Framework e autor de livros que marcaram a evolução da plataforma Java.
 

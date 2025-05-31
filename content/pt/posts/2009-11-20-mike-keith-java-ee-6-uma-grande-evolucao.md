@@ -19,7 +19,7 @@ tags:
 
 > **Série: TDC Rio 2009** | **Parte 1 de 2** > _Insights fundamentais da maior conferência Java do Brasil_
 
-![Foto da palestra do Mike Keith](../../uploads/2009/11/dsc00699.jpg)
+![Foto da palestra do Mike Keith](/uploads/2009/11/dsc00699.jpg)
 
 A palestra de **Mike Keith** começou por volta das 11h, logo após o coffee break, com um tom leve e descontraído. Ele abriu brincando sobre o tempo entre os lançamentos das versões Java — algo que gerava expectativas (e frustrações) constantes. Um dos slides logo no início estampava a frase provocativa:
 
