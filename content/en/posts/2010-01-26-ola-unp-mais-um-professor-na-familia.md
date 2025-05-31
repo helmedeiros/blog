@@ -1,32 +1,55 @@
 ---
-title: "Another teacher in the family!"
-author: helio
-layout: post
-date: 2010-01-26T23:47:13+00:00
-idptt_tweeted: 
-dsq_thread_id: 
-categories:
-  - Uncategorized
+title: "One More Teacher in the Family!"
+date: 2010-01-26T23:47:13+02:00
+draft: false
 tags:
-  - Engenharia Software
-  - Hélio Medeiros
-  - Professor
-  - Universidade Potiguar
-  - UnP
+  [
+    "Software Engineering",
+    "Professor",
+    "Universidade Potiguar",
+    "UnP",
+    "Academia",
+  ]
+categories: ["Academia", "Career"]
 ---
 
-I didn't expect this could happen so soon, since the academic flow always takes a long time and usually passes over more experienced people.
+![Image of the enrollment flyer from UnP](/uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM.png)
 
-But it happens that in 2010 my family will gain a new professor.
+I didn't expect this to happen so soon. Academia, I was told, is a long path — one that favors the most experienced. But in 2010, **my family gains one more teacher**.
 
-I've always had this dream, just like my family, to be able to teach one day and maybe help build the foundations of some careers, just I'm used to hearing great people referring to my mother; or maybe receive unconditional affection from students... materialized in chocolates, apples, and other things... like my older sister. <figure id="attachment_114" style="width: 400px" class="wp-caption aligncenter"> <img class="size-full wp-image-114" src="" alt="Ai vou eu !!!" width="400" height="234" srcset=" 400w, 300w" sizes="" /><figcaption class="wp-caption-text">Ai vou eu !!!</figcaption></figure> I believe the day has come!
+## A Longtime Dream
 
-I will be teaching from February 22nd onwards, after participating in a selective process, alongside students of the fifth period at the University Potiguar (UnP) teaching Software Engineering.
+From a young age, I admired the teachers in my family. My mother, for example, was often remembered fondly by former students who came back to say thank you. My sisters also followed this path and, after years as skilled professionals, began teaching and sharing what they had conquered and learned. My oldest sister, in fact, was my professor during my Information Systems degree.
 
-After having contact as a laureate student of graduation, a boring post-graduate student, and seeing many excellent professionals returning to classrooms to contribute to the academic community, I am proud to say that it's my turn!
+## The Time Has Come!
 
-I've been specializing in this subject for some time; as a good agilist, I'm working hard to build software with quality and focused on a big ROI-up-front, influencing and being influenced by teams wherever I go; I hope to bring a bit of this to class and together with students build new and excellent systems, setting up stakes and raising walls in real practices that will make a difference in the daily life of the community and market.
+Starting **February 22, 2010**, I will teach my first class at **Universidade Potiguar (UnP)**, leading the course in **Software Engineering** for fifth-semester students.
 
-Another professor in the family...
+This opportunity came after going through a selection process. It's an honor to return to the university where I earned my degree — now not as a student, but as someone committed to giving back to the academic community that shaped me.
 
-I hope to do justice to my old surname and the new one!!
+## Software with Purpose
+
+Over the past few years, I've been immersed in topics like **agile development, software engineering, and system quality**. I've studied how to deliver sustainable solutions, maximize value, and support continuous improvement through team collaboration.
+
+> Concepts like _ROI up-front_, _evolutionary design_, _clean code_, and _XP practices_ are part of my toolkit — and now part of my lesson plans.
+
+## My Commitment in the Classroom
+
+I want my students to learn more than requirements or diagrams. I want them to understand **how real software is built** — collaboratively, responsibly, and with context.
+
+My classes will aim to:
+
+- Simulate real projects
+- Review code as a team
+- Apply practices like automated testing and continuous integration
+- Discuss ethics and design decisions openly
+
+## Gratitude and Responsibility
+
+I feel honored to step into this new role. To teach is, above all, a commitment to someone else's future — and a powerful opportunity to keep learning every day.
+
+> One more teacher in the family… I hope to live up to both my old last name, and the new one.
+
+---
+
+_Posted in January 2010, just days before my first lecture at UnP._
