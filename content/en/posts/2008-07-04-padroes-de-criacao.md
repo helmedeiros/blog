@@ -28,7 +28,7 @@ They help avoid:
 
 ## Types of Creational Patterns
 
-### 1. Factory Method
+### Factory Method
 
 Creates objects through a factory interface instead of calling constructors directly.
 
@@ -47,7 +47,7 @@ abstract class Dialog {
 }
 ```
 
-### 2. Abstract Factory
+### Abstract Factory
 
 Groups related factories together under a unified interface.
 
@@ -63,7 +63,7 @@ interface GUIFactory {
 }
 ```
 
-### 3. Builder
+### Builder
 
 Separates the construction of a complex object from its representation.
 
@@ -80,7 +80,7 @@ class CarBuilder {
 }
 ```
 
-### 4. Prototype
+### Prototype
 
 Clones existing objects instead of creating new ones from scratch.
 
@@ -97,7 +97,7 @@ abstract class Shape {
 }
 ```
 
-### 5. Singleton
+### Singleton
 
 Ensures only one instance of a class exists and provides global access to it.
 

@@ -27,7 +27,7 @@ Use them when:
 
 ## Types of Behavioral Patterns
 
-### 1. Chain of Responsibility
+### Chain of Responsibility
 
 Passes a request along a chain of handlers until one can process it.
 
@@ -47,7 +47,7 @@ abstract class Handler {
 }
 ```
 
-### 2. Command
+### Command
 
 Encapsulates a request as an object.
 
@@ -67,7 +67,7 @@ class LightOnCommand implements Command {
 }
 ```
 
-### 3. Iterator
+### Iterator
 
 Provides a way to access elements of a collection sequentially.
 
@@ -83,7 +83,7 @@ interface Iterator<T> {
 }
 ```
 
-### 4. Mediator
+### Mediator
 
 Centralizes communication between objects.
 
@@ -98,7 +98,7 @@ interface Mediator {
 }
 ```
 
-### 5. Memento
+### Memento
 
 Captures and restores an object's internal state.
 
@@ -114,7 +114,7 @@ class EditorMemento {
 }
 ```
 
-### 6. Observer
+### Observer
 
 Notifies dependent objects when a subject changes state.
 
@@ -136,7 +136,7 @@ class Subject {
 }
 ```
 
-### 7. State
+### State
 
 Changes an object's behavior when its state changes.
 
@@ -151,7 +151,7 @@ interface State {
 }
 ```
 
-### 8. Strategy
+### Strategy
 
 Defines a family of interchangeable algorithms.
 
@@ -169,7 +169,7 @@ class QuickSort implements SortStrategy { ... }
 class MergeSort implements SortStrategy { ... }
 ```
 
-### 9. Template Method
+### Template Method
 
 Defines the skeleton of an algorithm, letting subclasses implement steps.
 
@@ -191,7 +191,7 @@ abstract class DataParser {
 }
 ```
 
-### 10. Visitor
+### Visitor
 
 Separates operations from the objects on which they operate.
 

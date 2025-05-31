@@ -28,7 +28,7 @@ Eles ajudam a evitar:
 
 ## Tipos de Padrões de Criação
 
-### 1. Factory Method
+### Factory Method
 
 Cria objetos por meio de uma interface de fábrica em vez de instanciar diretamente com `new`.
 
@@ -47,7 +47,7 @@ abstract class Dialog {
 }
 ```
 
-### 2. Abstract Factory
+### Abstract Factory
 
 Agrupa diversas fábricas relacionadas em uma única interface.
 
@@ -63,7 +63,7 @@ interface GUIFactory {
 }
 ```
 
-### 3. Builder
+### Builder
 
 Separa a construção de um objeto complexo da sua representação.
 
@@ -80,7 +80,7 @@ class CarBuilder {
 }
 ```
 
-### 4. Prototype
+### Prototype
 
 Clona objetos existentes em vez de criar novos do zero.
 
@@ -97,7 +97,7 @@ abstract class Shape {
 }
 ```
 
-### 5. Singleton
+### Singleton
 
 Garante que apenas uma instância da classe exista e fornece acesso global a ela.
 

@@ -24,7 +24,7 @@ On November 17, 2009, I finally joined a workshop that felt like a turning point
 
 This wasn't a workshop about frameworks or Java syntax. It was about **how to think, model, and communicate when building software for real businesses**. And for someone like me, deeply interested in clean code, design patterns, and object-oriented programming — but with no prior mentorship in DDD — it was a crash course in a different way of seeing systems.
 
-## 1. The Opening: What, How, and Which?
+## The Opening: What, How, and Which?
 
 Phillip began the course not with patterns, but with three deceptively simple questions:
 
@@ -34,7 +34,7 @@ Phillip began the course not with patterns, but with three deceptively simple qu
 
 This approach framed the workshop and made it clear that design starts with understanding—not code. We were grouped into teams to model a real-world system (a parking lot), based only on user stories. No pre-made classes. No diagrams. Just conversations and decisions.
 
-## 2. Language is the Model
+## Language is the Model
 
 One of the most repeated concepts in the workshop was the **Ubiquitous Language**. It's not a fancy glossary — it's a discipline of making every class name, method, and diagram reflect a shared language between developers and domain experts.
 
@@ -42,7 +42,7 @@ Phillip quoted from Eric Evans and stressed that a model is only useful if it's 
 
 > "The greatest value of a domain model is that it provides a language to connect developers and business experts."
 
-## 3. The Modeling Sprint
+## The Modeling Sprint
 
 For four hours, we worked only on domain modeling. No code, no patterns. Just sketching, refining, renaming, and arguing over concepts. Only _after_ we had some shared understanding did we introduce building blocks like:
 
@@ -54,7 +54,7 @@ For four hours, we worked only on domain modeling. No code, no patterns. Just sk
 | Repository     | Interface to access and store aggregates               |
 | Service        | Operation that doesn't naturally fit a specific entity |
 
-## 4. Lifecycle, Identity, and the Fake ID Problem
+## Lifecycle, Identity, and the Fake ID Problem
 
 Phillip showed us the risks of designing entities without real identity. He referenced his classic post ["Don't Trust Fake IDs"](http://philcalcado.com/2009/10/12/dont-trust-fake-ids/) and explained the consequences of letting databases dictate our design.
 
@@ -62,7 +62,7 @@ Phillip showed us the risks of designing entities without real identity. He refe
 
 This sparked big debates in our group. Should a `ParkingTicket` be an entity or a value object? It depended on the behavior we wanted to model — and _that_ was the lesson.
 
-## 5. Layered Architecture in Practice
+## Layered Architecture in Practice
 
 We explored a classic DDD layering structure, but emphasized behavior and flow over frameworks:
 
@@ -75,13 +75,13 @@ We explored a classic DDD layering structure, but emphasized behavior and flow o
 
 Phillip was skeptical of overengineering. He insisted we add a layer only if it served the **domain clarity**, not just because a book or framework said so.
 
-## 6. When You Can't Talk About DDD
+## When You Can't Talk About DDD
 
 One brilliant takeaway was that **you don't need to name the patterns** to apply DDD. Phillip often avoids saying "Entity" or "Aggregate" on client teams. Instead, he helps model object lifecycles and responsibilities naturally.
 
 This was liberating. I could start using DDD _without waiting for a greenfield project_ or a team fluent in the jargon.
 
-## 7. What the Industry Gets Wrong
+## What the Industry Gets Wrong
 
 Inspired by his blog post ["Nevermind Domain-Driven Design"](https://philcalcado.com/2010/03/22/nevermind_domain_driven_design.html), Phillip explained how the industry obsesses over repositories and anti-corruption layers — while ignoring the **core idea** of language and model alignment.
 
@@ -89,7 +89,7 @@ This led to my favorite quote of the day:
 
 > "If all you got from DDD was a Repository class, you missed the point."
 
-## 8. Example: A Parking Lot System (UML)
+## Example: A Parking Lot System (UML)
 
 Here's a simplified version of the model we refined during the workshop:
 
@@ -97,13 +97,13 @@ Here's a simplified version of the model we refined during the workshop:
 
 The discussion about whether `ParkingTicket` was a value object or entity taught us to always ask: **What do we want to guarantee about this object in our domain?**
 
-## 9. Design as Conversation
+## Design as Conversation
 
 More than code, DDD became about conversations. What we name a class, how we validate input, when we expose methods — all of it reflects what we understand from the domain expert.
 
 I began to see code less as instructions and more as **documentation of understanding**. DDD forces us to keep asking _why_ something exists in the model.
 
-## 10. Final Thoughts
+## Final Thoughts
 
 This was one of the best technical workshops I ever attended. Not because of the slides (there weren't many) or tools (we barely touched an IDE). But because it gave me **a way to think and model** — not just code.
 
