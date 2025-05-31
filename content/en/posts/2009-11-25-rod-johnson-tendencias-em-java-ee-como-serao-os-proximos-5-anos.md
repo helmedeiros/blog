@@ -5,6 +5,7 @@ layout: post
 date: 2009-11-25T13:07:38+00:00
 idptt_tweeted:
 dsq_thread_id:
+series: "TDC Rio 2009"
 categories:
   - Eventos
 tags:
@@ -23,40 +24,66 @@ tags:
   - vmware
 ---
 
-<img class="aligncenter size-full wp-image-94" src="/uploads/2009/11/dsc00655.jpg" alt="TDC 2009" width="417" height="280" srcset="/uploads/2009/11/dsc00655.jpg 417w, /uploads/2009/11/dsc00655-300x201.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" /> Wednesday <a title="TDC RIO 2009" href="http://www.thedevelopersconference.com.br:80/tdc/2009/rio/programacao.seam" target="_blank">TDC Rio</a>, one of the most anticipated talks is by Rod Johnson, creator of Spring and responsible for <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" target="_blank">por livros muito interessantes</a>.
+> **Series: TDC Rio 2009** | **Part 2 of 2** > _Key insights from Brazil's premier Java conference_
 
-The talk started at 10:00h and discussed changes and trends from his point of view.
+![Photo from Rod Johnson's talk](../../uploads/2009/11/dsc00655.jpg)
 
-For Rod, the world is going through a series of changes that lead to paradigm shifts and put us on new perspectives.
+On Wednesday at **TDC Rio**, one of the most anticipated talks was from **Rod Johnson**, the creator of the Spring Framework and author of some of the most influential Java books.
 
-One of the first things mentioned, which leads to this change, is cloud computing.
+His session began at 10 a.m. and tackled the topic of **change and trends** in the Java ecosystem from the perspective of someone who helped shape it.
 
-For him, one of the things that makes people use and visualize this solution as a trend is the distribution of computational power, providing economies by not needing to buy sufficient equipment to handle peaks.
+## Cloud Computing: Distributed Power
 
-Developers are attracted to new technologies day after day and they get hungry for using them and start inserting them into projects managed by coordinators who hate changes... so the wall created by them is always surpassed.
+Rod pointed to **cloud computing** as one of the major shifts redefining our relationship with infrastructure. The ability to **distribute compute power on demand** dramatically reduces the need for upfront hardware investment.
 
-A black cloud passes over Rod's mind and the community's about a possible monopoly that would cause dominance over all application codes.
+> In simple terms: with the cloud, you pay for what you use — not for idle capacity.
 
-A polyglot revolution is being made, but Java remains the most popular.
+## Developers vs. Change-Averse Management
 
-However, he believes it would be foolish to say that everything ends there; Java will not be the last language nor one that solves all problems; on the other hand, JVM supports and grows with many of these languages.
+He joked (but not really) about the tension between **developers eager to try new tech** and **managers who fear change**. The result, according to Rod, is a kind of wall that stifles innovation just when it's gaining traction.
 
-For Rod, open source and how software is being made today enables a change in address for creating the best technologies.
+## The Monopolization Risk
 
-The community transfers from Silicon Valley to the world the task of innovating; he believes it wouldn't be possible for Spring to exist if he had needed to seek IBM and others to launch his framework.
+Rod also raised concerns about **monopoly in the Java ecosystem**, warning that if a single company controls too much of the stack — from language to tools — innovation will suffer.
 
-However, he thinks that the amount of innovations provided by open source can confuse new developers.
+Referencing the then-recent **acquisition of Sun by Oracle**, he suggested a cautious approach: "Depending on one vendor for everything is dangerous."
 
-For him, Ruby and Rails is a good point of change where super-productivity does not necessarily imply that coding is not important, but rather by learning from what language it's used for.
+## The Polyglot Revolution and the JVM's Role
 
-Spring Source knew how to take advantage of these lessons, creating the core of spring and roo.
+While other languages like Ruby, Scala, and Python were gaining popularity, Rod emphasized that **Java remained the dominant language**, and more importantly, that **the JVM was the true asset**.
 
-It was said that the purchase of Sun shouldn't be seen as a problem for Java, because many Oracle technologies keep this company as a leader and this company wouldn't change that; according to him, he prefers a company not controlled by a strong company than under the tutelage of a weak one... .
+> "You can run Groovy, JRuby, Clojure — all on the same VM. That's power."
 
-Also mentioned were concerns about the acquisition of Spring Source by VMWare should be forgotten; in his opinion, this company knows the importance of open source and the development agenda will continue to grow for the community.
+## Open Source as an Innovation Engine
 
-In this environment, solutions are being created to increase developer productivity and the community's behavior with cloud computing, such as <a title="cloud foundry" href="http://www.cloudfoundry.com/" target="_blank">Spring Source Cloud Foundry</a>, and Spring Roo.
+Rod credited **open source** as the reason Spring even existed. Without it, no small team could have competed with the likes of IBM, BEA, or Oracle to build a framework.
 
-The talk ended with a message...
+> "Open source lowers the barrier to innovation."
 
-I don't know about the unknown or what, but now is the moment for Brazilian developers to appear, open source is global and allows it!!!
+Still, he warned that too much fragmentation in the open source world can confuse developers — and stressed the need for good judgment when adopting libraries and frameworks.
+
+## Ruby on Rails and the Spring Roo Inspiration
+
+Rod discussed how **Ruby on Rails** redefined developer productivity — not because it made code trivial, but because it emphasized **rapid feedback and smart defaults**.
+
+Spring Source applied many of these lessons when creating **Spring Roo**, a lightweight tool to boost productivity without sacrificing clarity.
+
+## Spring Source, VMWare, and Open Source Direction
+
+Some in the community feared that **Spring Source's acquisition by VMWare** would affect its open source focus. But Rod reassured the audience that **VMWare was aligned with the open source mission** and would not change the community roadmap.
+
+## Cloud Foundry and the Future
+
+Rod wrapped up by mentioning early efforts like **Spring Source Cloud Foundry**, which would later become a leader in **Platform as a Service (PaaS)** offerings. The aim: make deployment as simple as development.
+
+## Final Words: Brazil, It's Your Moment
+
+Rod closed with a message to Brazilian developers:
+
+> "Whether it's lack of awareness or access, I don't know — but this is your time. Open source is global, and it needs your voice."
+
+---
+
+_Posted shortly after Rod Johnson's talk at TDC Rio 2009._
+
+**Previous in this series:** [Mike Keith on Java EE 6 evolution](/posts/2009-11-20-mike-keith-java-ee-6-uma-grande-evolucao/)

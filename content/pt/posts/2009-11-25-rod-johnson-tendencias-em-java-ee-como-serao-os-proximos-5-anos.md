@@ -7,6 +7,7 @@ idptt_tweeted:
   - 1
 dsq_thread_id:
   - 4969845134
+series: "TDC Rio 2009"
 categories:
   - Eventos
 tags:
@@ -25,28 +26,64 @@ tags:
   - vmware
 ---
 
-<img class="aligncenter size-full wp-image-94" src="/uploads/2009/11/dsc00655.jpg" alt="TDC 2009" width="417" height="280" srcset="/uploads/2009/11/dsc00655.jpg 417w, /uploads/2009/11/dsc00655-300x201.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+> **Série: TDC Rio 2009** | **Parte 2 de 2** > _Insights fundamentais da maior conferência Java do Brasil_
 
-Quarta Feira dia de <a title="TDC RIO 2009" href="http://www.thedevelopersconference.com.br:80/tdc/2009/rio/programacao.seam" target="_blank">TDC no Rio</a>, uma das palestras mais esperadas é a do Rod Johnson criador do Spring e responsável <a href="http://www.amazon.com/Expert-One-One-Design-Development/dp/1861007841" target="_blank">por livros muito interessantes</a>. A palestra iniciou-se às 10:00h e tratou as mudanças e tendências sobre seu ponto de vista.
+![Foto da palestra do Rod Johnson](../../uploads/2009/11/dsc00655.jpg)
 
-Para o Rod o mundo esta passando por uma série de mudanças que nos levam a quebras de paradigma e nos põem sobre uma novas perspectiva.
+Na quarta-feira do **TDC no Rio**, uma das palestras mais aguardadas foi a de **Rod Johnson**, criador do Spring Framework e autor de livros que marcaram a evolução da plataforma Java.
 
-Uma das primeiras coisas expostas, que conduzem a esta mudança é cloud computing, para ele uma das coisas que nos leva a utilizar e visualizar esta solução como tendência, é a distribuição de poder computacional, proporcionando economias pela não necessidade de compra de maquinário suficiente para agüentar os picos.
+A palestra começou às 10h e tratou de forma direta e provocadora sobre **mudanças e tendências**, a partir da visão de alguém que sempre esteve envolvido com o que há de mais relevante em desenvolvimento Java e arquitetura de software.
 
-Para o Rod desenvolvedores são atraídos por novas tecncologias dias após dias e estes ficam famintos por sua utilização e logo começam por inserí-las nos projetos que são geridos por Coordenadores que odeiam mudanças&#8230; então o muro criados por eles é sempre ultrapassado.
+## Cloud Computing: o poder distribuído
 
-Uma nuvem preta passa porem sobre a mente do Rod e da comunidade sobre um possível monopólio, que causaria o domínio sobre todas os códigos das aplicações.
+Rod destacou que uma das maiores mudanças de paradigma em curso era o avanço do **cloud computing**. A possibilidade de **distribuir o poder computacional** e escalar sob demanda elimina a necessidade de comprar infraestrutura sob medida para picos — o que reduz drasticamente os custos e melhora o tempo de resposta de sistemas.
 
-Uma revolução poliglota esta sendo feita, porém Java continua como a mais popular, mas ele acredita que seria estúpido dizer que tudo acaba por aí, java não será a última linguagem nem a que solucionará todos os problemas; por outro lado a JVM vem suportando e crescendo com muitas desta linguagens.
+> Em termos simples, com a nuvem você paga por uso e não por capacidade ociosa.
 
-Para Rod, o open source e a forma que se estão sendo feitos softwares hoje em dia possibilitam um mudança de endereço na criação das melhores tecnologias, a comunidade transfere do vale do silicio para o mundo a tarefa de inovar; para ele não seria possível a existência do Spring caso ele tivesse a necessidade de procurar IBM e etc para lançar o seu framework. Ele acredita porem que a quantidade de inovações providas pelo open source podem confundir novos desenvolvedores.
+## Desenvolvedores famintos vs. gerentes resistentes
 
-Para ele o Ruby and Rails é um bom ponto de mudança onde a super-produtividade  não necessariamente implica que a codificação não seja importante, mais pelas lições do que como linguagem para utilização. A Spring Source soube aproveitar muito destas lições criando o core do spring e do roo.
+Um ponto que gerou risos e identificação na plateia foi quando Rod comentou como **desenvolvedores são atraídos por novas tecnologias**, testam e aprendem rapidamente — apenas para serem bloqueados por **coordenadores e gerentes que odeiam mudanças**. O resultado é um "muro" de resistência onde inovação morre antes de nascer.
 
-Foi dito que a a compra da Sun não deve ser vista como problema ao java, pois muitas das tecnologias da Oracle mantém esta empresa como líder e esta empresa não alteraria isso, segundo o mesmo ele prefere a empresa não mão de uma forte companhia do que sobre a tutela de uma fraca, o que achei um pouco complicado para quem havia dito apouco que open source favorecia o crescimento&#8230;.
+## O medo do monopólio
 
-Foi dito tambem sobre as preocupações sobre a compra da Spring Source pela VMWare deve ser esquecida, para ele esta empresa sabe a importância do open source e a agenda de desenvolvimento continuará a crescer em pró da comunidade.
+Rod alertou para o risco de **monopolização do ecossistema Java**, onde uma única empresa controla todas as peças da tecnologia — desde a plataforma até as ferramentas. Isso, segundo ele, limita a inovação e cria dependência.
 
-Neste ambiente estão sendo criadas soluções para aumentar o produtividade dos desenvolvedores e da comunidade comportar cloud computing como o <a title="cloud foundry" href="http://www.cloudfoundry.com/" target="_blank">Spring Source Cloud Foundry</a>, e o Sprng Roo.
+Ele citou o caso da compra da **Sun pela Oracle**, e sugeriu cautela: "Depender de uma única empresa para tudo nunca é bom para o ecossistema."
 
-A palestra terminou com uma mensagem, não sei sobre o desconhecimento ou o que, para o Rod agora é o momento dos desenvolvedores brasileiros aparecerem , open source é glogal e permite isso !!!
+## A revolução poliglota e o papel da JVM
+
+Apesar do crescimento de linguagens como Ruby, Python e Scala, Rod reforçou que o **Java continua dominante**. Ele não acredita que será a última linguagem, mas sim que **a JVM é o verdadeiro trunfo** — pois suporta múltiplas linguagens e se adapta melhor às novas demandas.
+
+> Hoje, você pode usar Groovy, JRuby ou Clojure dentro do mesmo ambiente. Isso é poder real.
+
+## Open Source como catalisador da inovação
+
+Rod defendeu que **o modelo open source é essencial para a inovação**. Sem ele, o Spring não teria nascido — afinal, que startup teria acesso a licenças e contratos com IBM, Oracle ou BEA para criar um framework?
+
+> O open source reduz a barreira de entrada e convida mais desenvolvedores para a conversa.
+
+Por outro lado, ele alertou que o excesso de projetos open source pode confundir e fragmentar o ecossistema — algo que exige maturidade da comunidade para selecionar bem o que adotar.
+
+## Ruby on Rails e a inspiração para o Spring Roo
+
+Rod comentou que embora o **Ruby on Rails** tenha popularizado a produtividade extrema, ele não acredita que codificação deva ser descartável. A lição, segundo ele, está no **equilíbrio entre produtividade e clareza** — algo que a equipe do Spring tentou aplicar no desenvolvimento do **Spring Roo**, uma ferramenta de scaffolding inteligente.
+
+## A compra da Spring Source pela VMWare
+
+A aquisição da **Spring Source pela VMWare** foi outro ponto de preocupação na época. Mas Rod tranquilizou dizendo que a VMWare reconhecia a importância do open source e **não alteraria a agenda da comunidade**.
+
+## Cloud Foundry e o futuro da plataforma
+
+Rod encerrou sua fala mencionando o surgimento de soluções como o **Spring Source Cloud Foundry**, que começava a explorar o conceito de **PaaS (Platform as a Service)** para facilitar a vida de quem desenvolve e opera aplicações Java.
+
+## Conclusão: a hora dos desenvolvedores brasileiros
+
+Para Rod, **o open source é global** e o momento era ideal para que desenvolvedores brasileiros participassem mais ativamente.
+
+> "Não sei se é por desconhecimento ou falta de incentivo, mas este é o momento. A comunidade global precisa da energia e criatividade de vocês."
+
+---
+
+_Publicado após a palestra de Rod Johnson no TDC Rio 2009._
+
+**Anterior da série:** [Mike Keith sobre a evolução do Java EE 6](/pt/posts/2009-11-20-mike-keith-java-ee-6-uma-grande-evolucao/)

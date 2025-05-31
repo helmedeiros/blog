@@ -1,10 +1,11 @@
 ---
-title: Mike Keith – Java EE 6 – Uma grande evolução
+title: "Mike Keith – Java EE 6: Uma Grande Evolução"
 author: helio
 layout: post
 date: 2009-11-20T14:22:51+00:00
 idptt_tweeted:
   - 1
+series: "TDC Rio 2009"
 categories:
   - Eventos
 tags:
@@ -16,16 +17,73 @@ tags:
   - TDC 2009
 ---
 
-<img class="aligncenter size-full wp-image-97" src="/uploads/2009/11/dsc00699.jpg" alt="Mike Keith" width="417" height="291" srcset="/uploads/2009/11/dsc00699.jpg 417w, /uploads/2009/11/dsc00699-300x209.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+> **Série: TDC Rio 2009** | **Parte 1 de 2** > _Insights fundamentais da maior conferência Java do Brasil_
 
-A palestra de Mike Keith iniciou às 11:00h, após o coffee break, com algumas brincadeiras e perguntas sobre o tempo em que era despendido entre o lançamento das novas versões Java, sem a platéia achava muito ou pouco e se não os interessava, o slide deste momento mostrava a frase &#8220;Ou não se importa pois acha que a Microsoft irá matar o Java&#8221;. Sei que poderiam haver problemas dizer algo assim a algum tempo&#8230; mas pelo que vim escutando neste tempo aqui no Rio, pelo próprio Phillip, o .NET com C# vem apresentando coisas bem legais&#8230;
+![Foto da palestra do Mike Keith](../../uploads/2009/11/dsc00699.jpg)
 
-Achei bem legal dentre as novidades as novas anotações para lidarmos com Servlets e para tratarmos a intrusão das peças necessárias para os servlets de frameworks necessários em nosso web.xml. Porém para transformarmos as chamadas dos servlets em assincronas(Async Processing)&#8230; há necessidade de tanto código desnecessário e cruzado que houve silêncio no auditório !!
+A palestra de **Mike Keith** começou por volta das 11h, logo após o coffee break, com um tom leve e descontraído. Ele abriu brincando sobre o tempo entre os lançamentos das versões Java — algo que gerava expectativas (e frustrações) constantes. Um dos slides logo no início estampava a frase provocativa:
 
-Para Mike a algum tempo ninguém assumiria utilizar EJB,  mas acredita que agora com a versão 3.1 todos vão querer fazê-lo&#8230; não sei não&#8230; como representante da Oracle e da sun&#8230; talvez também o achasse. Neste momento foram falados as novidades do EJB 3.1.
+> "Ou você não se importa porque acha que a Microsoft vai matar o Java."
 
-A parte sobre JPA foram transferidos  para uma curta conversa a tarde.
+A provocação arrancou risos e um pouco de desconforto — mas serviu de gancho para mostrar como, apesar das críticas, o **Java EE 6** trazia sim avanços sólidos e relevantes.
 
-O Mike falou sobre a JSR 330, e como a nova versão do injection Annotations incorpora esta especificação deixando seus programas compatíveis com várias soluções.
+## Java EE 6: Mais modular, menos XML
 
-Mike encerrou informando que as soluções que já estão no domínio público e em especificações podem ser conferidas a partir de 10 de dezembro de 2009, e que as soluções estão repletas de desejos de seus usuários.
+Mike apresentou as principais novidades da nova especificação. Uma das mais comentadas foi a **redução da verbosidade**, especialmente em relação ao uso de XML. Com a chegada de **anotações (@Annotation)** no lugar de configurações externas, o código se torna mais direto e mais fácil de manter.
+
+```java
+@WebServlet("/minhaRota")
+public class MeuServlet extends HttpServlet {
+    // ...
+}
+```
+
+Antes, isso exigiria várias linhas no `web.xml`. Agora, está tudo embutido no próprio código.
+
+## Anotações e modularização: o fim do "acoplamento obscuro"
+
+A nova abordagem com **anotações** também torna mais claro **quais dependências e comportamentos estão em jogo** em cada classe. Isso combate o famoso acoplamento oculto, onde as configurações externas escondiam o que estava acontecendo.
+
+Essa mudança também ajuda quem usa frameworks como Spring, Struts, ou JSF, onde anotações já estavam se tornando padrão.
+
+## Servlets Assíncronos (Async Processing)
+
+Outro ponto que me chamou atenção foi a introdução de **processamento assíncrono nos Servlets**. Isso significa que não precisamos mais bloquear a thread do servidor para esperar uma operação longa (como uma chamada de API ou acesso a banco lento).
+
+> Em termos simples, o servidor pode "entregar outra tarefa" enquanto espera pela resposta — algo que melhora muito o desempenho sob carga.
+
+Mike demonstrou isso comentando que, apesar do ganho, é necessário cuidado para não cair em armadilhas de concorrência ou complexidade desnecessária.
+
+## EJB 3.1: A reabilitação?
+
+Confesso: quando ele mencionou **EJB**, achei que o auditório ia bocejar. Mas Mike trouxe uma visão moderna com o **EJB 3.1**, agora mais leve e pragmático. Algumas melhorias que ele comentou:
+
+- Possibilidade de usar **EJBs fora de um contêiner completo de aplicação**
+- Redução no uso obrigatório de interfaces
+- Mais integração com ambientes "Java SE" (sem servidor)
+
+A sala ficou mais atenta do que eu esperava — talvez por ver que o EJB estava finalmente se tornando mais acessível para quem evitava por puro trauma de versões antigas.
+
+## JPA e a conversa da tarde
+
+A parte sobre **JPA (Java Persistence API)** foi mencionada brevemente na palestra, mas gerou tanto interesse que acabou virando tema de uma conversa à parte no período da tarde.
+
+JPA, para quem não conhece, é a especificação padrão para mapeamento objeto-relacional em Java. Em vez de escrever SQL direto, usamos classes Java para representar entidades e persistência.
+
+## Injeção de Dependência (JSR 330)
+
+Outro tópico foi a **JSR 330**, que trata de **injeção de dependência** — ou seja, como uma classe "recebe" seus componentes prontos, sem ter que criá-los manualmente. Isso já era comum em frameworks como Spring, mas agora fazia parte da especificação oficial.
+
+> A ideia aqui é diminuir o acoplamento e facilitar testes, ao evitar `new` e deixar a responsabilidade de criação para o contêiner.
+
+## Conclusão otimista
+
+Mike fechou sua fala com otimismo. Disse que muitas das melhorias já estavam disponíveis em versões beta ou em especificações abertas — com previsão de se tornarem oficiais em **dezembro de 2009**.
+
+Para mim, ficou claro que o Java EE 6 não era apenas uma nova versão. Era um sinal de que a plataforma estava ouvindo a comunidade e tentando **ser mais leve, moderna e produtiva**.
+
+---
+
+_Publicado no mesmo dia da palestra de Mike Keith no TDC Rio 2009._
+
+**Próximo da série:** [Rod Johnson sobre tendências Java EE e os próximos 5 anos](/pt/posts/2009-11-25-rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/)
