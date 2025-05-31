@@ -24,7 +24,7 @@ They help with:
 
 ## Types of Structural Patterns
 
-### 1. Adapter
+### Adapter
 
 Converts the interface of a class into another expected by the client.
 
@@ -44,7 +44,7 @@ class SquarePegAdapter extends RoundPeg {
 }
 ```
 
-### 2. Bridge
+### Bridge
 
 Decouples an abstraction from its implementation so they can evolve independently.
 
@@ -68,7 +68,7 @@ class Remote {
 }
 ```
 
-### 3. Composite
+### Composite
 
 Composes objects into tree structures and treats them uniformly.
 
@@ -90,7 +90,7 @@ class CompoundGraphic implements Graphic {
 }
 ```
 
-### 4. Decorator
+### Decorator
 
 Adds responsibilities to objects dynamically.
 
@@ -112,7 +112,7 @@ class CompressionDecorator implements DataSource {
 }
 ```
 
-### 5. Facade
+### Facade
 
 Provides a simplified interface to a complex subsystem.
 
@@ -129,7 +129,7 @@ class VideoConverter {
 }
 ```
 
-### 6. Flyweight
+### Flyweight
 
 Shares common parts of state across many objects to save memory.
 
@@ -145,7 +145,7 @@ class TreeType {
 }
 ```
 
-### 7. Proxy
+### Proxy
 
 Acts as a placeholder for another object to control access, lazy load, or log.
 

@@ -28,7 +28,7 @@ Use quando:
 
 ## Tipos de Padrões Comportamentais
 
-### 1. Chain of Responsibility (Cadeia de Responsabilidade)
+### Chain of Responsibility (Cadeia de Responsabilidade)
 
 Passa uma solicitação por uma cadeia de manipuladores até que um possa processá-la.
 
@@ -48,7 +48,7 @@ abstract class Handler {
 }
 ```
 
-### 2. Command (Comando)
+### Command (Comando)
 
 Encapsula uma solicitação como objeto.
 
@@ -68,7 +68,7 @@ class LightOnCommand implements Command {
 }
 ```
 
-### 3. Iterator (Iterador)
+### Iterator (Iterador)
 
 Fornece uma maneira de acessar elementos de uma coleção sequencialmente.
 
@@ -84,7 +84,7 @@ interface Iterator<T> {
 }
 ```
 
-### 4. Mediator (Mediador)
+### Mediator (Mediador)
 
 Centraliza a comunicação entre objetos.
 
@@ -99,7 +99,7 @@ interface Mediator {
 }
 ```
 
-### 5. Memento (Memento)
+### Memento (Memento)
 
 Captura e restaura o estado interno de um objeto.
 
@@ -115,7 +115,7 @@ class EditorMemento {
 }
 ```
 
-### 6. Observer (Observador)
+### Observer (Observador)
 
 Notifica objetos dependentes quando o estado de um sujeito muda.
 
@@ -137,7 +137,7 @@ class Subject {
 }
 ```
 
-### 7. State (Estado)
+### State (Estado)
 
 Altera o comportamento de um objeto conforme seu estado.
 
@@ -152,7 +152,7 @@ interface State {
 }
 ```
 
-### 8. Strategy (Estratégia)
+### Strategy (Estratégia)
 
 Define uma família de algoritmos intercambiáveis.
 
@@ -170,7 +170,7 @@ class QuickSort implements SortStrategy { ... }
 class MergeSort implements SortStrategy { ... }
 ```
 
-### 9. Template Method (Método Template)
+### Template Method (Método Template)
 
 Define a estrutura de um algoritmo e permite que subclasses implementem os passos.
 
@@ -192,7 +192,7 @@ abstract class DataParser {
 }
 ```
 
-### 10. Visitor (Visitante)
+### Visitor (Visitante)
 
 Separa operações da estrutura de objetos que as recebe.
 

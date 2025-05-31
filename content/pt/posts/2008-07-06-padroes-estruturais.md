@@ -24,7 +24,7 @@ Eles ajudam a:
 
 ## Tipos de Padrões Estruturais
 
-### 1. Adapter (Adaptador)
+### Adapter (Adaptador)
 
 Converte a interface de uma classe em outra esperada pelo cliente.
 
@@ -44,7 +44,7 @@ class SquarePegAdapter extends RoundPeg {
 }
 ```
 
-### 2. Bridge (Ponte)
+### Bridge (Ponte)
 
 Desacopla uma abstração de sua implementação para que ambos possam evoluir separadamente.
 
@@ -68,7 +68,7 @@ class Remote {
 }
 ```
 
-### 3. Composite (Composto)
+### Composite (Composto)
 
 Compõe objetos em estruturas de árvore e os trata de forma uniforme.
 
@@ -90,7 +90,7 @@ class CompoundGraphic implements Graphic {
 }
 ```
 
-### 4. Decorator (Decorador)
+### Decorator (Decorador)
 
 Adiciona responsabilidades a objetos dinamicamente.
 
@@ -112,7 +112,7 @@ class CompressionDecorator implements DataSource {
 }
 ```
 
-### 5. Facade (Fachada)
+### Facade (Fachada)
 
 Fornece uma interface simplificada para um subsistema complexo.
 
@@ -129,7 +129,7 @@ class VideoConverter {
 }
 ```
 
-### 6. Flyweight (Peso-Mosca)
+### Flyweight (Peso-Mosca)
 
 Compartilha partes comuns de estado entre muitos objetos para economizar memória.
 
@@ -145,7 +145,7 @@ class TreeType {
 }
 ```
 
-### 7. Proxy
+### Proxy
 
 Serve como substituto de outro objeto para controlar acesso, fazer carregamento tardio ou registrar atividades.
 
