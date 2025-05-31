@@ -1,29 +1,55 @@
 ---
-title: Mais um professor na família !
-author: helio
-layout: post
-date: 2010-01-26T23:47:13+00:00
-idptt_tweeted:
-  - 1
-dsq_thread_id:
-  - 4969845425
-categories:
-  - Uncategorized
+title: "Mais um professor na família!"
+date: 2010-01-26T23:47:13+02:00
+draft: false
 tags:
-  - Engenharia de Software
-  - Hélio Medeiros
-  - Professor
-  - Universidade Potiguar
-  - UnP
+  [
+    "Engenharia de Software",
+    "Professor",
+    "Universidade Potiguar",
+    "UnP",
+    "Academia",
+  ]
+categories: ["Academia", "Carreira"]
 ---
-Não esperava que isto pudesse acontecer tão cedo, o fluxo a seguir tratando-se da área acadêmica é sempre muito longo e normalmente pretere os mais experientes, mas acontece que em 2010 minha família ganhará um novo professor.
 
-Sempre tive este sonho, de assim como minha família,  poder um dia lecionar e quem sabe ajudar a construir os alicerces de algumas carreiras, assim como estou acostumado a ouvir grandes pessoas referindo-se a minha mãe; ou quem sabe receber o afeto incondicional dos alunos&#8230; materializados em chocolates, maças e outras coisas mais&#8230; como minha irmã mais velha.<figure id="attachment_114" style="width: 400px" class="wp-caption aligncenter">
+![Imagem do anúncio da matrícula na UnP](/uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM.png)
 
-<img class="size-full wp-image-114" src="/uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM.png" alt="Ai vou eu !!!" width="400" height="234" srcset="/uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM.png 400w, /uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM-300x175.png 300w" sizes="(max-width: 400px) 100vw, 400px" /><figcaption class="wp-caption-text">Ai vou eu !!!</figcaption></figure> 
+Não imaginei que isso fosse acontecer tão cedo. Sempre ouvi que a área acadêmica era um caminho longo, reservado para os mais experientes. Mas em 2010, minha família terá **mais um professor**.
 
-Acredito que o dia chegou ! Estarei então a partir do dia 22 de fevereiro, após participar de um processo seletivo, em sala de aula junto aos alunos do quinto período da Universidade Potiguar (UnP) lecionando a disciplina de Engenharia de Software. Após o contato como  aluno laureado da graduação , de aluno chato de pós-graduação e vendo vários dos ex-alunos, excelentes profissionais retornando as salas de aulas para poderem contribuir com a comunidade acadêmica, tenho orgulho de dizer que chegou a minha vez !
+## Um sonho antigo
 
-Venho a algum tempo me especializando neste assunto; como bom agilista, me esforçando para construir software com qualidade e focado em um big ROI-up-front, influenciando e sendo influenciado pelas equipes por onde venho passando; espero levar um pouco disto para as aulas e juntamente com os alunos construir novos e excelentes sistemas, fincar estacas e levantar muros em práticas reais e que façam a diferença no dia-a-dia da comunidade e do mercado.
+Desde pequeno, via com admiração o trabalho de professores dentro da minha família. Minha mãe, por exemplo, sempre foi lembrada com carinho por ex-alunos que voltavam para agradecer. Minhas irmãs também seguiram esse caminho e, de profissionais competentes, passaram a compartilhar na sala de aula o que já haviam experimentado e vencido na carreira profissional. Minha irmã mais velha, inclusive, foi minha professora no curso de Sistemas de Informação.
 
-Mais um professor na família&#8230; espero fazer jus ao meu antigo sobrenome e ao novo !!
+## A hora chegou!
+
+A partir de **22 de fevereiro de 2010**, assumirei minha primeira turma como professor da **Universidade Potiguar (UnP)**, ministrando a disciplina de **Engenharia de Software** para os alunos do quinto período.
+
+Essa conquista veio após participar de um processo seletivo rigoroso. Tenho orgulho de voltar à universidade onde me formei — agora, não mais como aluno de graduação ou pós, mas como alguém pronto para contribuir com a comunidade que tanto me formou.
+
+## Software com propósito
+
+Nos últimos anos, venho me especializando fortemente em **desenvolvimento ágil, engenharia de software e qualidade de sistemas**. Tenho estudado sobre como criar soluções sustentáveis, que entregam valor sem desperdício, e como envolver os times em um ciclo de melhoria contínua.
+
+> Termos como _ROI up-front_, _design evolutivo_, _código limpo_ e _práticas XP_ fazem parte da minha bagagem — e agora estarão também nas minhas aulas.
+
+## Meu compromisso em sala de aula
+
+Quero que os alunos não apenas aprendam sobre requisitos e modelagem, mas que entendam **como se constrói software real, em equipe, com responsabilidade e contexto**.
+
+Espero transformar a sala de aula em um ambiente colaborativo onde possamos:
+
+- Simular projetos reais
+- Revisar código juntos
+- Explorar práticas como testes automatizados e integração contínua
+- Discutir dilemas éticos e decisões de projeto
+
+## Gratidão e responsabilidade
+
+Me sinto honrado por estar nesse novo papel. Ser professor é, acima de tudo, um compromisso com o futuro de outros — e também uma grande oportunidade de aprendizado contínuo.
+
+> Mais um professor na família... espero fazer jus ao meu antigo sobrenome e ao novo!
+
+---
+
+_Postado em janeiro de 2010, dias antes da minha primeira aula na UnP._
