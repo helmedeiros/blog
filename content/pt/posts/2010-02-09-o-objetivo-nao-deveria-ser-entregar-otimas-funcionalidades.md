@@ -1,21 +1,24 @@
 ---
-title: O objetivo não deveria ser entregar ótimas funcionalidades ?
-author: helio
-layout: post
-date: 2010-02-09T23:49:20+00:00
-idptt_tweeted:
-  - 1
-categories:
-  - Ageis
-  - Uncategorized
+title: "O objetivo não deveria ser entregar ótimas funcionalidades?"
+date: 2010-02-09T23:49:20+02:00
+draft: false
 tags:
-  - AGILE
-  - Metodologias Ágeis
-  - ROI
-  - XP
+  ["AGILE", "Metodologias Ágeis", "ROI", "XP", "Desenvolvimento", "Qualidade"]
+categories: ["Agile", "Desenvolvimento"]
 ---
-Uma coisa que me intriga mais e mais cada vez que escuto alguém falando que utiliza metodologias ágeis, e que seus clientes continuam insatisfeitos, mesmo com as entregas reptiveis de software funcionando, é que nós não deveríamos antecipar o retorno ao investimento de nosso cliente dando a ele subsídios para otimizar o funcionamento de seu negócio ?
 
-Lí a pouco uma frase no twitter do <a title="Jeff Patton" href="http://twitter.com/jeffpatton" target="_blank">@jeffpatton</a>, &#8220;Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster.&#8221; e vejo como ela é realidade constante na utilização de metodologias ágeis, como foi dito pelo akita em <a title="Você não entende nada de Scrum" href="http://akitaonrails.com/2009/12/10/off-topic-voce-nao-entende-nada-de-scrum" target="_blank">Você não entende nada de Scrum</a>, existe uma necessidade de adaptação na realidade do desenvolvimento de software mas a maioria dos interessados se satisfazem apenas com os títulos sem a aplicação integral de todas as atividades necessárias para que o seu processo realmente meressa o título agile. O Kent Beck deixa isto bem claro em <a title="Extreme Programming Explained" href="http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416" target="_blank">eXtreme Programming explained</a>, &#8220;XP é uma disciplina de desenvolvimento de software. É uma disciplina porque há certas coisas que você precisa fazer para estar fazendo XP. Você não poderá escolher se escreverá ou não os testes &#8211; se não escrever, você não esta fazendo XP e ponto final&#8221;.
+A cada conversa sobre metodologias ágeis, fico mais convencido de que precisamos reforçar não só o discurso da adaptação, mas também a **disciplina necessária para sermos realmente eficientes** em entregar valor. Agilidade não é apenas sobre fazer menos ou cortar etapas — é, antes de tudo, sobre **entender profundamente o que estamos fazendo, por que fazemos e como fazemos bem**, para só então decidir o que deixar de lado.
 
-Como podemos ajudar um cliente a melhorar seu processo quando não conhecemos aquilo que estamos tentando implementar, o manifesto agil traz em seu âmago a necessidade e a vontade de mudança; crescimento com adaptabilidade, só devemos estar atentos a oque estamos adaptando para não estarmos mascarando os reais problemas que a metodologia tenta corrigir. Devemos entregar o mais rápido possível software que funcione com valor para os nossos clientes e para isso é imprescindível conhecer as letrinhas que estamos colocando em nosso processo e respeitá-las, sejam estas letrinhas práticas, ferramentas, processos ou metodologias.
+Recentemente, li uma frase do Jeff Patton que dizia: "Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster." Essa reflexão me levou a uma pergunta simples: **estamos entregando valor de verdade ou apenas funcionalidades bem embutidas em processos rápidos?** A diferença entre esses dois caminhos pode estar na **qualidade da nossa compreensão do problema do cliente** — e na nossa capacidade de traduzir isso em software útil.
+
+Antes de discutir o que devemos eliminar, automatizar ou flexibilizar, precisamos desenvolver **competência real**. Aprender a escrever bons testes antes de dizer que TDD não funciona. Praticar refatoração até que ela se torne fluida, antes de afirmar que dá muito trabalho. Adotar integração contínua de forma consistente, com time comprometido, antes de descartá-la como burocrática. O caminho para a agilidade passa pelo **domínio da técnica**, que nos dá autonomia para decidir com base em impacto — não em apego ou preguiça.
+
+Kent Beck, criador do XP, escreveu que "XP é uma disciplina de desenvolvimento de software". E disciplina pressupõe consistência e responsabilidade. Você só pode abrir mão de algo quando já entendeu bem como funciona e quais efeitos traz. E isso vale para práticas, processos, cerimônias, ferramentas. Aprender antes de adaptar. Praticar antes de criticar.
+
+Scrum, Kanban, XP, Lean — todos esses métodos carregam décadas de lições, dores, evoluções. Cada um propõe uma abordagem, mas todos compartilham a ideia de **ajustar o processo com base em feedback, entregar valor continuamente e evoluir com o aprendizado**. Quando adotamos práticas com convicção e transparência, conseguimos construir um ambiente de confiança onde erros são aprendizados e melhorias acontecem de verdade.
+
+Se quisermos que nossos clientes confiem em nossas entregas, precisamos demonstrar **maturidade técnica e empatia com o negócio**. É possível fazer software com leveza, sem abrir mão da qualidade. É possível ser produtivo sem cair na pressa. E é possível, sim, desafiar frameworks, desde que saibamos o que estamos fazendo — e por quê.
+
+A entrega de valor começa com perguntas boas. O que estamos tentando resolver? Como saberemos que deu certo? O que aprendemos com o que entregamos ontem? A agilidade floresce quando deixamos de buscar atalhos e passamos a construir caminhos consistentes.
+
+> A verdadeira agilidade não está em fazer as coisas mais rápido, mas em fazer as coisas certas com mais clareza e propósito.

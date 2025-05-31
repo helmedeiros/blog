@@ -1,31 +1,23 @@
 ---
-title: "The objective shouldn't be to deliver great functionalities ?"
-author: helio
-layout: post
-date: 2010-02-09T23:49:20+00:00
-idptt_tweeted: 
-categories:
-  - Ageis
-  - Uncategorized
-tags:
-  - AGILE
-  - Metodologias Ágeis
-  - ROI
-  - XP
+title: "Shouldn't the Goal Be Delivering Great Features?"
+date: 2010-02-09T23:49:20+02:00
+draft: false
+tags: ["AGILE", "Agile Methodologies", "ROI", "XP", "Development", "Quality"]
+categories: ["Agile", "Development"]
 ---
 
-One thing that keeps intriguing me more and more each time I hear someone talking about using agile methodologies, and their clients remaining dissatisfied, even with software deliveries functioning, is whether we shouldn't anticipate the return on investment for our client by giving them subsidies to optimize the operation of their business?
+Every time I hear someone talk about using agile methodologies, I'm more convinced that we need to reinforce not just the message of adaptability, but also the **discipline required to become truly efficient** at delivering value. Agility is not about skipping steps — it's about **understanding deeply what we do, why we do it, and how to do it well**, so we can make intentional choices about what to keep and what to let go.
 
-Recently, I saw a tweet from <a title="Jeff Patton" href="http://twitter.com/jeffpatton" target="_blank">@jeffpatton</a>, "Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster." And I see how it's constant reality in using agile methodologies, as was said by Akita in <a title="Você não entende nada Scrum" href="http://akitaonrails.com/2009/12/10/off-topic-voce-nao-entende-nada-de-scrum" target="_blank">Você não entende nada Scrum</a>.
+A recent quote from Jeff Patton struck me: "Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster." It made me ask: **are we delivering real value, or just shipping polished features faster?** That difference often lies in how well we understand the customer's problem — and our ability to turn that into meaningful software.
 
-There is a need for adaptation in software development reality, but most interested parties are satisfied only with titles without the integral application of all necessary activities to make their process truly deserving of the title "agile." Kent Beck makes this clear in <a title="Extreme Programming Explained" href="http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416" target="_blank">eXtreme Programming explained</a>, "'XP is a discipline of software development.
+Before we talk about removing, automating, or simplifying things, we need to build **real competence**. Learn how to write good tests before saying TDD doesn't work. Practice refactoring until it's second nature before calling it "too much effort." Try continuous integration as a team before discarding it as overhead. The road to agility goes through **technical mastery**, which gives us the freedom to decide based on impact — not convenience.
 
-It's a discipline because there are certain things you need to do to be doing XP.
+Kent Beck, the creator of XP, wrote that "XP is a discipline of software development." Discipline implies consistency and accountability. You can't skip parts of a process until you've fully understood what they do and what problems they solve. This applies to practices, ceremonies, tools, and frameworks. **Learn before adapting. Practice before judging.**
 
-You can't choose whether or not to write tests – if you don't, you're not doing XP and that's it.'" How can we help a client improve their process when we don't know what we're trying to implement?
+Scrum, Kanban, XP, Lean — each of these frameworks holds years of insights, challenges, and evolution. They offer different paths, but all share the core idea of **iterating based on feedback, delivering value continuously, and improving as we learn**. When we commit to practices with clarity and honesty, we create environments of trust where learning happens and change is sustainable.
 
-The Agile Manifesto brings to its core the necessity and will of change; growth with adaptability.
+If we want our clients to trust our delivery, we need to show **technical maturity and business empathy**. It's possible to build software with agility without sacrificing quality. It's possible to be productive without rushing. And yes, it's possible to challenge a framework — as long as we know what we're doing and why.
 
-We should only be paying attention to what we're adapting to avoid masking the real problems that the methodology is trying to correct.
+Delivering value starts with asking good questions. What are we trying to solve? How will we know it worked? What did we learn from what we shipped yesterday? Agility thrives not when we look for shortcuts, but when we commit to building thoughtful, resilient paths.
 
-We must deliver software as quickly as possible that functions with value for our clients, and for this, it's essential to know the letters we're putting in our process and respect them, whether these letters are practical, tools, processes, or methodologies.
+> True agility isn't about doing things faster — it's about doing the right things with more clarity and purpose.
