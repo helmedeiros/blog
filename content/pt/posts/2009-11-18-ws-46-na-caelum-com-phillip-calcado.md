@@ -1,5 +1,5 @@
 ---
-title: WS-46 na Caelum com Phillip Calçado
+title: "WS-46 com Phillip Calçado: Meu Primeiro Mergulho Real em Domain-Driven Design"
 author: helio
 layout: post
 date: 2009-11-18T23:37:20+00:00
@@ -7,31 +7,111 @@ dsq_thread_id:
   - 4969844886
 categories:
   - Eventos
+  - DDD
+  - Treinamento
 tags:
   - Caelum
   - DDD
-  - Linguagem
+  - Domain-Driven Design
   - Phillip Calçado
   - Rio
   - WS-46
+  - Modelagem
+  - Linguagem Ubíqua
+  - Arquitetura
 ---
 
-<img class="aligncenter size-full wp-image-83" src="/uploads/2009/11/dsc00511.jpg" alt="WS-46 Domain-Driven Design" width="417" height="267" srcset="/uploads/2009/11/dsc00511.jpg 417w, /uploads/2009/11/dsc00511-300x192.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+No dia 17 de novembro de 2009, participei de um workshop que se tornou um divisor de águas na minha trajetória como desenvolvedor. Foi o curso **WS-46 da Caelum sobre Domain-Driven Design (DDD)** com **Phillip Calçado** — nome que eu já acompanhava havia tempos, seja pelo blog ou pelas apresentações.
 
-Após alguns anos acompanhando o blog do Phillip, tive nesta segunda-feira o tão esperado curso WS-46 na Caelum Rio. Em um post recente e durante nossas conversas nos intervalos do curso o Phillip disse que provavelmente este seria o último ano do curso&#8230; estou muito feliz por ter aproveitado a oportunidade.
+Não era um curso sobre frameworks ou sobre como usar melhor o Java. Era um curso sobre **como pensar, modelar e se comunicar ao construir software de verdade**. Para alguém como eu, apaixonado por clean code, padrões de projeto e programação orientada a objetos — mas sem experiência prática ou mentoria em DDD — foi um choque de realidade e aprendizado.
 
-O curso iniciou-se às 09:20h devido alguns problemas de conexão apple mini display port -> projetor com entrada vga, o Nico Steppat que estava por lá rapidamente providenciou um notebook para substituir o mac pro do Phillip e a palestra começou com o aviso de que o computador não lhe pertencia e que com certeza haveriam problemas&#8230;. modéstia a parte o curso foi muito bom.
+## 1. A Abertura: O quê, como e qual?
 
-Vindo de Natal/RN fiquei impressionado com a quantidade de desenvolvedores .NET interessados em DDD, este tipo de curso em minha terra seria com certeza dominado por Railers e desenvolvedores Java.
+Phillip abriu o curso com três perguntas simples, mas profundas:
 
-Tivemos os 17 alunos divididos 4 em grupos para em um acompanhamento minucioso, do instrutor, na criação de um modelo de domínio baseado em user stories apresentadas para um estacionamento.
+- **O quê** estamos construindo?
+- **Como** esperam que façamos isso?
+- **Qual** decisão podemos tomar frente aos compromissos do projeto?
 
-O curso foi realizado em três módulos, a primeira e segunda realizadas pela manhã, iniciando às 09:20h e concluindo às 13:00h. Na primeira parte foi abordado pelo Phillip as decisões necessárias a serem tomadas no primeiro contato com uma aplicação, que foram divididas por ele, segundo sua experiência em três perguntas Quais, Como, e O quê. A segunda parte falou sobre linguagens e como é importante falar a mesma língua durante o desenvolvimento de um projeto, evitando a criação ou proliferação de ruídos técnicos ou semânticos.
+Essa abordagem moldou todo o workshop. Fomos divididos em grupos para modelar um sistema real (um estacionamento), apenas com histórias de usuário. Sem classes prontas. Sem diagrama pronto. Só conversa, análise e decisões.
 
-Fomos todos almoçar por perto, e como em todo bom encontro geek trocar idéias e experiências&#8230; nessas horas não existe curso a distância que valha !!!
+## 2. A linguagem é o modelo
 
-Voltamos a Caelum às 14:00h, e com várias práticas aprendemos alguns padrões e técnicas que ajudam a utilizar uma só linguagem em nossos projetos.
+Um dos conceitos mais repetidos durante o curso foi o de **linguagem ubíqua**. Não é apenas um glossário técnico — é uma disciplina em que todos os nomes de classes, métodos e diagramas devem refletir o mesmo vocabulário compartilhado com os especialistas do negócio.
 
-Então fica aí a dica pessoal, amanhã será o último dia de cursos com Phillip na Caelum. O mesmo estará no Brasil ainda por algum tempo. E pelos papos que batemos hoje posso dizer que o cara é muito fera !!! E está longe de ser aquelas estrelas esnobes que esbarramos por aí !!!
+Phillip reforçou que um modelo só é útil se for **implementado em código e usado em reuniões**. Do contrário, caímos na velha armadilha de traduzir requisitos, o que gera bugs e má comunicação.
 
-Valeu Phillip e valeu a Caelum.
+> "O maior valor de um modelo de domínio é fornecer uma linguagem que conecta desenvolvedores e especialistas."
+
+## 3. Sprint de Modelagem
+
+Durante mais de quatro horas, só modelamos. Sem código. Sem padrão. Só rascunhos, discussões, refatorações e redefinições.
+
+Só **depois** de termos um entendimento comum, começamos a trabalhar com os blocos:
+
+| Bloco de Construção | Propósito                                                |
+| ------------------- | -------------------------------------------------------- |
+| Entidade            | Objeto com identidade que evolui ao longo do tempo       |
+| Objeto de Valor     | Imutável, definido por seus atributos                    |
+| Agregado            | Agrupamento de objetos governado por uma raiz            |
+| Repositório         | Interface para acessar e persistir agregados             |
+| Serviço             | Operação que não se encaixa naturalmente em uma entidade |
+
+## 4. Ciclo de Vida e o Problema do ID Falso
+
+Phillip abordou o problema de projetar entidades sem identidade real. Ele referenciou seu post clássico ["Don't Trust Fake IDs"](http://philcalcado.com/2009/10/12/dont-trust-fake-ids/) e mostrou como deixar o banco ditar o design é um erro.
+
+> "Se você não sabe quem é um objeto sem o banco, ele não é uma entidade — é só uma linha."
+
+No nosso grupo, discutimos se `TicketDeEstacionamento` deveria ser entidade ou objeto de valor. A resposta dependia do comportamento que queríamos representar — e _esse_ era o aprendizado.
+
+## 5. Arquitetura em Camadas na Prática
+
+Exploramos a estrutura tradicional de camadas do DDD, mas sempre focando no comportamento e no fluxo — e não no framework.
+
+| Camada         | Papel                                                       |
+| -------------- | ----------------------------------------------------------- |
+| Domínio        | Coração da lógica de negócio e das invariantes              |
+| Aplicação      | Coordena os casos de uso e a interação com o domínio        |
+| Infraestrutura | Interface com banco de dados, APIs, filas, mensageria, etc. |
+| Apresentação   | Interface com usuário (UI, REST, eventos...)                |
+
+Phillip era cético com overengineering. Só adicionava camada se ela ajudasse na **clareza do domínio**.
+
+## 6. Quando Não Dá Pra Falar de DDD
+
+Um dos aprendizados mais libertadores: você não precisa usar termos como "Aggregate" ou "Entidade" para aplicar DDD. Muitas vezes, Phillip evita esses termos com clientes e foca em **modelar responsabilidades e fluxos naturais**.
+
+Isso me deu confiança para começar a aplicar os conceitos mesmo em projetos que não eram "greenfield".
+
+## 7. O Erro Comum do Mercado
+
+Com base em seu texto ["Nevermind Domain-Driven Design"](https://philcalcado.com/2010/03/22/nevermind_domain_driven_design.html), ele criticou a obsessão da indústria por repositórios e camadas técnicas, ignorando a essência: **a linguagem e o modelo alinhado com o negócio**.
+
+> "Se tudo que você levou do DDD foi uma classe Repository, você perdeu o ponto."
+
+## 8. Exemplo: Sistema de Estacionamento (UML)
+
+Aqui está um modelo simplificado baseado no exercício do curso:
+
+![Modelo de Domínio do Estacionamento](https://yuml.me/diagram/scruffy/class/[Estacionamento]1-*%3E[Vaga],[Vaga]0..1-%3E[Veículo],[TicketDeEstacionamento]^-[ObjetoValor],[Cliente]1-*%3E[TicketDeEstacionamento])
+
+Discutimos profundamente se o ticket era uma entidade. A resposta dependia do que queríamos **garantir** no nosso domínio.
+
+## 9. Design como Conversa
+
+Mais do que código, DDD virou uma forma de conversar. Nome de classe, regra de validação, método público — tudo comunica o que entendemos do domínio.
+
+Comecei a enxergar código não só como instrução, mas como **documentação de entendimento**.
+
+## 10. Considerações Finais
+
+Esse foi um dos melhores cursos técnicos que já participei. Não por slides (quase não teve), nem por ferramentas (mal abrimos a IDE). Mas porque me ensinou **uma forma de pensar e modelar**.
+
+Phillip foi generoso, claro, provocativo. Mostrou que DDD não é religião nem bala de prata. É postura — começa com escuta, nomeação e iteração, não com framework.
+
+Se tiver oportunidade de fazer um curso com ele, vá.
+
+---
+
+_Postado no dia seguinte ao curso WS-46, ainda empolgado com tudo que aprendi._
