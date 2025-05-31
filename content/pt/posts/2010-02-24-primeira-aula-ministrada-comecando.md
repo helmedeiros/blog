@@ -16,7 +16,7 @@ tags:
   - Métodos Ágeis
 ---
 
-Hoje ministrei minha primeira aula na disciplina de Engenharia de Software na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde o [convite para preparar e conduzir a disciplina](/2010/01/26/ola-unp-mais-um-professor-na-familia/), venho pensando em como estruturar um conteúdo que fosse próximo da realidade dos alunos, baseado não só no que aprendi na graduação, mas também no que vivi em projetos reais e no mercado.
+Hoje ministrei minha primeira aula na disciplina de Engenharia de Software na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde o [convite para preparar e conduzir a disciplina](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho pensando em como estruturar um conteúdo que fosse próximo da realidade dos alunos, baseado não só no que aprendi na graduação, mas também no que vivi em projetos reais e no mercado.
 
 ## Por que Engenharia de Software?
 
