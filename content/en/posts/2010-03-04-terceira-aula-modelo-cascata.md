@@ -1,24 +1,65 @@
 ---
-title: "Third Lesson!! Waterfall Model…"
+title: "Third Lecture Delivered – A Recipe Doesn't Always Fit"
 author: helio
 layout: post
 date: 2010-03-04T02:53:58+00:00
-idptt_tweeted: 
+description: "Reflections on the third Software Engineering lecture, exploring the waterfall model, defined vs empirical processes, and the importance of critical thinking."
+idptt_tweeted:
+  - 1
 categories:
-  - Uncategorized
+  - Methodologies
+  - Education
 tags:
-  - ciclo classico
-  - Engenharia Software
-  - Modelo cascata
-  - Processo definido
+  - Software Engineering
+  - Waterfall Model
+  - Defined Process
+  - BDUF
+  - UnP
+  - Teaching
+  - Critical Thinking
 ---
 
-This is the third lecture given along with the software engineering discipline of <a href="http://unp.br" target="_blank">Universidade Potiguar</a>, where the foundation for choosing a sequential process-based model is presented and defined for resolving known and immutable problems.
+In the third lecture of the Software Engineering course at Universidade Potiguar (UnP), we dove into defined process approaches — with a focus on the well-known waterfall model. But more than memorizing stages and sequences, this class was about **context, reflection, and adaptability**.
 
-The waterfall model and its incompatibility with real-life scenarios are displayed... developing software isn't building a building. <div style="margin-bottom: 20px;">
+## When does a strict sequence make sense?
+
+We opened the lecture with a direct provocation: when does it make sense to follow a rigid sequence of steps? For that, we used a simple analogy: how do you add two numbers?
+
+The idea was to clarify the difference between **defined and empirical processes**. A defined process assumes we understand the steps, risks, and outcomes well. It's effective in highly predictable contexts. On the other hand, in uncertain environments, the empirical approach — based on inspection and adaptation — proves to be more appropriate.
+
+## Activity: Classifying contexts
+
+The first activity of the class involved students working in groups to analyze real or fictional scenarios and answer: is this a defined or empirical process? Each answer needed justification based on the components of the environment.
+
+This dynamic works great in companies too. Just adapt the scenarios to internal products or workflows and promote a discussion: where does our current approach fit? The goal is to **stimulate discernment between control and adaptability** — something vital for both students and professional teams.
+
+## The waterfall model, with a critical lens
+
+In the second part, we presented the classic software lifecycle model: requirements, analysis, design, implementation, testing, and maintenance — step by step, like a recipe.
+
+But we went beyond the sequence. We discussed **Big Design Up Front (BDUF)** and the historical reasons behind this approach. We introduced Barry Boehm's curve on the cost of changes throughout a project, showing how early decision-making made sense in an era of months-long projects and rare deployments.
+
+We also used analogies like "building a house" to explain the rationale behind the model's rigidity. Still, we made it clear that **rigidity and clarity are not the same thing** — and that modern projects demand flexibility without sacrificing planning.
+
+## Real-world challenges
+
+In the third segment, our debate turned to how the model fails in real environments. Can you move a building once it's constructed? Does software need to wait until everything is ready to start delivering value?
+
+We brought excerpts from classic literature that expose the model's limitations in unpredictable contexts. We also reflected on the role of active supervision ("the ox only fattens under the eye of the owner"), questioning the overreliance on documentation and fixed timelines.
+
+## How to facilitate with depth
+
+If you want to deliver a class or workshop with this content, start with simple, progressive provocations. Use everyday analogies to explain technical concepts. Encourage activities that contrast models with the actual experience of your team or students.
+
+And above all, don't turn the waterfall model into a villain. Show that it is **one of the tools** in the software engineer's toolbox — useful in certain contexts, limited in others. We're aiming to cultivate critical thinkers, not just followers of method.
+
+<div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/f2A3v2D2TvYfwj" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-</iframe>
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
 </div>
 </div>
+
+---
+
+_Posted as part of the lecture journal for the Software Engineering course. Today, we reflected on recipes, plans, and the importance of thinking critically before following any process._
