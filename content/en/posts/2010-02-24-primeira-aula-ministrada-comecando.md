@@ -43,11 +43,7 @@ As someone who sat in this classroom — but on the other side — I hope I can 
 If anyone has suggestions or feedback on the class, I'm all ears! My goal is to keep improving — just like we do in agile development.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/DOY0KvX1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/DOY0KvX1rPPUEh?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-1/3261384" title="UnP Eng. Software - Aula 1" target="_blank">UnP Eng. Software - Aula 1</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 
 ---
 
