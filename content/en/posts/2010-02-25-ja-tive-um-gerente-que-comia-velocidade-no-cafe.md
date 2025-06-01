@@ -1,37 +1,49 @@
 ---
-title: "I already had a manager who ate at speed in the ."
+title: "I Had a Manager Who Ate Velocity for Breakfast"
 author: helio
 layout: post
 date: 2010-02-26T00:44:26+00:00
-idptt_tweeted: 
+description: "Reflections on team velocity, collaborative estimation, and the importance of focusing on real value delivery rather than just metrics."
+idptt_tweeted:
+  - 1
 categories:
-  - Ageis
-  - Uncategorized
+  - Agile
+  - Management
 tags:
   - AGILE
-  - Pontos Função
-  - SCRUM
-  - Velocidade
+  - Scrum
+  - Velocity
+  - Planning Poker
+  - Estimation
+  - Team
 ---
 
-I've been observing for a long time now the various forms used by team managers I've worked with to track my productivity and that of other team members.
+Working as a team requires more than technical alignment. It demands clarity, trust, and most of all, respect for the context we're operating in. Estimating, planning, and delivering are not just process rituals — they are forms of communication, alignment, and learning. And team velocity, that popular metric leaders love to track, only makes sense when we understand what we're really measuring.
 
-Some take a lot of time analyzing mysterious <a title="Pontos por função" href="http://en.wikipedia.org/wiki/Function_point" target="_blank">pontos de função</a>, others only look at <a title="Linhas Código" href="http://en.wikipedia.org/wiki/Source_lines_of_code" target="_blank">linhas de código</a>, and only a few, perhaps the most interesting ones, see the number of delivered features in the way that satisfies our client iteration by iteration.
+## Not Every Chart Is Progress
 
-In Scrum, there's an interesting concept to help teams with their estimates, abstracting away complex and elaborate forecasting practices used in many teams, requiring a bit more interaction between developers and clients.
+Throughout my career, I've seen managers obsessed with burndown charts and productivity curves that looked better on spreadsheets than in real life. Some would spend hours crunching function points or lines of code, hoping to predict the future. Others used velocity as a pressure tool. They all made the same mistake: treating the metric as the goal, not as a means.
 
-The planning poker is based on experiences, communication, and why not a little fun to determine how complex something can be.
+Scrum introduces velocity as a way to reflect a team's capacity — **how much value we can deliver per iteration, with quality**. But it's only useful when used honestly. It's not there to please a manager or look good in reports. It helps teams make realistic decisions based on their own story and the complexity they face.
 
-This metric associated with our team's velocity helps us say how much software we can deliver to the client.
+## Planning Means More Than Guessing
 
-I've seen many satisfied customers with the deliveries, those who you cross the street without needing to change your sidewalk, and even with repetitive deliveries iteration by iteration, my manager was still eating away at our velocity early in the morning, over coffee.
+The famous planning poker isn't about guessing how long something takes. It's about conversations. The real value of estimation lies in sharing perspectives, surfacing doubts, and discovering risks. And this is where people can make a difference.
 
-Apparently, success didn't matter much if there was space to push more tasks
+As a team member, contributing to estimation is about more than picking numbers. It's about **sharing context, raising uncertainties, and surfacing constraints**. If you know something has an external dependency, say it. If you've done something similar before, share it. If it feels too easy to be true, question it. The clearer our shared understanding of complexity, the more sustainable our velocity becomes.
 
- - that's exactly what he wanted.
+## Growth Isn't About Always Going Faster
 
-Knowing your team's <a title="Good Velocity" href="http://www.infoq.com/news/2009/05/Good-Velocity" target="_blank">velocidade ideal</a> and above all how you can work it is really a gift.
+Healthy velocity comes from mature teams — technically and psychologically. Teams that can say "we don't know yet," that protect their cadence, that prioritize learning. people shape this culture by valuing small deliverables, asking for feedback, and avoiding those "quick additions" that quietly destabilize the sprint.
 
-I don't need to say that when pressure increases, a team can literally change their feet for hands, and where the task of estimating becomes a game justifying why we're not increasing our velocity day after day.
+We also need to remember: **we're not machines**. A sprint with setbacks, investigations, or refactoring isn't a failure — it's part of growth. Sustaining velocity requires collective awareness. Everyone on the team should understand why something took longer. And that only happens when psychological safety and transparency are present.
 
-Just looking at numbers and graphs can sometimes make you lose sight of what's most important: always delivering more and more product than the client needs!!
+## Delivery Is More Than Moving Tickets
+
+Many teams get lost chasing completed cards just to move them to "done." But delivering value is different from finishing tasks. Value requires clarity of impact. That starts with good estimation, consistent communication, and a real understanding of what's being built. As a reportee, ask: "Is this story clear to me?" or "If we deliver this, who benefits?"
+
+When these questions become part of the workflow, velocity stops being a hollow number and starts representing true momentum. This doesn't just strengthen the team — it empowers the manager, who no longer eats velocity for breakfast but sees it as a meaningful reflection of the team's rhythm.
+
+---
+
+_Posted as a reminder that velocity is an outcome, not a goal. And every team can learn to play it in tune._

@@ -3,23 +3,47 @@ title: Já tive um gerente que comia velocidade no café
 author: helio
 layout: post
 date: 2010-02-26T00:44:26+00:00
+description: "Reflexões sobre velocidade de equipe, estimativas colaborativas e a importância de focar na entrega de valor real ao invés de apenas métricas."
 idptt_tweeted:
   - 1
 categories:
   - Ageis
-  - Uncategorized
+  - Gestão
 tags:
   - AGILE
-  - Pontos de Função
-  - SCRUM
+  - Scrum
   - Velocidade
+  - Planning Poker
+  - Estimativas
+  - Equipe
 ---
-Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos <a title="Pontos por função" href="http://en.wikipedia.org/wiki/Function_point" target="_blank">pontos de função</a>, outros visualizam apenas <a title="Linhas de Código" href="http://en.wikipedia.org/wiki/Source_lines_of_code" target="_blank">linhas de código</a> e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.
 
-No scrum existe um conceito bem interessante para auxiliar as equipes em suas estimativas, abstraindo as complexas e mirabolantes práticas de previsão e chute utilizada em várias equipes, exigindo um pouco mais de interação entre desenvolvedores e clientes o planning poker se faz das experiências, da comunicação e porque não um pouco de diversão  para definir quão complexo algo pode ser. Esta métrica associada a velocidade de nosso time e nos ajuda a dizer quanto de software funcionado podemos entregar ao cliente.
+Trabalhar em equipe exige mais do que alinhamento técnico. Exige clareza, confiança, e principalmente respeito ao contexto em que estamos inseridos. Estimar, planejar e entregar não são apenas práticas de processo — são formas de comunicação, alinhamento e aprendizado. E a velocidade do time, aquela famosa métrica que muitos líderes adoram acompanhar, só faz sentido se entendermos o que realmente estamos medindo.
 
-Várias vezes ví clientes realmente contentes com as entregas, daqueles que você cruza pela rua e não precisa de forma alguma mudar de calçada, e mesmo com as entregas se repetindo iteração após iteração, meu gerente continuava comendo nossa velocidade logo cedo, no café da manhã.
+## Nem todo gráfico é progresso
 
-Aparentemente pouco importava o sucesso, se havia espaço para empurrar mais tarefas era exatamente isso que ele queria.Conhecer a <a title="Good Velocity" href="http://www.infoq.com/news/2009/05/Good-Velocity" target="_blank">velocidade ideal</a> do seu time, e acima de tudo o quanto você pode trabalhá-la é realmente um dom.  Não preciso nem dizer que quando a pressão aumenta, um time pode realmente trocar os pés pelas mãos, e onde a tarefa de estimar era diversão torna-se um pouco a brincadeira de justificar o porque de não se estar aumentando a velocidade dia após dia.
+Durante minha trajetória, vi gestores obcecados por gráficos de burndown e curvas de produtividade que pareciam fazer mais sentido na planilha do que na entrega real. Alguns investiam horas tentando cruzar pontos de função, linhas de código e outras métricas mágicas, esperando que o resultado representasse alguma previsibilidade. Outros usavam a velocidade como ferramenta de pressão. Em comum, o erro de tratar a métrica como fim, e não como meio.
 
-Olhar só os números e os gráficos pode as vezes lhe fazer perder de vista o mais importante, entregar sempre mais e mais produto que o cliente precisa!!
+Scrum introduz a velocidade como uma forma simples de refletir a capacidade do time — **quanto valor conseguimos entregar por iteração com qualidade**. Mas essa métrica só é útil quando usada com honestidade. Ela não existe para agradar gerente, nem para inflar apresentações. Ela serve para ajudar o time a tomar decisões realistas, com base em sua própria história e complexidade dos desafios enfrentados.
+
+## Planejar é mais que prever
+
+O famoso planning poker não é sobre adivinhar quanto tempo uma tarefa leva. É sobre promover conversas. O valor real da estimativa está na troca de percepções, nas dúvidas que surgem, nos riscos que são descobertos. E é aí que pessoas podem fazer a diferença.
+
+Como membro do time, contribuir para estimativas vai além de apontar números. É **compartilhar contexto, levantar incertezas, expor restrições**. Se você sabe que algo tem dependência externa, diga. Se já tentou algo parecido antes, compartilhe. Se algo parece simples demais para ser verdade, questione. Quanto mais claro for o entendimento coletivo da complexidade, mais sustentável será a velocidade alcançada.
+
+## Crescimento não é sobre acelerar sempre
+
+Velocidade saudável é consequência de times maduros, com domínio técnico e psicológico. Times que sabem dizer "não sabemos ainda", que protegem sua cadência e que priorizam aprendizado. Pessoas podem influenciar essa cultura valorizando entregas pequenas, pedindo feedback constante, e evitando "encaixes" que parecem inocentes mas comprometem a estabilidade do todo.
+
+Também é importante lembrar que **não somos máquinas**. Uma sprint com imprevistos, refatorações ou investigações não é um fracasso — é parte do processo de evolução. Manter a velocidade exige consciência coletiva. O time inteiro precisa saber por que algo levou mais tempo. E esse aprendizado só acontece com segurança psicológica e transparência.
+
+## Entregar é mais do que completar
+
+Muitos times se perdem tentando empilhar tarefas só para ver os cards indo para "done". Mas entregar valor é diferente de finalizar atividade. Valor exige clareza de impacto. E isso começa com boas estimativas, comunicação frequente, e compreensão real do que está sendo construído. Como reportee, pergunte: "Essa história está clara pra mim?" ou "Se entregarmos isso, quem será impactado?".
+
+Quando essas perguntas viram parte do processo, a velocidade deixa de ser um número solto e passa a representar evolução real. Isso não só fortalece o time como também empodera o gestor — que deixa de "comer velocidade no café" e passa a ter um reflexo verdadeiro do que seu time pode alcançar.
+
+---
+
+_Publicado para lembrar que velocidade é reflexo, não objetivo. E todo time pode aprender a tocá-la no ritmo certo._
