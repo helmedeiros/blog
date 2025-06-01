@@ -69,10 +69,7 @@ This part allowed students to understand what _predictable_ means in Scrum — n
 As a final takeaway, I encouraged students to apply one thing they learned this week in their own team, internship, or side project. Big change starts with small experiments.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/NNNkG5ACgalBio?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-6/3451696" title="UnP Eng. Software - Aula 6" target="_blank">UnP Eng. Software - Aula 6</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
