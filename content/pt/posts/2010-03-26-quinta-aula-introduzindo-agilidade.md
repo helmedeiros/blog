@@ -2,7 +2,7 @@
 title: "Quinta aula ministrada – Menos estresse, mais entrega com agilidade"
 author: helio
 layout: post
-date: 2010-03-11T10:21:39+00:00
+date: 2010-03-26T10:21:39+00:00
 description: "Reflexões sobre a quinta aula de Engenharia de Software, introduzindo metodologias ágeis, o Manifesto Ágil e a transformação de mindset no desenvolvimento."
 idptt_tweeted:
   - 1

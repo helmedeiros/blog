@@ -2,7 +2,7 @@
 title: Já tive um gerente que comia velocidade no café
 author: helio
 layout: post
-date: 2010-02-26T00:44:26+00:00
+date: 2010-02-20T00:44:26+00:00
 description: "Reflexões sobre velocidade de equipe, estimativas colaborativas e a importância de focar na entrega de valor real ao invés de apenas métricas."
 idptt_tweeted:
   - 1

@@ -2,7 +2,7 @@
 title: "Sétima aula ministrada – O ciclo do Scrum e como fazê-lo funcionar"
 author: helio
 layout: post
-date: 2010-03-18T03:18:19+00:00
+date: 2010-04-11T03:18:19+00:00
 description: "Reflexões sobre a sétima aula de Engenharia de Software, explorando o ciclo completo do Scrum, seus eventos, artefatos e práticas para produtividade real."
 idptt_tweeted:
   - 1

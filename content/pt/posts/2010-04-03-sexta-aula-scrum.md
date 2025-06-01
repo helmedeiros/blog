@@ -2,7 +2,7 @@
 title: "Sexta aula ministrada – Scrum e o ritmo das equipes produtivas e previsíveis"
 author: helio
 layout: post
-date: 2010-03-17T01:32:39+00:00
+date: 2010-04-03T01:32:39+00:00
 description: "Reflexões sobre a sexta aula de Engenharia de Software, explorando Scrum como framework para equipes produtivas, ritmo sustentável e entrega de valor."
 idptt_tweeted:
   - 1

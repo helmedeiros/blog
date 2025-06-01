@@ -2,7 +2,7 @@
 title: "I Had a Manager Who Ate Velocity for Breakfast"
 author: helio
 layout: post
-date: 2010-02-26T00:44:26+00:00
+date: 2010-02-20T00:44:26+00:00
 description: "Reflections on team velocity, collaborative estimation, and the importance of focusing on real value delivery rather than just metrics."
 idptt_tweeted:
   - 1
