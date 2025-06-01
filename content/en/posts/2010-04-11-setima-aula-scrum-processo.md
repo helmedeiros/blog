@@ -62,10 +62,7 @@ We closed the session with a full-cycle simulation. Students formed teams, recei
 This game is powerful for onboarding new Scrum teams or teaching Scrum to non-technical audiences. It makes abstract roles and events concrete. More importantly, it surfaces the importance of clear roles, thoughtful planning, and constant feedback loops.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/AwW0tPsYVA5QCk?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-7/3462783" title="UnP Eng. Software - Aula 7" target="_blank">UnP Eng. Software - Aula 7</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
