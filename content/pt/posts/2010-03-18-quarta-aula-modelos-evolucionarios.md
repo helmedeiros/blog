@@ -1,8 +1,8 @@
 ---
-title: "Quarta aula ministrada – Aprender, adaptar e evoluir"
+title: "Quarta aula ministrada – Aprender, adaptar, evoluir"
 author: helio
 layout: post
-date: 2010-03-10T02:42:59+00:00
+date: 2010-03-18T02:42:59+00:00
 description: "Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos evolutivos, CBSE, reutilização de software e desenvolvimento iterativo."
 idptt_tweeted:
   - 1

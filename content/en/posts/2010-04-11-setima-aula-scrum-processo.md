@@ -2,7 +2,7 @@
 title: "Seventh Lecture Delivered – The Scrum Cycle and How to Make It Work"
 author: helio
 layout: post
-date: 2010-03-18T03:18:19+00:00
+date: 2010-04-11T03:18:19+00:00
 description: "Reflections on the seventh Software Engineering lecture, exploring the complete Scrum lifecycle, its events, artifacts, and practices for real productivity."
 idptt_tweeted:
   - 1

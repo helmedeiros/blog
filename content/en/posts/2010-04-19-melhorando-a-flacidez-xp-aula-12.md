@@ -1,8 +1,8 @@
 ---
-title: "Improving flaccidity... XP - Class 12"
+title: Improving Flaccidity - XP Class 12
 author: helio
 layout: post
-date: 2010-04-08T14:29:59+00:00
+date: 2010-04-19T03:18:19+00:00
 idptt_tweeted:
 embed:
 seo_follow:
@@ -28,6 +28,7 @@ In this lesson, flaws in other methodologies, including agile ones, were present
 The problems found in software environments and XP's solutions for these same issues are also presented.
 
 Finally, the values that guide this methodology are highlighted. <div style="margin-bottom: 20px;">
+
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 </iframe>
 <div style="margin-bottom:5px">

@@ -2,7 +2,7 @@
 title: "Fifth Lecture Delivered – Less Stress, More Delivery with Agility"
 author: helio
 layout: post
-date: 2010-03-11T10:21:39+00:00
+date: 2010-03-26T10:21:39+00:00
 description: "Reflections on the fifth Software Engineering lecture, introducing agile methodologies, the Agile Manifesto, and mindset transformation in development."
 idptt_tweeted:
   - 1

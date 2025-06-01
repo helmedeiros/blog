@@ -2,7 +2,7 @@
 title: "Sixth Lecture Delivered – Scrum and the Rhythm of Predictable, Productive Teams"
 author: helio
 layout: post
-date: 2010-03-17T01:32:39+00:00
+date: 2010-04-03T01:32:39+00:00
 description: "Reflections on the sixth Software Engineering lecture, exploring Scrum as a framework for productive teams, sustainable rhythm, and value delivery."
 idptt_tweeted:
   - 1

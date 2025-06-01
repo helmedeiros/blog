@@ -1,8 +1,8 @@
 ---
-title: "Terceira aula ministrada – A receita pronta nem sempre serve"
+title: "Terceira aula ministrada – Nem sempre a receita serve"
 author: helio
 layout: post
-date: 2010-03-04T02:53:58+00:00
+date: 2010-03-10T02:53:58+00:00
 description: "Reflexões sobre a terceira aula de Engenharia de Software, explorando o modelo cascata, processos definidos vs empíricos, e a importância do pensamento crítico."
 idptt_tweeted:
   - 1

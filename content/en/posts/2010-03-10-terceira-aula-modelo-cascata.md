@@ -2,7 +2,7 @@
 title: "Third Lecture Delivered – A Recipe Doesn't Always Fit"
 author: helio
 layout: post
-date: 2010-03-04T02:53:58+00:00
+date: 2010-03-10T02:53:58+00:00
 description: "Reflections on the third Software Engineering lecture, exploring the waterfall model, defined vs empirical processes, and the importance of critical thinking."
 idptt_tweeted:
   - 1
