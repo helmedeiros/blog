@@ -1,5 +1,5 @@
 ---
-title: "Fourth Lecture Delivered – Learn, Adapt, Evolve"
+title: "Learn, Adapt, Evolve: Embracing Change in Software Development"
 author: helio
 layout: post
 date: 2010-03-18T02:42:59+00:00

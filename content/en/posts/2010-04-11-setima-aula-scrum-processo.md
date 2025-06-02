@@ -1,5 +1,5 @@
 ---
-title: "Seventh Lecture Delivered – The Scrum Cycle and How to Make It Work"
+title: "The Scrum Cycle: Making Ceremonies Work for Real Productivity"
 author: helio
 layout: post
 date: 2010-04-11T03:18:19+00:00

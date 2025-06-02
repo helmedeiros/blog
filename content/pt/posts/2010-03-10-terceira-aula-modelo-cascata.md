@@ -1,5 +1,5 @@
 ---
-title: "Terceira aula ministrada – Nem sempre a receita serve"
+title: "Nem sempre a receita serve: repensando o modelo cascata"
 author: helio
 layout: post
 date: 2010-03-10T02:53:58+00:00

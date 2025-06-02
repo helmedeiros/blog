@@ -1,5 +1,5 @@
 ---
-title: "Sétima aula ministrada – O ciclo do Scrum e como fazê-lo funcionar"
+title: "O ciclo do Scrum e como fazê-lo funcionar"
 author: helio
 layout: post
 date: 2010-04-11T03:18:19+00:00

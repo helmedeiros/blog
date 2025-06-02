@@ -1,5 +1,5 @@
 ---
-title: "Segunda aula ministrada – A complexidade não precisa vencer"
+title: "Domando a complexidade: quando processo ajuda e quando atrapalha"
 author: helio
 layout: post
 date: 2010-03-03T01:21:54+00:00

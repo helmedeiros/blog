@@ -1,5 +1,5 @@
 ---
-title: "Nona aula ministrada – XP: Agilidade com qualidade e coragem"
+title: "XP: Agilidade com qualidade e coragem"
 author: helio
 layout: post
 date: 2010-04-19T14:29:59+00:00
