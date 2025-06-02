@@ -4,6 +4,8 @@ author: helio
 layout: post
 date: 2010-03-10T02:53:58+00:00
 description: "Reflexões sobre a terceira aula de Engenharia de Software, explorando o modelo cascata, processos definidos vs empíricos, e a importância do pensamento crítico."
+aliases:
+  - /posts/2010-03-10-terceira-aula-modelo-cascata/
 idptt_tweeted:
   - 1
 categories:
