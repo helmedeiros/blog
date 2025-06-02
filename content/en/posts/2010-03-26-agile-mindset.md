@@ -4,8 +4,6 @@ author: helio
 layout: post
 date: 2010-03-26T10:21:39+00:00
 description: "Reflections on the fifth Software Engineering lecture, introducing agile methodologies, the Agile Manifesto, and mindset transformation in development."
-aliases:
-  - /posts/2010-03-26-quinta-aula-introduzindo-agilidade/
 idptt_tweeted:
   - 1
 categories:
@@ -21,9 +19,12 @@ tags:
   - FDD
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-In the fifth Software Engineering lecture at Universidade Potiguar (UnP), we explored one of the most transformative topics in modern development: agile approaches. Grounded in the Agile Manifesto, we focused not just on practices, but on mindsets that change how teams think, organize, and deliver value.
+> **Series: Software Engineering Fundamentals** | **Part 5 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In the fifth Software Engineering lecture** at Universidade Potiguar (UnP), we explored one of the most transformative topics in modern development: agile approaches. Grounded in the Agile Manifesto, we focused not just on practices, but on mindsets that change how teams think, organize, and deliver value.
 
 ## Agility is a mindset, not a method
 
@@ -68,3 +69,13 @@ Then present agility as a potential response. Use videos, bring the Manifesto to
 ---
 
 _Posted as part of the lecture journal for the Software Engineering course. Today, we learned that agility begins with people—and manifests in the products we build._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 4 - Evolutionary Models](../2010-03-18-evolutionary-models/)
+- **Current**: Part 5 - Agile Mindset
+- **Next**: [Part 6 - Scrum Productivity](../2010-04-03-scrum-productivity/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

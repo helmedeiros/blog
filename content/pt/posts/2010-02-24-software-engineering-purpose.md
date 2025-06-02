@@ -2,9 +2,7 @@
 title: "Por que Engenharia de Software? Construindo com propósito além do código"
 author: helio
 date: 2010-02-24T02:10:53+00:00
-description: "Reflexões sobre minha primeira aula como professor de Engenharia de Software na UnP, abordando a importância de métodos e práticas no desenvolvimento sustentável."
-aliases:
-  - /posts/2010-02-24-primeira-aula-ministrada-comecando/
+description: "Reflexões sobre minha primeira aula de Engenharia de Software na UnP, abordando a importância de métodos e práticas no desenvolvimento sustentável."
 categories:
   - Educação
   - Engenharia de Software
@@ -16,9 +14,12 @@ tags:
   - Desenvolvimento
   - Qualidade
   - Métodos Ágeis
+  - software-engineering-series
 ---
 
-Hoje ministrei minha primeira aula na disciplina de Engenharia de Software na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde o [convite para preparar e conduzir a disciplina](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho pensando em como estruturar um conteúdo que fosse próximo da realidade dos alunos, baseado não só no que aprendi na graduação, mas também no que vivi em projetos reais e no mercado.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 1 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Hoje ministrei a primeira aula de Engenharia de Software** na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde que fui [convidado para preparar e liderar este curso](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho refletindo sobre como estruturar conteúdo que seja relevante para os estudantes — não apenas baseado no que aprendi durante minha graduação, mas também a partir de projetos reais e experiências na indústria.
 
 ## Por que Engenharia de Software?
 
@@ -44,9 +45,22 @@ Como alguém que já passou por essa sala — mas do outro lado — espero poder
 
 A todos que tiverem sugestões ou comentários sobre a aula, estou aberto! Minha ideia é melhorar continuamente, assim como fazemos no desenvolvimento ágil.
 
+Ensinar é, acima de tudo, **um convite para pensar junto**. Cada aula se torna uma conversa — ora sobre conceitos, ora sobre experiências, ora sobre aquilo que esperamos construir e por que isso importa.
+
+Estou animado para continuar essa jornada com os alunos e ver como esses conceitos evoluem nas mãos deles.
+
 <div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/DOY0KvX1rPPUEh?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-1/3261384" title="UnP Eng. Software - Aula 1" target="_blank">UnP Eng. Software - Aula 1</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
+</div>
 
 ---
 
-_Postado após minha primeira aula como professor de Engenharia de Software na UnP, com entusiasmo e gratidão por poder compartilhar e aprender ao mesmo tempo._
+_Publicado após minha primeira aula como professor de Engenharia de Software na UnP, cheio de entusiasmo e gratidão pela chance de compartilhar e aprender ao mesmo tempo._
+
+---
+
+### **Navegação da Série**
+
+- **Atual**: Parte 1 - Por que Engenharia de Software? (Introdução)
+- **Próxima**: [Parte 2 - Domando a Complexidade](../2010-03-02-complexity-process/)
+- **Série completa**: [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)

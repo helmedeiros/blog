@@ -3,8 +3,6 @@ title: "Why Software Engineering? Building with Purpose Beyond Code"
 author: helio
 date: 2010-02-24T02:10:53+00:00
 description: "Reflections on my first Software Engineering lecture at UnP, addressing the importance of methods and practices in sustainable development."
-aliases:
-  - /posts/2010-02-24-primeira-aula-ministrada-comecando/
 categories:
   - Education
   - Software Engineering
@@ -16,9 +14,12 @@ tags:
   - Development
   - Quality
   - Agile Methods
+  - software-engineering-series
 ---
 
-Today I taught my first Software Engineering class at Universidade Potiguar (UnP), and it was a remarkable experience. Since being [invited to prepare and lead this course](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), I've been reflecting on how to structure content that feels relevant to students — not just based on what I learned during my degree, but also from real-world projects and experiences in the industry.
+> **Series: Software Engineering Fundamentals** | **Part 1 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**Today I taught my first Software Engineering class** at Universidade Potiguar (UnP), and it was a remarkable experience. Since being [invited to prepare and lead this course](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), I've been reflecting on how to structure content that feels relevant to students — not just based on what I learned during my degree, but also from real-world projects and experiences in the industry.
 
 ## Why Software Engineering?
 
@@ -44,9 +45,22 @@ As someone who sat in this classroom — but on the other side — I hope I can 
 
 If anyone has suggestions or feedback on the class, I'm all ears! My goal is to keep improving — just like we do in agile development.
 
+Teaching is, above all, **an invitation to think together**. Each class becomes a conversation—sometimes about concepts, sometimes about experiences, sometimes about what we hope to build and why it matters.
+
+I'm looking forward to continuing this journey with the students and seeing how these concepts evolve in their hands.
+
 <div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/DOY0KvX1rPPUEh?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-1/3261384" title="UnP Eng. Software - Aula 1" target="_blank">UnP Eng. Software - Aula 1</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
+</div>
 
 ---
 
 _Posted after my first lecture as a Software Engineering professor at UnP, filled with enthusiasm and gratitude for the chance to share and learn at the same time._
+
+---
+
+### **Series Navigation**
+
+- **Current**: Part 1 - Why Software Engineering? (Introduction)
+- **Next**: [Part 2 - Taming Complexity](../2010-03-02-complexity-process/)
+- **Complete series**: [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

@@ -1,32 +1,31 @@
 ---
-title: "XP Revisited: Principles, Practices, and What Really Works"
+title: "XP in Action: Principles, Practices, and Sustainable Excellence"
 author: helio
 layout: post
-date: 2010-05-01T14:29:59+00:00
-description: "Reflections on the thirteenth Software Engineering lecture, revisiting Extreme Programming with deep exploration of principles, practices, and sustainable culture."
-aliases:
-  - /posts/2010-05-01-materializando-os-valores-xp-aula-13/
-idptt_tweeted:
-  - 1
+date: 2010-05-01T10:15:39+00:00
+description: "Reflections on the ninth and final Software Engineering lecture, exploring Extreme Programming's concrete practices and their relationship to sustainable software development."
 categories:
   - Agile
   - Methodologies
+  - XP
   - Education
 tags:
   - Software Engineering
   - Extreme Programming
-  - XP
-  - Principles
-  - Practices
-  - Kent Beck
-  - Refactoring
+  - TDD
   - Pair Programming
-  - Sustainable Development
+  - Refactoring
+  - Continuous Integration
+  - Simple Design
+  - Planning Game
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-In our thirteenth Software Engineering lecture at Universidade Potiguar (UnP), we returned to **Extreme Programming (XP)** to go deeper—not just into what it is, but why it works. This session expanded beyond mechanics into mindset, exploring the principles that make XP sustainable and the practices that make it powerful.
+> **Series: Software Engineering Fundamentals** | **Part 9 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In this ninth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we completed our exploration of Extreme Programming by diving into its concrete practices. This wasn't just about memorizing techniques, but understanding how XP practices work together to create a sustainable development environment.
 
 ## From Principles to Purpose
 
@@ -63,12 +62,23 @@ We closed with a synthesis of everything: how XP practices overlap to reinforce 
 Students left understanding that XP is not hard to explain, but it's hard to stick with. That's where commitment, culture, and courage come in.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/yW6YbSqsVxDrw0?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/un-p-aula-13/3687352" title="UnP Eng. Software - Aula 13" target="_blank">UnP Eng. Software - Aula 13</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
 
 _Posted as part of the Software Engineering teaching journal. Today we learned that principles without practices are just slogans—and practices without principles are just rituals. XP works when both live together._
+
+The value of XP isn't in adopting all practices blindly, but in understanding the **principles behind them** and **adapting them thoughtfully** to your context, team, and goals.
+
+That's how we build software that works—and teams that thrive.
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 8 - XP Quality & Courage](../2010-04-19-xp-quality-courage/)
+- **Current**: Part 9 - XP Principles & Practices
+- **Next**: [Part 10 - XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

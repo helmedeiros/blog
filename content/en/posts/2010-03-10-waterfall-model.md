@@ -4,8 +4,6 @@ author: helio
 layout: post
 date: 2010-03-10T02:53:58+00:00
 description: "Reflections on the third Software Engineering lecture, exploring the waterfall model, defined vs empirical processes, and the importance of critical thinking."
-aliases:
-  - /posts/2010-03-10-terceira-aula-modelo-cascata/
 idptt_tweeted:
   - 1
 categories:
@@ -19,9 +17,12 @@ tags:
   - UnP
   - Teaching
   - Critical Thinking
+  - software-engineering-series
 ---
 
-In the third lecture of the Software Engineering course at Universidade Potiguar (UnP), we dove into defined process approaches — with a focus on the well-known waterfall model. But more than memorizing stages and sequences, this class was about **context, reflection, and adaptability**.
+> **Series: Software Engineering Fundamentals** | **Part 3 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In the third lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into defined process approaches — with a focus on the well-known waterfall model. But more than memorizing stages and sequences, this class was about **context, reflection, and adaptability**.
 
 ## When does a strict sequence make sense?
 
@@ -65,3 +66,13 @@ And above all, don't turn the waterfall model into a villain. Show that it is **
 ---
 
 _Posted as part of the lecture journal for the Software Engineering course. Today, we reflected on recipes, plans, and the importance of thinking critically before following any process._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 2 - Taming Complexity](../2010-03-02-complexity-process/)
+- **Current**: Part 3 - Waterfall Model
+- **Next**: [Part 4 - Evolutionary Models](../2010-03-18-evolutionary-models/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

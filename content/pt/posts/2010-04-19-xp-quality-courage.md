@@ -1,31 +1,32 @@
 ---
-title: "XP: Agilidade com qualidade e coragem"
+title: "Qualidade Através da Coragem: A Abordagem Ousada da Programação Extrema"
 author: helio
 layout: post
-date: 2010-04-19T14:29:59+00:00
-description: "Reflexões sobre a nona aula de Engenharia de Software, explorando Extreme Programming (XP) como abordagem que combina agilidade com excelência técnica e coragem."
-aliases:
-  - /posts/2010-04-19-melhorando-a-flacidez-xp-aula-12/
-idptt_tweeted:
-  - 1
+date: 2010-04-19T12:30:19+00:00
+description: "Reflexões sobre a oitava aula de Engenharia de Software, explorando os valores centrais da Programação Extrema, ênfase em qualidade e práticas baseadas em coragem."
 categories:
-  - Ageis
+  - Ágil
   - Metodologias
+  - XP
   - Educação
 tags:
   - Engenharia de Software
-  - Extreme Programming
-  - XP
-  - Débito Técnico
-  - Kent Beck
-  - Scrum Flácido
-  - Valores
-  - Ward Cunningham
+  - Programação Extrema
+  - Qualidade
+  - Coragem
+  - Comunicação
+  - Simplicidade
+  - Feedback
+  - Testes Unitários
+  - Programação em Pares
   - UnP
   - Ensino
+  - software-engineering-series
 ---
 
-Na decima segunda aula da disciplina de Engenharia de Software da Universidade Potiguar (UnP), exploramos uma abordagem tão prática quanto filosófica: o **Extreme Programming (XP)**. Foi uma aula intensa e provocadora, que questionou os hábitos que nos levam a construir software com pressa, mas sem propósito.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 8 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Na oitava aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), exploramos a Programação Extrema (XP) — uma abordagem que desafia a sabedoria convencional sobre qualidade de software, colaboração em equipe e ritmo sustentável de desenvolvimento.
 
 ## Scrum flácido, qualidade em risco
 
@@ -56,12 +57,19 @@ Refletimos juntos sobre cada um. Comunicação não é só ferramenta, mas dispo
 Propus que os alunos identificassem onde cada valor aparecia em suas experiências profissionais ou acadêmicas. A discussão foi rica e pessoal. Para instrutores, essa atividade funciona bem como debate em roda, permitindo escuta profunda e honestidade.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/iLcDkba8WQwKXN?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-12/3666315" title="UnP Eng. Software - Aula 12" target="_blank">UnP Eng. Software - Aula 12</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
 
-_Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que qualidade exige coragem — e que agilidade sem técnica é só ilusão com cronograma bonito._
+_Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que qualidade exige coragem — e agilidade sem excelência técnica é só prazo disfarçado._
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
+- **Anterior**: [Parte 7 - Ciclo Scrum](../2010-04-11-scrum-cycle/)
+- **Atual**: Parte 8 - XP Qualidade & Coragem
+- **Próxima**: [Parte 9 - XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)

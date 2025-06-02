@@ -1,15 +1,13 @@
 ---
-title: "Scrum e o ritmo das equipes produtivas e previsíveis"
+title: "Encontrando o Ritmo da Equipe: Scrum para Entrega Produtiva e Previsível"
 author: helio
 layout: post
 date: 2010-04-03T01:32:39+00:00
 description: "Reflexões sobre a sexta aula de Engenharia de Software, explorando Scrum como framework para equipes produtivas, ritmo sustentável e entrega de valor."
-aliases:
-  - /posts/2010-04-03-sexta-aula-scrum/
 idptt_tweeted:
   - 1
 categories:
-  - Ageis
+  - Ágil
   - Metodologias
   - Educação
 tags:
@@ -22,9 +20,12 @@ tags:
   - Equipes Ágeis
   - UnP
   - Ensino
+  - software-engineering-series
 ---
 
-A sexta aula da disciplina de Engenharia de Software na Universidade Potiguar (UnP) marcou uma transição importante: saímos dos princípios gerais da agilidade e entramos em um framework concreto e amplamente adotado — o Scrum. O foco foi transformar valores abstratos em práticas observáveis que promovem ritmo, transparência e responsabilidade.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Esta sexta aula** na Universidade Potiguar (UnP) marcou uma transição importante dos princípios ágeis gerais para um framework concreto e amplamente adotado: Scrum. O objetivo foi passar de valores abstratos para práticas específicas que promovem previsibilidade, responsabilidade e entrega orientada pela equipe.
 
 ## Como está sua flexibilidade?
 
@@ -75,3 +76,13 @@ Finalizamos com um convite para ação: aplicar pelo menos uma ideia da aula em 
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que Scrum não serve para controlar equipes — serve para libertá-las com ritmo, clareza e foco em valor._
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
+- **Anterior**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
+- **Atual**: Parte 6 - Scrum Produtividade
+- **Próxima**: [Parte 7 - Ciclo Scrum](../2010-04-11-scrum-cycle/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
