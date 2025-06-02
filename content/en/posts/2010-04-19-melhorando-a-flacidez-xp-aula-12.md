@@ -1,5 +1,5 @@
 ---
-title: "Ninth Lecture Delivered – XP: Agility with Quality and Courage"
+title: "XP: Agility with Quality and Courage"
 author: helio
 layout: post
 date: 2010-04-19T03:18:19+00:00

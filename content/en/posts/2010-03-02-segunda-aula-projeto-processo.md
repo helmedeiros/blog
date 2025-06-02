@@ -1,5 +1,5 @@
 ---
-title: "Second Lecture Delivered – Complexity Doesn't Have to Win"
+title: "Taming Complexity: When Process Helps and When It Hurts"
 author: helio
 layout: post
 date: 2010-03-03T01:21:54+00:00

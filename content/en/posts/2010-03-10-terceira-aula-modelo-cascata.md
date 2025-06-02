@@ -1,5 +1,5 @@
 ---
-title: "Third Lecture Delivered – A Recipe Doesn't Always Fit"
+title: "When Following the Recipe Fails: Rethinking Waterfall"
 author: helio
 layout: post
 date: 2010-03-10T02:53:58+00:00

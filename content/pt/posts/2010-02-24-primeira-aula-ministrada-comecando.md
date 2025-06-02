@@ -1,5 +1,5 @@
 ---
-title: "Primeira aula ministrada! Começando…"
+title: "Por que Engenharia de Software? Construindo com propósito além do código"
 author: helio
 date: 2010-02-24T02:10:53+00:00
 description: "Reflexões sobre minha primeira aula como professor de Engenharia de Software na UnP, abordando a importância de métodos e práticas no desenvolvimento sustentável."

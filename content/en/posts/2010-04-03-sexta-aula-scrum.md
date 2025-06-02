@@ -1,5 +1,5 @@
 ---
-title: "Sixth Lecture Delivered – Scrum and the Rhythm of Predictable, Productive Teams"
+title: "Finding Your Team's Rhythm: Scrum for Productive and Predictable Delivery"
 author: helio
 layout: post
 date: 2010-04-03T01:32:39+00:00

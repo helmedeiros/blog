@@ -1,5 +1,5 @@
 ---
-title: "Sexta aula ministrada – Scrum e o ritmo das equipes produtivas e previsíveis"
+title: "Scrum e o ritmo das equipes produtivas e previsíveis"
 author: helio
 layout: post
 date: 2010-04-03T01:32:39+00:00

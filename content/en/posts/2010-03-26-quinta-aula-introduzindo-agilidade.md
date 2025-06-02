@@ -1,5 +1,5 @@
 ---
-title: "Fifth Lecture Delivered – Less Stress, More Delivery with Agility"
+title: "Less Stress, More Delivery: The Agile Mindset Shift"
 author: helio
 layout: post
 date: 2010-03-26T10:21:39+00:00

@@ -1,5 +1,5 @@
 ---
-title: "Décima terceira aula ministrada – XP revisitado: Princípios, práticas e o que realmente funciona"
+title: "XP revisitado: Princípios, práticas e o que realmente funciona"
 author: helio
 layout: post
 date: 2010-05-01T12:45:09+00:00

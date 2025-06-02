@@ -1,5 +1,5 @@
 ---
-title: "Thirteenth Lecture Delivered – XP Revisited: Principles, Practices, and What Really Works"
+title: "XP Revisited: Principles, Practices, and What Really Works"
 author: helio
 layout: post
 date: 2010-05-01T14:29:59+00:00
