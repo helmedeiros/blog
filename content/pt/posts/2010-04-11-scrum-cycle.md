@@ -24,7 +24,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 7 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 7 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na sétima aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), mergulhamos na mecânica operacional do Scrum. Além de conceitos e princípios, esta aula foi sobre entender como equipes trabalham juntas através de cerimônias, papéis e artefatos específicos para entregar software funcionando de forma iterativa.
 
@@ -78,4 +78,4 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 - **Anterior**: [Parte 6 - Scrum Produtividade](../2010-04-03-scrum-productivity/)
 - **Atual**: Parte 7 - Ciclo Scrum
 - **Próxima**: [Parte 8 - XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | Ciclo Scrum | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

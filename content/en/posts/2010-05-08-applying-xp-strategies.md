@@ -23,9 +23,9 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 10 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 10 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
-**In the tenth and final lecture** of the Software Engineering course at Universidade Potiguar (UnP), we focused on the concrete application of **Extreme Programming (XP)**. We moved beyond theory and into the daily rhythm of teams: management, workspace, planning, development, design, and testing. XP stopped being just a set of practices—it became a survival strategy for delivering real-world software.
+**In the tenth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we focused on the concrete application of **Extreme Programming (XP)**. We moved beyond theory and into the daily rhythm of teams: management, workspace, planning, development, design, and testing. XP stopped being just a set of practices—it became a survival strategy for delivering real-world software.
 
 ## Managing with Principles, Not Titles
 
@@ -61,32 +61,11 @@ Facilitators can adapt this exercise for teams looking to revisit or redesign th
 
 _Posted as part of the Software Engineering course journal. Today we learned that applying XP isn't about checklists — it's about crafting environments, rituals, and relationships that sustain responsible delivery._
 
-## Series Conclusion
-
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these ten lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **XP in Practice**: Real strategies for real teams (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, and maintaining focus on delivering real value.
-
-From understanding why software engineering matters to implementing concrete XP practices in real teams, this journey demonstrates that great software comes from great teams, supported by thoughtful processes and sustained by continuous learning.
-
 ---
 
 ### **Series Navigation**
 
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 9 - XP Principles & Practices](../2010-05-01-xp-principles-practices/)
-- **Current**: Part 10 - XP in Practice (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/)
+- **Current**: Part 10 - XP in Practice
+- **Next**: [Part 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | XP in Practice | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

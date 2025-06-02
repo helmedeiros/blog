@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 6 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 6 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **This sixth lecture** at Universidade Potiguar (UnP) marked a key transition from general agile principles to a concrete and widely adopted framework: Scrum. The objective was to move from abstract values to specific practices that foster predictability, accountability, and team-driven delivery.
 
@@ -87,4 +87,4 @@ _Posted as part of the Software Engineering teaching journal. Scrum isn't about 
 - **Previous**: [Part 5 - Agile Mindset](../2010-03-26-agile-mindset/)
 - **Current**: Part 6 - Scrum Productivity
 - **Next**: [Part 7 - Scrum Cycle](../2010-04-11-scrum-cycle/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | Scrum Productivity | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

@@ -22,7 +22,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 5 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 5 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the fifth Software Engineering lecture** at Universidade Potiguar (UnP), we explored one of the most transformative topics in modern development: agile approaches. Grounded in the Agile Manifesto, we focused not just on practices, but on mindsets that change how teams think, organize, and deliver value.
 
@@ -78,4 +78,4 @@ _Posted as part of the lecture journal for the Software Engineering course. Toda
 - **Previous**: [Part 4 - Evolutionary Models](../2010-03-18-evolutionary-models/)
 - **Current**: Part 5 - Agile Mindset
 - **Next**: [Part 6 - Scrum Productivity](../2010-04-03-scrum-productivity/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | Agile Mindset | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 2 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 2 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **Today was the second lecture** of the Software Engineering course at Universidade Potiguar (UnP), and we focused on a fundamental theme: **process, models, and purpose**. From the start, I wanted to frame the idea that chaos in software development isn't fate — it's a reality that can be managed with the right mindset, collaboration, and thoughtful practices.
 
@@ -75,8 +75,7 @@ _Posted as a reflection on a class where complexity didn't win. We continue lear
 
 ### **Series Navigation**
 
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Current**: Part 2 - Taming Complexity
 - **Next**: [Part 3 - Waterfall Model](../2010-03-10-waterfall-model/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | Taming Complexity | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)
