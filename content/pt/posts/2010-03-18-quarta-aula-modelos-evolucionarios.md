@@ -1,5 +1,5 @@
 ---
-title: "Quarta aula ministrada – Aprender, adaptar, evoluir"
+title: "Aprender, adaptar, evoluir: abraçando mudanças no desenvolvimento"
 author: helio
 layout: post
 date: 2010-03-18T02:42:59+00:00

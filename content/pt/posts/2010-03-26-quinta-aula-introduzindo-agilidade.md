@@ -1,5 +1,5 @@
 ---
-title: "Quinta aula ministrada – Menos estresse, mais entrega com agilidade"
+title: "Menos estresse, mais entrega: a mudança de mindset ágil"
 author: helio
 layout: post
 date: 2010-03-26T10:21:39+00:00
