@@ -1,31 +1,32 @@
 ---
-title: "XP: Agility with Quality and Courage"
+title: "Quality Through Courage: Extreme Programming's Bold Approach"
 author: helio
 layout: post
-date: 2010-04-19T03:18:19+00:00
-description: "Reflections on the ninth Software Engineering lecture, exploring Extreme Programming (XP) as an approach that combines agility with technical excellence and courage."
-aliases:
-  - /posts/2010-04-19-melhorando-a-flacidez-xp-aula-12/
-idptt_tweeted:
-  - 1
+date: 2010-04-19T12:30:19+00:00
+description: "Reflections on the eighth Software Engineering lecture, exploring Extreme Programming's core values, emphasis on quality, and courage-driven practices."
 categories:
   - Agile
   - Methodologies
+  - XP
   - Education
 tags:
   - Software Engineering
   - Extreme Programming
-  - XP
-  - Technical Debt
-  - Kent Beck
-  - Flaccid Scrum
-  - Values
-  - Ward Cunningham
+  - Quality
+  - Courage
+  - Communication
+  - Simplicity
+  - Feedback
+  - Unit Testing
+  - Pair Programming
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-In the twelfth Software Engineering lecture at Universidade Potiguar (UnP), we explored an approach that's both deeply practical and philosophically bold: **Extreme Programming (XP)**. This session challenged the habits that lead to rushed, brittle software — and reframed agility through a lens of quality, responsibility, and courage.
+> **Series: Software Engineering Fundamentals** | **Part 8 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In the eighth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we explored Extreme Programming (XP) — an approach that challenges conventional wisdom about software quality, team collaboration, and sustainable development pace.
 
 ## Fragile Scrum, Risky Quality
 
@@ -56,12 +57,19 @@ We unpacked each one. Communication isn't a tool; it's availability. Simplicity 
 Students were asked to identify where these values showed up in their own academic or work experiences. The discussion was personal, honest, and rich. Instructors can use this as a deep listening activity — a round-table format that builds psychological safety and trust.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/iLcDkba8WQwKXN?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/unp-eng-software-aula-12/3666315" title="UnP Eng. Software - Aula 12" target="_blank">UnP Eng. Software - Aula 12</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
 
 _Posted as part of the Software Engineering teaching journal. Today we learned that quality demands courage — and agility without technical excellence is just a deadline in disguise._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 7 - Scrum Cycle](../2010-04-11-scrum-cycle/)
+- **Current**: Part 8 - XP Quality & Courage
+- **Next**: [Part 9 - XP Principles & Practices](../2010-05-01-xp-principles-practices/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

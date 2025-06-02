@@ -4,8 +4,6 @@ author: helio
 layout: post
 date: 2010-04-03T01:32:39+00:00
 description: "Reflections on the sixth Software Engineering lecture, exploring Scrum as a framework for productive teams, sustainable rhythm, and value delivery."
-aliases:
-  - /posts/2010-04-03-sexta-aula-scrum/
 idptt_tweeted:
   - 1
 categories:
@@ -22,9 +20,12 @@ tags:
   - Agile Teams
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-This sixth lecture at Universidade Potiguar (UnP) marked a key transition from general agile principles to a concrete and widely adopted framework: Scrum. The objective was to move from abstract values to specific practices that foster predictability, accountability, and team-driven delivery.
+> **Series: Software Engineering Fundamentals** | **Part 6 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**This sixth lecture** at Universidade Potiguar (UnP) marked a key transition from general agile principles to a concrete and widely adopted framework: Scrum. The objective was to move from abstract values to specific practices that foster predictability, accountability, and team-driven delivery.
 
 ## What Flexibility Looks Like
 
@@ -77,3 +78,13 @@ As a final takeaway, I encouraged students to apply one thing they learned this 
 ---
 
 _Posted as part of the Software Engineering teaching journal. Scrum isn't about controlling work — it's about enabling teams to own it with rhythm and clarity._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 5 - Agile Mindset](../2010-03-26-agile-mindset/)
+- **Current**: Part 6 - Scrum Productivity
+- **Next**: [Part 7 - Scrum Cycle](../2010-04-11-scrum-cycle/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

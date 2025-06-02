@@ -1,11 +1,9 @@
 ---
-title: "The Scrum Cycle: Making Ceremonies Work for Real Productivity"
+title: "Running the Scrum Cycle: From Planning to Working Software"
 author: helio
 layout: post
-date: 2010-04-11T03:18:19+00:00
-description: "Reflections on the seventh Software Engineering lecture, exploring the complete Scrum lifecycle, its events, artifacts, and practices for real productivity."
-aliases:
-  - /posts/2010-04-11-setima-aula-scrum-processo/
+date: 2010-04-11T23:09:21+00:00
+description: "Reflections on the seventh Software Engineering lecture, exploring the Scrum operational cycle, roles, ceremonies, and how teams self-organize around value delivery."
 idptt_tweeted:
   - 1
 categories:
@@ -19,15 +17,16 @@ tags:
   - Daily Scrum
   - Sprint Review
   - Sprint Retrospective
-  - Planning Poker
-  - Product Backlog
-  - Sprint Backlog
-  - Burndown
+  - Sprint Goal
+  - Self-Organization
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-In the seventh Software Engineering lecture at Universidade Potiguar (UnP), we dove deep into the **full Scrum lifecycle**. Each event and artifact was unpacked not just as theory, but as a tool for productivity, predictability, and continuous improvement. The session was practical, visual, and full of challenges.
+> **Series: Software Engineering Fundamentals** | **Part 7 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In the seventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into the operational mechanics of Scrum. Beyond concepts and principles, this class was about understanding how teams work together through specific ceremonies, roles, and artifacts to deliver working software iteratively.
 
 ## A Cycle That Closes and Begins Again
 
@@ -70,3 +69,13 @@ This game is powerful for onboarding new Scrum teams or teaching Scrum to non-te
 ---
 
 _Posted as part of the Software Engineering teaching journal. Today we learned that running Scrum is simple — turning it into a value-generating machine takes practice, alignment, and active listening._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 6 - Scrum Productivity](../2010-04-03-scrum-productivity/)
+- **Current**: Part 7 - Scrum Cycle
+- **Next**: [Part 8 - XP Quality & Courage](../2010-04-19-xp-quality-courage/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

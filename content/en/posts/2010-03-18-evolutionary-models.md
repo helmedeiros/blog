@@ -4,8 +4,6 @@ author: helio
 layout: post
 date: 2010-03-18T02:42:59+00:00
 description: "Reflections on the fourth Software Engineering lecture, exploring evolutionary models, CBSE, software reuse, and iterative development."
-aliases:
-  - /posts/2010-03-18-quarta-aula-modelos-evolucionarios/
 idptt_tweeted:
   - 1
 categories:
@@ -20,9 +18,12 @@ tags:
   - Spiral Model
   - UnP
   - Teaching
+  - software-engineering-series
 ---
 
-In the fourth Software Engineering lecture at Universidade Potiguar (UnP), we explored evolutionary and incremental models, focusing on adaptation, exploration, and software reuse. The goal wasn't to memorize frameworks, but to understand how to respond to change intelligently.
+> **Series: Software Engineering Fundamentals** | **Part 4 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+
+**In the fourth Software Engineering lecture** at Universidade Potiguar (UnP), we explored evolutionary and incremental models, focusing on adaptation, exploration, and software reuse. The goal wasn't to memorize frameworks, but to understand how to respond to change intelligently.
 
 ## When the plan needs to change
 
@@ -68,3 +69,13 @@ For educators or facilitators, this session can be adapted to any learning or te
 ---
 
 _Posted as part of the lecture journal for the Software Engineering course. Today, we learned that software evolves with the world — and it's our job to evolve with it._
+
+---
+
+### **Series Navigation**
+
+- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
+- **Previous**: [Part 3 - Waterfall Model](../2010-03-10-waterfall-model/)
+- **Current**: Part 4 - Evolutionary Models
+- **Next**: [Part 5 - Agile Mindset](../2010-03-26-agile-mindset/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)

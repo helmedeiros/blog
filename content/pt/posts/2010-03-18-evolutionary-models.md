@@ -1,11 +1,9 @@
 ---
-title: "Aprender, adaptar, evoluir: abraçando mudanças no desenvolvimento"
+title: "Aprender, Adaptar, Evoluir: Abraçando a Mudança no Desenvolvimento de Software"
 author: helio
 layout: post
 date: 2010-03-18T02:42:59+00:00
-description: "Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos evolutivos, CBSE, reutilização de software e desenvolvimento iterativo."
-aliases:
-  - /posts/2010-03-18-quarta-aula-modelos-evolucionarios/
+description: "Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos evolucionários, CBSE, reúso de software e desenvolvimento iterativo."
 idptt_tweeted:
   - 1
 categories:
@@ -13,16 +11,19 @@ categories:
   - Educação
 tags:
   - Engenharia de Software
-  - Modelos Evolutivos
+  - Modelos Evolucionários
   - CBSE
-  - Reutilização
-  - Prototipação
+  - Reúso
+  - Prototipagem
   - Modelo Espiral
   - UnP
   - Ensino
+  - software-engineering-series
 ---
 
-Na quarta aula da disciplina de Engenharia de Software na UnP, mergulhamos nos modelos evolutivos e incrementais, com foco em adaptação, exploração e reuso de software. A aula não foi sobre decorar frameworks, mas sim sobre compreender como reagir à mudança com inteligência.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Na quarta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos modelos evolucionários e incrementais, focando em adaptação, exploração e reúso de software. O objetivo não era memorizar frameworks, mas entender como responder à mudança de forma inteligente.
 
 ## Quando o plano precisa mudar
 
@@ -68,3 +69,13 @@ Para professores ou facilitadores, essa aula pode ser replicada com foco na real
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje, aprendemos que o software evolui com o mundo — e cabe a nós evoluir junto com ele._
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
+- **Anterior**: [Parte 3 - Modelo Cascata](../2010-03-10-waterfall-model/)
+- **Atual**: Parte 4 - Modelos Evolucionários
+- **Próxima**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)

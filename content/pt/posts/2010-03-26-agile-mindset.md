@@ -1,15 +1,13 @@
 ---
-title: "Menos estresse, mais entrega: a mudança de mindset ágil"
+title: "Menos Estresse, Mais Entrega: A Mudança de Mentalidade Ágil"
 author: helio
 layout: post
 date: 2010-03-26T10:21:39+00:00
-description: "Reflexões sobre a quinta aula de Engenharia de Software, introduzindo metodologias ágeis, o Manifesto Ágil e a transformação de mindset no desenvolvimento."
-aliases:
-  - /posts/2010-03-26-quinta-aula-introduzindo-agilidade/
+description: "Reflexões sobre a quinta aula de Engenharia de Software, introduzindo metodologias ágeis, o Manifesto Ágil e transformação de mentalidade no desenvolvimento."
 idptt_tweeted:
   - 1
 categories:
-  - Ageis
+  - Ágil
   - Metodologias
   - Educação
 tags:
@@ -21,9 +19,12 @@ tags:
   - FDD
   - UnP
   - Ensino
+  - software-engineering-series
 ---
 
-Na quinta aula da disciplina de Engenharia de Software da UnP, abordamos um dos tópicos mais transformadores do desenvolvimento moderno: as abordagens ágeis. Com base no Manifesto Ágil, exploramos não só conceitos, mas atitudes que mudam a forma como times pensam, se organizam e entregam valor.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 5 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Na quinta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos um dos tópicos mais transformadores no desenvolvimento moderno: abordagens ágeis. Fundamentado no Manifesto Ágil, focamos não apenas em práticas, mas em mentalidades que mudam como as equipes pensam, se organizam e entregam valor.
 
 ## Agilidade é atitude, não processo
 
@@ -68,3 +69,13 @@ Depois, apresente a agilidade como resposta possível. Use vídeos, manifeste os
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje, aprendemos que agilidade começa nas pessoas — e se manifesta nos produtos._
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
+- **Anterior**: [Parte 4 - Modelos Evolucionários](../2010-03-18-evolutionary-models/)
+- **Atual**: Parte 5 - Mentalidade Ágil
+- **Próxima**: [Parte 6 - Scrum Produtividade](../2010-04-03-scrum-productivity/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)

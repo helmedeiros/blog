@@ -1,32 +1,31 @@
 ---
-title: "XP revisitado: Princípios, práticas e o que realmente funciona"
+title: "XP em Ação: Princípios, Práticas e Excelência Sustentável"
 author: helio
 layout: post
-date: 2010-05-01T12:45:09+00:00
-description: "Reflexões sobre a décima terceira aula de Engenharia de Software, revisitando Extreme Programming com exploração profunda de princípios, práticas e cultura sustentável."
-aliases:
-  - /posts/2010-05-01-materializando-os-valores-xp-aula-13/
-idptt_tweeted:
-  - 1
+date: 2010-05-01T10:15:39+00:00
+description: "Reflexões sobre a nona e última aula de Engenharia de Software, explorando as práticas concretas da Programação Extrema e sua relação com desenvolvimento sustentável de software."
 categories:
-  - Ageis
+  - Ágil
   - Metodologias
+  - XP
   - Educação
 tags:
   - Engenharia de Software
-  - Extreme Programming
-  - XP
-  - Princípios
-  - Práticas
-  - Kent Beck
+  - Programação Extrema
+  - TDD
+  - Programação em Pares
   - Refatoração
-  - Programação em Par
-  - Desenvolvimento Sustentável
+  - Integração Contínua
+  - Design Simples
+  - Planning Game
   - UnP
   - Ensino
+  - software-engineering-series
 ---
 
-Na décima terceira aula da disciplina de Engenharia de Software da Universidade Potiguar (UnP), voltamos ao **Extreme Programming (XP)** para aprofundar — não apenas no que é, mas no porquê funciona. A sessão expandiu da mecânica para a mentalidade, explorando os princípios que tornam o XP sustentável e as práticas que o tornam poderoso.
+> **Série: Fundamentos de Engenharia de Software** | **Parte 9 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+
+**Na nona aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), completamos nossa exploração da Programação Extrema mergulhando em suas práticas concretas. Não se tratava apenas de memorizar técnicas, mas de entender como as práticas XP trabalham juntas para criar um ambiente de desenvolvimento sustentável.
 
 ## De Princípios a Propósito
 
@@ -63,12 +62,23 @@ Fechamos com uma síntese: como as práticas do XP se reforçam. Se o planejamen
 A turma entendeu que XP não é difícil de explicar — é difícil de manter. E que o segredo está na cultura, no compromisso e na coragem técnica.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/yW6YbSqsVxDrw0?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/un-p-aula-13/3687352" title="UnP Eng. Software - Aula 13" target="_blank">UnP Eng. Software - Aula 13</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
 
 ---
 
-_Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que princípios sem prática viram slogans, e práticas sem princípios viram rituais vazios. O XP só funciona quando ambos caminham juntos._
+_Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que princípios sem práticas são apenas slogans — e práticas sem princípios são apenas rituais. XP funciona quando ambos vivem juntos._
+
+O valor do XP não está em adotar todas as práticas cegamente, mas em entender os **princípios por trás delas** e **adaptá-las com cuidado** ao seu contexto, equipe e objetivos.
+
+É assim que construímos software que funciona — e equipes que prosperam.
+
+---
+
+### **Navegação da Série**
+
+- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
+- **Anterior**: [Parte 8 - XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)
+- **Atual**: Parte 9 - XP Princípios & Práticas
+- **Próxima**: [Parte 10 - XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
