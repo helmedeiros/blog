@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 2 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 2 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Hoje foi a segunda aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), e focamos em um tema fundamental: **processo, modelos e propósito**. Desde o início, quis enquadrar a ideia de que o caos no desenvolvimento de software não é destino — é uma realidade que pode ser gerenciada com a mentalidade certa, colaboração e práticas bem pensadas.
 
@@ -77,8 +77,7 @@ _Publicado como registro de uma aula onde a complexidade não venceu. Seguimos a
 
 ### **Navegação da Série**
 
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Anterior**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Atual**: Parte 2 - Domando a Complexidade
 - **Próxima**: [Parte 3 - Modelo Cascata](../2010-03-10-waterfall-model/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | Domando a Complexidade | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

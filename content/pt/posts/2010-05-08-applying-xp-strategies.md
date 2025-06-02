@@ -23,9 +23,9 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 10 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 10 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
-**Na décima e última aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), focamos na aplicação concreta do **Extreme Programming (XP)**. Saímos da teoria e entramos no cotidiano das equipes: gestão, ambiente, planejamento, desenvolvimento, projeto e testes. Foi uma jornada densa, onde XP deixou de ser um conjunto de práticas e passou a ser uma estratégia de sobrevivência em projetos reais.
+**Na décima aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), focamos na aplicação concreta do **Extreme Programming (XP)**. Saímos da teoria e entramos no cotidiano das equipes: gestão, ambiente, planejamento, desenvolvimento, projeto e testes. Foi uma jornada densa, onde XP deixou de ser um conjunto de práticas e passou a ser uma estratégia de sobrevivência em projetos reais.
 
 ## Gerenciando com Princípios, Não com Papéis
 
@@ -61,32 +61,11 @@ Facilitadores podem aplicar esse exercício em squads ou times ágeis para alinh
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que aplicar XP não é seguir checklists — é cultivar ambientes, rituais e relações que sustentam entrega com responsabilidade._
 
-## Conclusão da Série
-
-Esta é a conclusão da nossa série **Fundamentos de Engenharia de Software**, ministrada na Universidade Potiguar (UnP) em 2010. Ao longo destas dez aulas, exploramos a evolução desde abordagens tradicionais centradas em processos até metodologias ágeis modernas.
-
-**Ao longo desta série, exploramos**:
-
-1. **[Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)**: Construindo com propósito além do código
-2. **[Domando a Complexidade](../2010-03-02-complexity-process/)**: Quando o processo ajuda e quando atrapalha
-3. **[Modelo Cascata](../2010-03-10-waterfall-model/)**: Quando seguir a receita falha
-4. **[Modelos Evolucionários](../2010-03-18-evolutionary-models/)**: Aprendendo a adaptar e evoluir
-5. **[Mentalidade Ágil](../2010-03-26-agile-mindset/)**: Menos estresse, mais entrega
-6. **[Scrum Produtividade](../2010-04-03-scrum-productivity/)**: Encontrando o ritmo da equipe
-7. **[Ciclo Scrum](../2010-04-11-scrum-cycle/)**: Do planejamento ao software funcionando
-8. **[XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)**: Qualidade através da coragem
-9. **[XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)**: Excelência sustentável
-10. **XP na Prática**: Estratégias reais para equipes reais (Final)
-
-Cada aula construiu sobre conceitos anteriores enquanto introduzia frameworks práticos que permanecem relevantes hoje. **Engenharia de software** é mais do que seguir metodologias—é sobre desenvolver discernimento, promover colaboração e manter foco em entregar valor real.
-
-Desde entender por que a engenharia de software importa até implementar práticas concretas de XP em equipes reais, esta jornada demonstra que grande software vem de grandes equipes, apoiadas por processos bem pensados e sustentadas por aprendizado contínuo.
-
 ---
 
 ### **Navegação da Série**
 
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Anterior**: [Parte 9 - XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)
-- **Atual**: Parte 10 - XP na Prática (Final)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)
+- **Atual**: Parte 10 - XP na Prática
+- **Próxima**: [Parte 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | XP na Prática | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

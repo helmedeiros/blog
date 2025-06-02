@@ -22,7 +22,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 5 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 5 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na quinta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos um dos tópicos mais transformadores no desenvolvimento moderno: abordagens ágeis. Fundamentado no Manifesto Ágil, focamos não apenas em práticas, mas em mentalidades que mudam como as equipes pensam, se organizam e entregam valor.
 
@@ -78,4 +78,4 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 - **Anterior**: [Parte 4 - Modelos Evolucionários](../2010-03-18-evolutionary-models/)
 - **Atual**: Parte 5 - Mentalidade Ágil
 - **Próxima**: [Parte 6 - Scrum Produtividade](../2010-04-03-scrum-productivity/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

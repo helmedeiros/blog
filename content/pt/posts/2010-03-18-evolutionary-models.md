@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na quarta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos modelos evolucionários e incrementais, focando em adaptação, exploração e reúso de software. O objetivo não era memorizar frameworks, mas entender como responder à mudança de forma inteligente.
 
@@ -78,4 +78,4 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 - **Anterior**: [Parte 3 - Modelo Cascata](../2010-03-10-waterfall-model/)
 - **Atual**: Parte 4 - Modelos Evolucionários
 - **Próxima**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | Modelos Evolucionários | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

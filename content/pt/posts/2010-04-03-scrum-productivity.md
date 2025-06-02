@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 10** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Esta sexta aula** na Universidade Potiguar (UnP) marcou uma transição importante dos princípios ágeis gerais para um framework concreto e amplamente adotado: Scrum. O objetivo foi passar de valores abstratos para práticas específicas que promovem previsibilidade, responsabilidade e entrega orientada pela equipe.
 
@@ -85,4 +85,4 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 - **Anterior**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
 - **Atual**: Parte 6 - Scrum Produtividade
 - **Próxima**: [Parte 7 - Ciclo Scrum](../2010-04-11-scrum-cycle/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | Scrum Produtividade | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

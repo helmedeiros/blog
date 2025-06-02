@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 9 of 10** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 9 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In this ninth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we completed our exploration of Extreme Programming by diving into its concrete practices. This wasn't just about memorizing techniques, but understanding how XP practices work together to create a sustainable development environment.
 
@@ -67,7 +67,7 @@ Students left understanding that XP is not hard to explain, but it's hard to sti
 
 ---
 
-_Posted as part of the Software Engineering teaching journal. Today we learned that principles without practices are just slogans—and practices without principles are just rituals. XP works when both live together._
+_Posted as part of the Software Engineering course journal. Today we learned that XP principles aren't just development guidelines — they're a blueprint for building software teams that can sustain excellence over time._
 
 The value of XP isn't in adopting all practices blindly, but in understanding the **principles behind them** and **adapting them thoughtfully** to your context, team, and goals.
 
@@ -77,8 +77,7 @@ That's how we build software that works—and teams that thrive.
 
 ### **Series Navigation**
 
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 8 - XP Quality & Courage](../2010-04-19-xp-quality-courage/)
 - **Current**: Part 9 - XP Principles & Practices
 - **Next**: [Part 10 - XP in Practice](../2010-05-08-applying-xp-strategies/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | XP Principles & Practices | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)
