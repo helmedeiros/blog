@@ -4,6 +4,8 @@ author: helio
 layout: post
 date: 2010-04-19T03:18:19+00:00
 description: "Reflections on the ninth Software Engineering lecture, exploring Extreme Programming (XP) as an approach that combines agility with technical excellence and courage."
+aliases:
+  - /posts/2010-04-19-melhorando-a-flacidez-xp-aula-12/
 idptt_tweeted:
   - 1
 categories:

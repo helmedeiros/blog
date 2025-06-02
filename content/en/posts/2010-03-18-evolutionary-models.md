@@ -4,6 +4,8 @@ author: helio
 layout: post
 date: 2010-03-18T02:42:59+00:00
 description: "Reflections on the fourth Software Engineering lecture, exploring evolutionary models, CBSE, software reuse, and iterative development."
+aliases:
+  - /posts/2010-03-18-quarta-aula-modelos-evolucionarios/
 idptt_tweeted:
   - 1
 categories:

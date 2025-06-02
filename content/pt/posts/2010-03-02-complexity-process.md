@@ -4,6 +4,8 @@ author: helio
 layout: post
 date: 2010-03-03T01:21:54+00:00
 description: "Reflexões sobre a segunda aula de Engenharia de Software, focando em processo, modelos e propósito no desenvolvimento de software."
+aliases:
+  - /posts/2010-03-02-segunda-aula-projeto-processo/
 idptt_tweeted:
   - 1
 categories:

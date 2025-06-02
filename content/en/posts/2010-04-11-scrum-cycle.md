@@ -4,6 +4,8 @@ author: helio
 layout: post
 date: 2010-04-11T03:18:19+00:00
 description: "Reflections on the seventh Software Engineering lecture, exploring the complete Scrum lifecycle, its events, artifacts, and practices for real productivity."
+aliases:
+  - /posts/2010-04-11-setima-aula-scrum-processo/
 idptt_tweeted:
   - 1
 categories:
