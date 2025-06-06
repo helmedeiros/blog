@@ -21,9 +21,9 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 11 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 11 of 12** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
-**In the eleventh and final lecture** of the Software Engineering course at Universidade Potiguar (UnP), we marked a shift in tone: we weren't just modeling anymore—we were confronting the complexity of real systems head-on. It was time to give code a backbone, a shared language, and a strategy for evolution. That's where **Domain-Driven Design (DDD)** enters the room.
+**In the eleventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we marked a shift in tone: we weren't just modeling anymore—we were confronting the complexity of real systems head-on. It was time to give code a backbone, a shared language, and a strategy for evolution. That's where **Domain-Driven Design (DDD)** enters the room.
 
 ## Modeling Isn't Drawing. It's Deciding.
 
@@ -75,31 +75,12 @@ _Posted as part of the Software Engineering course journal. Today we learned tha
 
 ## Series Conclusion
 
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these eleven lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies, culminating in sophisticated design approaches like Domain-Driven Design.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **[XP in Practice](../2010-05-08-applying-xp-strategies/)**: Real strategies for real teams
-11. **Domain-Driven Design**: Building software that speaks business (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, maintaining focus on delivering real value, and ultimately creating software that truly serves its intended purpose.
-
-From understanding why software engineering matters to implementing sophisticated design approaches like Domain-Driven Design, this journey demonstrates that great software comes from great teams, supported by thoughtful processes, sustained by continuous learning, and guided by a deep understanding of the domain they're building for.
-
 ---
 
 ### **Series Navigation**
 
 - **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 10 - XP in Practice](../2010-05-08-applying-xp-strategies/)
-- **Current**: Part 11 - Domain-Driven Design (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/)
+- **Current**: Part 11 - Domain-Driven Design
+- **Next**: [Part 12 - Requirements & Testing](../2010-05-22-requirements-validation-tests/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/)

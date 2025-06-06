@@ -21,9 +21,9 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 11 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 11 de 12** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
-**Na décima primeira e última aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), marcamos uma mudança de tom: não estávamos mais apenas modelando — estávamos enfrentando a complexidade dos sistemas reais de frente. Era hora de dar ao código uma espinha dorsal, uma linguagem comum e uma estratégia para evolução. É aí que o **Domain-Driven Design (DDD)** entra em cena.
+**Na décima primeira aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), marcamos uma mudança de tom: não estávamos mais apenas modelando — estávamos enfrentando a complexidade dos sistemas reais de frente. Era hora de dar ao código uma espinha dorsal, uma linguagem comum e uma estratégia para evolução. É aí que o **Domain-Driven Design (DDD)** entra em cena.
 
 ## Modelar não é desenhar. É decidir.
 
@@ -75,31 +75,12 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 
 ## Conclusão da Série
 
-Esta é a conclusão da nossa série **Fundamentos de Engenharia de Software**, ministrada na Universidade Potiguar (UnP) em 2010. Ao longo destas onze aulas, exploramos a evolução desde abordagens tradicionais centradas em processos até metodologias ágeis modernas, culminando em abordagens sofisticadas de design como Domain-Driven Design.
-
-**Ao longo desta série, exploramos**:
-
-1. **[Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)**: Construindo com propósito além do código
-2. **[Domando a Complexidade](../2010-03-02-complexity-process/)**: Quando o processo ajuda e quando atrapalha
-3. **[Modelo Cascata](../2010-03-10-waterfall-model/)**: Quando seguir a receita falha
-4. **[Modelos Evolucionários](../2010-03-18-evolutionary-models/)**: Aprendendo a adaptar e evoluir
-5. **[Mentalidade Ágil](../2010-03-26-agile-mindset/)**: Menos estresse, mais entrega
-6. **[Scrum Produtividade](../2010-04-03-scrum-productivity/)**: Encontrando o ritmo da equipe
-7. **[Ciclo Scrum](../2010-04-11-scrum-cycle/)**: Do planejamento ao software funcionando
-8. **[XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)**: Qualidade através da coragem
-9. **[XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)**: Excelência sustentável
-10. **[XP na Prática](../2010-05-08-applying-xp-strategies/)**: Estratégias reais para equipes reais
-11. **Domain-Driven Design**: Construindo software que fala negócio (Final)
-
-Cada aula construiu sobre conceitos anteriores enquanto introduzia frameworks práticos que permanecem relevantes hoje. **Engenharia de software** é mais do que seguir metodologias—é sobre desenvolver discernimento, promover colaboração, manter foco em entregar valor real, e finalmente criar software que realmente serve ao seu propósito.
-
-Desde entender por que a engenharia de software importa até implementar abordagens sofisticadas de design como Domain-Driven Design, esta jornada demonstra que grande software vem de grandes equipes, apoiadas por processos bem pensados, sustentadas por aprendizado contínuo, e guiadas por um entendimento profundo do domínio para o qual estão construindo.
-
 ---
 
 ### **Navegação da Série**
 
 - **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Anterior**: [Parte 10 - XP na Prática](../2010-05-08-applying-xp-strategies/)
-- **Atual**: Parte 11 - Domain-Driven Design (Final)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/)
+- **Atual**: Parte 11 - Domain-Driven Design
+- **Próxima**: [Parte 12 - Requisitos & Testes](../2010-05-22-requirements-validation-tests/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/)
