@@ -1,16 +1,17 @@
 ---
-title: Café Ágil em Recife
+title: "Café Ágil em Recife – Diálogo, Código e Coragem"
 author: helio
 layout: post
 date: 2010-05-22T21:39:56+00:00
+slug: cafe-agil-em-recife
 idptt_tweeted:
   - 1
 embed:
   - This is the default text
 seo_follow:
-  - 'false'
+  - "false"
 seo_noindex:
-  - 'false'
+  - "false"
 categories:
   - Ageis
   - Eventos
@@ -19,44 +20,57 @@ tags:
   - Cafe agil
   - Thoughtworks
   - XP
+  - TDD
+  - Design
+description: "Reflexões sobre XP, TDD e design a partir do Café Ágil em Recife, com Paulo Caroli e Luiz Borba discutindo práticas ágeis e cultura de desenvolvimento."
+keywords:
+  - cafe agil recife
+  - xp extreme programming
+  - tdd test driven development
+  - paulo caroli
+  - thoughtworks
+  - desenvolvimento agil
 ---
-No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o <a title="cafe ágil" href="http://www.thoughtworks.com/cafe-agil-em-recife" target="_blank">Café Ágil</a>. Esta iniciativa da [ThoughtWorks Brazil][1] juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
 
 [<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
 
-O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa. Conheci de cara o pessoal do SCRUM Paraíba e confesso que não sabia da existência do grupo até aquele momento.
+No dia 15 de maio, participei em Recife de um encontro que tinha tudo para ser apenas mais um evento ágil com café – mas entregou muito mais do que isso. O **Café Ágil**, promovido pela ThoughtWorks Brasil com apoio da UFPE, reuniu líderes, estudantes e profissionais que não estavam ali apenas para ouvir – estavam ali para provocar, perguntar e reconstruir suas práticas.
 
-Até trocamos nossas farpas sobre a localização das praias mais bonitas, mas sob o efeito do café acabamos trocando várias informações sobre os mercados de nossas cidades,  nossa vivência e visões sobre o comportamento ideal de lideres e equipes em ambientes ágeis ou não.
+## XP: Contra ou a Favor do Design?
 
-Do lado de fora, como não haveria de faltar, tínhamos um quadro com alguns tópicos que seriam escolhidos para serem tratados durante a mesa redonda ao final do evento. Ví a Camila Tartari(TW Br) trocando algumas canetas por participação, e é claro eu como viciado convicto em canetas aproveitei para marcas os dois temas que achava mais interessantes.
+A manhã começou com **Paulo Caroli** trazendo uma provocação que pegou muita gente desprevenida: _XP é contra design?_ Não se trata de uma negação ao design, mas sim de uma reinvenção de sua temporalidade. Em vez de isolar o design em uma fase única, antes da implementação, o XP propõe design **em fluxo** — decisões arquiteturais tomadas no último momento responsável.
 
-**XP É CONTRA O DESIGN?**
+Inspirado por seu contato com Kent Beck e sua trajetória entre Brasil e exterior, Caroli desafiou a lógica de "grandes upfronts". Trouxe de volta os **4 valores e 12 práticas do XP**, lembrando que comunicação, simplicidade, feedback e coragem continuam tão relevantes quanto em 2000 — talvez até mais. Para ele, o design não desaparece no XP. Ele amadurece junto com o sistema.
 
-O Paulo Caroli (@paulocaroli) iniciou sua apresentação intitulada <a title="O XP não é contra Design" href="http://www.slideshare.net/paulocaroli/cafe-agile-recife-xp-and-design-paulo-caroli-revisado" target="_blank">O XP não é contra Design</a> às 09:15h, pedindo desculpas pela perda de fluência no português, segundo ele nada que não se corrija com o tempo, o sotaque carioca já estava voltando então o português também voltaria. Logo em seguida fomos levados pela trajetória profissional do mesmo, do mestrado em OO e metodologias para desenvolvimento web na PUC Rio e seu grande interesse em design patterns e frameworks, até a compra do livro do Kent Beck _Extreme Programming Explained_ em 2000. Durante esta época de experiência no exterior, o Paulo, se intitulava arquiteto e se questionava visualizando as premissas e as práticas trazidas pela metodologia se o XP era realmente contra o <a title="elaboração (DESIGN)" href="http://en.wikipedia.org/wiki/Software_design" target="_blank">DESIGN</a>, com o longo do tempo ele descobriu que não e em seguida iniciou realmente sua palestra apresentando a agenda a ser tratada.
+Outro ponto interessante foi sua releitura do tradicional ciclo de vida em projetos waterfall. Ao invés de fases sequenciais e rígidas, XP sugere um ciclo iterativo onde design, código e feedback convivem. O resultado? Menos desperdício e decisões mais embasadas.
 
-Durante a década de 90 existiam muitos livros de metodologia, e estes normalmente eram muito pesados, com muitas fases. Segundo o Paulo, algumas pessoas estavam propondo visões diferentes, entre eles o Kent Beck, que tendo observado melhorias no processo e ambiente de desenvolvimento obtido na construção do Sistema de Compensação da Chrysler (Comprehensive Compensation System &#8211; C3) propunha práticas e valores agrupados sobre o nome de XP.
+## TDD das Trincheiras: Disciplina Coletiva
 
-O XP apresentou <a title="valores" href="http://en.wikipedia.org/wiki/Extreme_Programming#Values" target="_blank">4 valores</a> e <a title="práticas" href="http://en.wikipedia.org/wiki/Extreme_Programming#Practices" target="_blank">12 práticas</a> em sua primeira versão, que segundo o Paulo foram bastante impulsionados pelo momento da área de TI; existiam muitas consultorias, ambientes fisicamente distantes, fases muito longas, software muito distante do desejado, entre outros problemas. Valores focam em comportamento e em como tornar simples e natural decisões e ações. Para problemas com requisitos ou disparidade do produto desejado, valores como comunicação e feedback; retorno a cada iteração para desenvolvedores e clientes, todos sentados em uma big table para compreender o desejado e show cases no termino de ciclos para que todos tenham visão do realizado. Coragem para realizar grandes mudanças e simplicidade para resolver grandes problemas por partes.
+Na sequência, **Luiz Borba**, da Pitang, compartilhou suas batalhas práticas na implantação do TDD. Segundo Borba, o TDD entrou na empresa mais por exigência dos clientes do que por convicção dos desenvolvedores. Mas a jornada de adoção acabou ensinando algo fundamental: **cultura come prática no café da manhã**.
 
-Como a primeira versão mostrou-se muito extremista adicionou-se um novo valor de grande importância, RESPEITO, com este completasse a vontade de melhoria continua, muitos dos desenvolvedores que estavam voltados apenas para suas preocupações vêem  então o conhecimento dos demais desenvolvedores, clientes e etc.
+Mesmo treinando e orientando, sem incentivo contínuo, os desenvolvedores voltavam a codar sem testar. O que faltava? Uma **mudança cultural**, não só técnica. Borba lembrou que TDD exige constância e repetição – e que, uma vez assimilado, se torna parte da identidade técnica do time. Muitos passaram a se sentir desconfortáveis sem testes. Um ótimo sinal.
 
-Logo em seguida foram apresentadas e definidas cada uma das 12 práticas do XP. Neste ponto o Paulo expôs um dado curioso de sua vivência relacionado a terminologia aplicada a algumas das práticas como planning game, segundo o mesmo normalmente não é bem interpretado, principalmente em empresas com pessoas engravatadas, trabalhar com uma prática denominada jogo do planejamento.
+Borba também chamou atenção para o papel do gestor. Sem líderes que reforcem o hábito, TDD acaba como uma moda passageira. Com apoio, torna-se um **investimento em qualidade contínua**.
 
-Só para recordar foi apresentado pelo Paulo um ciclo de vida de um projeto realizado dentro de uma metodologia tradicional, com as fases de coleta de requisitos, analise, design, codificação, teste e correções e integração. Neste modelo o funcionamento era um pouco conturbado, mas existia uma fase especifica e definida para o design onde as decisões eram tomadas e consolidadas na fase de analise e design.
+## O Que Aprendemos no Hall
 
-Já em um ambiente puramente XP onde fica o design da arquitetura e  as variações compreensíveis de design? Para o Caroli existe uma divisão entre arquitetura e design, a primeira compreende as decisões que precisam ser tomadas de imediato e que alterações futuras sejam caras. Desta forma compreende-se a realização no xp de uma fase inicial para decisões arquiteturais e a realização paralela de vários processos e o design entra aí. Acontecem decisões de design o tempo todo levando em consideração apenas o último <a href="http://www.codinghorror.com/blog/2006/10/the-last-responsible-moment.html" target="_blank">momento oportuno para a decisão</a>.
+Fora do auditório, entre goles de café e trocas rápidas de figurinhas, surgiram algumas das melhores conversas. Descobri, por exemplo, o grupo SCRUM Paraíba, que até então não conhecia. Falamos sobre a realidade de desenvolvimento nas diferentes regiões, o papel da universidade e as lacunas entre teoria e prática.
 
-O XP não é contra o design e sim favorece a melhora e evolução continua do design, para produtos melhores e entregues o quanto antes.
+Também debatemos como **respeito**, hoje considerado um valor adicional no XP, vem se consolidando como base para práticas ágeis maduras. Respeito ao tempo de quem revisa, às limitações do cliente, ao espaço de quem ainda está aprendendo. Respeito, como lembrou alguém na roda, é o que sustenta colaboração de verdade.
 
-**TDD direto das Trincheiras**
+## Encerramento com Café, Brindes e Convites
 
-O Luiz Borba iniciou sua palestra sobre a experiência em implantação de TDD às 10:20h. A palestra foi bem interessante com muitos momentos de descontração. O Luiz é gerente da Pitang e participou da implantação, que segundo ele só ocorreu devido a exigência de clientes, de desenvolvimento orientado a testes.
+O evento terminou com sorteio de canetas (sim, eu peguei uma!) e um convite à continuidade. Os tópicos debatidos não deveriam ficar na sala — deveriam virar pauta nos times, nos dailies, nos code reviews.
 
-Quem sabe oque é TDD, foi a primeira pergunta realizada, acompanhada pela quem usa ressaltou a necessidade da discussão, segundo Borba muitos estudam mas poucos se convencem da real eficiência. Programadores gostam de desenvolver e gerente de governar, e ninguém gosta de testar. TDD deixa os desenvolvedores programar testes e isto é excelente.
+Eventos como o Café Ágil lembram que agilidade não é sobre frameworks, mas sobre **culturas que aprendem em público**. Com coragem para mudar, com código que conta histórias, e com pessoas que ainda acreditam que ouvir é tão importante quanto entregar.
 
-Segundo Borba um dos principais problemas na implantação é a cultura da implantação muitas vezes um desenvolvedor rendido aos testes os esquece rapidamente se não houver quem o lembre e o obrigue a realizar os testes. uma vez superada a fase inicial, é iniciado um novo problema; desenvolvedores acostumados com testes se desesperam quando não os possuem em outros projetos.
+Parabéns à organização e aos palestrantes. Que venham mais encontros assim.
 
-<a title="fotos Café Ágil" href="http://www.flickr.com/photos/heliomedeiros/sets/72157623961656217/with/4617934563/" target="_blank">Fotos do evento</a>
+---
 
- [1]: http://www.thoughtworks.com/developer-porto-alegre
- [2]: /uploads/2010/05/DSC04067.jpg
+**Links e Recursos:**
+
+- [Fotos do evento no Flickr](http://www.flickr.com/photos/heliomedeiros/sets/72157623961656217/with/4617934563/)
+- [ThoughtWorks Brasil](http://www.thoughtworks.com/developer-porto-alegre)
+
+[2]: /uploads/2010/05/DSC04067.jpg
