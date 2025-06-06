@@ -2,7 +2,7 @@
 title: "Test-Driven Development: Building the Right Thing the Right Way"
 author: helio
 date: 2010-06-05T14:30:22+00:00
-description: "Reflections on the fourteenth and final Software Engineering lecture, exploring Test-Driven Development as a design methodology that goes beyond testing to shape how we think about building software."
+description: "Reflections on the fourteenth Software Engineering lecture, exploring Test-Driven Development as a design methodology that goes beyond testing to shape how we think about building software."
 categories:
   - Testing
   - Development Methodology
@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 14 of 14** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 14 of 15** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this session, we explored **Test-Driven Development (TDD)** beyond the usual catchphrases. We focused on its impact on software quality, code evolution, and how testing is not a phase—but a development mindset. This was not a class to teach syntax; it was about how to think like a developer who questions assumptions and encodes confidence.
 
@@ -127,36 +127,12 @@ TDD helps developers stay grounded: no big jumps, no wasted code. It's a loop of
 
 _Posted as part of the Software Engineering course journal. Today we learned that TDD isn't just about testing—it's about designing with confidence and building systems that evolve through deliberate, validated steps._
 
-## Series Conclusion
-
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these fourteen lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies, culminating in sophisticated approaches that bridge design, requirements, validation, and quality through comprehensive testing practices and test-driven development.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **[XP in Practice](../2010-05-08-applying-xp-strategies/)**: Real strategies for real teams
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Building software that speaks business
-12. **[Requirements & Testing](../2010-05-22-requirements-validation-tests/)**: Clear specs, meaningful validation
-13. **[Software Testing](../2010-05-29-software-testing/)**: Fidelity, quality, and system evolution
-14. **Test-Driven Development**: Building the right thing the right way (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, maintaining focus on delivering real value, and ultimately creating software that truly serves its intended purpose.
-
-From understanding why software engineering matters to implementing test-driven development practices that ensure both quality and proper design, this journey demonstrates that great software comes from great teams, supported by thoughtful processes, sustained by continuous learning, guided by clear requirements, validated through strategic testing practices, and developed through disciplined, test-first approaches that build confidence into every line of code.
-
 ---
 
 ### **Series Navigation**
 
 - **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 13 - Software Testing](../2010-05-29-software-testing/)
-- **Current**: Part 14 - Test-Driven Development (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/) | Test-Driven Development
+- **Next**: [Part 15 - Unit Testing with JUnit](../2010-06-12-junit-unit-testing/)
+- **Current**: Part 14 - Test-Driven Development
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/) | Test-Driven Development | [Unit Testing with JUnit](../2010-06-12-junit-unit-testing/)

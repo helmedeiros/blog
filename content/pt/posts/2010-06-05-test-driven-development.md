@@ -2,7 +2,7 @@
 title: "Desenvolvimento Orientado a Testes: Construindo a Coisa Certa da Forma Certa"
 author: helio
 date: 2010-06-05T14:30:22+00:00
-description: "Reflexões sobre a décima quarta e última aula de Engenharia de Software, explorando o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além dos testes para moldar como pensamos sobre construir software."
+description: "Reflexões sobre a décima quarta aula de Engenharia de Software, explorando o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além dos testes para moldar como pensamos sobre construir software."
 categories:
   - Testes
   - Metodologia de Desenvolvimento
@@ -21,7 +21,7 @@ tags:
   - serie-engenharia-software
 ---
 
-> **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 14** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Nesta aula, exploramos o **Desenvolvimento Orientado a Testes (TDD)** para além das frases prontas. Focamos em seu impacto na qualidade do software, na evolução do código e na mentalidade de que testar não é uma fase, mas sim uma forma de projetar. Não foi uma aula sobre sintaxe, mas sobre **como pensar como alguém que projeta com propósito e validação**.
 
@@ -128,36 +128,12 @@ TDD ajuda desenvolvedores a se manterem focados: sem saltos grandes, sem código
 
 _Postado como parte do diário do curso de Engenharia de Software. Hoje aprendemos que TDD não é apenas sobre testes—é sobre projetar com confiança e construir sistemas que evoluem através de passos deliberados e validados._
 
-## Conclusão da Série
-
-Isso conclui nossa série **Fundamentos da Engenharia de Software**, ministrada na Universidade Potiguar (UnP) em 2010. Ao longo dessas quatorze aulas, exploramos a evolução das abordagens tradicionais pesadas de processo para metodologias ágeis modernas, culminando em abordagens sofisticadas que conectam design, requisitos, validação e qualidade através de práticas abrangentes de teste e desenvolvimento orientado a testes.
-
-**Ao longo desta série, exploramos**:
-
-1. **[Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)**: Construindo com propósito além do código
-2. **[Domando a Complexidade](../2010-03-02-complexity-process/)**: Quando o processo ajuda e quando atrapalha
-3. **[Modelo Cascata](../2010-03-10-waterfall-model/)**: Quando seguir a receita falha
-4. **[Modelos Evolutivos](../2010-03-18-evolutionary-models/)**: Aprendendo a adaptar e evoluir
-5. **[Mentalidade Ágil](../2010-03-26-agile-mindset/)**: Menos estresse, mais entrega
-6. **[Produtividade Scrum](../2010-04-03-scrum-productivity/)**: Encontrando o ritmo da sua equipe
-7. **[Ciclo Scrum](../2010-04-11-scrum-cycle/)**: Do planejamento ao software funcionando
-8. **[XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)**: Qualidade através da coragem
-9. **[XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)**: Excelência sustentável
-10. **[XP na Prática](../2010-05-08-applying-xp-strategies/)**: Estratégias reais para equipes reais
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Construindo software que fala negócio
-12. **[Requisitos & Testes](../2010-05-22-requirements-validation-tests/)**: Especificações claras, validação significativa
-13. **[Testando Software](../2010-05-29-software-testing/)**: Fidelidade, qualidade e evolução do sistema
-14. **Desenvolvimento Orientado a Testes**: Construindo a coisa certa da forma certa (Final)
-
-Cada aula construiu sobre conceitos anteriores enquanto introduzia frameworks práticos que permanecem relevantes hoje. **Engenharia de software** é sobre mais do que seguir metodologias—é sobre desenvolver julgamento, fomentar colaboração, manter o foco na entrega de valor real e, em última análise, criar software que verdadeiramente serve ao seu propósito pretendido.
-
-Desde entender por que a engenharia de software importa até implementar práticas de desenvolvimento orientado a testes que garantem tanto qualidade quanto design adequado, esta jornada demonstra que um ótimo software vem de ótimas equipes, suportadas por processos cuidadosos, sustentadas por aprendizado contínuo, guiadas por requisitos claros, validadas através de práticas estratégicas de teste e desenvolvidas através de abordagens disciplinadas e test-first que constroem confiança em cada linha de código.
-
 ---
 
 ### **Navegação da Série**
 
 - **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Anterior**: [Parte 13 - Testando Software](../2010-05-29-software-testing/)
-- **Atual**: Parte 14 - Desenvolvimento Orientado a Testes (Final)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolutivos](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Produtividade Scrum](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testando Software](../2010-05-29-software-testing/) | Desenvolvimento Orientado a Testes
+- **Próxima**: [Parte 15 - Testes Unitários com JUnit](../2010-06-12-junit-unit-testing/)
+- **Atual**: Parte 14 - Desenvolvimento Orientado a Testes
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolutivos](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Produtividade Scrum](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testando Software](../2010-05-29-software-testing/) | Desenvolvimento Orientado a Testes | [Testes Unitários com JUnit](../2010-06-12-junit-unit-testing/)
