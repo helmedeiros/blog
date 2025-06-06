@@ -18,11 +18,7 @@ summary: "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissio
 
 **Aulas de Engenharia de Software - Parte 17 de 19**
 
-![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
-
 Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional: **controle de versão**. Mais do que explicar comandos do Git, buscamos mostrar o impacto real na manutenção, colaboração e rastreabilidade de projetos. Controle de versão não é opcional. É engenharia básica. É o que separa o improviso da prática profissional.
-
----
 
 ## O Caos Sem Controle
 
@@ -38,8 +34,6 @@ mv index-novo.html index.html
 ```
 
 Isto é insustentável e altamente propenso a falhas.
-
----
 
 ## Centralizado vs Distribuído
 
@@ -64,8 +58,6 @@ git push origin main
 
 Os alunos perceberam rapidamente a autonomia que o Git oferece: commits offline, branches locais e colaboração entre pares.
 
----
-
 ## Conceitos Fundamentais
 
 Mapeamos as vantagens reais do Git:
@@ -84,8 +76,6 @@ echo "teste" | git hash-object --stdin
 
 Cada hash de 40 dígitos representa uma versão imutável e segura.
 
----
-
 ## Merge: Sem Pânico
 
 Simulamos um conflito entre branches e resolvemos com:
@@ -96,8 +86,6 @@ git merge funcionalidade-x
 ```
 
 Resolvemos juntos, finalizamos o commit e limpamos o ambiente. Foi a primeira vez que muitos alunos entenderam que conflito de merge **não é erro**, mas sim **sinal de colaboração ativa**.
-
----
 
 ## Atividade Prática
 

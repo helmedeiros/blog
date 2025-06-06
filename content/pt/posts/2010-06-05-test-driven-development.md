@@ -27,8 +27,6 @@ Nesta aula, exploramos o **Desenvolvimento Orientado a Testes (TDD)** para além
 
 TDD não é escrever testes. É desenhar com confiança e clareza.
 
----
-
 ## O Problema Certo, da Forma Certa
 
 Começamos analisando uma armadilha comum em projetos de software: criar soluções sofisticadas para problemas mal definidos. O TDD quebra esse ciclo ao forçar a definição do comportamento esperado antes da lógica. Isso coloca a clareza na frente da complexidade.
@@ -54,8 +52,6 @@ Antes mesmo de codificar `applyDiscount`, os alunos precisavam decidir:
 - Quem tem direito a ele?
 - Qual o estado final correto?
 
----
-
 ## Vermelho-Verde-Refatore
 
 Estudamos o ciclo central do TDD: **Vermelho-Verde-Refatore**. Os alunos praticaram cada passo com clareza:
@@ -80,8 +76,6 @@ class User:
 
 A refatoração veio depois: extração de validação, adição de restrições, remoção de duplicações.
 
----
-
 ## Atividades Práticas e Ciclos Reais
 
 Introduzi uma kata de sala de aula: um sistema de precificação para tipos de ingressos (estudante, normal, idoso). Cada aluno escrevia um teste, fazia-o passar e refatorava—e passava para o próximo membro do grupo.
@@ -100,8 +94,6 @@ end
 ```
 
 Mesmo exemplos simples ensinam como esclarecer o comportamento por meio de testes, e não por adivinhação de requisitos futuros.
-
----
 
 ## Acceptance TDD: Construindo a Coisa Certa
 

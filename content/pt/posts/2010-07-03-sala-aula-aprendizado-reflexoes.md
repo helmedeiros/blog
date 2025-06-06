@@ -19,17 +19,11 @@ keywords:
 draft: false
 ---
 
-![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
-
 Termino mais um semestre como professor na Universidade Potiguar (UnP) com o coração cheio e a cabeça fervendo. Ensinar uma disciplina por meses é uma experiência completamente diferente de facilitar workshops ou palestrar em conferências. Lá, tudo é intensivo, direto ao ponto. Aqui, há continuidade, rotina, dúvidas recorrentes, ausências, reencontros e aprendizados de longo prazo — tanto para os alunos quanto para mim.
-
----
 
 ## O Desafio da Constância
 
 A primeira lição que levo é sobre constância. Manter a motivação por várias semanas seguidas é difícil — mais ainda quando se nota que a turma também está tentando equilibrar uma rotina puxada. Em algumas semanas, metade da classe aparece com cara de quem foi atropelado por uma prova de Cálculo. "Professor, posso faltar hoje? Preciso revisar derivadas de última hora." E eu entendo. Já fui esse aluno.
-
----
 
 ## Ensinar Também É um Ato de Vulnerabilidade
 
@@ -37,21 +31,15 @@ Ao longo das aulas, percebo que ensinar exige um equilíbrio entre conhecimento 
 
 Aliás, cada turma é diferente. Uma pergunta simples pode virar um debate de 15 minutos sobre clean code. E um exemplo trivial pode ser exatamente o que destrava um conceito para alguém.
 
----
-
 ## A Engenharia de Software Ainda Precisa de Advocacia
 
 Ser professor de Engenharia de Software é, por vezes, atuar como advogado da profissão. Muitos ainda enxergam engenharia de software como "mexer com computador", e subestimam o peso de habilidades que não envolvem código — escuta ativa, negociação, comunicação, ética.
 
 Tento reforçar nas aulas: escrever código é apenas uma parte. Saber para **quem** e **por que** estamos escrevendo é o que transforma um bom engenheiro em alguém indispensável.
 
----
-
 ## Gratidão à UnP e ao Convite para Continuar
 
 Fico muito feliz em poder continuar mais um semestre como professor na UnP. Agradeço ao Gedson Nunes pela confiança renovada e pela oportunidade de continuar aprendendo com cada turma que passa. O ambiente acadêmico me desafia, me tira da zona de conforto e me faz evoluir.
-
----
 
 ## Considerações Finais
 

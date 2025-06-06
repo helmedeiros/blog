@@ -19,11 +19,7 @@ keywords:
 draft: false
 ---
 
-![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
-
 Com o coração apertado, mas cheio de gratidão, compartilho que este será meu último semestre lecionando na Universidade Potiguar (UnP). Uma decisão difícil, tomada com carinho, reflexão e empolgação pelo que vem pela frente.
-
----
 
 ## Porto Alegre me chamou
 
@@ -31,15 +27,11 @@ Desde que comecei minha carreira como desenvolvedor, sempre fui movido por desaf
 
 Visitar a cidade e conhecer de perto empresas que atuam em problemas globais, com equipes diversas e alto nível de maturidade técnica, acendeu uma curiosidade que não consegui mais ignorar. Era hora de sair da zona de conforto e mergulhar em algo novo.
 
----
-
 ## Um até logo cheio de reconhecimento
 
 Foram muitos semestres aprendendo com os alunos, trocando com colegas e tentando transformar a sala de aula em um espaço prático, crítico e inspirador. Cada turma me ensinou algo diferente — desde paciência até criatividade improvisada.
 
 Agradeço imensamente à UnP por abrir as portas, ao Gedson Nunes pela confiança e por me permitir ser parte deste projeto, e a todos os professores com quem pude compartilhar ideias e colaborações. Aos alunos: meu muito obrigado. Pelas perguntas, pela participação, pelas ausências justificadas por provas de cálculo e, principalmente, pela troca sincera.
-
----
 
 ## A estrada continua
 
@@ -48,8 +40,6 @@ Não deixo o ensino para trás. Levo comigo cada aprendizado para o próximo des
 Quem sabe nos encontramos por aí, em eventos, comunidades ou em alguma outra sala de aula?
 
 Obrigado, de verdade. E até breve.
-
----
 
 ## Conclusão da Série
 
