@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 15 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part Part 15 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this lecture, we built on our previous exploration of TDD by diving deeper into **unit testing**, using JUnit to demonstrate how structured validation turns vague logic into predictable behavior. It was not just about testing—it was about creating feedback loops, improving design, and building safer systems with fewer surprises.
 

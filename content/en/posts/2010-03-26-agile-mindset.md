@@ -22,7 +22,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 5 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part Part 5 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the fifth Software Engineering lecture** at Universidade Potiguar (UnP), we explored one of the most transformative topics in modern development: agile approaches. Grounded in the Agile Manifesto, we focused not just on practices, but on mindsets that change how teams think, organize, and deliver value.
 

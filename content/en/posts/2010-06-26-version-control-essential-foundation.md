@@ -16,7 +16,7 @@ slug: "version-control-essential-foundation"
 summary: "In this lecture, we turned to a topic that every developer ignores at their own risk: version control. But we didn't just walk through Git commands—we explored the reasoning, pitfalls, and project-saving habits that come from disciplined usage. Version control isn't optional; it's foundational."
 ---
 
-**Software Engineering Lectures - Part 17 of 18**
+**Software Engineering Lectures - Part Part 17 of 19**
 
 ![Placeholder for current image](path/to/image-placeholder.jpeg)
 
@@ -113,7 +113,7 @@ This class made clear: version control is a communication tool. Not just with co
 
 ---
 
-_This post is **Part 17 of 18** in the series "Lectures on Software Engineering"_
+_This post is **Part Part 17 of 19** in the series "Lectures on Software Engineering"_
 
 **Previous:** [Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/) (Part 16)
 **Next:** [The Classroom as a Learning Ground: Reflections from a Semester](/en/posts/2010-07-03-classroom-learning-reflections/) (Part 18)

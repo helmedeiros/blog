@@ -17,7 +17,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 1 de 18** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 1 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Hoje ministrei a primeira aula de Engenharia de Software** na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde que fui [convidado para preparar e liderar este curso](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho refletindo sobre como estruturar conteúdo que seja relevante para os estudantes — não apenas baseado no que aprendi durante minha graduação, mas também a partir de projetos reais e experiências na indústria.
 

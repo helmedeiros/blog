@@ -16,7 +16,7 @@ slug: "controle-versao-fundacao-essencial"
 summary: "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional: controle de versão. Mais do que explicar comandos do Git, buscamos mostrar o impacto real na manutenção, colaboração e rastreabilidade de projetos. Controle de versão não é opcional. É engenharia básica."
 ---
 
-**Aulas de Engenharia de Software - Parte 17 de 18**
+**Aulas de Engenharia de Software - Parte 17 de 19**
 
 ![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
 
@@ -109,7 +109,7 @@ Essa aula deixou claro: controle de versão é uma linguagem de comunicação. E
 
 ---
 
-_Este post é a **Parte 17 de 18** na série "Aulas de Engenharia de Software"_
+_Este post é a **Parte 17 de 19** na série "Aulas de Engenharia de Software"_
 
 **Anterior:** [TDD Avançado: Pensando com Testes](/pt/posts/2010-06-19-tdd-avancado-pensando-com-testes/) (Parte 16)
 **Próximo:** [A Sala de Aula Como Aprendizado: Reflexões de Um Semestre](/pt/posts/2010-07-03-sala-aula-aprendizado-reflexoes/) (Parte 18)
