@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 15 of 15** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 15 of 16** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this lecture, we built on our previous exploration of TDD by diving deeper into **unit testing**, using JUnit to demonstrate how structured validation turns vague logic into predictable behavior. It was not just about testing—it was about creating feedback loops, improving design, and building safer systems with fewer surprises.
 
@@ -179,37 +179,12 @@ Any team or facilitator can replicate this lesson in onboarding or skill growth 
 
 _Posted as part of the Software Engineering course journal. Today we learned that unit testing with JUnit isn't just about catching bugs—it's about building systems that communicate their intent clearly and evolve safely._
 
-## Series Conclusion
-
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these fifteen lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies, culminating in sophisticated approaches that bridge design, requirements, validation, and quality through comprehensive testing practices, test-driven development, and structured unit testing frameworks.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **[XP in Practice](../2010-05-08-applying-xp-strategies/)**: Real strategies for real teams
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Building software that speaks business
-12. **[Requirements & Testing](../2010-05-22-requirements-validation-tests/)**: Clear specs, meaningful validation
-13. **[Software Testing](../2010-05-29-software-testing/)**: Fidelity, quality, and system evolution
-14. **[Test-Driven Development](../2010-06-05-test-driven-development/)**: Building the right thing the right way
-15. **Unit Testing with JUnit**: Clarity before complexity (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, maintaining focus on delivering real value, and ultimately creating software that truly serves its intended purpose.
-
-From understanding why software engineering matters to implementing structured unit testing practices that ensure both quality and maintainability, this journey demonstrates that great software comes from great teams, supported by thoughtful processes, sustained by continuous learning, guided by clear requirements, validated through strategic testing practices, developed through disciplined test-first approaches, and maintained through comprehensive unit testing frameworks that provide the foundation for safe evolution and clear communication of intent.
-
 ---
 
 ### **Series Navigation**
 
 - **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 14 - Test-Driven Development](../2010-06-05-test-driven-development/)
-- **Current**: Part 15 - Unit Testing with JUnit (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/) | [Test-Driven Development](../2010-06-05-test-driven-development/) | Unit Testing with JUnit
+- **Next**: [Part 16 - Advanced TDD: Thinking in Tests](../2010-06-19-advanced-tdd-thinking-tests/)
+- **Current**: Part 15 - Unit Testing with JUnit
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/) | [Test-Driven Development](../2010-06-05-test-driven-development/) | [Unit Testing with JUnit](../2010-06-12-junit-unit-testing/) | [Advanced TDD: Thinking in Tests](../2010-06-19-advanced-tdd-thinking-tests/)

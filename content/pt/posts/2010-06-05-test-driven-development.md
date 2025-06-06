@@ -21,7 +21,7 @@ tags:
   - serie-engenharia-software
 ---
 
-> **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Nesta aula, exploramos o **Desenvolvimento Orientado a Testes (TDD)** para além das frases prontas. Focamos em seu impacto na qualidade do software, na evolução do código e na mentalidade de que testar não é uma fase, mas sim uma forma de projetar. Não foi uma aula sobre sintaxe, mas sobre **como pensar como alguém que projeta com propósito e validação**.
 

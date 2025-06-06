@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 3 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 3 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na terceira aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), mergulhamos em abordagens de processo definido — com foco no conhecido modelo cascata. Mas mais do que memorizar estágios e sequências, esta aula foi sobre **contexto, reflexão e adaptabilidade**.
 

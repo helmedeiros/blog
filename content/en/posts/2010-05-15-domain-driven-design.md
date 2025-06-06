@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 11 of 15** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 11 of 16** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the eleventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we marked a shift in tone: we weren't just modeling anymore—we were confronting the complexity of real systems head-on. It was time to give code a backbone, a shared language, and a strategy for evolution. That's where **Domain-Driven Design (DDD)** enters the room.
 

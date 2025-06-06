@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Esta sexta aula** na Universidade Potiguar (UnP) marcou uma transição importante dos princípios ágeis gerais para um framework concreto e amplamente adotado: Scrum. O objetivo foi passar de valores abstratos para práticas específicas que promovem previsibilidade, responsabilidade e entrega orientada pela equipe.
 
