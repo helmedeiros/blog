@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 12 of 17** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 12 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 It was in this class that I decided to bring together two key themes that often seem disconnected in early software training: **requirement engineering** and **software testing**. Many students see them as separate tracks, but in practice, they're two sides of the same mirror. We can't write meaningful tests without clear requirements, and we can't evaluate quality if we don't know what was requested in the first place.
 

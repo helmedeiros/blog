@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 13 of 17** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 13 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this lecture, we dived into **Software Testing**—not as a boring list of types or QA certifications, but as a creative, strategic activity embedded in every stage of real software development. I reminded the class that testing isn't a gatekeeping step, it's part of the design process. Every good engineer should see testing as part of their toolkit, not someone else's responsibility.
 

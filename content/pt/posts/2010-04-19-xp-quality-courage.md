@@ -24,7 +24,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 8 de 17** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 8 de 18** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na oitava aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), exploramos a Programação Extrema (XP) — uma abordagem que desafia a sabedoria convencional sobre qualidade de software, colaboração em equipe e ritmo sustentável de desenvolvimento.
 

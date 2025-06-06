@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 10 de 17** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 10 de 18** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na décima aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), focamos na aplicação concreta do **Extreme Programming (XP)**. Saímos da teoria e entramos no cotidiano das equipes: gestão, ambiente, planejamento, desenvolvimento, projeto e testes. Foi uma jornada densa, onde XP deixou de ser um conjunto de práticas e passou a ser uma estratégia de sobrevivência em projetos reais.
 

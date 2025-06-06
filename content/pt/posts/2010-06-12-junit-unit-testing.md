@@ -21,7 +21,7 @@ tags:
   - serie-engenharia-software
 ---
 
-> **Série: Fundamentos da Engenharia de Software** | **Parte 15 de 17** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos da Engenharia de Software** | **Parte 15 de 18** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Nesta aula, expandimos nosso estudo sobre TDD com foco nos **testes unitários**, utilizando o JUnit para mostrar como a validação estruturada transforma lógica vaga em comportamento previsível. A proposta não era apenas testar, mas construir laços de feedback, melhorar o design e reduzir surpresas durante o desenvolvimento.
 

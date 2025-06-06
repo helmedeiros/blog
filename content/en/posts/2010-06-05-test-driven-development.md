@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 14 of 17** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 14 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this session, we explored **Test-Driven Development (TDD)** beyond the usual catchphrases. We focused on its impact on software quality, code evolution, and how testing is not a phase—but a development mindset. This was not a class to teach syntax; it was about how to think like a developer who questions assumptions and encodes confidence.
 
