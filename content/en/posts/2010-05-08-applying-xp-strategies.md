@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 10 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part Part 10 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the tenth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we focused on the concrete application of **Extreme Programming (XP)**. We moved beyond theory and into the daily rhythm of teams: management, workspace, planning, development, design, and testing. XP stopped being just a set of practices—it became a survival strategy for delivering real-world software.
 

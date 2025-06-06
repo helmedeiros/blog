@@ -63,39 +63,7 @@ See you next semester, with new lessons and more stories to tell.
 
 ---
 
-## Series Conclusion
-
-This concludes our comprehensive 18-part journey through Software Engineering fundamentals. We've covered:
-
-1. **[Why Software Engineering?](/en/posts/2010-02-24-software-engineering-purpose/)** - Understanding the purpose and scope
-2. **[Taming Complexity with Process](/en/posts/2010-03-02-complexity-process/)** - Managing software complexity
-3. **[The Waterfall Model](/en/posts/2010-03-10-waterfall-model/)** - Traditional sequential approach
-4. **[Evolutionary Models](/en/posts/2010-03-18-evolutionary-models/)** - Iterative development approaches
-5. **[The Agile Mindset](/en/posts/2010-03-26-agile-mindset/)** - Embracing change and collaboration
-6. **[Scrum and Productivity](/en/posts/2010-04-03-scrum-productivity/)** - Framework for team productivity
-7. **[The Scrum Cycle](/en/posts/2010-04-11-scrum-cycle/)** - Sprint-based development rhythm
-8. **[XP: Quality and Courage](/en/posts/2010-04-19-xp-quality-courage/)** - Extreme Programming values
-9. **[XP: Principles and Practices](/en/posts/2010-05-01-xp-principles-practices/)** - Core XP methodologies
-10. **[Applying XP in Practice](/en/posts/2010-05-08-applying-xp-strategies/)** - Real-world XP implementation
-11. **[Domain-Driven Design](/en/posts/2010-05-15-domain-driven-design/)** - Modeling complex business domains
-12. **[Requirements and Validation Through Tests](/en/posts/2010-05-22-requirements-validation-tests/)** - Testing as specification
-13. **[Software Testing](/en/posts/2010-05-29-software-testing/)** - Comprehensive testing strategies
-14. **[Test-Driven Development](/en/posts/2010-06-05-test-driven-development/)** - Tests-first approach
-15. **[Unit Testing with JUnit](/en/posts/2010-06-12-junit-unit-testing/)** - Practical unit testing
-16. **[Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/)** - Mature TDD practices
-17. **[Version Control: Essential Foundation](/en/posts/2010-06-26-version-control-essential-foundation/)** - Don't code without it
-18. **The Classroom as a Learning Ground** - Reflections on teaching and learning (Final)
-
-From understanding why we need software engineering processes to reflecting on the human aspects of teaching and learning our craft, this series has explored both the technical and human dimensions of our profession.
-
-The journey through these topics mirrors the evolution of software development itself - from rigid processes to agile adaptation, from individual coding to collaborative engineering, and ultimately to the recognition that great software engineering is fundamentally about people serving people.
-
-Whether you're starting your journey in software engineering or reflecting on years of experience, remember that our field combines technical precision with human creativity, systematic thinking with adaptive learning, and individual craftsmanship with team collaboration.
-
-Keep learning, keep teaching, and keep building software that makes a difference.
-
----
-
-_This post is **Part 18 of 18** in the series "Lectures on Software Engineering"_
+_This post is **Part 18 of 19** in the series "Lectures on Software Engineering"_
 
 **Previous:** [Version Control: Essential Foundation](/en/posts/2010-06-26-version-control-essential-foundation/) (Part 17)
+**Next:** [Closing a Chapter: Gratitude and New Paths](/en/posts/2010-11-01-farewell-unp-new-journey/) (Part 19)

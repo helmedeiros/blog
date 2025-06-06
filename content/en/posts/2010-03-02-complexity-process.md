@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 2 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part Part 2 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **Today was the second lecture** of the Software Engineering course at Universidade Potiguar (UnP), and we focused on a fundamental theme: **process, models, and purpose**. From the start, I wanted to frame the idea that chaos in software development isn't fate — it's a reality that can be managed with the right mindset, collaboration, and thoughtful practices.
 

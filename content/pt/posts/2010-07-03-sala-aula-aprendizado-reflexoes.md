@@ -63,39 +63,7 @@ Nos vemos no próximo semestre, com novos desafios e, com certeza, mais históri
 
 ---
 
-## Conclusão da Série
-
-Isso conclui nossa jornada abrangente de 18 partes pelos fundamentos da Engenharia de Software. Cobrimos:
-
-1. **[Por que Engenharia de Software?](/pt/posts/2010-02-24-software-engineering-purpose/)** - Entendendo o propósito e escopo
-2. **[Domando a Complexidade com Processo](/pt/posts/2010-03-02-complexity-process/)** - Gerenciando complexidade de software
-3. **[O Modelo Cascata](/pt/posts/2010-03-10-waterfall-model/)** - Abordagem sequencial tradicional
-4. **[Modelos Evolutivos](/pt/posts/2010-03-18-evolutionary-models/)** - Abordagens de desenvolvimento iterativo
-5. **[A Mentalidade Ágil](/pt/posts/2010-03-26-agile-mindset/)** - Abraçando mudança e colaboração
-6. **[Scrum e Produtividade](/pt/posts/2010-04-03-scrum-productivity/)** - Framework para produtividade em equipe
-7. **[O Ciclo Scrum](/pt/posts/2010-04-11-scrum-cycle/)** - Ritmo de desenvolvimento baseado em sprints
-8. **[XP: Qualidade e Coragem](/pt/posts/2010-04-19-xp-quality-courage/)** - Valores da Programação Extrema
-9. **[XP: Princípios e Práticas](/pt/posts/2010-05-01-xp-principles-practices/)** - Metodologias centrais do XP
-10. **[Aplicando XP na Prática](/pt/posts/2010-05-08-applying-xp-strategies/)** - Implementação do XP no mundo real
-11. **[Domain-Driven Design](/pt/posts/2010-05-15-domain-driven-design/)** - Modelando domínios de negócio complexos
-12. **[Requisitos e Validação Através de Testes](/pt/posts/2010-05-22-requirements-validation-tests/)** - Testes como especificação
-13. **[Teste de Software](/pt/posts/2010-05-29-software-testing/)** - Estratégias abrangentes de teste
-14. **[Test-Driven Development](/pt/posts/2010-06-05-test-driven-development/)** - Abordagem tests-first
-15. **[Teste Unitário com JUnit](/pt/posts/2010-06-12-junit-unit-testing/)** - Teste unitário prático
-16. **[TDD Avançado: Pensando com Testes](/pt/posts/2010-06-19-tdd-avancado-pensando-com-testes/)** - Práticas maduras de TDD
-17. **[Controle de Versão: Fundação Essencial](/pt/posts/2010-06-26-controle-versao-fundacao-essencial/)** - Não programe sem ele
-18. **A Sala de Aula Como Aprendizado** - Reflexões sobre ensinar e aprender (Final)
-
-Desde entender por que precisamos de processos de engenharia de software até refletir sobre os aspectos humanos de ensinar e aprender nosso ofício, esta série explorou tanto as dimensões técnicas quanto humanas da nossa profissão.
-
-A jornada através desses tópicos espelha a evolução do desenvolvimento de software em si - de processos rígidos à adaptação ágil, da codificação individual à engenharia colaborativa, e finalmente ao reconhecimento de que grande engenharia de software é fundamentalmente sobre pessoas servindo pessoas.
-
-Seja você iniciando sua jornada na engenharia de software ou refletindo sobre anos de experiência, lembre-se de que nosso campo combina precisão técnica com criatividade humana, pensamento sistemático com aprendizado adaptativo, e artesania individual com colaboração em equipe.
-
-Continue aprendendo, continue ensinando, e continue construindo software que faz a diferença.
-
----
-
-_Este post é a **Parte 18 de 18** na série "Aulas de Engenharia de Software"_
+_Este post é a **Parte 18 de 19** na série "Aulas de Engenharia de Software"_
 
 **Anterior:** [Controle de Versão: Fundação Essencial](/pt/posts/2010-06-26-controle-versao-fundacao-essencial/) (Parte 17)
+**Próximo:** [Encerrando um Ciclo: Gratidão e Novos Caminhos](/pt/posts/2010-11-01-despedida-unp-nova-jornada/) (Parte 19)
