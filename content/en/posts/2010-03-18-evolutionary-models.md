@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 4 of 14** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 4 of 15** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the fourth Software Engineering lecture** at Universidade Potiguar (UnP), we explored evolutionary and incremental models, focusing on adaptation, exploration, and software reuse. The goal wasn't to memorize frameworks, but to understand how to respond to change intelligently.
 

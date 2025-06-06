@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 9 de 14** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 9 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na nona aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), completamos nossa exploração da Programação Extrema mergulhando em suas práticas concretas. Não se tratava apenas de memorizar técnicas, mas de entender como as práticas XP trabalham juntas para criar um ambiente de desenvolvimento sustentável.
 
