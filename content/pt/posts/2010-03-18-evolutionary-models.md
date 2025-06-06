@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 11** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 14** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na quarta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos modelos evolucionários e incrementais, focando em adaptação, exploração e reúso de software. O objetivo não era memorizar frameworks, mas entender como responder à mudança de forma inteligente.
 

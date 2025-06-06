@@ -24,7 +24,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 8 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 8 of 14** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the eighth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we explored Extreme Programming (XP) — an approach that challenges conventional wisdom about software quality, team collaboration, and sustainable development pace.
 
