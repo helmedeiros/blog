@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 13 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 13 de 17** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Nessa aula, mergulhamos em **Testes de Software**—não como uma lista burocrática de tipos ou uma exigência de QA, mas como uma atividade estratégica e criativa presente em todas as fases do desenvolvimento. Reforcei que testar não é um passo no fim do processo: é parte do próprio design. Um bom engenheiro precisa considerar o teste como ferramenta essencial, não como tarefa de outra equipe.
 

@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 11 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 11 de 17** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Na décima primeira aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), marcamos uma mudança de tom: não estávamos mais apenas modelando — estávamos enfrentando a complexidade dos sistemas reais de frente. Era hora de dar ao código uma espinha dorsal, uma linguagem comum e uma estratégia para evolução. É aí que o **Domain-Driven Design (DDD)** entra em cena.
 

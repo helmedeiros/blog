@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 3 of 16** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 3 of 17** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the third lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into defined process approaches — with a focus on the well-known waterfall model. But more than memorizing stages and sequences, this class was about **context, reflection, and adaptability**.
 
