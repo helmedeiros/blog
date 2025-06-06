@@ -19,11 +19,7 @@ keywords:
 draft: false
 ---
 
-![Placeholder for current image](path/to/image-placeholder.jpeg)
-
 With a heavy but grateful heart, I share that this will be my final semester teaching at Universidade Potiguar (UnP). It's a decision I made with care, reflection, and excitement for what lies ahead.
-
----
 
 ## Porto Alegre was calling
 
@@ -31,15 +27,11 @@ Since the start of my journey as a developer, I've always been driven by technic
 
 Visiting the city and seeing companies solving global problems with diverse, technically mature teams sparked something in me. I couldn't ignore it. It was time to step out of my comfort zone and dive into something new.
 
----
-
 ## A heartfelt goodbye
 
 Across many semesters, I learned from my students, exchanged ideas with fellow professors, and worked to make the classroom a space that was practical, critical, and inspiring. Each group taught me something — patience, improvisation, creativity, resilience.
 
 I'm deeply thankful to UnP for trusting me with this opportunity, to Gedson Nunes for his continued support, and to all the teachers I had the pleasure to collaborate with. And to the students: thank you. For your questions, your presence, your last-minute Calculus exam excuses, and most importantly, your honesty and energy.
-
----
 
 ## The road ahead
 
@@ -48,8 +40,6 @@ I'm not leaving education behind. I carry all this learning into my next chapter
 Maybe we'll cross paths again at events, in a community, or in another classroom.
 
 Thank you. Truly. See you soon.
-
----
 
 ## Series Conclusion
 

@@ -18,11 +18,7 @@ summary: "Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostr
 
 **Aulas de Engenharia de Software - Parte 16 de 19**
 
-![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
-
 Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando que ele é mais do que uma técnica — é uma forma de pensar. Utilizando um sistema real de template de e-mails, desenvolvemos tudo partindo de testes. Cada linha foi uma decisão validada, cada falha evitada antes de acontecer.
-
----
 
 ## Dos Requisitos aos Testes
 
@@ -40,8 +36,6 @@ public void substituiUmaVariavel() {
 ```
 
 Esse teste é mais do que unitário — ele define o comportamento do sistema.
-
----
 
 ## Começar no Vermelho
 
@@ -66,8 +60,6 @@ public String formar() {
 ```
 
 Mas já adicionamos outro teste para evitar trapaças.
-
----
 
 ## Triangulação e Primeira Refatoração
 
@@ -110,15 +102,11 @@ public class Template {
 
 A cada novo teste, o código fica mais genérico.
 
----
-
 ## Programação por Intenção
 
 Falamos sobre **programar por intenção**: escrever código como se ele já existisse. Pensar primeiro no uso, depois na implementação. Isso força foco no "_o quê_" e não no "_como_".
 
 Esse estilo favorece clareza e coesão.
-
----
 
 ## Antecipando e Tratando Falhas
 
@@ -140,8 +128,6 @@ if (resultado.matches(".*\$\{.+\}.*")) {
 ```
 
 Testes também servem para proteger. Negligenciar erros é negar robustez.
-
----
 
 ## Refatoração Final e Aprendizados
 
