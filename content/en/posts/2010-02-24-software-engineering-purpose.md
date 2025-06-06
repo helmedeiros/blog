@@ -17,7 +17,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 1 of 15** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 1 of 16** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **Today I taught my first Software Engineering class** at Universidade Potiguar (UnP), and it was a remarkable experience. Since being [invited to prepare and lead this course](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), I've been reflecting on how to structure content that feels relevant to students — not just based on what I learned during my degree, but also from real-world projects and experiences in the industry.
 

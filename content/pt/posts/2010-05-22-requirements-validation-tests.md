@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 12 de 15** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 12 de 16** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Foi nessa aula que decidi unir dois temas que costumam ser ensinados separadamente no início da formação em engenharia de software: **engenharia de requisitos** e **testes de software**. Muitos estudantes os veem como trilhas diferentes, mas na prática, são dois lados do mesmo espelho. Não é possível escrever testes significativos sem requisitos claros, nem avaliar qualidade sem saber o que foi pedido.
 
