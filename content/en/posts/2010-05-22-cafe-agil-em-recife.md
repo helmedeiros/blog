@@ -3,7 +3,7 @@ title: "Agile Café in Recife – Dialogue, Code, and Courage"
 author: helio
 layout: post
 date: 2010-05-22T21:39:56+00:00
-slug: agile-cafe-recife
+slug: cafe-agil-em-recife
 categories:
   - Agile
   - Events
