@@ -17,7 +17,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 1 of 12** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 1 of 13** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **Today I taught my first Software Engineering class** at Universidade Potiguar (UnP), and it was a remarkable experience. Since being [invited to prepare and lead this course](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), I've been reflecting on how to structure content that feels relevant to students — not just based on what I learned during my degree, but also from real-world projects and experiences in the industry.
 
@@ -63,4 +63,4 @@ _Posted after my first lecture as a Software Engineering professor at UnP, fille
 
 - **Current**: Part 1 - Why Software Engineering? (Introduction)
 - **Next**: [Part 2 - Taming Complexity](../2010-03-02-complexity-process/)
-- **Complete series**: Why Software Engineering? | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/)
+- **Complete series**: Why Software Engineering? | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/)
