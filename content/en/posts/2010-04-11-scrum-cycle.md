@@ -24,7 +24,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 7 of 11** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 7 of 14** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In the seventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into the operational mechanics of Scrum. Beyond concepts and principles, this class was about understanding how teams work together through specific ceremonies, roles, and artifacts to deliver working software iteratively.
 

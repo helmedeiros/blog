@@ -2,7 +2,7 @@
 title: "Testing Software: Fidelity, Quality, and System Evolution"
 author: helio
 date: 2010-05-29T14:30:22+00:00
-description: "Reflections on the thirteenth and final Software Engineering lecture, exploring software testing as a strategic design activity embedded throughout real development processes."
+description: "Reflections on the thirteenth Software Engineering lecture, exploring software testing as a strategic design activity embedded throughout real development processes."
 categories:
   - Testing
   - Quality Assurance
@@ -20,7 +20,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 13 of 13** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 13 of 14** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 In this lecture, we dived into **Software Testing**—not as a boring list of types or QA certifications, but as a creative, strategic activity embedded in every stage of real software development. I reminded the class that testing isn't a gatekeeping step, it's part of the design process. Every good engineer should see testing as part of their toolkit, not someone else's responsibility.
 
@@ -105,35 +105,12 @@ Facilitators can apply the same exercise in onboarding, retrospectives, or hacka
 
 _Posted as part of the Software Engineering course journal. Today we learned that testing isn't about proving perfection—it's about designing confidence and building systems that evolve gracefully._
 
-## Series Conclusion
-
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these thirteen lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies, culminating in sophisticated approaches that bridge design, requirements, and validation through comprehensive testing practices.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **[XP in Practice](../2010-05-08-applying-xp-strategies/)**: Real strategies for real teams
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Building software that speaks business
-12. **[Requirements & Testing](../2010-05-22-requirements-validation-tests/)**: Clear specs, meaningful validation
-13. **Software Testing**: Fidelity, quality, and system evolution (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, maintaining focus on delivering real value, and ultimately creating software that truly serves its intended purpose.
-
-From understanding why software engineering matters to implementing comprehensive testing strategies that ensure system reliability and evolution, this journey demonstrates that great software comes from great teams, supported by thoughtful processes, sustained by continuous learning, guided by clear requirements, and validated through strategic testing practices.
-
 ---
 
 ### **Series Navigation**
 
 - **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 12 - Requirements & Testing](../2010-05-22-requirements-validation-tests/)
-- **Current**: Part 13 - Software Testing (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | Software Testing
+- **Next**: [Part 14 - Test-Driven Development](../2010-06-05-test-driven-development/)
+- **Current**: Part 13 - Software Testing
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | Software Testing | [Test-Driven Development](../2010-06-05-test-driven-development/)
