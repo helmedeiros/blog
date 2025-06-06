@@ -8,7 +8,7 @@ slug: "advanced-tdd-thinking-tests"
 summary: "In this lecture, we explored how Test-Driven Development (TDD) evolves from a tool to a mindset. Through live coding and real requirements, we worked on building a dynamic email templating system—purely from tests. Each line written was a decision validated or a bug prevented."
 ---
 
-**Software Engineering Lectures - Part 16 of 17**
+**Software Engineering Lectures - Part 16 of 18**
 
 ![Placeholder for current image](path/to/image-placeholder.jpeg)
 

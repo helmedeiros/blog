@@ -16,7 +16,7 @@ slug: "version-control-essential-foundation"
 summary: "In this lecture, we turned to a topic that every developer ignores at their own risk: version control. But we didn't just walk through Git commands—we explored the reasoning, pitfalls, and project-saving habits that come from disciplined usage. Version control isn't optional; it's foundational."
 ---
 
-**Software Engineering Lectures - Part 17 of 17**
+**Software Engineering Lectures - Part 17 of 18**
 
 ![Placeholder for current image](path/to/image-placeholder.jpeg)
 
@@ -113,51 +113,7 @@ This class made clear: version control is a communication tool. Not just with co
 
 ---
 
-## Series Conclusion
+_This post is **Part 17 of 18** in the series "Lectures on Software Engineering"_
 
-And with this, we conclude our comprehensive journey through software engineering fundamentals. Over these 17 lectures, we've covered the complete spectrum from basic principles to advanced practices and essential tools:
-
-**Part 1 - [Why Software Engineering?](/en/posts/2010-02-24-software-engineering-purpose/)** - Understanding the discipline and its importance
-
-**Part 2 - [Taming Complexity with Process](/en/posts/2010-03-02-complexity-process/)** - Managing software complexity through structured approaches
-
-**Part 3 - [The Waterfall Model](/en/posts/2010-03-10-waterfall-model/)** - Traditional sequential development methodology
-
-**Part 4 - [Evolutionary Development Models](/en/posts/2010-03-18-evolutionary-models/)** - Iterative and incremental approaches
-
-**Part 5 - [The Agile Mindset](/en/posts/2010-03-26-agile-mindset/)** - Principles and values of agile development
-
-**Part 6 - [Scrum and Productivity](/en/posts/2010-04-03-scrum-productivity/)** - Framework for agile project management
-
-**Part 7 - [The Scrum Development Cycle](/en/posts/2010-04-11-scrum-cycle/)** - Detailed look at sprints and ceremonies
-
-**Part 8 - [Extreme Programming: Quality and Courage](/en/posts/2010-04-19-xp-quality-courage/)** - XP values and mindset
-
-**Part 9 - [XP Principles and Practices](/en/posts/2010-05-01-xp-principles-practices/)** - Core XP practices and techniques
-
-**Part 10 - [Applying XP: Strategies in Practice](/en/posts/2010-05-08-applying-xp-strategies/)** - Real-world XP implementation
-
-**Part 11 - [Domain-Driven Design](/en/posts/2010-05-15-domain-driven-design/)** - Modeling complex business domains
-
-**Part 12 - [Requirements and Validation through Tests](/en/posts/2010-05-22-requirements-validation-tests/)** - Testing as requirements specification
-
-**Part 13 - [Software Testing Fundamentals](/en/posts/2010-05-29-software-testing/)** - Testing types, levels, and strategies
-
-**Part 14 - [Test-Driven Development](/en/posts/2010-06-05-test-driven-development/)** - TDD methodology and practices
-
-**Part 15 - [Unit Testing with JUnit](/en/posts/2010-06-12-junit-unit-testing/)** - Practical unit testing implementation
-
-**Part 16 - [Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/)** - TDD as mindset and design tool
-
-**Part 17 - [Version Control: Don't Code Without It](/en/posts/2010-06-26-version-control-essential-foundation/)** - Essential collaboration and project management foundation (Final)
-
-This series has taken us from understanding the "why" of software engineering to mastering advanced development practices and essential professional tools. The journey shows how the field evolved from rigid processes to adaptive methodologies, always keeping quality, collaboration, and customer value at the center, while emphasizing that professional software development requires not just coding skills, but systematic approaches to collaboration, testing, design, and project management.
-
-The principles, practices, and tools covered here form the foundation for building robust, maintainable software systems that truly serve their users and stand the test of time. From process understanding to version control mastery, these fundamentals enable developers to work effectively in teams, maintain code quality, and deliver value consistently.
-
----
-
-**Navigation:**
-
-- **Previous:** [Part 16 - Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/)
-- **Series:** [Software Engineering Lectures (17 parts)](/en/series/software-engineering-lectures/)
+**Previous:** [Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/) (Part 16)
+**Next:** [The Classroom as a Learning Ground: Reflections from a Semester](/en/posts/2010-07-03-classroom-learning-reflections/) (Part 18)

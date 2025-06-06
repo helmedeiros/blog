@@ -23,7 +23,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 9 of 17** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 9 of 18** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 **In this ninth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we completed our exploration of Extreme Programming by diving into its concrete practices. This wasn't just about memorizing techniques, but understanding how XP practices work together to create a sustainable development environment.
 

@@ -16,7 +16,7 @@ slug: "tdd-avancado-pensando-com-testes"
 summary: "Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando que ele é mais do que uma técnica — é uma forma de pensar. Utilizando um sistema real de template de e-mails, desenvolvemos tudo partindo de testes. Cada linha foi uma decisão validada, cada falha evitada antes de acontecer."
 ---
 
-**Aulas de Engenharia de Software - Parte 16 de 17**
+**Aulas de Engenharia de Software - Parte 16 de 18**
 
 ![Placeholder para imagem atual](caminho/para/imagem-placeholder.jpeg)
 
