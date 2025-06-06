@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part 12 of 12** > _Delivered at Universidade Potiguar (UnP) in 2010_
+> **Series: Software Engineering Fundamentals** | **Part 12 of 13** > _Delivered at Universidade Potiguar (UnP) in 2010_
 
 It was in this class that I decided to bring together two key themes that often seem disconnected in early software training: **requirement engineering** and **software testing**. Many students see them as separate tracks, but in practice, they're two sides of the same mirror. We can't write meaningful tests without clear requirements, and we can't evaluate quality if we don't know what was requested in the first place.
 
@@ -103,34 +103,12 @@ It's not waterfall. It's **just being deliberate** with the foundations.
 
 _Posted as part of the Software Engineering course journal. Today we learned that requirements and tests aren't separate disciplines — they're complementary practices that ensure we build the right thing, the right way._
 
-## Series Conclusion
-
-This concludes our **Software Engineering Fundamentals** series, delivered at Universidade Potiguar (UnP) in 2010. Throughout these twelve lectures, we explored the evolution from traditional process-heavy approaches to modern agile methodologies, culminating in sophisticated approaches that bridge requirements engineering with validation practices.
-
-**Throughout this series, we explored**:
-
-1. **[Why Software Engineering?](../2010-02-24-software-engineering-purpose/)**: Building with purpose beyond code
-2. **[Taming Complexity](../2010-03-02-complexity-process/)**: When process helps and when it hurts
-3. **[Waterfall Model](../2010-03-10-waterfall-model/)**: When following the recipe fails
-4. **[Evolutionary Models](../2010-03-18-evolutionary-models/)**: Learning to adapt and evolve
-5. **[Agile Mindset](../2010-03-26-agile-mindset/)**: Less stress, more delivery
-6. **[Scrum Productivity](../2010-04-03-scrum-productivity/)**: Finding your team's rhythm
-7. **[Scrum Cycle](../2010-04-11-scrum-cycle/)**: From planning to working software
-8. **[XP Quality & Courage](../2010-04-19-xp-quality-courage/)**: Quality through courage
-9. **[XP Principles & Practices](../2010-05-01-xp-principles-practices/)**: Sustainable excellence
-10. **[XP in Practice](../2010-05-08-applying-xp-strategies/)**: Real strategies for real teams
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Building software that speaks business
-12. **Requirements & Testing**: Clear specs, meaningful validation (Final)
-
-Each lecture built upon previous concepts while introducing practical frameworks that remain relevant today. **Software engineering** is about more than following methodologies—it's about developing judgment, fostering collaboration, maintaining focus on delivering real value, and ultimately creating software that truly serves its intended purpose.
-
-From understanding why software engineering matters to implementing sophisticated validation approaches that bridge requirements and testing, this journey demonstrates that great software comes from great teams, supported by thoughtful processes, sustained by continuous learning, and guided by clear requirements that can be tested and validated.
-
 ---
 
 ### **Series Navigation**
 
 - **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
 - **Previous**: [Part 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
-- **Current**: Part 12 - Requirements & Testing (Final)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | Requirements & Testing
+- **Current**: Part 12 - Requirements & Testing
+- **Next**: [Part 13 - Software Testing](../2010-05-29-software-testing/)
+- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/)

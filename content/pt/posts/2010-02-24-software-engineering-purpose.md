@@ -17,7 +17,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 1 de 12** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 1 de 13** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 **Hoje ministrei a primeira aula de Engenharia de Software** na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde que fui [convidado para preparar e liderar este curso](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho refletindo sobre como estruturar conteúdo que seja relevante para os estudantes — não apenas baseado no que aprendi durante minha graduação, mas também a partir de projetos reais e experiências na indústria.
 
@@ -63,4 +63,4 @@ _Publicado após minha primeira aula como professor de Engenharia de Software na
 
 - **Atual**: Parte 1 - Por que Engenharia de Software? (Introdução)
 - **Próxima**: [Parte 2 - Domando a Complexidade](../2010-03-02-complexity-process/)
-- **Série completa**: Por que Engenharia de Software? | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/)
+- **Série completa**: Por que Engenharia de Software? | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testes de Software](../2010-05-29-software-testing/)

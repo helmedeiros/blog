@@ -21,7 +21,7 @@ tags:
   - software-engineering-series
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 12 de 12** > _Ministrada na Universidade Potiguar (UnP) em 2010_
+> **Série: Fundamentos de Engenharia de Software** | **Parte 12 de 13** > _Ministrada na Universidade Potiguar (UnP) em 2010_
 
 Foi nessa aula que decidi unir dois temas que costumam ser ensinados separadamente no início da formação em engenharia de software: **engenharia de requisitos** e **testes de software**. Muitos estudantes os veem como trilhas diferentes, mas na prática, são dois lados do mesmo espelho. Não é possível escrever testes significativos sem requisitos claros, nem avaliar qualidade sem saber o que foi pedido.
 
@@ -103,34 +103,12 @@ Não é waterfall. É **ser deliberado com os fundamentos**.
 
 _Publicado como parte do diário da disciplina de Engenharia de Software. Hoje aprendemos que requisitos e testes não são disciplinas separadas — são práticas complementares que garantem que construamos a coisa certa, do jeito certo._
 
-## Conclusão da Série
-
-Isso conclui nossa série **Fundamentos de Engenharia de Software**, ministrada na Universidade Potiguar (UnP) em 2010. Ao longo dessas doze aulas, exploramos a evolução das abordagens tradicionais centradas em processo para metodologias ágeis modernas, culminando em abordagens sofisticadas que conectam engenharia de requisitos com práticas de validação.
-
-**Ao longo desta série, exploramos**:
-
-1. **[Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)**: Construindo com propósito além do código
-2. **[Domando a Complexidade](../2010-03-02-complexity-process/)**: Quando processo ajuda e quando atrapalha
-3. **[Modelo Cascata](../2010-03-10-waterfall-model/)**: Quando seguir a receita falha
-4. **[Modelos Evolucionários](../2010-03-18-evolutionary-models/)**: Aprendendo a adaptar e evoluir
-5. **[Mentalidade Ágil](../2010-03-26-agile-mindset/)**: Menos estresse, mais entrega
-6. **[Scrum Produtividade](../2010-04-03-scrum-productivity/)**: Encontrando o ritmo da equipe
-7. **[Ciclo Scrum](../2010-04-11-scrum-cycle/)**: Do planejamento ao software funcionando
-8. **[XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)**: Qualidade através da coragem
-9. **[XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)**: Excelência sustentável
-10. **[XP na Prática](../2010-05-08-applying-xp-strategies/)**: Estratégias reais para equipes reais
-11. **[Domain-Driven Design](../2010-05-15-domain-driven-design/)**: Construindo software que fala negócio
-12. **Requisitos & Testes**: Especificações claras, validação significativa (Final)
-
-Cada aula construiu sobre conceitos anteriores enquanto introduzia frameworks práticos que permanecem relevantes hoje. **Engenharia de software** é mais do que seguir metodologias—é sobre desenvolver discernimento, promover colaboração, manter foco em entregar valor real, e finalmente criar software que realmente serve ao seu propósito.
-
-Desde entender por que a engenharia de software importa até implementar abordagens sofisticadas de validação que conectam requisitos e testes, esta jornada demonstra que grande software vem de grandes equipes, apoiadas por processos bem pensados, sustentadas por aprendizado contínuo, e guiadas por requisitos claros que podem ser testados e validados.
-
 ---
 
 ### **Navegação da Série**
 
 - **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
 - **Anterior**: [Parte 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
-- **Atual**: Parte 12 - Requisitos & Testes (Final)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | Requisitos & Testes
+- **Atual**: Parte 12 - Requisitos & Testes
+- **Próxima**: [Parte 13 - Testes de Software](../2010-05-29-software-testing/)
+- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testes de Software](../2010-05-29-software-testing/)
