@@ -1,58 +1,95 @@
 ---
-title: "Agile Brazil 2010 – Introduction to Extreme Programming (XP)"
+title: "Agile Brazil 2010 – XP in Practice with Paper, Scissors, and True Collaboration"
 author: helio
 layout: post
 date: 2010-06-22T02:54:34+00:00
-idptt_tweeted: 
-embed: 
-seo_follow: 
-seo_noindex: 
+slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories:
   - Eventos
+  - Agile
+tags:
+  - Agile Brazil
+  - XP
+  - Extreme Programming
+  - Bruno Pedroso
+  - Dairton Bassi
+  - Daniel Wildt
+  - Giovanni Bassi
+  - Hugo Corbucci
+  - Renato Willi
+description: "Detailed account of the hands-on XP workshop at Agile Brazil 2010, featuring practical activities, WIP concepts, Lead Time, Cycle Time, and pair programming."
+keywords:
+  - agile brazil 2010
+  - xp extreme programming
+  - hands-on workshop
+  - pair programming
+  - wip work in progress
+  - lead time cycle time
 ---
 
-Officially, <a title="Agile Brazil 2010" href="http://www.agilebrazil.com/" target="_blank">Agile Brazil 2010</a> started today!
+[<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
-Like any good event with great speakers, Agile Brazil has been preparing for me for some time now with the publication of the schedule, which tried to help us with related tracks based on participants' familiarity and expertise... but it didn't help me much!!
+Just got back to the hotel. I can still feel the intensity of a full day immersed in Extreme Programming (XP), guided by people I had long admired from afar and finally had the chance to learn from in person. **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci**, and **Renato Willi** delivered one of the most complete hands-on XP workshops I've ever experienced. This wasn't just about concepts — it was about _living them_.
 
-It happens that in our scenario, where large amounts of information are launched on blogs without concrete functionality, good talks, even basic ones, are always desirable; delivered in capable hands, 45 minutes can take away your floor and build it in a totally new way, which is what I expect from Agile Brazil
+## Pomodoros and Purpose
 
- 2010.
+We kicked off the day with a rhythm: the Pomodoro technique. These 25-minute focus sessions, punctuated by breaks, gave structure to our learning. Each Pomodoro introduced a topic — XP cycles, values, practices, principles — in digestible bursts of theory followed immediately by practical activities. It kept our energy high and attention sharp all day long.
 
-At this hour, the experience and openness of the speakers will make all the difference.
+One of the earliest cycles had us post our expectations on a wall using sticky notes. It might seem trivial, but it immediately created a sense of inclusion. This wasn't a lecture — it was our space, our learning. The wall became our emotional backlog for the day.
 
-I saw an unconventional format that caught my attention and with some contacts, I chose the first course I would participate in at the event.
+## The Paper ATM
 
-Good grade, good instructors, and many participants; bring your notebook because we'll implement something in an extreme universe... it could only be very interesting. [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP
+The standout activity was building a **paper-based ATM**. Split into teams, each group had to construct their product using paper, markers, shoeboxes, and tape. Sound childish? It wasn't. The constraints drove creativity and forced meaningful collaboration.
 
- - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1] The <a title="XP" href="http://www.agilebrazil.com/2010/pt/xp.html" target="_blank">Introdução a programação Extrema</a> course started at 10:00 am on June 22nd with Bruno Pedroso, Dairton Bassi, Daniel Wildt, Giovanni Bassi, Hugo Corbucci, and Renato Willi sharing a bit about their career paths.
+We followed real XP iterations: clearly defined roles, short sprints, visible deliverables, rapid feedback from "clients" (our facilitators). With every cycle, new features were added, and every team hit walls — some from poor communication, others from failing to validate early with stakeholders.
 
-At this point, an element emerged that would be part of most of the event, namely <a title="Pomodoro" href="http://www.pomodorotechnique.com/" target="_blank">POMODORO TIMER</a>, as there was a vast subject to be explored and even more baggage of examples, cases, and other things from our 6 instructors' domain; but there was a path to follow to reach the expected content, and tomatoes were defined for each theme, with each one taking turns until it sounded for the first time, and we began our immersion in XP.
+It wasn't about making a beautiful model. It was about team dynamics, communication loops, and delivering incrementally. This is where XP came to life.
 
-Our second tomato raised expectations within the group for the course; at this moment, an open space was created where everyone could transfer their post-its, which were subsequently grouped by similarities and defended before the class about what would be addressed and on what level it would be addressed.
+## Managing WIP: Less Really Is More
 
-The third tomato focused on presenting chaos reports and how XP works with team cultures to focus on achieving the software parcel that will actually be used.
+Midday, the facilitators introduced a challenge: reduce the number of features being worked on simultaneously. That's when **Work In Progress (WIP)** limits became real. Until then, many teams — ours included — were juggling too many tasks. The effect? Nothing got finished.
 
-In this context, Daniel put forth an interesting example that removed some misconceptions from people's heads about the first version of XP, which treated code above people and respect.
+By capping our WIP, clarity returned. We focused. Conversations became crisper. Dependencies got resolved. We delivered more by trying to do less at once. Morale even improved — finishing something before starting something else gave us momentum.
 
-Agility and XP expect simplicity, but also respect, and the combination of these is against what ifs.
+Limiting WIP isn't just a flow strategy. It's cultural. XP needs this discipline to truly shine.
 
-You won't create something as simple as disrespecting your team, software, and client. "Simplicity is the art of maximizing what's not done"'.
+## Lead Time: The Delay Isn't in the Code
 
-Removing fat is desirable, but the product must obtain respect from everyone, including yours!
+At another point, we explored **Lead Time** — the total duration from when a feature is requested to when it's actually done. We discovered delays weren't technical. They stemmed from unclear scope, decision bottlenecks, and unvalidated assumptions.
 
-Some consecutive tomatoes explored history, the XP life cycle, principles, values, and practices, and at the end, a theoretical and cultural practice focused on relationship and application of learned concepts for creating an ATM.
+XP attacks this head-on with short iterations, constant feedback, and engaged stakeholders. We saw teams with shorter lead times because they released smaller chunks. Others bundled features, but progress became invisible. A clear takeaway emerged: **fragmenting value doesn't weaken it — it exposes it.**
 
-As usual, several teams failed to execute, with some parts of the team involved in practices and others not, something quite common in our daily lives.
+We were forced to confront how much time we really spend creating value, and how much is consumed by everything else.
 
-In the afternoon, there was a paired development session on a simple problem, converting numbers from English to writing, done in groups. <figure id="attachment_205" style="width: 417px" class="wp-caption aligncenter"> [<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP
+## Cycle Time: Learning the Team's Natural Rhythm
 
- - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]</figcaption>XP
+Later in the day, we focused on **Cycle Time** — how long a feature takes from "in progress" to "done." It measures execution flow. Some teams had very short cycle times — but skipped critical steps. Others moved slower but delivered working slices with consistent quality.
 
- - Agile Brazil 2010</figcaption></figure> The course was a continuous learning experience that led us to have more ATTITUDE, strengthen our COMMUNICATION by working as a TEAM and continuously improving!!
+XP practices like continuous integration and TDD were modeled even in our paper-based setting. Teams that monitored cycle time could adapt and deliver predictably. We saw how measuring this helped us find balance: not rushing, not stalling.
 
-Worth it!!
+Cycle time reminded us: sustainable pace isn't about going slow or fast — it's about learning to move _together_.
 
-[2]: /uploads/2010/06/DSC044221.jpg
+## XP Is a Stance, Not a Stack
+
+**Daniel Wildt** hit a chord with me when he said XP is not about tooling — it's about _posture_. He walked us through the **Chaos Report**, showing how failed projects often don't lack code, but rather alignment. Poor scoping, low engagement, and communication breakdowns are the real dangers.
+
+XP values — **courage, feedback, simplicity, communication, respect** — are more than posters on a wall. They're daily habits. They manifest in small acts: a clear commit message, an honest retro, or the humility to refactor.
+
+This session reframed XP not as an engineering solution, but a cultural stance.
+
+## Pairing Up: More Than Just Coding
+
+In the late afternoon, we paired up to tackle a deceptively simple problem: converting numbers to English words. It quickly became a mirror — not of our technical skill, but of our collaboration. We had to negotiate ideas, sync logic, explain clearly, and revise respectfully.
+
+XP isn't just about pairing for code coverage. It's pairing to build _shared understanding_. Even with paper and markers, the same dynamics of a real codebase emerged: merge conflicts, naming decisions, test cases, logic drift. This is why XP values pairing — it teaches us to build _together_.
+
+[<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+
+## Exhausted but Energized
+
+Back at the hotel, still wearing my backpack, I stood in silence for a moment. My brain was tired, but my motivation was lit. I had not just attended a training — I had experienced a mindset.
+
+To the facilitators: thank you. And to every teammate today: I hope we keep building things with clarity, respect, and courage. May we deliver more than code — may we deliver with purpose.
 
 [1]: /uploads/2010/06/DSC04413.jpg
+[2]: /uploads/2010/06/DSC044221.jpg
