@@ -5,7 +5,7 @@ series: "Vida em Porto Alegre"
 tags: ["Dell", "Liderança", "Ensino", "Mentoria", "Marcelo Schmidt", "Educação"]
 ---
 
-_Esta é a Parte 6 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 6 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
 
 Algumas pessoas nasceram para fazer mais do que escrever código ou entregar tarefas. Algumas pessoas são **formadoras de formadores**. Estão presentes em reuniões, pull requests e canais de Slack não apenas para cumprir o escopo — mas para **ajudar os outros a se tornarem sua melhor versão**. Marcelo Schmidt é uma dessas pessoas.
 

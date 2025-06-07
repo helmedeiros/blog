@@ -6,7 +6,7 @@ tags:
   ["Dell", "Trabalho Remoto", "Família", "Resiliência", "Amizade", "Liderança"]
 ---
 
-_Esta é a Parte 5 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 5 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
 
 Esse tem sido um dos períodos mais emocionalmente intensos da minha vida.
 

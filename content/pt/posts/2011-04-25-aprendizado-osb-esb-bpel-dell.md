@@ -5,7 +5,7 @@ series: "Vida em Porto Alegre"
 tags: ["Dell", "OSB", "ESB", "BPEL", "Java", "Oracle", "Aprendizado"]
 ---
 
-_Esta é a Parte 4 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 4 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
 
 Seis meses após minha chegada à Dell, estou no meio de uma das transições mais empolgantes da minha carreira. Nosso time está migrando lógicas que antes viviam em código Java tradicional para ferramentas de orquestração como **Oracle Service Bus (OSB)**. E não estou só assistindo — fui convidado a **liderar essa transformação**.
 
