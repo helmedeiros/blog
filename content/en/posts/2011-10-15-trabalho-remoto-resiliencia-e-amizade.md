@@ -6,7 +6,7 @@ tags:
   ["Dell", "Remote Work", "Family", "Resilience", "Friendship", "Leadership"]
 ---
 
-_This is Part 5 of 5 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
+_This is Part 5 of 6 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
 
 This has been one of the most emotionally intense seasons of my life.
 
@@ -14,7 +14,7 @@ In July, my mother suffered a **major stroke**. We spent a full month by her sid
 
 It's been hard. But also full of love, learning, and support.
 
-![Team support moments](/uploads/2011/08/5994701427_6fe7d9fa64_o.jpg)
+![Team support moments](/uploads/2011/10/5994701427_6fe7d9fa64_o.jpg)
 
 ### A Plan to Stay Close
 
@@ -24,7 +24,7 @@ Thanks to my manager **Eduardo Mathias**, to **Cadu** and **Ulisses**, and to my
 
 My wife has been nothing short of a hero — managing logistics, coordinating care, and keeping our home and plans running while I split my attention between work and family.
 
-![Collaboration and teamwork](/uploads/2011/08/6257265482_895aa5bc21_o.jpg)
+![Collaboration and teamwork](/uploads/2011/10/6257265482_895aa5bc21_o.jpg)
 
 ### Remote-First by Necessity
 
@@ -46,7 +46,7 @@ Working remotely wasn't new to me in theory. But doing it while emotionally drai
 
 The **psychological safety** created by my leads made all the difference. I never felt I had to "prove" I was working — the **outcomes spoke for themselves**. When people trust you, you work better. You take initiative. You show up, even in pain.
 
-![Team celebrations and special moments](/uploads/2011/08/6286066939_0988ac3ec7_o.jpg)
+![Team celebrations and special moments](/uploads/2011/10/6286066939_0988ac3ec7_o.jpg)
 
 ```java
 // A reminder from our codebase
@@ -61,7 +61,7 @@ On days I felt like falling apart, I had friends who **held me up**. Sometimes t
 
 These bonds are rare. I don't take them for granted.
 
-![Collaborative work and planning](/uploads/2011/08/6362311199_694263265f_o.jpg)
+![Collaborative work and planning](/uploads/2011/10/6362311199_694263265f_o.jpg)
 
 ### Looking Forward
 
@@ -82,3 +82,4 @@ Until next update.
 - [Part 3: Release Weekend, Automation, and the Value of Real Leadership](/en/posts/2011-01-30-final-de-semana-de-release-dell/)
 - [Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
 - **Part 5: Remote Work, Resilience, and the Power of Friendship** _(you are here)_
+- **Next**: [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)

@@ -34,7 +34,7 @@ keywords:
 series: "Life in Porto Alegre"
 ---
 
-> **Series: Life in Porto Alegre** | **Part 2 of 5** > _Discovering a new city and a new career_
+> **Series: Life in Porto Alegre** | **Part 2 of 6** > _Discovering a new city and a new career_
 
 There's something quietly powerful about hitting a rhythm. That flow where your mind stops wandering, distractions fade away, and you're fully committed to one thing: delivering excellent work. That was my December at Dell.
 
@@ -85,5 +85,6 @@ Let's build software that lasts — and enjoy the process while we do it.
 - **Next**: [Release Weekend, Automation, and the Value of Real Leadership](../2011-01-30-final-de-semana-de-release-dell/) (Part 3)
 - [Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](../2011-04-25-aprendizado-osb-esb-bpel-dell/) (Part 4)
 - [Remote Work, Resilience, and the Power of Friendship](../2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Part 5)
+- [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](../2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
 
 **This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.
