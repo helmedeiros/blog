@@ -5,7 +5,7 @@ series: "Life in Porto Alegre"
 tags: ["Dell", "Liderança", "Ensino", "Mentoria", "Marcelo Schmidt", "Educação"]
 ---
 
-_Esta é a Parte 6 de 6 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 6 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
 
 Algumas pessoas nasceram para fazer mais do que escrever código ou entregar tarefas. Algumas pessoas são **formadoras de formadores**. Estão presentes em reuniões, pull requests e canais de Slack não apenas para cumprir o escopo — mas para **ajudar os outros a se tornarem sua melhor versão**. Marcelo Schmidt é uma dessas pessoas.
 
@@ -65,3 +65,4 @@ Vamos continuar construindo.
 - [Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](/pt/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
 - [Parte 5: Trabalho Remoto, Resiliência e o Poder da Amizade](/pt/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
 - **Parte 6: Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas** _(você está aqui)_
+- **Próximo**: [Gratidão e Transição: Deixando a Dell para a RBS](/pt/posts/2012-04-01-transicao-dell-para-rbs/) (Parte 7)

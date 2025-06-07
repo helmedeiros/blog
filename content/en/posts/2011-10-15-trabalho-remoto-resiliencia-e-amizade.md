@@ -6,7 +6,7 @@ tags:
   ["Dell", "Remote Work", "Family", "Resilience", "Friendship", "Leadership"]
 ---
 
-_This is Part 5 of 6 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
+_This is Part 5 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
 
 This has been one of the most emotionally intense seasons of my life.
 
@@ -24,7 +24,7 @@ Thanks to my manager **Eduardo Mathias**, to **Cadu** and **Ulisses**, and to my
 
 My wife has been nothing short of a hero — managing logistics, coordinating care, and keeping our home and plans running while I split my attention between work and family.
 
-![Collaboration and teamwork](/uploads/2011/10/6257265482_895aa5bc21_o.jpg)
+![Collaborative work and planning](/uploads/2011/10/6362311199_694263265f_o.jpg)
 
 ### Remote-First by Necessity
 
@@ -61,7 +61,7 @@ On days I felt like falling apart, I had friends who **held me up**. Sometimes t
 
 These bonds are rare. I don't take them for granted.
 
-![Collaborative work and planning](/uploads/2011/10/6362311199_694263265f_o.jpg)
+![Collaboration and teamwork](/uploads/2011/10/6257265482_895aa5bc21_o.jpg)
 
 ### Looking Forward
 
@@ -83,3 +83,4 @@ Until next update.
 - [Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
 - **Part 5: Remote Work, Resilience, and the Power of Friendship** _(you are here)_
 - **Next**: [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
+- [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)

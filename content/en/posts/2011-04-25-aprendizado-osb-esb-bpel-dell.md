@@ -5,7 +5,7 @@ series: "Life in Porto Alegre"
 tags: ["Dell", "OSB", "ESB", "BPEL", "Java", "Oracle", "Learning"]
 ---
 
-_This is Part 4 of 6 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
+_This is Part 4 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
 
 It's been six months since I joined Dell, and I'm in the middle of one of the most exciting shifts in my engineering career. Our team is actively migrating logic from traditional Java codebases into orchestration tools like **Oracle Service Bus (OSB)**. And I'm not just watching — I've been asked to **champion this transformation**.
 
@@ -94,3 +94,4 @@ More updates soon — this transformation is just getting started.
 - **Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell** _(you are here)_
 - **Next**: [Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Part 5)
 - [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
+- [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)

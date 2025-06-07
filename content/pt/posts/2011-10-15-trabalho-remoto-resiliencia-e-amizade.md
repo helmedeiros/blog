@@ -6,7 +6,7 @@ tags:
   ["Dell", "Trabalho Remoto", "Família", "Resiliência", "Amizade", "Liderança"]
 ---
 
-_Esta é a Parte 5 de 6 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 5 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
 
 Esse tem sido um dos períodos mais emocionalmente intensos da minha vida.
 
@@ -24,7 +24,7 @@ Agradeço ao meu gerente **Eduardo Mathias**, ao **Cadu** e ao **Ulisses**, e ao
 
 Minha esposa tem sido uma heroína — cuidando da logística, coordenando o tratamento e mantendo nossa casa e nossos planos funcionando enquanto divido minha atenção entre o trabalho e a família.
 
-![Colaboração e trabalho em equipe](/uploads/2011/10/6257265482_895aa5bc21_o.jpg)
+![Trabalho colaborativo e planejamento](/uploads/2011/10/6362311199_694263265f_o.jpg)
 
 ### Remoto por Necessidade
 
@@ -61,7 +61,7 @@ Nos dias em que tudo parecia desmoronar, tive amigos que **me sustentaram**. Às
 
 Esses vínculos são raros. E eu valorizo demais.
 
-![Trabalho colaborativo e planejamento](/uploads/2011/10/6362311199_694263265f_o.jpg)
+![Colaboração e trabalho em equipe](/uploads/2011/10/6257265482_895aa5bc21_o.jpg)
 
 ### Olhando pra Frente
 
@@ -83,3 +83,4 @@ Até a próxima atualização.
 - [Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](/pt/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
 - **Parte 5: Trabalho Remoto, Resiliência e o Poder da Amizade** _(você está aqui)_
 - **Próximo**: [Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas](/pt/posts/2011-12-20-resgatando-o-educador-em-mim/) (Parte 6)
+- [Gratidão e Transição: Deixando a Dell para a RBS](/pt/posts/2012-04-01-transicao-dell-para-rbs/) (Parte 7)
