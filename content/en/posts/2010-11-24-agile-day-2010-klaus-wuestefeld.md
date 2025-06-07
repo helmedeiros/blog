@@ -1,17 +1,18 @@
 ---
-title: "AGILE DAY 2010 – Klaus Wuestefeld"
+title: "Agile Day 2010 – Part 1: Klaus Wuestefeld on Quality vs. Speed"
 author: helio
 layout: post
 date: 2010-11-25T01:41:25+00:00
-idptt_tweeted: 
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
+idptt_tweeted:
+embed:
+seo_follow:
+seo_noindex:
+dsq_thread_id:
 categories:
-  - Ageis
+  - Agile
   - Eventos
   - Metodologias
+series: "Agile Day 2010"
 tags:
   - 2010
   - adpoa10
@@ -59,6 +60,14 @@ Finally, we should be concerned with standards and good technical practices inst
 
 Klaus ended his presentation with a quote from GO, "throw away your first 100 games as quickly as possible".
 
-[2]: /uploads/2010/11/KlausAgileDay2010.jpg
+---
+
+### **Series Navigation**
+
+- **Previous**: [Announcement - Agile Day 2010 Preview](../2010-11-23-agile-day-2010-porto-alegre/)
+- **Current**: Part 1 - Klaus Wuestefeld on Quality vs. Speed
+- **Next**: [Part 2 - Luiz Faias Jr. on Building a Learning Culture](../2010-11-30-agile-day-2010-luiz-faias-jr/)
+- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)
 
 [1]: /uploads/2010/11/agileday2010.jpg
+[2]: /uploads/2010/11/KlausAgileDay2010.jpg

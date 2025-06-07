@@ -1,17 +1,18 @@
 ---
-title: "AGILE DAY 2010"
+title: "Agile Day 2010 – Part 2: Luiz Faias Jr. on Building a Learning Culture"
 author: helio
 layout: post
 date: 2010-11-30T02:35:31+00:00
-idptt_tweeted: 
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
+idptt_tweeted:
+embed:
+seo_follow:
+seo_noindex:
+dsq_thread_id:
 categories:
-  - Ageis
+  - Agile
   - Eventos
   - Metodologias
+series: "Agile Day 2010"
 tags:
   - 2010
   - adpoa10
@@ -81,3 +82,12 @@ This incentive format where the company supports the creation and growth of this
 Investing in this is increasing technical quality and refining mutual trust and respect.
 
 Kudos to Luiz and André... for another company that encourages good practices and the willingness to grow in our market. <a title="Apresentação" href="http://www.slideshare.net/bluesoftbr/construindo-uma-cultura-de-aprendizagem-5880225" target="_blank">Construindo uma cultura de aprendizagem </a>
+
+---
+
+### **Series Navigation**
+
+- **Previous**: [Part 1 - Klaus Wuestefeld on Quality vs. Speed](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
+- **Current**: Part 2 - Luiz Faias Jr. on Building a Learning Culture
+- **Next**: [Part 3 - Paulo Caroli on Software Production Line](../2010-12-12-agile-day-2010-paulo-caroli/)
+- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)
