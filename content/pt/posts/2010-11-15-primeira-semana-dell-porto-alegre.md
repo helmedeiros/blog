@@ -33,7 +33,7 @@ series: "Vida em Porto Alegre"
 
 ![Dell Campus em Porto Alegre](/uploads/2010/11/dell_5084527975_o.jpg)
 
-> **Série: Vida em Porto Alegre** | **Parte 1 de 1** > _Descobrindo uma nova cidade e uma nova carreira_
+> **Série: Vida em Porto Alegre** | **Parte 1 de 2** > _Descobrindo uma nova cidade e uma nova carreira_
 
 Acabei de encerrar minha primeira semana de trabalho na **Stefanini/Dell Computers em Porto Alegre**, e estou escrevendo isso com um sorriso enorme no rosto, impulsionado por uma mistura de empolgação, adrenalina e aquela exaustão agradável de quem está enfrentando algo verdadeiramente novo.
 
@@ -77,6 +77,7 @@ Que venha o próximo capítulo. E cada linha de código que eu escrever com curi
 
 **Navegação da Série Vida em Porto Alegre:**
 
-- **Atual**: Parte 1 - Nova Cidade, Novo Código, Novo Idioma (Final)
+- **Atual**: Parte 1 - Nova Cidade, Novo Código, Novo Idioma
+- **Próximo**: [Foco Total, Pomodoro e Migração com Confiança](../2010-12-16-migracao-foco-pomodoro-dell/) (Parte 2)
 
 **Esta série documenta minha mudança para Porto Alegre e os primeiros passos na Dell/Stefanini**, explorando os desafios de trabalhar em um ambiente multinacional, aprender novas tecnologias enterprise e adaptar-se a uma nova cidade.
