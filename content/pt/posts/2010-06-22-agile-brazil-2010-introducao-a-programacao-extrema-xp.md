@@ -1,38 +1,117 @@
 ---
-title: Agile Brazil 2010 – Introdução a programação Extrema (XP)
+title: "Agile Brazil 2010 – XP na Prática com Papel, Tesoura e Muita Colaboração"
 author: helio
 layout: post
 date: 2010-06-22T02:54:34+00:00
-idptt_tweeted:
-  - 1
-embed:
-  - This is the default text
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
+slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories:
   - Eventos
+  - Agile
+tags:
+  - Agile Brazil
+  - XP
+  - Programação Extrema
+  - Bruno Pedroso
+  - Dairton Bassi
+  - Daniel Wildt
+  - Giovanni Bassi
+  - Hugo Corbucci
+  - Renato Willi
+description: "Relato detalhado do workshop prático de XP no Agile Brazil 2010, com atividades hands-on, conceitos de WIP, Lead Time, Cycle Time e programação em par."
+keywords:
+  - agile brazil 2010
+  - xp extreme programming
+  - workshop pratico
+  - programacao em par
+  - wip work in progress
+  - lead time cycle time
 ---
-Extra oficialmente o <a title="Agile Brazil 2010" href="http://www.agilebrazil.com/" target="_blank">Agile Brazil 2010</a> começou hoje!
-
-Como todo bom evento de ótimos palestrantes, o Agile Brazil iniciou para mim a algum tempo atrás com  a publicação da programação, que tentava nos ajudar com suas trilhas relacionadas a familiaridade o expertise dos participantes&#8230; mas para mim não ajudou muito!! Acontece que neste nosso cenário, de grandes massas de informações lançadas em blogs muitas vezes sem a responsabilidade do concreto funcionamento, boas palestras mesmo que básicas são sempre desejáveis; entregues em mãos apropriadas, 45 minutos podem tirar o seu chão e construí-lo de uma forma totalmente nova e isso espero do Agile Brazil 2010. Nesta hora a experiência e a abertura dos palestrantes fará toda diferença.
-
-Ví um formato nada convencional que chamou minha atenção e com alguns contatos escolhi o primeiro curso que iria participar no evento. Grade boa, bons e muitos instrutores e um convite traga o seu  notebook pois iremos implementar algo em um universo extremo&#8230; só podia ser bem interessante.
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
-O curso de <a title="XP" href="http://www.agilebrazil.com/2010/pt/xp.html" target="_blank">Introdução a programação Extrema</a> foi iniciado às 10:00h do dia 22/06, com o Bruno Pedroso, Dairton Bassi, Daniel Wildt, Giovanni Bassi, Hugo Corbucci e Renato Willi contando um pouco sobre a trajetória de suas carreiras. Neste ponto surgiu um elemento que faria parte de boa parte do evento o <a title="Pomodoro" href="http://www.pomodorotechnique.com/" target="_blank">POMODORO TIMER</a>, como existia um vasto assunto a ser explorado e uma bagagem ainda maior de exemplos, causos entre outras coisas do domínio dos nossos 6 instrutores, mas havia um caminho a ser seguido para atingir todo o conteúdo esperado, foram definidos tomatos para cada tema e foi cada um por sí até que o mesmo soou pela primeira vez e começamos a nossa imersão no XP.
+Acabei de voltar para o hotel. Ainda sinto a energia do dia inteiro mergulhado em uma experiência prática de XP que mexeu comigo em vários níveis. Foram horas intensas, cheias de teoria aplicada, interações sinceras, e desafios reais. Mas o que mais me marcou foi o cuidado dos facilitadores — **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci** e **Renato Willi** — em não apenas ensinar, mas provocar mudança. É raro sentir tanta coerência entre discurso e prática num evento.
 
-O nosso segundo tomato levantou a expectativa do grupo para o curso, neste momento foi aberto um espaço para que todos pudessem transferir para o seus post-its que foram posteriormente agrupados por semelhanças e defendidos perante a turma no sentido dos quais seriam atendidos e em que nível seriam atendidos.
+---
 
-O terceiro tomato focou em apresentar chaos report e como o XP trabalha as culturas das equipes para focarmos em atingir a parcela de software que realmente será utilizado.  Neste contexto o Daniel colocou um exemplo bem interessante que removeu da cabeça de alguns essa idéia mal entendida da primeira versão do XP, que tratava o código acima das pessoas e do respeito. Agilidade e XP esperam simplicidade, mas também respeito, e a combinação destes é contra porquisses. Você não vai criar algo tão simples que desrespeite  sua equipe, seu software e seu cliente. &#8220;Simplicidade é a arte de maximizar o que não é feito&#8221;.  Retirar gordura é desejável, mas o produto deve obter o respeito de todos, inclusive o seu!
+## Pomodoros e Propósitos
 
-Alguns tomates consecutivos exploraram a história, o ciclo de vida do XP, princípios, valores e práticas e ao fim foram realizadas para o período da manhã um prática teórica e cultural focada no relacionamento e aplicação dos conceitos aprendidos, para a criação de um caixa eletrônico. Como de costume vários times falharam na execução, estando uma parte do time envolvido pelas práticas e outros não, algo bem comum em nosso dia-a-dia. Já no termino da tarde foi realizada uma sessão de desenvolvimento pareado sobre um problema simples de conversão numerica para escrita dos números em inglês, realizada em grupo.<figure id="attachment_205" style="width: 417px" class="wp-caption aligncenter">
+Logo no início fomos apresentados à dinâmica do Pomodoro. As sessões cronometradas de 25 minutos, seguidas por pequenas pausas, funcionaram não só como gestão de tempo, mas como delimitadores claros de foco. Cada novo Pomodoro trazia um tema central, que era explorado com uma breve introdução teórica e, na sequência, uma atividade prática. Essa alternância criava um ritmo que nos mantinha atentos e ativos, mesmo depois do almoço, quando a maioria dos eventos costuma perder energia.
 
-[<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]<figcaption class="wp-caption-text">XP - Agile Brazil 2010</figcaption></figure> 
+Durante um dos primeiros ciclos, os instrutores pediram que colocássemos no mural o que esperávamos do workshop. Foi um gesto simbólico, mas que me pegou: naquele momento, senti que estávamos sendo tratados como participantes, não como meros espectadores. O mural virou uma espécie de backlog emocional da turma — e foi revisitado durante o dia.
 
-O curso foi aprendizado continuo regado de experiência que nos levaram a ter mais ATITUDE, fortaleceram nossa COMUNICAÇÃO trabalhando em EQUIPE e continuamente melhorando!! Valeu!!
+---
 
- [1]: /uploads/2010/06/DSC04413.jpg
- [2]: /uploads/2010/06/DSC044221.jpg
+## A Caixa Eletrônica de Papel
+
+A principal atividade do workshop foi a simulação de desenvolvimento de um produto — um **caixa eletrônico**. Cada grupo deveria construir a interface e a funcionalidade com papel, canetas, caixas de sapato, tesouras e fita adesiva. Soa infantil? Pode até parecer, mas foi uma das experiências mais imersivas que já tive. A limitação do material aguçava a criatividade e forçava a colaboração verdadeira.
+
+Trabalhamos em sprints curtas, com papéis bem definidos: devs, testadores, cliente, facilitador. A cada iteração precisávamos apresentar uma versão funcional do nosso produto, receber feedback do cliente (representado pelos facilitadores), ajustar, testar, e seguir. A cada ciclo, novas exigências surgiam — às vezes conflitantes com requisitos anteriores, o que tornava tudo ainda mais próximo da realidade de um projeto ágil real.
+
+Percebi como é fácil cair em armadilhas mesmo num ambiente controlado: falar mais do que ouvir, decidir sozinho sem validar, ignorar os testes para entregar mais rápido. E vi o contrário também: o poder da comunicação frequente, da simplicidade, de iterar com propósito. No fim, não foi sobre construir um caixa eletrônico de papel — foi sobre construir um time.
+
+---
+
+## Lidando com WIP: Menos é Mais
+
+Durante uma das simulações, nossos grupos foram surpreendidos por uma interrupção: os facilitadores nos desafiaram a reduzir o número de funcionalidades sendo desenvolvidas simultaneamente. Foi aí que o conceito de **Work In Progress (WIP)** apareceu com força. Até então, estávamos trabalhando em três, quatro frentes ao mesmo tempo. O resultado? Nenhuma delas estava realmente pronta.
+
+Controlar o WIP é essencial em XP porque o excesso de tarefas paralelas aumenta o tempo de entrega de cada uma delas e sobrecarrega o time. Ao limitarmos o número de funcionalidades ativas, percebemos um aumento imediato na fluidez do trabalho e na clareza da comunicação. Ficava mais fácil saber quem estava com o quê, o que precisava de ajuda e o que realmente era prioridade.
+
+A sensação era libertadora: terminar algo completamente antes de começar outra coisa trazia um senso de conquista que motivava o grupo. Mais do que isso, fortalecia a confiança — tanto entre os pares quanto com os stakeholders. Essa mudança simples no fluxo aumentou a qualidade geral e reduziu os retrabalhos.
+
+WIP limitado é mais do que uma métrica. É uma prática cultural. É um lembrete de que _fazer menos com mais foco_ é frequentemente a melhor forma de entregar valor rapidamente. E XP, com seu foco em entregas frequentes e contínuas, depende diretamente dessa disciplina para funcionar bem.
+
+---
+
+## Lead Time: O Que Demora Não É o Código
+
+Em outro momento do dia, fomos convidados a refletir sobre o tempo entre uma funcionalidade ser solicitada e estar pronta para uso: o famoso **Lead Time**. Essa métrica, que parece simples, revelou gargalos interessantes. Percebemos que a maior parte do tempo era consumida _antes_ de qualquer linha de código ser escrita. Espera por validação, ajustes no escopo, dúvidas mal resolvidas — tudo isso empurrava a entrega para frente.
+
+XP responde a isso com ciclos curtos, feedback constante e presença ativa do cliente. Quanto mais rápido identificamos o que está em dúvida ou mal definido, mais rápido conseguimos resolver. Isso exige coragem: coragem de chamar o cliente para conversa difícil, de jogar fora funcionalidades que não agregam, de dizer "ainda não sabemos".
+
+No exercício da caixa eletrônica, vimos que alguns times tinham lead time pequeno porque faziam entregas menores. Outros optaram por agrupar funcionalidades, mas o resultado foi menos entrega real e mais sensação de progresso ilusório. O aprendizado aqui foi claro: fragmentar o valor não é enfraquecer — é tornar visível e gerenciável.
+
+Trabalhar com atenção ao lead time nos força a refletir: **quanto do que estamos fazendo é realmente desenvolvimento?** E quanto é ruído, espera, burocracia? XP convida a enxugar esse ruído para que possamos dedicar nosso tempo ao que realmente importa: entregar valor para o usuário.
+
+---
+
+## Cycle Time: Entender o Ritmo do Time
+
+Por fim, discutimos o **Cycle Time** — o tempo que leva para uma tarefa sair do "em andamento" até o "feito". Diferente do lead time, ele foca exclusivamente no tempo de produção. Foi interessante perceber como, mesmo em uma dinâmica de papel e tesoura, essa métrica fazia sentido.
+
+Alguns grupos tinham cycle times muito curtos — mas à custa de pular etapas. Outros mantinham uma cadência mais constante, com entregas pequenas mas sólidas. Isso gerou uma discussão valiosa: **a velocidade não pode sacrificar a qualidade**. E XP está sempre batendo nessa tecla: só entregue quando estiver realmente pronto. Testado, revisado, útil.
+
+Entender o cycle time ajuda o time a fazer previsões melhores e ajustar sua capacidade. Nos exercícios, times que monitoravam de perto os tempos de entrega conseguiam se adaptar mais rápido às mudanças de requisito. Era como se tivessem desenvolvido um _senso de ritmo_ coletivo.
+
+Esse senso de ritmo, no XP, é reforçado por práticas como Integração Contínua e Testes Automatizados. Quanto mais fluido o ciclo, mais espaço para inovação e aprendizado. E menos ansiedade. Afinal, quando se sabe o tempo médio para entregar algo, é mais fácil alinhar expectativas e planejar de forma realista.
+
+Cycle time nos lembra que _sustentabilidade_ é chave. Não adianta correr uma maratona em ritmo de sprint. Equipes XP precisam saber quando acelerar, mas também quando respirar. O segredo está em medir, conversar e ajustar — sempre como um time.
+
+## XP é uma Postura
+
+**Daniel Wildt** trouxe uma fala que me pegou forte: _XP não é sobre ferramentas, é sobre postura_. A frase soava simples, mas vinha carregada de crítica a ambientes onde a técnica é celebrada, mas os valores são ignorados. Ele nos apresentou o **Chaos Report**, apontando que projetos falham mais por problemas de comunicação e alinhamento do que por bugs. Falta de escopo claro, falhas de expectativa, ausência de iteração com o cliente — esses são os reais vilões.
+
+Durante esse momento, discutimos também os valores centrais do XP: **coragem, feedback, simplicidade, comunicação e respeito**. E ficou evidente que não basta dizer que o time é ágil. É preciso praticar esses valores diariamente, nos pequenos detalhes: num commit bem descrito, numa retrospectiva sincera, na humildade de refatorar algo que foi escrito às pressas.
+
+---
+
+## Programação em Par: mais do que código
+
+Mais para o fim do dia, fizemos uma atividade de **programação pareada**. A tarefa parecia simples: escrever um algoritmo que convertesse números para palavras em inglês. Mas logo se tornava claro que a dificuldade não estava no problema, mas no _como resolver juntos_. Era um espelho do trabalho em equipe. Tivemos que ouvir, explicar, refatorar decisões, ajustar estilo de código — tudo em tempo real.
+
+Foi nesse exercício que entendi de verdade o impacto do XP no cotidiano. Trabalhar em par não é apenas uma técnica, é um treinamento para a colaboração. Cada linha de código se tornava uma conversa. E isso muda tudo.
+
+[<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+
+---
+
+## Saí Exausto, Mas Animado
+
+Quando voltei para o hotel, ainda segurando minha mochila, fiquei parado olhando para a parede por alguns minutos. Eu estava mentalmente exausto, mas ao mesmo tempo inspirado. Com vontade de aplicar. De estudar mais. De ensinar. A experiência foi além do conteúdo técnico — foi sobre um jeito diferente de existir dentro de um time de desenvolvimento.
+
+A todos os facilitadores, meu mais sincero agradecimento. E a todos os colegas que dividiram essa jornada hoje: que possamos carregar esse XP no dia a dia. Com mais testes, mais pares, mais escuta, mais entrega.
+
+Com mais propósito.
+
+[1]: /uploads/2010/06/DSC04413.jpg
+[2]: /uploads/2010/06/DSC044221.jpg
