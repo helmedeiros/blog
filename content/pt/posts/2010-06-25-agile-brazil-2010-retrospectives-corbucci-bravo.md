@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Série: Agile Brazil 2010** | **Parte 4 de 4** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
+> **Série: Agile Brazil 2010** | **Parte 4 de 5** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 E acabou mais uma grande apresentação, com a cabeça cheia de ideias e um caderno lotado de anotações da sessão sobre **Retrospectivas**, facilitada por **Hugo Corbucci** e **Mariana Bravo**. Não foi apenas uma palestra — foi um show onde aprendemos a enxergar de forma diferente uma das práticas ágeis mais subestimadas e negligenciadas: a retrospectiva.
 
@@ -90,6 +90,5 @@ Obrigado Mariana. Obrigado Hugo. Que sessão incrível.
 - **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
 - **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
 - **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Atual**: Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo (Final)
-
-**Essa série documenta minha participação no Agile Brazil 2010**, a primeira conferência nacional de métodos ágeis do Brasil. Desde workshops práticos até reflexões sobre retrospectivas, foi um evento transformador que moldou minha compreensão sobre práticas ágeis.
+- **Atual**: Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo
+- **Próximo**: [Parte 5 - Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
