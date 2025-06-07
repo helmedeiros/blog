@@ -5,6 +5,7 @@ layout: post
 date: 2008-06-10T10:00:00+00:00
 categories:
   - UML
+series: "UML Mini-scenarios"
 tags:
   - mini-scenarios
   - uml-series

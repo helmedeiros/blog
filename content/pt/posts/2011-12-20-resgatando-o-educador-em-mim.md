@@ -1,7 +1,7 @@
 ---
 title: "Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas"
 date: 2011-12-20
-series: "Life in Porto Alegre"
+series: "Vida em Porto Alegre"
 tags: ["Dell", "Liderança", "Ensino", "Mentoria", "Marcelo Schmidt", "Educação"]
 ---
 

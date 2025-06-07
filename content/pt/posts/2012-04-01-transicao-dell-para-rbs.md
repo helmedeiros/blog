@@ -1,7 +1,7 @@
 ---
 title: "Gratidão e Transição: Deixando a Dell para a RBS"
 date: 2012-04-01
-series: "Life in Porto Alegre"
+series: "Vida em Porto Alegre"
 tags:
   [
     "Dell",

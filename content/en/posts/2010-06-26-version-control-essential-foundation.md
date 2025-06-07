@@ -11,7 +11,7 @@ tags:
     "development",
   ]
 categories: ["Software Engineering"]
-series: ["Software Engineering Lectures"]
+series: "Software Engineering Lectures"
 slug: "version-control-essential-foundation"
 summary: "In this lecture, we turned to a topic that every developer ignores at their own risk: version control. But we didn't just walk through Git commands—we explored the reasoning, pitfalls, and project-saving habits that come from disciplined usage. Version control isn't optional; it's foundational."
 ---
