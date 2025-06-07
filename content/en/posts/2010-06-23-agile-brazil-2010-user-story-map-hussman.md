@@ -29,7 +29,7 @@ series: "Agile Brazil 2010"
 
 [<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="David Hussman Story Mapping Workshop" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
 
-> **Series: Agile Brazil 2010** | **Part 2 of 5** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 2 of 6** > _Complete coverage of Brazil's first national agile conference_
 
 Just got back to the hotel — still carrying a few sticky notes on my backpack and a brain spinning with ideas. Today was an eye-opener. **David Hussman's** workshop on **User Story Mapping** wasn't about filling walls with post-its. It was about building shared understanding, mapping journeys, and delivering value through stories — not just stories written down, but stories told, heard, and felt.
 

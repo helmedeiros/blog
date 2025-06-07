@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Series: Agile Brazil 2010** | **Part 4 of 5** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 4 of 6** > _Complete coverage of Brazil's first national agile conference_
 
 And it just finish one more great presentation, notebook full of scribbles from the **Retrospectives** session led by **Hugo Corbucci** and **Mariana Bravo**. It wasn't just another talk — it was a show where we learned to think differently about one of the most underestimated and underutilized agile practices: the retrospective.
 
