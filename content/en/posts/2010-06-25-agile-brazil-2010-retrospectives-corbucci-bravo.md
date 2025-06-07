@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Series: Agile Brazil 2010** | **Part 4 of 4** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 4 of 5** > _Complete coverage of Brazil's first national agile conference_
 
 And it just finish one more great presentation, notebook full of scribbles from the **Retrospectives** session led by **Hugo Corbucci** and **Mariana Bravo**. It wasn't just another talk — it was a show where we learned to think differently about one of the most underestimated and underutilized agile practices: the retrospective.
 
@@ -90,6 +90,5 @@ Thank you Mariana. Thank you Hugo. What a powerful session.
 - **Part 1**: [Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
 - **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
 - **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Current**: Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo (Final)
-
-**This series documents my experience at Agile Brazil 2010**, Brazil's first national agile conference. From hands-on workshops to retrospective practices, it was a transformative event that shaped my understanding of agile methodologies.
+- **Current**: Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo
+- **Next**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)

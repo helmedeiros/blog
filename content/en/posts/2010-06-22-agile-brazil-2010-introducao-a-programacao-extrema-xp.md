@@ -30,7 +30,7 @@ series: "Agile Brazil 2010"
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
-> **Series: Agile Brazil 2010** | **Part 1 of 4** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 1 of 5** > _Complete coverage of Brazil's first national agile conference_
 
 Just got back to the hotel. I can still feel the intensity of a full day immersed in Extreme Programming (XP), guided by people I had long admired from afar and finally had the chance to learn from in person. **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci**, and **Renato Willi** delivered one of the most complete hands-on XP workshops I've ever experienced. This wasn't just about concepts — it was about _living them_.
 
@@ -101,7 +101,8 @@ To the facilitators: thank you. And to every teammate today: I hope we keep buil
 - **Current**: Part 1 - Hands-On XP Workshop
 - **Next**: [Part 2 - Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
 - **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Final**: [Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
+- **Part 4**: [Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
+- **Final**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
 
 [1]: /uploads/2010/06/DSC04413.jpg
 [2]: /uploads/2010/06/DSC044221.jpg
