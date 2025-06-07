@@ -10,11 +10,7 @@ summary: "In this lecture, we explored how Test-Driven Development (TDD) evolves
 
 **Software Engineering Lectures - Part Part 16 of 19**
 
-![Placeholder for current image](path/to/image-placeholder.jpeg)
-
 In this lecture, we explored how Test-Driven Development (TDD) evolves from a tool to a mindset. Through live coding and real requirements, we worked on building a dynamic email templating system—purely from tests. Each line written was a decision validated or a bug prevented. This session was not about coverage numbers. It was about clarity, feedback, and accountability.
-
----
 
 ## From Requirements to Tests
 
@@ -32,8 +28,6 @@ public void replacesSingleVariable() {
 ```
 
 This is more than a unit test—it's a specification. With it, the design becomes intentional and the requirements unambiguous.
-
----
 
 ## Red First, Always
 
@@ -62,8 +56,6 @@ public String render() {
 ```
 
 It passes. Temporarily. But now we break it with a second test.
-
----
 
 ## Triangulation and the First Refactor
 
@@ -106,15 +98,11 @@ public class Template {
 
 We arrived here through **triangulation**: iteratively adding tests to force more generic solutions.
 
----
-
 ## Intentional Programming
 
 We emphasized **programming by intention**—writing code that reads like it was meant to exist. TDD makes you imagine that ideal API before you even implement it. That mindset shift is huge.
 
 This allowed us to focus on _what the code should do_ instead of _how it will do it_. A big difference. One drives maintainability. The other often leads to premature optimization.
-
----
 
 ## Predicting and Handling Failures
 
@@ -136,8 +124,6 @@ if (result.matches(".*\$\{.+\}.*")) {
 ```
 
 Through this, students learned not just to validate happy paths, but also to **intentionally guard against faults**.
-
----
 
 ## Final Refactor and Learnings
 
