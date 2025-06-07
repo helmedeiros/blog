@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Series: Agile Brazil 2010** | **Part 5 of 5** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 5 of 6** > _Complete coverage of Brazil's first national agile conference_
 
 Great session by **Francisco Trindade**, titled _"Coaching de Guerrilha"_. I had no idea I'd leave that room thinking so deeply about influence, leadership, and change — all without needing a title.
 

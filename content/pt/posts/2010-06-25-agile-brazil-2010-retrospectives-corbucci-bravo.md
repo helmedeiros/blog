@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Série: Agile Brazil 2010** | **Parte 4 de 5** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
+> **Série: Agile Brazil 2010** | **Parte 4 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 E acabou mais uma grande apresentação, com a cabeça cheia de ideias e um caderno lotado de anotações da sessão sobre **Retrospectivas**, facilitada por **Hugo Corbucci** e **Mariana Bravo**. Não foi apenas uma palestra — foi um show onde aprendemos a enxergar de forma diferente uma das práticas ágeis mais subestimadas e negligenciadas: a retrospectiva.
 

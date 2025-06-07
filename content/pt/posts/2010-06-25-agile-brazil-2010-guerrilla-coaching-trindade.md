@@ -29,7 +29,7 @@ keywords:
 series: "Agile Brazil 2010"
 ---
 
-> **Série: Agile Brazil 2010** | **Parte 5 de 5** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
+> **Série: Agile Brazil 2010** | **Parte 5 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 Grande apresentação conduzida pelo **Francisco Trindade**, com o título _"Coaching de Guerrilha"_. Eu não esperava sair daquela sala com tantas reflexões sobre influência, liderança e mudança — tudo isso sem precisar de cargo formal.
 
@@ -83,6 +83,7 @@ E obrigado, Agile Brazil, por dar espaço para sessões assim. Que dia!
 - **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
 - **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
 - **Parte 4**: [Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Atual**: Parte 5 - Coaching de Guerrilha com Francisco Trindade (Final)
+- **Atual**: Parte 5 - Coaching de Guerrilha com Francisco Trindade
+- **Final**: [Parte 6 - Ponha as Cartas na Parede com Paulo Caroli](../2010-06-25-agile-brazil-2010-card-wall-caroli/)
 
 **Essa série documenta minha participação no Agile Brazil 2010**, a primeira conferência nacional de métodos ágeis do Brasil. Do XP hands-on ao coaching de guerrilha, foi um evento transformador que moldou minha visão sobre práticas ágeis e liderança.
