@@ -5,7 +5,7 @@ series: "Vida em Porto Alegre"
 tags: ["Dell", "Liderança", "Automação", "Deploy", "Cultura"]
 ---
 
-_Esta é a Parte 3 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 3 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
 
 Três meses depois de começar na Dell, recebi um convite que me marcou: participar do **primeiro turno do final de semana de release da Dell**. Para quem está de fora, pode parecer apenas mais um turno. Mas geralmente, esse é um espaço reservado às equipes mais experientes. Estar incluso foi mais do que uma honra. Foi uma experiência de aprendizado incrível.
 

@@ -15,7 +15,7 @@ tags:
   ]
 ---
 
-_Esta é a Parte 7 de 7 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 7 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
 
 Hoje marca o fim de um capítulo extremamente significativo na minha jornada profissional.
 
