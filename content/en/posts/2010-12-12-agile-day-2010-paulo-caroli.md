@@ -1,16 +1,17 @@
 ---
-title: "AGILE DAY 2010 – Paulo Caroli"
+title: "Agile Day 2010 – Part 3: Paulo Caroli on Software Production Line"
 author: helio
 layout: post
 date: 2010-12-12T12:21:35+00:00
-idptt_tweeted: 
-embed: 
-seo_follow: 
-seo_noindex: 
+idptt_tweeted:
+embed:
+seo_follow:
+seo_noindex:
 categories:
-  - Ageis
+  - Agile
   - Eventos
   - Metodologias
+series: "Agile Day 2010"
 tags:
   - 2010
   - adpoa10
@@ -37,11 +38,11 @@ While one might complete all the work only on the last day, struggling, the othe
 
 To do this, the team uses three measures: bandwidth, latency, and throughput
 
- - which are in that order the quantity of stories or tasks you can do simultaneously (the defines the limit of your bandwidth per step), the time each one takes until it is completed, and finally the flow rate, which considers the time spent moving from one step to another, very used for daily conclusions. _Metric in card wall
+- which are in that order the quantity of stories or tasks you can do simultaneously (the defines the limit of your bandwidth per step), the time each one takes until it is completed, and finally the flow rate, which considers the time spent moving from one step to another, very used for daily conclusions. \_Metric in card wall
 
- - Paulo Caroli_ It's worth reading the article by Caroli on how they developed a tactic ecologically sustainable but socio-hygienically unfavorable to automate latency evidence. <a title="ARTIGO:
+- Paulo Caroli\_ It's worth reading the article by Caroli on how they developed a tactic ecologically sustainable but socio-hygienically unfavorable to automate latency evidence. <a title="ARTIGO:
 
-Latency and banana " href="http://www.softwaresecretweapons.com/blog/127/paulo-caroli-latency-and-banana" target="_blank">Latency and banana</a> Then Paulo presented effectively the addition of limits to the card wall, which, according to him, help promote collective consciousness together with the pull system, promoting constant movement in the team for action stages due to the impossibility of promoting a task due to an existing limit.
+Latency and banana " href="http://www.softwaresecretweapons.com/blog/127/paulo-caroli-latency-and-banana" target="\_blank">Latency and banana</a> Then Paulo presented effectively the addition of limits to the card wall, which, according to him, help promote collective consciousness together with the pull system, promoting constant movement in the team for action stages due to the impossibility of promoting a task due to an existing limit.
 
 According to Paulo, limits can also be added to a sequence of prioritization by elevation on the card wall, where the closer a story is to the top of the frame, the more priority it has, so that we can work even more reactively with the team's changes and process flow in an auto-organized way!
 
@@ -66,3 +67,11 @@ The Apulo presentation ended with a set of questions about which refactoring was
 Try to take advantage of the other dimensions of your board!
 
 Complement it with other technologies! <a title="Apresentação" href="http://www.slideshare.net/paulocaroli/a-linha-de-montagem-de-sw" target="_blank">Slides Linha Montagem Software</a>
+
+---
+
+### **Series Navigation**
+
+- **Previous**: [Part 2 - Luiz Faias Jr. on Building a Learning Culture](../2010-11-30-agile-day-2010-luiz-faias-jr/)
+- **Current**: Part 3 - Paulo Caroli on Software Production Line (Final)
+- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)
