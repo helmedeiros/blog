@@ -1,5 +1,5 @@
 ---
-title: "Agile Brazil 2010 – Story Mapping with David Hussman: Purpose, Flow, and Sticky Notes"
+title: "Agile Brazil 2010 – Part 2: Story Mapping with David Hussman: Purpose, Flow, and Sticky Notes"
 author: helio
 layout: post
 date: 2010-06-23T18:00:00+00:00
@@ -24,9 +24,12 @@ keywords:
   - agile product management
   - user journey mapping
   - paper prototyping
+series: "Agile Brazil 2010"
 ---
 
 [<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="David Hussman Story Mapping Workshop" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+
+> **Series: Agile Brazil 2010** | **Part 2 of 3** > _Complete coverage of Brazil's first national agile conference_
 
 Just got back to the hotel — still carrying a few sticky notes on my backpack and a brain spinning with ideas. Today was an eye-opener. **David Hussman's** workshop on **User Story Mapping** wasn't about filling walls with post-its. It was about building shared understanding, mapping journeys, and delivering value through stories — not just stories written down, but stories told, heard, and felt.
 
@@ -77,5 +80,13 @@ To close the day, David reminded us that story maps aren't formulas. They're fra
 I walked back to the hotel drained, but thrilled. Not from process — but from insight. The kind that shifts how you think, not just what you do. And I knew this wasn't a one-off. It was a practice I wanted to keep applying, learning, sharing.
 
 Thank you, David Hussman. Thank you, Agile Brazil. What a day.
+
+---
+
+**Agile Brazil 2010 Series Navigation:**
+
+- **Previous**: [Part 1 - Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
+- **Current**: Part 2 - Story Mapping with David Hussman
+- **Next**: [Part 3 - My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
 
 [1]: /uploads/2010/06/david-hussman-story-mapping.jpg
