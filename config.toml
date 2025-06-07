@@ -21,6 +21,11 @@ theme = "beautifulhugo"
 [pagination]
   pagerSize = 50
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [params]
   subtitle = "Technology insights and agile development"
   comments = false
