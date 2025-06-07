@@ -5,7 +5,7 @@ series: "Life in Porto Alegre"
 tags: ["Dell", "Liderança", "Automação", "Deploy", "Cultura"]
 ---
 
-_Esta é a Parte 3 de 4 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 3 de 5 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
 
 Três meses depois de começar na Dell, recebi um convite que me marcou: participar do **primeiro turno do final de semana de release da Dell**. Para quem está de fora, pode parecer apenas mais um turno. Mas geralmente, esse é um espaço reservado às equipes mais experientes. Estar incluso foi mais do que uma honra. Foi uma experiência de aprendizado incrível.
 
@@ -69,3 +69,4 @@ Vamos continuar automatizando, colaborando e mostrando o que é uma cultura de e
 - [Parte 2: Foco Total, Pomodoro e Migração com Confiança](/pt/posts/2010-12-16-migracao-foco-pomodoro-dell/)
 - **Parte 3: Final de Semana de Release, Automação e o Valor da Liderança de Verdade** _(você está aqui)_
 - **Próximo**: [Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](/pt/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/) (Parte 4)
+- [Trabalho Remoto, Resiliência e o Poder da Amizade](/pt/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Parte 5)

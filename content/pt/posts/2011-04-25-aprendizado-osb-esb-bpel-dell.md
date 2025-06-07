@@ -5,7 +5,7 @@ series: "Life in Porto Alegre"
 tags: ["Dell", "OSB", "ESB", "BPEL", "Java", "Oracle", "Aprendizado"]
 ---
 
-_Esta é a Parte 4 de 4 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
+_Esta é a Parte 4 de 5 da série [Life in Porto Alegre](/pt/series/life-in-porto-alegre/)._
 
 Seis meses após minha chegada à Dell, estou no meio de uma das transições mais empolgantes da minha carreira. Nosso time está migrando lógicas que antes viviam em código Java tradicional para ferramentas de orquestração como **Oracle Service Bus (OSB)**. E não estou só assistindo — fui convidado a **liderar essa transformação**.
 
@@ -92,3 +92,4 @@ Mais em breve — essa jornada de transformação está só começando.
 - [Parte 2: Foco Total, Pomodoro e Migração com Confiança](/pt/posts/2010-12-16-migracao-foco-pomodoro-dell/)
 - [Parte 3: Final de Semana de Release, Automação e o Valor da Liderança de Verdade](/pt/posts/2011-01-30-final-de-semana-de-release-dell/)
 - **Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell** _(você está aqui)_
+- **Próximo**: [Trabalho Remoto, Resiliência e o Poder da Amizade](/pt/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Parte 5)
