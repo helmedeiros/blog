@@ -6,6 +6,7 @@ date: 2008-06-25T02:48:10+00:00
 dsq_thread_id:
 categories:
   - UML
+series: "UML Mini-scenarios"
 tags:
   - mini-scenarios
   - uml-series

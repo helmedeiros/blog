@@ -5,6 +5,7 @@ layout: post
 date: 2008-07-02T03:27:57+00:00
 categories:
   - Design Patterns
+series: "Design Patterns and Analysis"
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_

@@ -18,6 +18,7 @@ tags:
   - Teaching
   - Software Crisis
   - software-engineering-series
+series: "Software Engineering Fundamentals"
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 2 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

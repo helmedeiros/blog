@@ -22,6 +22,7 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
+series: "Software Engineering Fundamentals"
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 8 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

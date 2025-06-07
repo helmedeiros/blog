@@ -1,7 +1,7 @@
 ---
 title: "Trabalho Remoto, Resiliência e o Poder da Amizade"
 date: 2011-10-15
-series: "Life in Porto Alegre"
+series: "Vida em Porto Alegre"
 tags:
   ["Dell", "Trabalho Remoto", "Família", "Resiliência", "Amizade", "Liderança"]
 ---

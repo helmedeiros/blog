@@ -1,7 +1,7 @@
 ---
 title: "Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell"
 date: 2011-04-25
-series: "Life in Porto Alegre"
+series: "Vida em Porto Alegre"
 tags: ["Dell", "OSB", "ESB", "BPEL", "Java", "Oracle", "Aprendizado"]
 ---
 
