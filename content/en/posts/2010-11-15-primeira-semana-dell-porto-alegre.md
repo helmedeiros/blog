@@ -33,7 +33,7 @@ series: "Life in Porto Alegre"
 
 ![Dell Campus in Porto Alegre](/uploads/2010/11/dell_5084527975_o.jpg)
 
-> **Series: Life in Porto Alegre** | **Part 1 of 3** > _Discovering a new city and a new career_
+> **Series: Life in Porto Alegre** | **Part 1 of 4** > _Discovering a new city and a new career_
 
 I just wrapped up my first work week here at **Stefanini/Dell Computers in Porto Alegre**, and I'm writing this with a huge smile on my face, fueled by a mixture of excitement, adrenaline, and that pleasant kind of exhaustion that comes from facing something truly new.
 
@@ -80,5 +80,6 @@ Here's to the next chapter. And to every line of code I'll write with curiosity,
 - **Current**: Part 1 - New City, New Code, New Language
 - **Next**: [Laser Focus, Pomodoro, and Migrating with Confidence](../2010-12-16-migracao-foco-pomodoro-dell/) (Part 2)
 - [Release Weekend, Automation, and the Value of Real Leadership](../2011-01-30-final-de-semana-de-release-dell/) (Part 3)
+- [Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](../2011-04-25-aprendizado-osb-esb-bpel-dell/) (Part 4)
 
 **This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.

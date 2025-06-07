@@ -5,7 +5,7 @@ series: "Life in Porto Alegre"
 tags: ["Dell", "Leadership", "Automation", "Deploy", "Culture"]
 ---
 
-_This is Part 3 of 3 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
+_This is Part 3 of 4 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
 
 Three months into my journey at Dell, I received an invitation that meant a lot: joining the **first shift of Dell's release weekend**. That might not sound like much to someone from outside our world — but it's usually a space reserved for seasoned teams. Being included was more than an honor. It was a learning experience like few others.
 
@@ -68,3 +68,4 @@ Let's keep automating, collaborating, and showing what great engineering culture
 - [Part 1: New City, New Code, New Language](/en/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
 - [Part 2: Total Focus, Pomodoro and Migration with Confidence](/en/posts/2010-12-16-migracao-foco-pomodoro-dell/)
 - **Part 3: Release Weekend, Automation, and the Value of Real Leadership** _(you are here)_
+- **Next**: [Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/) (Part 4)
