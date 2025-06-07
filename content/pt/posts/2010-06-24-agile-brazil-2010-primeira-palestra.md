@@ -1,5 +1,5 @@
 ---
-title: "Ao Vivo do Agile Brazil 2010: Minha Primeira Palestra sobre Agile"
+title: "Agile Brazil 2010 – Parte 3: Ao Vivo do Agile Brazil 2010: Minha Primeira Palestra sobre Agile"
 author: helio
 layout: post
 date: 2010-06-24T18:00:00+00:00
@@ -27,9 +27,12 @@ keywords:
   - comunidade agile
   - xp programacao extrema
   - metodologia scrum
+series: "Agile Brazil 2010"
 ---
 
 [<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Time Agile Brazil 2010" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+
+> **Série: Agile Brazil 2010** | **Parte Final (3 de 3)** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 Estou em Porto Alegre agora mesmo, no meio do **Agile Brazil 2010** — a primeira conferência nacional sobre métodos ágeis no Brasil. A energia aqui é diferente. Ninguém está apenas assistindo palestras longas e sonolentas. As pessoas estão se movimentando entre **open spaces**, entrando em **lightning talks**, rabiscando em **card walls**, e puxando conversas pelos corredores.
 
@@ -86,5 +89,15 @@ Esse post é meu jeito de capturar o momento. O Agile Brazil 2010 não foi só o
 > Fazemos parte de algo em movimento.
 
 Mais em breve.
+
+---
+
+**Navegação da Série Agile Brazil 2010:**
+
+- **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
+- **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
+- **Atual**: Parte 3 - Minha Primeira Palestra Ágil (Final)
+
+**Essa série documenta minha participação no Agile Brazil 2010**, a primeira conferência nacional de métodos ágeis do Brasil. Desde workshops práticos até o nascimento de uma comunidade, foi um evento transformador para todos os participantes.
 
 [1]: /uploads/2010/06/agile-brazil-2010-team.jpg
