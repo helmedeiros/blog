@@ -86,4 +86,10 @@ Para mim, ficou claro que o Java EE 6 não era apenas uma nova versão. Era um s
 
 _Publicado no mesmo dia da palestra de Mike Keith no TDC Rio 2009._
 
-**Próximo da série:** [Rod Johnson sobre tendências Java EE e os próximos 5 anos](/pt/posts/2009-11-25-rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/)
+---
+
+### **Navegação da Série**
+
+- **Atual**: Parte 1 - Mike Keith - Java EE 6: Uma Grande Evolução
+- **Próximo**: [Parte 2 - Rod Johnson sobre tendências Java EE e os próximos 5 anos](../2009-11-25-rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/)
+- **Série completa**: [Série TDC Rio 2009](/pt/series/tdc-rio-2009/)

@@ -74,3 +74,5 @@ Let's keep building.
 - [Part 5: Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
 - **Part 6: Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others** _(you are here)_
 - **Next**: [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)
+
+**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

@@ -86,3 +86,5 @@ Here's to the next chapter. And to every line of code I'll write with curiosity,
 - [Gratitude and Transition: From Dell to RBS](../2012-04-01-transicao-dell-para-rbs/) (Part 7)
 
 **This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.
+
+**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

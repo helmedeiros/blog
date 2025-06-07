@@ -91,4 +91,10 @@ The takeaway was clear: **Java EE 6 wasn't just keeping up — it was cleaning u
 
 _Posted the same day as Mike Keith's talk at TDC Rio 2009._
 
-**Next in this series:** [Rod Johnson on Java EE trends and the next 5 years](/posts/2009-11-25-rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/)
+---
+
+### **Series Navigation**
+
+- **Current**: Part 1 - Mike Keith - Java EE 6: A Major Evolution
+- **Next**: [Part 2 - Rod Johnson on Java EE trends and the next 5 years](../2009-11-25-rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/)
+- **Complete series**: [TDC Rio 2009 Series](/series/tdc-rio-2009/)

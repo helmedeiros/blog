@@ -56,3 +56,5 @@ See you all around — in code, in conferences, in the next adventure.
 - [Part 5: Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
 - [Part 6: Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/)
 - **Part 7: Gratitude and Transition: From Dell to RBS** _(you are here)_
+
+**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)
