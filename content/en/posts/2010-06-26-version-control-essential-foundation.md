@@ -18,11 +18,7 @@ summary: "In this lecture, we turned to a topic that every developer ignores at 
 
 **Software Engineering Lectures - Part Part 17 of 19**
 
-![Placeholder for current image](path/to/image-placeholder.jpeg)
-
 In this lecture, we turned to a topic that every developer ignores at their own risk: **version control**. But we didn't just walk through Git commands—we explored the reasoning, pitfalls, and project-saving habits that come from disciplined usage. Version control isn't optional; it's foundational. It protects you from yourself, your teammates, and time.
-
----
 
 ## The Problem Without Control
 
@@ -38,8 +34,6 @@ mv index-new.html index.html
 ```
 
 That's not sustainable. It's an invitation for disaster.
-
----
 
 ## Centralized vs Distributed Systems
 
@@ -66,8 +60,6 @@ git push origin main
 
 Students quickly saw the flexibility Git provides—offline commits, local branches, and peer-to-peer collaboration. It's no surprise it dominates modern workflows.
 
----
-
 ## Concepts That Matter
 
 A key activity in class was mapping how Git supports critical engineering needs:
@@ -86,8 +78,6 @@ echo "test" | git hash-object --stdin
 
 A 40-digit hash replaces "version 3.2.1" with cryptographic certainty.
 
----
-
 ## Merge, Don't Panic
 
 We simulated a team with conflicting changes. Then resolved the merge using:
@@ -100,8 +90,6 @@ git merge feature-x
 We walked through conflict resolution, commit finalization, and safe cleanup. It demystified what most beginners fear.
 
 The lesson: a merge conflict isn't a failure—it's an opportunity to **synchronize intent** across teammates.
-
----
 
 ## Activities and Practice
 
