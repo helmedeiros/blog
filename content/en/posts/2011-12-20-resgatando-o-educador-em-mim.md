@@ -13,7 +13,7 @@ tags:
   ]
 ---
 
-_This is Part 6 of 6 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
+_This is Part 6 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
 
 Some people are made to do more than just write code or manage deliverables. Some people are **builders of builders**. They show up in meetings, pull requests, and Slack threads not just to check tasks off a list — but to **help others become their best versions**. Marcelo Schmidt is one of those people.
 
@@ -73,3 +73,4 @@ Let's keep building.
 - [Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
 - [Part 5: Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
 - **Part 6: Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others** _(you are here)_
+- **Next**: [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)
