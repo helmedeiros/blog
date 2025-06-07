@@ -34,7 +34,7 @@ keywords:
 series: "Life in Porto Alegre"
 ---
 
-> **Series: Life in Porto Alegre** | **Part 2 of 2** > _Discovering a new city and a new career_
+> **Series: Life in Porto Alegre** | **Part 2 of 3** > _Discovering a new city and a new career_
 
 There's something quietly powerful about hitting a rhythm. That flow where your mind stops wandering, distractions fade away, and you're fully committed to one thing: delivering excellent work. That was my December at Dell.
 
@@ -80,7 +80,8 @@ Let's build software that lasts — and enjoy the process while we do it.
 
 **Life in Porto Alegre Series Navigation:**
 
-- **Part 1**: [New City, New Code, New Language](../2010-11-15-primeira-semana-dell-porto-alegre/)
-- **Current**: Part 2 - Laser Focus, Pomodoro, and Migrating with Confidence (Final)
+- [New City, New Code, New Language](../2010-11-15-primeira-semana-dell-porto-alegre/) (Part 1)
+- **Current**: Part 2 - Laser Focus, Pomodoro, and Migrating with Confidence
+- **Next**: [Release Weekend, Automation, and the Value of Real Leadership](../2011-01-30-final-de-semana-de-release-dell/) (Part 3)
 
 **This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.

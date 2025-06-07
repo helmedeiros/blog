@@ -34,7 +34,7 @@ keywords:
 series: "Vida em Porto Alegre"
 ---
 
-> **Série: Vida em Porto Alegre** | **Parte 2 de 2** > _Descobrindo uma nova cidade e uma nova carreira_
+> **Série: Vida em Porto Alegre** | **Parte 2 de 3** > _Descobrindo uma nova cidade e uma nova carreira_
 
 Existe algo discretamente poderoso em entrar no ritmo certo. Aquele estado em que sua mente para de vagar, as distrações somem, e você está totalmente dedicado a uma coisa: entregar um trabalho excelente. Esse foi o meu dezembro na Dell.
 
@@ -80,7 +80,8 @@ Vamos construir software que dure — e curtir o processo enquanto fazemos isso.
 
 **Navegação da Série Vida em Porto Alegre:**
 
-- **Parte 1**: [Nova Cidade, Novo Código, Novo Idioma](../2010-11-15-primeira-semana-dell-porto-alegre/)
-- **Atual**: Parte 2 - Foco Total, Pomodoro e Migração com Confiança (Final)
+- [Nova Cidade, Novo Código, Novo Idioma](../2010-11-15-primeira-semana-dell-porto-alegre/) (Parte 1)
+- **Atual**: Parte 2 - Foco Total, Pomodoro e Migração com Confiança
+- **Próximo**: [Final de Semana de Release, Automação e o Valor da Liderança de Verdade](../2011-01-30-final-de-semana-de-release-dell/) (Parte 3)
 
 **Esta série documenta minha mudança para Porto Alegre e os primeiros passos na Dell/Stefanini**, explorando os desafios de trabalhar em um ambiente multinacional, aprender novas tecnologias enterprise e adaptar-se a uma nova cidade.
