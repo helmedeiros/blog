@@ -84,3 +84,5 @@ Until next update.
 - **Part 5: Remote Work, Resilience, and the Power of Friendship** _(you are here)_
 - **Next**: [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
 - [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)
+
+**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)
