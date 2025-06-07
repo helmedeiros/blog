@@ -32,7 +32,7 @@ series: "Agile Brazil 2010"
 
 [<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Agile Brazil 2010 Team" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
 
-> **Series: Agile Brazil 2010** | **Final Part (3 of 3)** > _Complete coverage of Brazil's first national agile conference_
+> **Series: Agile Brazil 2010** | **Part 3 of 4** > _Complete coverage of Brazil's first national agile conference_
 
 I'm in Porto Alegre right now, in the middle of **Agile Brazil 2010** — the first national Agile conference we've ever had in Brazil. The energy here is different. No one's just sitting through PowerPoints. People are moving between **open spaces**, jumping into **lightning talks**, scribbling on **card walls**, and grabbing each other in hallways to keep the conversations going.
 
@@ -96,8 +96,7 @@ More soon.
 
 - **Part 1**: [Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
 - **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Current**: Part 3 - My First Agile Talk (Final)
-
-**This series documents my experience at Agile Brazil 2010**, Brazil's first national agile conference. From hands-on workshops to the birth of a community, it was a transformative event for everyone involved.
+- **Current**: Part 3 - My First Agile Talk
+- **Next**: [Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
 
 [1]: /uploads/2010/06/agile-brazil-2010-team.jpg

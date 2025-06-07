@@ -29,7 +29,7 @@ series: "Agile Brazil 2010"
 
 [<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="Workshop de Story Mapping com David Hussman" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
 
-> **Série: Agile Brazil 2010** | **Parte 2 de 3** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
+> **Série: Agile Brazil 2010** | **Parte 2 de 4** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 Voltei agora para o hotel, ainda com os post-its colados na mochila, carregando comigo não só anotações — mas uma maneira completamente diferente de pensar sobre produto. O workshop de **David Hussman** sobre **User Story Mapping** foi direto ao ponto: histórias, sim, mas com propósito.
 
@@ -88,5 +88,6 @@ Obrigado David Hussman. Obrigado Agile Brazil. Que dia inspirador!
 - **Anterior**: [Parte 1 - Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
 - **Atual**: Parte 2 - Story Mapping com David Hussman
 - **Próximo**: [Parte 3 - Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
+- **Final**: [Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
 
 [1]: /uploads/2010/06/david-hussman-story-mapping.jpg

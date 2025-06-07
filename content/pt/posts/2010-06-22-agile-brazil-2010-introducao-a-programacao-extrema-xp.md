@@ -30,7 +30,7 @@ series: "Agile Brazil 2010"
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
-> **Série: Agile Brazil 2010** | **Parte 1 de 3** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
+> **Série: Agile Brazil 2010** | **Parte 1 de 4** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
 
 Acabei de voltar para o hotel. Ainda sinto a energia do dia inteiro mergulhado em uma experiência prática de XP que mexeu comigo em vários níveis. Foram horas intensas, cheias de teoria aplicada, interações sinceras, e desafios reais. Mas o que mais me marcou foi o cuidado dos facilitadores — **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci** e **Renato Willi** — em não apenas ensinar, mas provocar mudança. É raro sentir tanta coerência entre discurso e prática num evento.
 
@@ -122,7 +122,8 @@ Com mais propósito.
 
 - **Atual**: Parte 1 - Workshop de XP na Prática
 - **Próximo**: [Parte 2 - Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Final**: [Parte 3 - Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
+- **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
+- **Final**: [Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
 
 [1]: /uploads/2010/06/DSC04413.jpg
 [2]: /uploads/2010/06/DSC044221.jpg
