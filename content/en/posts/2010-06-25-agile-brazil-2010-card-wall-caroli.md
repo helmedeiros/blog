@@ -40,7 +40,7 @@ Until today, my experience with card walls was functional. We used physical or d
 
 He opened with a powerful visual — a **functionality versus time diagram**, introducing concepts like **throughput**, **latency**, and **bandwidth**. Each term clicked with context. Throughput? How much we deliver per unit of time. Latency? How long it takes for a feature to be delivered. Bandwidth? How many tasks the team can handle simultaneously without drowning.
 
-![Functionality vs time – throughput, latency, bandwidth](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.56.24.jpeg)
+![Functionality vs time – throughput, latency, bandwidth](/uploads/2010/06/paulo-caroli-functionality-vs-time-diagram.jpg)
 
 This image hit hard. I had never thought about card walls as a tool to reflect on _bandwidth_. How much can we handle without compromising flow? With this framing, everything started to make sense.
 
@@ -48,8 +48,8 @@ This image hit hard. I had never thought about card walls as a tool to reflect o
 
 Next, Caroli discussed visual limits. He presented two seemingly similar boards, but with subtle — and powerful — differences. The first used explicit WIP (Work In Progress) limits. The second ignored them.
 
-![WIP controlled board](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.59.46.jpeg)
-![WIP overflow board](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.59.39.jpeg)
+![WIP controlled board](/uploads/2010/06/paulo-caroli-wip-controlled-board.jpg)
+![WIP overflow board](/uploads/2010/06/paulo-caroli-wip-overflow-board.jpg)
 
 The hidden chaos of "just one more task" became clear. When everyone is overloaded, flow disappears. Visual limits help trigger team decisions: pause, help, reorganize.
 
@@ -59,7 +59,7 @@ Caroli emphasized that a **good card wall is self-explanatory**. Even a visitor 
 
 Another powerful takeaway was the design of a single task card. Caroli added visual elements incrementally: assignee, priority, impediments, status, developer photo, even notes.
 
-![Task card with rich visuals](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.58.34.png)
+![Task card with rich visuals](/uploads/2010/06/paulo-caroli-task-card-design.jpg)
 
 The card became a **powerful communication artifact**. A dot for story points, a yellow tag for "on hold", a photo for human context. The result? Fewer meetings, fewer questions, less friction.
 
