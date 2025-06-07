@@ -40,7 +40,7 @@ Até hoje, minha experiência com card walls era funcional. A gente usava quadro
 
 Ele começou com uma provocação visual — o **gráfico de funcionalidade versus tempo**, com conceitos como **throughput**, **latência**, **largura de banda**. Cada termo ganhou contexto. Throughput? Quanto entregamos por tempo. Latência? Quanto tempo leva uma funcionalidade até ser entregue. Bandwidth? Quantos itens conseguimos trabalhar simultaneamente sem afogar a equipe.
 
-![Diagrama de funcionalidade, largura de banda, latência e throughput](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.56.24.jpeg)
+![Diagrama de funcionalidade, largura de banda, latência e throughput](/uploads/2010/06/paulo-caroli-functionality-vs-time-diagram.jpg)
 
 A imagem me pegou em cheio. Nunca havia pensado no card wall como ferramenta para refletir sobre _largura de banda_. Quantas tarefas conseguimos empurrar sem comprometer o fluxo? Com esse gráfico, tudo começou a se encaixar.
 
@@ -48,8 +48,8 @@ A imagem me pegou em cheio. Nunca havia pensado no card wall como ferramenta par
 
 Em seguida, Caroli abordou limites explícitos. Mostrou dois quadros aparentemente iguais, mas com sutis — e poderosas — diferenças. O primeiro trazia colunas com limites definidos de WIP (Work In Progress). O segundo mostrava o que acontece quando ignoramos esses limites.
 
-![Exemplo de board com WIP controlado](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.59.46.jpeg)
-![Exemplo de board com WIP estourado](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.59.39.jpeg)
+![Exemplo de board com WIP controlado](/uploads/2010/06/paulo-caroli-wip-controlled-board.jpg)
+![Exemplo de board com WIP estourado](/uploads/2010/06/paulo-caroli-wip-overflow-board.jpg)
 
 Percebi o caos escondido por trás de "só mais uma tarefa". Quando o time inteiro está sobrecarregado, a fluidez se perde. Essa visão explícita facilita decisões: parar, ajudar, reorganizar.
 
@@ -59,7 +59,7 @@ Caroli reforçou a ideia de que um **bom card wall é autoexplicativo**. Mesmo u
 
 Outra sacada poderosa foi a forma como Caroli desenhou um único cartão de tarefa. Ele adicionou informações de forma visual e progressiva: nome do responsável, prioridade, impedimento, status, avatar do desenvolvedor, até pequenas anotações.
 
-![Cartão com detalhes visuais](sandbox:/mnt/data/Screenshot%202025-06-07%20at%2021.58.34.png)
+![Cartão com detalhes visuais](/uploads/2010/06/paulo-caroli-task-card-design.jpg)
 
 A composição do cartão virou uma **ferramenta de comunicação visual poderosa**. O círculo indicava esforço. A tarja amarela marcava "on hold". A foto, para humanizar e dar clareza. O resultado: menos reuniões, menos dúvidas, menos fricção.
 
