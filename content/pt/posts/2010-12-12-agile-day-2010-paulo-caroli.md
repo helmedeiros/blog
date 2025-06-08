@@ -1,5 +1,5 @@
 ---
-title: AGILE DAY 2010 – Paulo Caroli
+title: "Agile Day 2010 – Parte 3: Paulo Caroli sobre Linha de Montagem de Software"
 author: helio
 layout: post
 date: 2010-12-12T12:21:35+00:00
@@ -8,13 +8,14 @@ idptt_tweeted:
 embed:
   - This is the default text
 seo_follow:
-  - 'false'
+  - "false"
 seo_noindex:
-  - 'false'
+  - "false"
 categories:
-  - Ageis
+  - Agile
   - Eventos
   - Metodologias
+series: "Agile Day 2010"
 tags:
   - 2010
   - adpoa10
@@ -26,9 +27,13 @@ tags:
   - paulo caroli
   - pucrs
 ---
-No último dia 29 de novembro tivemos durante a tarde do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010 Porto Alegre</a> uma excelente transferência de experiências conduzida pelo <a title="@paulocaroli" href="http://twitter.com/paulocaroli" target="_blank">Paulo Caroli</a> da <a title="Thoughtworks" href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.<figure id="attachment_242" style="width: 417px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-242" src="/uploads/2010/12/pauloCaroliadpoa10_.jpg" alt="Paulo Caroli Agile Day Porto Alegre 2010" width="417" height="342" srcset="/uploads/2010/12/pauloCaroliadpoa10_.jpg 417w, /uploads/2010/12/pauloCaroliadpoa10_-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Paulo Caroli Agile Day Porto Alegre 2010</figcaption></figure> 
+No último dia 29 de novembro tivemos durante a tarde do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010 Porto Alegre</a> uma excelente transferência de experiências conduzida pelo <a title="@paulocaroli" href="http://twitter.com/paulocaroli" target="_blank">Paulo Caroli</a> da <a title="Thoughtworks" href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.
+
+<figure id="attachment_242" style="width: 417px" class="wp-caption aligncenter">
+<img class="size-full wp-image-242" src="/uploads/2010/12/pauloCaroliadpoa10_.jpg" alt="Paulo Caroli Agile Day Porto Alegre 2010" width="417" height="342" srcset="/uploads/2010/12/pauloCaroliadpoa10_.jpg 417w, /uploads/2010/12/pauloCaroliadpoa10_-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+<figcaption class="wp-caption-text">Paulo Caroli Agile Day Porto Alegre 2010</figcaption>
+</figure>
 
 A apresentação foi iniciada evidenciando <a title="Frederick Taylor" href="http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank">Taylor</a> e suas contribuições ao aumento da eficiência industrial, com uma ressalva a uma de suas teorias de gerência, a <a title="Scientific Management" href="http://en.wikipedia.org/wiki/Scientific_management" target="_blank">scientific management</a>, que em linhas gerais integrava a lógica produtiva a especialização de cada operário, aproveitando estas vantagens empregando-as em um determinado ponto no caminho para a construção desejada. A este conjunto de pontos e o seu entre fluxo no caminho de se objetivar um sucesso  foi dado o nome de <a title="workflow" href="http://en.wikipedia.org/wiki/Workflow" target="_blank">WORKFLOW</a>, e é aí que entra a importância do Taylor nesta apresentação.
 
@@ -48,11 +53,14 @@ Para trabalharmos de forma pareada o card wall apresenta quando devemos separar 
 
 Dentro deste contexto entram em cena os Waiting stages e os action stages! Para o Paulo é muito importante deixarmos visíveis também quais das etapas de nosso workflow devem ser prioridades, quais delas realmente representam um momento em que algo não pode ser alterado por um tempo, para o não permitir acúmulos! Etapas marcadas como Waiting stages devem permitir pausas e estas por sua vez não serão preocupantes, fazem parte do fluxo. Em contrapartida etapas marcadas como action stages devem fornecer uma preocupação extra enquanto a longas permanências e acúmulos.
 
-Os card walls também ajudam o time a entender seu próprio progresso, detalhando ainda mais suas métricas. Um time pode realizar dois projetos com a mesma velocidade,  mas vivenciando situações completamente diferentes durantes suas iterações. Enquanto em um estes podem completar todo o trabalho apenas no último dia sobre trancos e barrancos, o outro podem conseguir construir com a mesma velocidade mas em pequenas e confortáveis conclusões diárias. Para tal o time utilizara-se de três medidas o bandwidth, latency e o throughtput  que são nesta ordem a quantidade de stories ou tarefas que você consegue fazer simultaneamente (O <a title="kanban" href="http://en.wikipedia.org/wiki/Kanban" target="_blank">kanban</a> define o limite do seu bandwidth por etapa), o tempo que cada uma destas demora até que seja concluída e por fim a vazão, que leva em consideração a quantidade de tempo na passagem de uma etapa para a outra, muito usada para a quantidade de conclusões diárias.<figure id="attachment_237" style="width: 417px" class="wp-caption aligncenter">
+Os card walls também ajudam o time a entender seu próprio progresso, detalhando ainda mais suas métricas. Um time pode realizar dois projetos com a mesma velocidade,  mas vivenciando situações completamente diferentes durantes suas iterações. Enquanto em um estes podem completar todo o trabalho apenas no último dia sobre trancos e barrancos, o outro podem conseguir construir com a mesma velocidade mas em pequenas e confortáveis conclusões diárias. Para tal o time utilizara-se de três medidas o bandwidth, latency e o throughtput  que são nesta ordem a quantidade de stories ou tarefas que você consegue fazer simultaneamente (O <a title="kanban" href="http://en.wikipedia.org/wiki/Kanban" target="_blank">kanban</a> define o limite do seu bandwidth por etapa), o tempo que cada uma destas demora até que seja concluída e por fim a vazão, que leva em consideração a quantidade de tempo na passagem de uma etapa para a outra, muito usada para a quantidade de conclusões diárias.
 
-[<img class="size-full wp-image-237" src="/uploads/2010/12/CardWallCaroliadPOa10.jpg" alt="Métricas no card wall - Paulo Caroli" width="417" height="342" srcset="/uploads/2010/12/CardWallCaroliadPOa10.jpg 417w, /uploads/2010/12/CardWallCaroliadPOa10-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]<figcaption class="wp-caption-text">Métricas no card wall - Paulo Caroli</figcaption></figure> 
+<figure id="attachment_237" style="width: 417px" class="wp-caption aligncenter">
+<img class="size-full wp-image-237" src="/uploads/2010/12/CardWallCaroliadPOa10.jpg" alt="Métricas no card wall - Paulo Caroli" width="417" height="342" srcset="/uploads/2010/12/CardWallCaroliadPOa10.jpg 417w, /uploads/2010/12/CardWallCaroliadPOa10-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+<figcaption class="wp-caption-text">Métricas no card wall - Paulo Caroli</figcaption>
+</figure>
 
-*Vale a pena ler o artigo do Caroli sobre como eles desenvolveram uma tática ecologicamente sustentável, mas socio-higienicamente desfavorável para evidenciar de forma automatizada o latency. <a title="ARTIGO: Latency and banana " href="http://www.softwaresecretweapons.com/blog/127/paulo-caroli-latency-and-banana" target="_blank">Latency and banana</a>
+\*Vale a pena ler o artigo do Caroli sobre como eles desenvolveram uma tática ecologicamente sustentável, mas socio-higienicamente desfavorável para evidenciar de forma automatizada o latency. <a title="ARTIGO: Latency and banana " href="http://www.softwaresecretweapons.com/blog/127/paulo-caroli-latency-and-banana" target="_blank">Latency and banana</a>
 
 Em seguida o Paulo apresentou efetivamente a adição no card wall de limites, que segundo ele auxiliam na consciência coletiva juntamente ao pull system, promovendo uma movimentação constante no time para actionstages mediante a impossibilidade de promover uma tarefa devido a um limite existente.
 
@@ -66,5 +74,11 @@ A apresentação do Apulo acabou com um conjunto de perguntas sobre as quais enf
 
 <a title="Apresentação" href="http://www.slideshare.net/paulocaroli/a-linha-de-montagem-de-sw" target="_blank">Slides da Linha de Montagem de Software</a>
 
- [1]: /uploads/2010/12/pauloCaroliadpoa10_.jpg
- [2]: /uploads/2010/12/CardWallCaroliadPOa10.jpg
+---
+
+### **Navegação da Série**
+
+- **Anterior**: [Parte 2 - Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem](../2010-11-30-agile-day-2010-luiz-faias-jr/)
+- **Atual**: Parte 3 - Paulo Caroli sobre Linha de Montagem de Software
+- **Próximo**: —
+- **Série completa**: [Série Agile Day 2010](/pt/series/agile-day-2010/)
