@@ -21,6 +21,10 @@ tags:
   - RS
 ---
 
+<figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">
+<img class="size-full wp-image-217" src="/uploads/2010/11/agileday2010.jpg" alt="Agile day 2010" width="417" height="342" srcset="/uploads/2010/11/agileday2010.jpg 417w, /uploads/2010/11/agileday2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+<figcaption class="wp-caption-text">Agile day 2010</figcaption>
+</figure>
 Tomorrow, November 24th, will take place at FACIN/PUCRS the last event of the year 2010, promoted by the agile methodologies user group from Rio Grande Sul, the <a title="AGILEDAY 2010" href="http://sites.google.com/site/agileday2010/" target="_blank">AGILE DAY 2010</a>.
 
 The <a title="Programação" href="http://sites.google.com/site/agileday2010/Home/programacao" target="_self">programação do evento </a> is very interesting with 5 keynotes and various <a title="Lightining talk" href="http://en.wikipedia.org/wiki/Lightning_Talk" target="_blank">lightining talks</a> and <a title="Fishbowl conversation" href="http://en.wikipedia.org/wiki/Fishbowl_(conversation)" target="_self">fishbowl conversations</a>.

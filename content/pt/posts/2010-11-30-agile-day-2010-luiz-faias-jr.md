@@ -1,5 +1,5 @@
 ---
-title: AGILE DAY 2010 – Luiz Faias Jr.
+title: "Agile Day 2010 – Parte 2: Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem"
 author: helio
 layout: post
 date: 2010-11-30T02:35:31+00:00
@@ -8,15 +8,16 @@ idptt_tweeted:
 embed:
   - This is the default text
 seo_follow:
-  - 'false'
+  - "false"
 seo_noindex:
-  - 'false'
+  - "false"
 dsq_thread_id:
   - 4969844961
 categories:
-  - Ageis
+  - Agile
   - Eventos
   - Metodologias
+series: "Agile Day 2010"
 tags:
   - 2010
   - adpoa10
@@ -26,7 +27,11 @@ tags:
   - poa
   - pucrs
 ---
-<figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-226" src="/uploads/2010/11/adpoa10LuizFaias.jpg" alt="Luiz Faias Junior - Aprendizado" width="417" height="342" srcset="/uploads/2010/11/adpoa10LuizFaias.jpg 417w, /uploads/2010/11/adpoa10LuizFaias-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption></figure> 
+
+<figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">
+<img class="size-full wp-image-226" src="/uploads/2010/11/adpoa10LuizFaias.jpg" alt="Luiz Faias Junior - Aprendizado" width="417" height="342" srcset="/uploads/2010/11/adpoa10LuizFaias.jpg 417w, /uploads/2010/11/adpoa10LuizFaias-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+<figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption>
+</figure>
 
 Na tarde do dia 29/11 tivemos a frente do palco do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre o <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>,  diretor de tecnologia da <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente  aprendizagem!
 
@@ -56,19 +61,23 @@ A bluesoft fazendo a parte dela nesta sinergia, tratou de fomentar um ambiente d
 
 Biblioteca on-line:
 
-  1. Safari Books Online:
-  
-     <a title="http://safaribookshelf.com/ " href="http://safaribookshelf.com/" target="_blank">http://safaribookshelf.com/ </a>&#8211; $22,99 para acessar 10 livros por mês.
-  2. Audible.com:
-  
-     <a title="http://www.audible.com/" href="http://www.audible.com/" target="_blank">http://www.audible.com/</a> &#8211; $22.95 para ouvir dois audio book por mês.
-  3. Peepcode Screemcasts:
-  
-     <a title="http://peepcode.com/" href="http://peepcode.com/" target="_blank">http://peepcode.com/</a> &#8211; $12 para baixar um screencast ou $199 para ver todos por um ano.
-  4. Railscasts:
-  
-     <a title="http://railscasts.com/" href="http://railscasts.com/" target="_blank">http://railscasts.com/</a> &#8211; Gratuito.
-  5. AkitaOnRails
+1. Safari Books Online:
+
+   <a title="http://safaribookshelf.com/ " href="http://safaribookshelf.com/" target="_blank">http://safaribookshelf.com/ </a>&#8211; $22,99 para acessar 10 livros por mês.
+
+2. Audible.com:
+
+   <a title="http://www.audible.com/" href="http://www.audible.com/" target="_blank">http://www.audible.com/</a> &#8211; $22.95 para ouvir dois audio book por mês.
+
+3. Peepcode Screemcasts:
+
+   <a title="http://peepcode.com/" href="http://peepcode.com/" target="_blank">http://peepcode.com/</a> &#8211; $12 para baixar um screencast ou $199 para ver todos por um ano.
+
+4. Railscasts:
+
+   <a title="http://railscasts.com/" href="http://railscasts.com/" target="_blank">http://railscasts.com/</a> &#8211; Gratuito.
+
+5. AkitaOnRails
 
 Outras estratégias legais são os grupos de leitura ou estudo, seja cada um lendo o seu, ou todos lendo o mesmo; programação em par; dojos&#8230; O importante é debater e aprender! Ilhas de conhecimento nunca!
 
@@ -88,4 +97,11 @@ VALEU LUIZ E ANDRÉ&#8230; por mais uma empresa que estimula as boas práticas e
 
 <a title="Apresentação" href="http://www.slideshare.net/bluesoftbr/construindo-uma-cultura-de-aprendizagem-5880225" target="_blank">Construindo uma cultura de aprendizagem </a>
 
- [1]: /uploads/2010/11/adpoa10LuizFaias.jpg
+---
+
+### **Navegação da Série**
+
+- **Anterior**: [Parte 1 - Klaus Wuestefeld sobre Qualidade vs. Velocidade](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
+- **Atual**: Parte 2 - Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem
+- **Próximo**: [Parte 3 - Paulo Caroli sobre Linha de Montagem de Software](../2010-12-12-agile-day-2010-paulo-caroli/)
+- **Série completa**: [Série Agile Day 2010](/pt/series/agile-day-2010/)

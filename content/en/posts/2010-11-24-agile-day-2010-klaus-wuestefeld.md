@@ -26,7 +26,11 @@ tags:
   - pucrs
 ---
 
-<figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">[<img class="size-full wp-image-217" src="/uploads/2010/11/agileday2010.jpg" alt="Agile day 2010" width="417" height="342" srcset="/uploads/2010/11/agileday2010.jpg 417w, /uploads/2010/11/agileday2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]<figcaption class="wp-caption-text">Agile day 2010</figcaption></figure> The Agile Day 2010 in POA started officially at 09:00h, with Daniel Wildt presenting the idea of the event and its format with his enthusiastic agile attitude!
+<figure id="attachment_215" style="width: 417px" class="wp-caption aligncenter">
+<img class="size-full wp-image-215" src="/uploads/2010/11/KlausAgileDay2010.jpg" alt="Klaus Wuestefeld" width="417" height="342" srcset="/uploads/2010/11/KlausAgileDay2010.jpg 417w, /uploads/2010/11/KlausAgileDay2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />
+<figcaption class="wp-caption-text">Klaus Wuestefeld Agile Day 2010</figcaption>
+</figure>
+The Agile Day 2010 in POA started officially at 09:00h, with Daniel Wildt presenting the idea of the event and its format with his enthusiastic agile attitude!
 
 For this year, there were 114 registered participants and only one missing presenter, André Nascimento wasn't there.
 
@@ -34,7 +38,9 @@ Immediately after that, Klaus was introduced and started one of the planned keyn
 
 The presentation began at 09:20h with Klaus asking which of the congress participants actually worked on software development, and among those who had already put their software into production!
 
-He said he respected these guys. <figure id="attachment_215" style="width: 417px" class="wp-caption aligncenter"> [<img class="size-full wp-image-215" src="/uploads/2010/11/KlausAgileDay2010.jpg" alt="Klaus Wuestefeld" width="417" height="342" srcset="/uploads/2010/11/KlausAgileDay2010.jpg 417w, /uploads/2010/11/KlausAgileDay2010-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]<figcaption class="wp-caption-text">Klaus Wuestefeld Agile Day 2010</figcaption></figure> Next, Klaus started presenting a bit of his history, from coding with friends as a teenager to escaping formal methods after attending the XP event in Italy in 2000 and creating a Byecycle fractal plugin with Kent Beck in a week, up until today and the Agile Day dilemma to be addressed in this presentation...
+He said he respected these guys.
+
+Next, Klaus started presenting a bit of his history, from coding with friends as a teenager to escaping formal methods after attending the XP event in Italy in 2000 and creating a Byecycle fractal plugin with Kent Beck in a week, up until today and the Agile Day dilemma to be addressed in this presentation...
 
 How much should we prioritize quality in a project when its PO is urgent?
 
@@ -68,6 +74,3 @@ Klaus ended his presentation with a quote from GO, "throw away your first 100 ga
 - **Current**: Part 1 - Klaus Wuestefeld on Quality vs. Speed
 - **Next**: [Part 2 - Luiz Faias Jr. on Building a Learning Culture](../2010-11-30-agile-day-2010-luiz-faias-jr/)
 - **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)
-
-[1]: /uploads/2010/11/agileday2010.jpg
-[2]: /uploads/2010/11/KlausAgileDay2010.jpg
