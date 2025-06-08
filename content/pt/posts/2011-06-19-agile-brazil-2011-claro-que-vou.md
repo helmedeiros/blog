@@ -21,11 +21,6 @@ tags:
   - Songdoro
 ---
 
-<figure id="attachment_359" style="width: 250px" class="wp-caption alignleft">
-<img class="size-full wp-image-359" src="/uploads/2011/06/banner-250.png" alt="Agile Brazil 2011" width="250" height="354" srcset="/uploads/2011/06/banner-250.png 250w, /uploads/2011/06/banner-250-211x300.png 211w" sizes="(max-width: 250px) 100vw, 250px" />
-<figcaption class="wp-caption-text">Agile Brazil 2011</figcaption>
-</figure>
-
 O <a href="http://agilebrazil.com" target="_blank">Agile Brazil 2011</a> acontece de 27 de junho a 1º de julho em Fortaleza/CE, reunindo mais de 50 palestras que abordam os principais temas da agilidade no cenário global. E a boa notícia: **eu estarei lá — e palestrando!**
 
 Essa participação tem um gosto especial. Quando ainda morava em Natal/RN, sonhava com eventos assim. Hoje, seis meses após minha mudança para Porto Alegre para integrar a equipe de services da Dell, volto ao nordeste para apresentar **dois lightning talks** — exatamente na região de onde parti.
@@ -51,3 +46,8 @@ Vai ter exemplos práticos, histórias reais e até playlists compartilhadas!
 Durante o evento, farei postagens diárias com destaques das palestras e sessões que me chamarem atenção. Se você ainda não garantiu seu lugar, ainda dá tempo: <a title="Inscrição para Agile Brazil 2011" href="http://submissoes.agilebrazil.com/attendees/new" target="_blank">inscreva-se aqui</a>.
 
 Fortaleza, aí vou eu!
+
+<figure id="attachment_359" style="width: 250px" class="wp-caption alignleft">
+<img class="size-full wp-image-359" src="/uploads/2011/06/banner-250.png" alt="Agile Brazil 2011" width="250" height="354" srcset="/uploads/2011/06/banner-250.png 250w, /uploads/2011/06/banner-250-211x300.png 211w" sizes="(max-width: 250px) 100vw, 250px" />
+<figcaption class="wp-caption-text">Agile Brazil 2011</figcaption>
+</figure>
