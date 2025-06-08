@@ -1,5 +1,5 @@
 ---
-title: "Agile Day 2010 – Porto Alegre"
+title: "Agile Day 2010 – Announcement: Agile Day 2010 Preview"
 author: helio
 layout: post
 date: 2010-11-24T00:09:00+00:00
@@ -39,6 +39,7 @@ I hope to see you there!
 
 ### **Series Navigation**
 
+- **Previous**: —
 - **Current**: Announcement - Agile Day 2010 Preview
 - **Next**: [Part 1 - Klaus Wuestefeld on Quality vs. Speed](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
 - **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)
