@@ -1,14 +1,11 @@
 ---
-title: "Stefanini Open Talks – Technique"
+title: "Stefanini Open Talks – Pomodoro Technique and Depth in Work"
 author: helio
 layout: post
-date: 2011-01-14T01:07:59+00:00
-idptt_tweeted: 
-embed: 
-seo_follow: 
-seo_noindex: 
+date: 2011-01-13T01:07:59+00:00
 categories:
-  - Eventos
+  - Events
+  - Productivity
 tags:
   - Hélio
   - Open Talks
@@ -16,45 +13,54 @@ tags:
   - Pomodoro
   - Stefanini
   - TECNOPUC
+  - Dell
+  - Pomodoro Technique
+  - Productivity
+  - Focus
 ---
 
-It happened on this Thursday, January 13th, at the Auditório Assespro building 96 of <a title="TECNOPUC" href="http://www.pucrs.br/agt/tecnopuc/" target="_blank">Tecnopuc</a>, the first meeting of the <a title="Stefanini" href="http://www.stefanini.com.br/BR/home.html" target="_blank">Stefanini </a> Open Talks.
+Today, Thursday January 13th, I had the opportunity to kick off the very first edition of Stefanini Open Talks, held at the Assespro Auditorium in building 96 of Tecnopuc. This initiative came out of conversations with Marcelo Schmidt and the administrative team of Stefanini responsible for the Dell account. Our goal was both simple and ambitious: to create a shared learning space inside our operation, celebrating the knowledge we build through our daily experiences.
 
-This new initiative proposed by collaborator <a title="Marcelo Schmidt" href="http://twitter.com/schmidtmarcelo" target="_blank">Marcelo Schmidt</a> together with the administrative team responsible for customer account <a title="DELL" href="http://www.dell.com.br/" target="_blank">DELL</a> aims to involve institution colleagues around various topics.
+The inspiration came from formats like brown bags and lightning talks, where the content is sharp and timeboxed — 15 minutes of talk, 15 of Q&A. Today, that time extended a bit, and I realized this space has much more potential than we initially imagined.
 
-Having its origin in <a title="Brown Bags seminar" href="http://en.wikipedia.org/wiki/Brown_bag_seminars" target="_blank">brown bags seminars</a>, the event follows a format with 15-minute presentations and other 15 minutes for questions.
+My presentation focused on the **Pomodoro Technique**, originally created by Francesco Cirillo. But I didn't want to just repeat formal definitions — my goal was to show how I've actively used Pomodoro in a real Dell project during a critical refactor. I wanted to present a _living practice_ — used, tested, and reflected upon.
 
-At this first meeting, I presented <a title="Pomodoro Technique" href="http://www.pomodorotechnique.com/" target="_blank">técnica pomodoro</a>, created by <a title="Francesco Cirillo" href="http://twitter.com/cirillof" target="_blank">Francesco Cirillo,</a> about how I used it in refactoring one of DELL's systems, and what benefits were found in using this technique and its impact on the final work result.
+Pomodoro relies on short time blocks, typically 30 minutes divided into 25 of focused execution and 5 of rest or reorganization. It seems simple, and that's where its power lies: minimal structure that reduces friction and maximizes attention. I started small and quickly saw gains in both productivity and clarity.
 
-The Pomodoro is a technique with few rules and great effect for time management, based on very short cycles (30 minutes), where execution, reflection, adaptation, and rest take place.
+During cycles, I jot down everything that comes up — interruptions, side ideas, future blockers. This collection turns into input for later decisions. It's a way to shield my active work time and keep my mind clear.
 
-This format allows users to do more focused work, with even greater opportunities for developing strategies and actions aimed at continuous personal and process improvement.
+One aspect I brought to the talk — and which sparked some discussion — was **my personal adaptation of the technique**, where I write down the exact goal of each cycle before starting. Something like "finish contract endpoint payload transformation." That small ritual changes everything.
 
-During these 30 minutes, we have two <a title="timeboxing" href="http://en.wikipedia.org/wiki/Timeboxing" target="_blank">timeboxes</a>, one with 25 minutes for executing the planned activity and the remaining 5 minutes for adaptation/rest; these cycles occur four times, and then there is a slightly longer interval of 15 to 30 minutes.
+I also shared thoughts on internal and external interruptions. Real-life examples helped: chatty office neighbors, browser alerts, the temptation to check that fresh PR. I listed some tactics I use, like muting Slack channels or using visual signs to set boundaries.
 
-During this entire cycle, a small set of rules governs the orchestra, making it possible for the technique to assist its user in visualizing problems in their use, such as different types of interruptions (internal and external) and planning issues.
+The audience was especially receptive to my concept of **depth as a success metric**. I presented what I call the "depth rule," inspired by readings like Kent Beck's _Test Driven Development: By Example_. When a technical task uncovers layers that weren't originally planned, we must decide whether to deepen or park them.
 
-To use Pomodoro, only two spaces are needed: one for noting activities that arise or are estimated or de-prioritized, and another for separating what will be done on the day.
+I also talked about what I call **knowledge of dirt** — a rule of thumb I developed by observing repeated issues across the same modules and flows. Mapping this "dirty ground" helps us anticipate complexity and focus our refactoring efforts based on statistical recurrence.
 
-After estimating and balancing the list for the day, simply define the timebox and work as best you can within what was planned.
+I made sure to show how I apply Pomodoro beyond code: reviewing documentation, prepping slides, organizing support tasks. The technique isn't just for developers — it's for _any_ task that demands focused delivery.
 
-As the day goes by and planned activities are concluded, new problems always emerge that need to be managed (noted, analyzed, and resolved).
+I explained how I use **visual lists**, separating today's priorities from deprioritized items. Moving a post-it from one column to another gives me a sense of control and keeps infinite to-do lists at bay.
 
-The important thing is not to forget these issues, and it's interesting, something I usually add to the technique's scope when applying, are the **rules of depth** and the **knowledge of dirt**.
+Midway through, someone asked how to scale this to teams. My answer was straightforward: it starts solo, but the collective effect is powerful. When three or four people around you respect their focus blocks, a micro-culture of productivity emerges.
 
-The rule of depth, I don't know if there's anything actually with this name (please let me know if anyone has a name for this), which came to me as a concept in the book by <a title="Kent Beck" href="http://twitter.com/kentbeck" target="_blank">Kent Beck</a> <a title="TDD:
+I even showed examples of teams running synchronized Pomodoros — starting and ending blocks together. That cuts cross-interruptions and enforces discipline during daily rituals.
 
-By Example" href="http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530" target="_blank">Test Driven development:
+To visualize it, I presented a chart mapping cycles, interruptions, and weekly delivery metrics. It helped show how small daily wins compound into measurable impact.
 
-By example</a>, that defines that a certain error found must have a limit for profundation, since a code problem can bring many levels of refactoring that would directly interfere with the planned.
+I also discussed **how to assess whether a Pomodoro was successful**. It doesn't always yield a commit. Sometimes the win is deferring a bad idea, uncovering a deep bug, or making a future plan. Results aren't just about finishing — they're about making better decisions.
 
-The rule of dirt refers to statistically knowing how dirty your environment was (in my case, during refactoring), and how much better it's becoming; I usually use as a factor in this analysis the number of interruptions or possible interruptions I see during a refactoring, relative to my own code (These are marked on my TODO list with a +); the fewer + I see over the days of a refactoring, the more I believe in possible improvement in the code.
+I closed by sharing complementary practices: quick cycle reviews, end-of-day journaling, and personal weekly retros. Simple tools that build consistency without relying on memory or motivation.
 
-I saw significant improvements in quality and efficiency in my work using this technique, so I found it interesting to present it to the other team members.
+I shared how Pomodoro helped me through tough times — like balancing work and family emergencies. Having a lightweight structure gave me confidence to show up, even on emotionally heavy days.
 
-Thank you to Stefanini for the space and the team for participating; and I hope that future Stefanini Open Talks will be even better. <div style="margin-bottom: 20px;">
+I wrapped up with something I truly believe: productivity isn't about going faster. It's about aligning intention, attention, and action. For me, Pomodoro has become a bridge between energy and delivery.
+
+Huge thanks to Stefanini for the space, to Marcelo Schmidt for coordinating the event, and to all my Dell colleagues for the generous knowledge exchange. I hope we have more sessions like this — where practice meets the courage to share.
+
+If you've never tried Pomodoro, run one tomorrow. And if you have, try adding a personal metric for depth. I promise it's worth it.
+
+<div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-</iframe>
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
 </div>
