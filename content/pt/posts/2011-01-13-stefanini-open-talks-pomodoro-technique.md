@@ -60,8 +60,5 @@ Agradeço imensamente à Stefanini pela abertura, ao Marcelo Schmidt pela articu
 Se você nunca tentou Pomodoro, comece com um ciclo amanhã. E se já usa, experimente adicionar uma métrica pessoal de profundidade. Eu garanto que vai valer o tempo.
 
 <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">Ver mais apresentações de Hélio Medeiros</a></strong>
-</div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/HSzpp8Lte0z1xp?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/stefanini-open-talks-i-pomodoro/6554537" title="Stefanini - Open Talks I - Pomodoro" target="_blank">Stefanini - Open Talks I - Pomodoro</a> </strong> from <strong> <a href="https://www.slideshare.net/heliomedeiros" target="_blank">Hélio Medeiros</a> </strong></div>
 </div>
