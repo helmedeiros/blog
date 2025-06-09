@@ -48,7 +48,7 @@ We need to recognize the internal tension between **pain (loss, confusion, fear)
 
 We explored the **change curve**, adapted from grief psychology, showing how people move through stages: denial, resistance, exploration, and acceptance. Some speed through it. Others get stuck. Our job isn't to push people along, but to **support them where they are**.
 
-![Change Management Curve](/uploads/2023/11/Screenshot 2025-06-09 at 21.37.24.png)
+![Change Management Curve](/uploads/2023/11/kubler-ross-change-curve.png)
 
 ### 2. Supporting Change with Empathy
 

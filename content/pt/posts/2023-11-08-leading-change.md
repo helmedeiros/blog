@@ -50,7 +50,7 @@ Liderar mudança com empatia significa equilibrar o **reconhecimento da dor** co
 
 A curva da mudança nos ajuda a entender como as pessoas passam por negação, resistência, exploração e aceitação. Algumas pessoas avançam rápido. Outras ficam presas em fases. Nosso papel como líderes não é acelerar, mas **acompanhar e apoiar cada uma delas**.
 
-![Change Management Curve](/uploads/2023/11/Screenshot 2025-06-09 at 21.37.24.png)
+![Change Management Curve](/uploads/2023/11/kubler-ross-change-curve.png)
 
 ---
 
