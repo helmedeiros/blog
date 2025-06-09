@@ -175,3 +175,5 @@ A responsive leader sees dysfunction not as failure, but as **invitation to coac
 # Weekly team pulse
 echo "What trust-building moment happened this week?" >> team_health_log.txt
 ```
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/525cf6d9073f42f9b568c3881c951b9b?slide=9" title="Responsive Leadership" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 394;" data-ratio="1.4213197969543148"></iframe>
