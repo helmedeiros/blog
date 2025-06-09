@@ -95,11 +95,11 @@ echo "Sprint ceremonies are owned by the team and facilitated on rotation." >> t
 
 **Previous in the series:** [Part 1 - Recognizing the Need for Change](/posts/2022-10-27-scrum-transition-part1/)
 
-**Next in the series:** [Part 3 - Implementation and Early Challenges](/posts/2022-11-10-scrum-transition-part3/) (Coming November 10, 2022)
+**Next in the series:** [Part 3 - Coaching Engineers to Lead the Process](/posts/2022-11-10-scrum-transition-part3/)
 
 **Kanban to Scrum Transition Series:**
 
 - Part 1: Recognizing the Need for Change (Oct 27, 2022)
 - **Part 2: Aligning Goals, Metrics, and Shared Understanding** (This post)
-- Part 3: Implementation and Early Challenges (Nov 10, 2022)
+- Part 3: Coaching Engineers to Lead the Process (Nov 10, 2022)
 - Part 4: Lessons Learned and Continuous Improvement (Nov 17, 2022)

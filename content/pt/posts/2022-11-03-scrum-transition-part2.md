@@ -95,11 +95,11 @@ echo "As cerimônias Scrum são de responsabilidade do time e facilitadas em rod
 
 **Anterior na série:** [Parte 1 - Reconhecendo a Necessidade de Mudança](/pt/posts/2022-10-27-scrum-transition-part1/)
 
-**Próximo na série:** [Parte 3 - Implementação e Primeiros Desafios](/pt/posts/2022-11-10-scrum-transition-part3/) (10 de novembro, 2022)
+**Próximo na série:** [Parte 3 - Desenvolvendo Engenheiros para Liderar o Processo](/pt/posts/2022-11-10-scrum-transition-part3/)
 
 **Série Transição de Kanban para Scrum:**
 
 - Parte 1: Reconhecendo a Necessidade de Mudança (27 out, 2022)
 - **Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado** (Este post)
-- Parte 3: Implementação e Primeiros Desafios (10 nov, 2022)
+- Parte 3: Desenvolvendo Engenheiros para Liderar o Processo (10 nov, 2022)
 - Parte 4: Lições Aprendidas e Melhoria Contínua (17 nov, 2022)
