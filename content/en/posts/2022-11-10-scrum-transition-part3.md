@@ -82,11 +82,11 @@ echo "Who can I support to lead next week's retro?" >> team_growth_log.txt
 
 **Previous in the series:** [Part 2 - Aligning Goals, Metrics, and Shared Understanding](/posts/2022-11-03-scrum-transition-part2/)
 
-**Next in the series:** [Part 4 - Lessons Learned and Continuous Improvement](/posts/2022-11-17-scrum-transition-part4/) (Coming November 17, 2022)
+**Next in the series:** [Part 4 - Our Plays, Our Way](/posts/2022-11-17-scrum-transition-part4/)
 
 **Kanban to Scrum Transition Series:**
 
 - Part 1: Recognizing the Need for Change (Oct 27, 2022)
 - Part 2: Aligning Goals, Metrics, and Shared Understanding (Nov 3, 2022)
 - **Part 3: Coaching Engineers to Lead the Process** (This post)
-- Part 4: Lessons Learned and Continuous Improvement (Nov 17, 2022)
+- Part 4: Our Plays, Our Way (Nov 17, 2022)
