@@ -89,11 +89,11 @@ echo "Nosso processo atual está ajudando ou bloqueando nossos objetivos?" >> re
 
 ---
 
-**Próximo na série:** [Parte 2 - Definindo Objetivos e Construindo Alinhamento do Time](/pt/posts/2022-11-03-scrum-transition-part2/) (3 de novembro, 2022)
+**Próximo na série:** [Parte 2 - Alinhando Metas, Métricas e Entendimento Compartilhado](/pt/posts/2022-11-03-scrum-transition-part2/)
 
 **Série Transição de Kanban para Scrum:**
 
 - **Parte 1: Reconhecendo a Necessidade de Mudança** (Este post)
-- Parte 2: Definindo Objetivos e Construindo Alinhamento do Time (3 nov, 2022)
+- Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado (3 nov, 2022)
 - Parte 3: Implementação e Primeiros Desafios (10 nov, 2022)
 - Parte 4: Lições Aprendidas e Melhoria Contínua (17 nov, 2022)
