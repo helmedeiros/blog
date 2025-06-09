@@ -39,9 +39,9 @@ echo "📘 Início da Série de Treinamentos de Liderança – Maio 2023" > diar
 
 ### Índice da Série
 
-- [Primeiros 90 Dias como Gestor](./2023-05-05-managers-first-90-days-intro/)
-- [Expandindo Mentes e Horizontes](./2023-06-20-grow-their-minds-expand-horizons/)
-- [Liderança Responsiva Parte 1](./2023-07-05-responsive-leadership-part1/)
-- [Liderança Responsiva Parte 2](./2023-07-06-responsive-leadership-part2/)
-- [Conduzindo Mudanças](./2023-11-08-leading-change/)
-- [Ambiente de Trabalho Respeitoso](./2023-02-21-respectful-workplace/)
+- [Primeiros 90 Dias como Gestor](/pt/posts/2023-05-05-managers-first-90-days-intro/)
+- [Expandindo Mentes e Horizontes](/pt/posts/2023-06-20-grow-their-minds-expand-horizons/)
+- [Liderança Responsiva Parte 1](/pt/posts/2023-07-05-responsive-leadership-part1/)
+- [Liderança Responsiva Parte 2](/pt/posts/2023-07-06-responsive-leadership-part2/)
+- [Conduzindo Mudanças](/pt/posts/2023-11-08-leading-change/)
+- [Ambiente de Trabalho Respeitoso](/pt/posts/2023-02-21-respectful-workplace/)
