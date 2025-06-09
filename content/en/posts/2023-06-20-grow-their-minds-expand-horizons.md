@@ -89,3 +89,5 @@ Here's a reflection table I drafted to bring this back to my team:
 # Weekly reminder to share one learning moment
 echo "Add growth moment to Friday wrap-up" >> team_rhythm.txt
 ```
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/beacf385be0c4def837093e03c06ad32" title="Grow Their Minds, Expand Our Horizons" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 394;" data-ratio="1.4213197969543148"></iframe>

@@ -37,7 +37,7 @@ Foi bom confirmar que práticas que venho cultivando — como usar retros como m
 
 ```bash
 # Registro semanal de práticas de mentalidade de crescimento
-echo "✅ Reconhecido esforço em retro da equipe, 19 de junho" >> log_mentalidade.txt
+echo "Reconhecido esforço em retro da equipe, 19 de junho" >> log_mentalidade.txt
 ```
 
 ## Praticar o Crescimento com Consistência
@@ -87,5 +87,7 @@ O que mais levo dessa sessão é a lembrança de que liderar não é ter todas a
 
 ```bash
 # Lembrete semanal para compartilhar aprendizado com a equipe
-echo "⏳ Adicionar momento de crescimento no wrap-up de sexta" >> ritmo_time.txt
+echo "Adicionar momento de crescimento no wrap-up de sexta" >> ritmo_time.txt
 ```
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/beacf385be0c4def837093e03c06ad32" title="Grow Their Minds, Expand Our Horizons" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 394;" data-ratio="1.4213197969543148"></iframe>
