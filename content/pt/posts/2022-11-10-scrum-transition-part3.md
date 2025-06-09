@@ -82,11 +82,11 @@ echo "Quem posso apoiar para facilitar a próxima retro?" >> diario_crescimento.
 
 **Anterior na série:** [Parte 2 - Alinhando Metas, Métricas e Entendimento Compartilhado](/pt/posts/2022-11-03-scrum-transition-part2/)
 
-**Próximo na série:** [Parte 4 - Lições Aprendidas e Melhoria Contínua](/pt/posts/2022-11-17-scrum-transition-part4/) (17 de novembro, 2022)
+**Próximo na série:** [Parte 4 - Nossos Rituais, Do Nosso Jeito](/pt/posts/2022-11-17-scrum-transition-part4/)
 
 **Série Transição de Kanban para Scrum:**
 
 - Parte 1: Reconhecendo a Necessidade de Mudança (27 out, 2022)
 - Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado (3 nov, 2022)
 - **Parte 3: Desenvolvendo Engenheiros para Liderar o Processo** (Este post)
-- Parte 4: Lições Aprendidas e Melhoria Contínua (17 nov, 2022)
+- Parte 4: Nossos Rituais, Do Nosso Jeito (17 nov, 2022)
