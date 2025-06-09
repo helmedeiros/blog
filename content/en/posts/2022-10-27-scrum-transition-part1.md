@@ -89,11 +89,11 @@ echo "Is our current process helping or blocking our goals?" >> retro_notes_oct2
 
 ---
 
-**Next in the series:** [Part 2 - Setting Goals and Building Team Alignment](/posts/2022-11-03-scrum-transition-part2/) (Coming November 3, 2022)
+**Next in the series:** [Part 2 - Aligning Goals, Metrics, and Shared Understanding](/posts/2022-11-03-scrum-transition-part2/)
 
 **Kanban to Scrum Transition Series:**
 
 - **Part 1: Recognizing the Need for Change** (This post)
-- Part 2: Setting Goals and Building Team Alignment (Nov 3, 2022)
+- Part 2: Aligning Goals, Metrics, and Shared Understanding (Nov 3, 2022)
 - Part 3: Implementation and Early Challenges (Nov 10, 2022)
 - Part 4: Lessons Learned and Continuous Improvement (Nov 17, 2022)
