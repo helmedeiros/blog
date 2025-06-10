@@ -2,7 +2,7 @@
 title: "Acordos de Time – Base para Autonomia, Responsabilidade e Colaboração"
 author: helio
 layout: post
-date: 2022-10-27T10:00:00+00:00
+date: 2021-10-27T10:00:00+00:00
 categories:
   - Leadership
   - Management
