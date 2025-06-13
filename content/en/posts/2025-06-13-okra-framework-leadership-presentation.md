@@ -11,20 +11,20 @@ tags:
   - OKRs
   - Team Leadership
   - Strategy Execution
-subtitle: How two years of iterative framework development culminated in a leadership presentation that demonstrated the power of collaborative strategy execution
+subtitle: How two years of iterative method development culminated in a leadership presentation that demonstrated the power of collaborative strategy execution
 ---
 
-On June 13, 2025, Pernelle and I presented our experience with the OKRA framework, a framework we created and have been iterating on over the past two years to improve how we connect strategy with execution. What began as a simple way to make OKR planning more collaborative gradually became a consistent part of how our teams work and deliver results.
+On June 13, 2025, Pernelle and I presented our experience with OKRA—a lightweight method we’ve been shaping and evolving over the past two years to help teams better connect strategy with execution. What began as a simple idea to make OKR planning more collaborative has steadily become one of the tools that help us cultivate autonomy, alignment, and ownership.
 
-We were invited by Omio’s OKR shepherds to share these learnings with product leaders across the company. This followed a period where our teams maintained strong performance while demonstrating clear ownership of their goals. It wasn’t about doing more work—it was about aligning better on what mattered.
+We were invited by Omio’s OKR shepherds to share our learnings with product leaders across the company. The invitation came at a time when our teams had demonstrated consistent results, but more importantly, a stronger sense of clarity, accountability, and team-driven direction. OKRA isn’t the only reason for that—but it’s helped create the conditions for it.
 
-Our outcomes were solid, but what stood out most was a change in mindset. Teams were more focused, and conversations shifted from questioning purpose to anticipating action. That level of engagement made a real difference.
+Our outcomes were solid, but what stood out most was a shift in mindset. Teams became more focused, and discussions moved from “what are we supposed to do” to “how do we make this work.” That behavioral change is where OKRA really adds value.
 
 ## The Track Record That Earned Us the Platform
 
-Since adopting OKRA in Q3 2022, our teams have maintained an impressive delivery record that goes beyond simple completion rates. The framework has enabled us to achieve over 85% completion of all key results and milestones across 8 quarters, with the last 6 months showing 94% completion rates.
+Since adopting OKRA in Q3 2022, our teams have achieved more than 85% of key results and milestones across eight quarters, with the last six months reaching over 94%. That’s not just execution—it’s engagement.
 
-The OKRA framework had become our answer to three persistent challenges that plague most product teams: unclear strategy translation, surface-level team alignment, and planning processes that create compliance rather than commitment. We had created and developed a systematic approach to turning company-level objectives into team-owned plans that people actually believed in.
+Of course, no framework alone explains team success. But OKRA helped us tackle three chronic issues: vague strategic translation, shallow alignment, and planning that encouraged compliance instead of real commitment. OKRA offered us a way to turn company-level goals into plans that teams understood, challenged, and co-owned.
 
 ## Understanding OKRA: Beyond the Acronym
 
