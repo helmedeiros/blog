@@ -14,23 +14,21 @@ tags:
 subtitle: How two years of iterative framework development culminated in a leadership presentation that demonstrated the power of collaborative strategy execution
 ---
 
-On June 13, 2025, Pernelle and I had the opportunity to present a topic that has been quietly transforming our team's approach to strategy execution for over two years: the **OKRA framework**. What started as an internal experiment in collaborative OKR development had evolved into a systematic approach that consistently delivered results and built genuine team commitment.
+On June 13, 2025, Pernelle and I presented our experience with the OKRA framework, a method we’ve used over the past two years to improve how we connect strategy with execution. What began as a simple way to make OKR planning more collaborative gradually became a consistent part of how our teams work and deliver results.
 
-We were invited by Omio's OKR shepherds to share our learnings with 34 leaders across the organization. The invitation came after our teams had demonstrated something remarkable: sustained high performance with genuine team ownership. This wasn't about pushing harder or working longer hours. It was about creating alignment that actually worked.
+We were invited by Omio’s OKR shepherds to share these learnings with product leaders across the company. This followed a period where our teams maintained strong performance while demonstrating clear ownership of their goals. It wasn’t about doing more work—it was about aligning better on what mattered.
 
-The numbers spoke for themselves, but more importantly, the teams spoke differently. Instead of asking "Why are we doing this?" they were asking "When can we start?" That shift in engagement was what caught leadership's attention.
+Our outcomes were solid, but what stood out most was a change in mindset. Teams were more focused, and conversations shifted from questioning purpose to anticipating action. That level of engagement made a real difference.
 
 ## The Track Record That Earned Us the Platform
 
 Since adopting OKRA in Q3 2022, our teams have maintained an impressive delivery record that goes beyond simple completion rates. The framework has enabled us to achieve over 85% completion of all key results and milestones across 8 quarters, with the last 6 months showing 94% completion rates.
 
-However, these numbers only tell part of the story. What made leadership take notice was not just the delivery consistency, but the quality of team engagement and the strategic coherence of our initiatives. Teams were not just hitting targets; they were building products that mattered, solving customer problems that moved business metrics, and doing so with remarkable alignment across engineering, product, and design functions.
-
 The OKRA framework had become our answer to three persistent challenges that plague most product teams: unclear strategy translation, surface-level team alignment, and planning processes that create compliance rather than commitment. We had developed a systematic approach to turning company-level objectives into team-owned plans that people actually believed in.
 
 ## Understanding OKRA: Beyond the Acronym
 
-OKRA represents a fundamental shift in how we approach collaborative strategy development. The acronym stands for Objectives, Key Results, Risks, and Actions (or Assumptions, depending on context), but the real power lies in the facilitation methodology that brings these elements together.
+OKRA represents a fundamental shift in how we approach collaborative strategy development. The acronym stands for Objectives and Key Results Agreements, but the real power lies in the facilitation methodology that brings these elements together.
 
 Unlike traditional OKR cascading, where objectives flow down from leadership with minimal team input, OKRA creates space for teams to contribute their expertise, surface constraints, and build hypotheses about what will actually work. The framework operates on the principle that the people closest to the customer and the technology have insights that are essential for effective strategy execution.
 
