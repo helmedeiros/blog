@@ -14,7 +14,7 @@ tags:
 subtitle: Como dois anos de desenvolvimento iterativo de framework culminaram em uma apresentação à liderança que demonstrou o poder da execução estratégica colaborativa
 ---
 
-No dia 13 de junho de 2025, Pernelle e eu apresentamos nossa experiência com o framework OKRA, um método que usamos nos últimos dois anos para melhorar como conectamos estratégia com execução. O que começou como uma forma simples de tornar o planejamento de OKRs mais colaborativo acabou se tornando uma parte consistente da maneira como nossas equipes trabalham e entregam resultados.
+No dia 13 de junho de 2025, Pernelle e eu apresentamos nossa experiência com o framework OKRA, um framework que criamos e temos iterado nos últimos dois anos para melhorar como conectamos estratégia com execução. O que começou como uma forma simples de tornar o planejamento de OKRs mais colaborativo acabou se tornando uma parte consistente da maneira como nossas equipes trabalham e entregam resultados.
 
 Fomos convidados pelos OKR shepherds da Omio para compartilhar esses aprendizados com líderes de produto de toda a empresa. Isso veio após um período em que nossas equipes mantiveram um desempenho sólido, ao mesmo tempo em que demonstraram uma clara responsabilidade sobre suas metas. Não se tratava de fazer mais trabalho — e sim de alinhar melhor o que realmente importava.
 
@@ -24,11 +24,11 @@ Nossos resultados foram consistentes, mas o que mais se destacou foi a mudança 
 
 Desde a adoção do OKRA no Q3 de 2022, nossas equipes mantiveram um histórico impressionante de entrega que vai além de simples taxas de conclusão. O framework nos permitiu alcançar mais de 85% de conclusão de todos os resultados-chave(KRs) e marcos(Milestones) ao longo de 6 trimestres, com os últimos 6 meses mostrando taxas de conclusão de 94%.
 
-O framework OKRA havia se tornado nossa resposta a três desafios persistentes que afligem a maioria das equipes de produto: tradução de estratégia pouco clara, alinhamento superficial da equipe, e processos de planejamento que criam conformidade em vez de compromisso. Havíamos desenvolvido uma abordagem sistemática para transformar objetivos em nível da empresa em planos com senso de pertencimento da equipe nos quais as pessoas realmente acreditavam.
+O framework OKRA havia se tornado nossa resposta a três desafios persistentes que afligem a maioria das equipes de produto: tradução de estratégia pouco clara, alinhamento superficial da equipe, e processos de planejamento que criam conformidade em vez de compromisso. Havíamos criado e desenvolvido uma abordagem sistemática para transformar objetivos em nível da empresa em planos com senso de pertencimento da equipe nos quais as pessoas realmente acreditavam.
 
 ## Entendendo o OKRA: Além do Acrônimo
 
-O OKRA representa uma mudança fundamental em como abordamos o desenvolvimento estratégico colaborativo. O acrônimo significa acordos (Agreement) para Objetivos e Key Results (Resultados-Chave), mas o verdadeiro poder está na metodologia de facilitação que une esses elementos.
+O framework OKRA originou-se da necessidade de nossa equipe de conectar a visão estratégica com a execução tática. O OKRA representa uma mudança fundamental em como abordamos o desenvolvimento estratégico colaborativo. O acrônimo significa acordos (Agreement) para Objetivos e Key Results (Resultados-Chave), mas o verdadeiro poder está na metodologia de facilitação que une esses elementos.
 
 Diferente do cascateamento tradicional de OKRs, onde objetivos fluem da liderança com mínima participação da equipe, o OKRA cria espaço para equipes contribuírem com sua expertise, exporem restrições e construírem hipóteses sobre o que realmente funcionará. O framework opera no princípio de que as pessoas mais próximas do cliente e da tecnologia têm insights essenciais para a execução estratégica efetiva.
 
@@ -100,7 +100,7 @@ Isso não é planejamento rígido de projeto, mas desenvolvimento colaborativo d
 
 ## Insights de Implementação da Apresentação à Liderança
 
-Apresentar o OKRA à liderança exigiu destilar dois anos de desenvolvimento iterativo em insights acionáveis. A mensagem mais importante foi que o OKRA funciona porque resolve problemas fundamentais em como equipes traduzem estratégia em ação.
+Apresentar o OKRA à liderança exigiu destilar dois anos de criação e desenvolvimento iterativo do framework em insights acionáveis. A mensagem mais importante foi que o OKRA funciona porque resolve problemas fundamentais em como equipes traduzem estratégia em ação.
 
 O primeiro insight chave é que a comunicação estratégica melhora dramaticamente quando se torna colaborativa em vez de broadcast. O cascateamento tradicional de estratégia assume que clareza emerge de documentação detalhada e apresentações persuasivas. O OKRA demonstra que clareza na verdade emerge de construção colaborativa de sentido onde equipes contribuem com sua expertise para resolução de problemas estratégicos.
 
