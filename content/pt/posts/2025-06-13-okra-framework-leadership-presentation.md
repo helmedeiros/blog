@@ -40,13 +40,15 @@ O que distingue o OKRA de outras abordagens de OKR é sua ênfase em expor assun
 
 A metodologia OKRA consiste em cinco sessões colaborativas distintas, cada uma projetada para produzir outputs específicos enquanto constrói sobre os insights gerados nas sessões anteriores. Essa progressão da visão ao plano de execução cria tanto clareza quanto compromisso.
 
-| Sessão   | Foco Principal            | Output Principal                                      | Duração Típica | Quando Usar                                                 |
-| -------- | ------------------------- | ----------------------------------------------------- | -------------- | ----------------------------------------------------------- |
-| Sessão 0 | Visão de Produto          | Contexto compartilhado e declaração de visão          | 30 minutos     | Quando a estratégia do grupo não está clara ou está ausente |
-| Sessão 1 | Ideação de OKRs           | Objetivos rascunhados e candidatos a resultados-chave | 60 minutos     | Quando OKRs da empresa estão disponíveis                    |
-| Sessão 2 | Planejamento de Marcos    | Marcos acionáveis mapeados para hipóteses             | 75 minutos     | Após OKRs da equipe serem rascunhados                       |
-| Sessão 3 | Esforço e Dependências    | Estimativas de esforço e mapeamento de dependências   | 90 minutos     | Após marcos serem definidos                                 |
-| Sessão 4 | Planejamento do Trimestre | Timeline visual com avaliação de riscos               | 75 minutos     | Antes da execução começar                                   |
+| Sessão   | Foco Principal            | Output Principal                                      | Duração Típica | Quando Usar                                                 | Saiba Mais                                                                           |
+| -------- | ------------------------- | ----------------------------------------------------- | -------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Sessão 0 | Visão de Produto          | Contexto compartilhado e declaração de visão          | 30 minutos     | Quando a estratégia do grupo não está clara ou está ausente | [Ler Sessão 0](/pt/posts/2023-03-18-session-0-product-vision/)                       |
+| Sessão 1 | Ideação de OKRs           | Objetivos rascunhados e candidatos a resultados-chave | 60 minutos     | Quando OKRs da empresa estão disponíveis                    | [Ler Sessão 1](/pt/posts/2023-04-08-session-1-okrs-ideation/)                        |
+| Sessão 2 | Planejamento de Marcos    | Marcos acionáveis mapeados para hipóteses             | 75 minutos     | Após OKRs da equipe serem rascunhados                       | [Ler Sessão 2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)             |
+| Sessão 3 | Esforço e Dependências    | Estimativas de esforço e mapeamento de dependências   | 90 minutos     | Após marcos serem definidos                                 | [Ler Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
+| Sessão 4 | Planejamento do Trimestre | Timeline visual com avaliação de riscos               | 75 minutos     | Antes da execução começar                                   | [Ler Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ### Sessão 0: Construindo Contexto Compartilhado
 
@@ -56,6 +58,8 @@ A sessão segue um formato estruturado onde os participantes contribuem com insi
 
 Essa abordagem previne que equipes comecem com assunções desalinhadas ou prioridades inventadas. Em vez disso, elas começam com um entendimento fundamentado do contexto no qual estão operando, que serve como a base para todas as decisões de planejamento subsequentes.
 
+**Saiba mais:** [Guia detalhado da Sessão 0](/pt/posts/2023-03-18-session-0-product-vision/)
+
 ### Sessão 1: Traduzindo Estratégia em Objetivos da Equipe
 
 A Sessão 1 é onde objetivos em nível da empresa são traduzidos em contribuições específicas da equipe. Isso não é um simples exercício de cascateamento, mas um processo criativo onde equipes exploram como suas capacidades únicas podem contribuir para objetivos organizacionais mais amplos.
@@ -63,6 +67,8 @@ A Sessão 1 é onde objetivos em nível da empresa são traduzidos em contribui�
 A sessão usa técnicas como ideação silenciosa, agrupamento e trabalho em duplas para garantir que todas as perspectivas sejam ouvidas. As equipes trabalham através das conexões entre problemas do cliente, objetivos do negócio e possibilidades técnicas, desenvolvendo hipóteses sobre quais iniciativas criarão mais impacto.
 
 O output é um conjunto de objetivos rascunhados e resultados-chave que são tanto inspiradores quanto fundamentados na realidade. Esses não são compromissos finais, mas hipóteses de trabalho que serão refinadas através de sessões subsequentes.
+
+**Saiba mais:** [Guia detalhado da Sessão 1](/pt/posts/2023-04-08-session-1-okrs-ideation/)
 
 ### Sessão 2: De Hipóteses à Ação
 
@@ -72,6 +78,8 @@ A abordagem colaborativa garante que todos os membros da equipe contribuam para 
 
 O resultado é um mapa abrangente das iniciativas, experimentos e trabalho de validação necessários para alcançar os objetivos da equipe, com conexões claras entre cada marco e as hipóteses subjacentes que ele foi projetado para testar.
 
+**Saiba mais:** [Guia detalhado da Sessão 2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)
+
 ### Sessão 3: Verificação de Realidade do Plano
 
 A Sessão 3 é onde as equipes confrontam as realidades práticas de seus planos ambiciosos. Cada marco é avaliado quanto ao esforço técnico, valor do negócio, impacto na experiência do usuário e requisitos de recursos. Dependências de outras equipes e fatores externos são identificadas e documentadas.
@@ -80,11 +88,15 @@ Esta sessão previne o problema comum de supercompromisso forçando conversas ex
 
 A abordagem de pontuação é projetada para facilitar conversa em vez de alcançar precisão matemática. O objetivo é alinhamento sobre prioridades relativas e sequenciamento realista, não estimativa perfeita.
 
+**Saiba mais:** [Guia detalhado da Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+
 ### Sessão 4: Criando o Mapa de Execução
 
 A sessão final traz todo o trabalho anterior junto em uma timeline visual que torna dependências, riscos e oportunidades de aprendizado explícitas. As equipes sequenciam seus marcos, identificam gargalos potenciais e criam entendimento compartilhado de como o trimestre pode se desenrolar.
 
 Isso não é planejamento rígido de projeto, mas desenvolvimento colaborativo de cenários. A abordagem visual torna fácil discutir trade-offs, ajustar sequenciamento e identificar pontos onde a equipe precisará tomar decisões estratégicas baseadas no que aprender.
+
+**Saiba mais:** [Guia detalhado da Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)
 
 ## Insights de Implementação da Apresentação à Liderança
 
@@ -122,8 +134,24 @@ O benefício organizacional de longo prazo não é apenas taxas melhoradas de co
 
 ## Recursos e Aprendizado Adicional
 
-Equipes interessadas em implementar o OKRA podem acessar nossos templates completos de facilitação e guias detalhados de sessão através dos recursos que desenvolvemos ao longo de dois anos de evolução do framework. Os materiais incluem scripts de facilitação, templates de canvas e orientação de troubleshooting comum para os desafios que equipes tipicamente encontram durante implementação inicial.
+Equipes interessadas em implementar o OKRA podem acessar nossos templates completos de facilitação e guias detalhados de sessão através dos recursos que desenvolvemos ao longo de dois anos de evolução do framework.
 
-A série de blog do OKRA fornece guias abrangentes para cada tipo de sessão, incluindo instruções detalhadas de facilitação, recomendações de timing e exemplos de implementações reais de equipes. Esses recursos complementam a visão geral do framework com orientação prática para facilitadores e líderes de equipe.
+### Recursos Oficiais OKRA
 
-Para organizações considerando adoção mais ampla do OKRA, recomendamos começar com o guia de alinhamento que cobre o processo completo de cinco sessões e considerações de timing entre sessões. Isso fornece o contexto estratégico necessário para equipes de liderança entenderem como o OKRA se encaixa dentro de seus processos existentes de planejamento e desenvolvimento de estratégia.
+**Templates:** [Acesse o quadro Figma completo](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões
+
+**Guia Completo do Framework:** [Guia de Alinhamento OKRA](/pt/posts/2024-06-25-okr-alignment/) cobre o processo completo de cinco sessões e considerações de timing
+
+### Guias de Sessões Individuais
+
+Cada sessão possui instruções detalhadas de facilitação, recomendações de timing e exemplos de implementações reais de equipes:
+
+- **Sessão 0:** Visão de Produto - [Ler Sessão 0](/pt/posts/2023-03-18-session-0-product-vision/)
+- **Sessão 1:** Ideação de OKRs - [Ler Sessão 1](/pt/posts/2023-04-08-session-1-okrs-ideation/)
+- **Sessão 2:** Planejamento de Marcos - [Ler Sessão 2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)
+- **Sessão 3:** Esforço e Dependências - [Ler Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+- **Sessão 4:** Planejamento do Trimestre - [Ler Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)
+
+### Visão Geral da Série
+
+**Série OKRA:** [Introdução ao OKRA](/pt/posts/2023-03-01-intro-to-okra/) • [Revisitando o OKRA](/pt/posts/2024-03-20-revisiting-okra-series/)
