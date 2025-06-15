@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 3
 ---
 
-# Sessão #1: Ideação de OKRs
-
 ## 1. Quando os OKRs da Empresa Estão Claros, É Hora de Rascunhar os OKRs da Equipe
 
 A Sessão #1 começa assim que os OKRs da empresa são apresentados. O objetivo não é debater esses objetivos — é traduzi-los em algo que a equipe possa executar. Muitas vezes, esta é a primeira vez que todas as perspectivas se encontram: produto, design, engenharia, dados e operações com o cliente. Usamos esta sessão para mapear nossas contribuições, identificar desalinhamentos cedo e rascunhar um conjunto de OKRs que a equipe vai refinar e assumir como seu.

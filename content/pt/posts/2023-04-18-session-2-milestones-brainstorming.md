@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 4
 ---
 
-# Sessão #2: Brainstorming de Marcos
-
 ## 1. De Hipóteses a Marcos Ação
 
 Após a Sessão #1, a equipe sai com Objetivos rascunhados, Resultados-Chave e um conjunto de hipóteses. A Sessão #2 transforma essa intenção em plano de ação. É o momento em que apostas viram entregas — quando ideias ganham peso por meio de marcos, épicos, spikes e experimentos reais.

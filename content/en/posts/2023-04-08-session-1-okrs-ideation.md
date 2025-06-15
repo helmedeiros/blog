@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 3
 ---
 
-# Session #1: OKRs Ideation
-
 ## 1. When Company OKRs Are Clear, It's Time to Draft Team OKRs
 
 Session #1 starts once company-level OKRs have been presented. The goal isn't to debate those objectives—it's to translate them into something the team can act on. Often, this session is the first time all perspectives meet: product, design, engineering, data, and customer operations. We use it to map our contributions, spot misalignment early, and draft an OKR set the team will refine and own.
