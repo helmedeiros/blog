@@ -1,5 +1,5 @@
 ---
-title: "Revisitando a Série OKRA: Aprendizados e Direções Futuras"
+title: "Raízes e Brotos do OKRA: O Que Aprendemos Sobre Cultivar OKRs Melhores"
 date: 2024-03-20
 description: "Uma reflexão sobre a jornada da série OKRA, destacando insights principais, padrões e direções futuras para execução colaborativa de OKRs."
 series: ["okra"]

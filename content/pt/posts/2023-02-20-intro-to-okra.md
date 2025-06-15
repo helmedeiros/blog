@@ -1,5 +1,5 @@
 ---
-title: "Da Estratégia ao Compromisso: As Origens do OKRA"
+title: "OKRs Reimaginados: Como o OKRA Transformou Estratégia em Compromisso Real"
 date: 2023-02-20
 description: "O primeiro post da nossa série OKRA, explorando como evoluímos dos OKRs tradicionais para um framework mais colaborativo e efetivo para alinhamento e execução em equipes."
 series: ["okra"]

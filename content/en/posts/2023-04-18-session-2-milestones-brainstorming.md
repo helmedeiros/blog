@@ -1,5 +1,5 @@
 ---
-title: "Session #2: Milestones Brainstorming"
+title: "OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action"
 date: 2023-04-18
 description: "The fourth post in the OKRA series, showing how to turn OKR hypotheses into actionable milestones, with facilitation tips and real-world examples."
 series: ["okra"]

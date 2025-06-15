@@ -1,5 +1,5 @@
 ---
-title: "Sessão #2: Brainstorming de Marcos"
+title: "OKRA Sessão #2: Colhendo Marcos—Da Hipótese do OKR à Ação"
 date: 2023-04-18
 description: "O quarto post da série OKRA, mostrando como transformar hipóteses de OKR em marcos acionáveis, com dicas de facilitação e exemplos reais."
 series: ["okra"]
