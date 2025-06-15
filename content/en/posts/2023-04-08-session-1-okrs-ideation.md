@@ -1,5 +1,5 @@
 ---
-title: "Session #1: OKRs Ideation"
+title: "OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil"
 date: 2023-04-08
 description: "The third post in the OKRA series, guiding teams through the process of drafting team OKRs from company strategy, with practical facilitation tips and real-world patterns."
 series: ["okra"]

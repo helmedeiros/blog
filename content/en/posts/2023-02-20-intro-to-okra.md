@@ -1,5 +1,5 @@
 ---
-title: "From Strategy to Commitment: The Origins of OKRA"
+title: "OKRs Reimagined: How OKRA Turned Strategy into Real Commitment"
 date: 2023-02-20
 description: "The first post in our OKRA series, exploring how we moved from traditional OKRs to a more collaborative, effective framework for team alignment and execution."
 series: ["okra"]

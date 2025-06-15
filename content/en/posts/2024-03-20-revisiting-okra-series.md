@@ -1,5 +1,5 @@
 ---
-title: "Revisiting the OKRA Series: Key Learnings and Future Directions"
+title: "OKRA Roots & Shoots: What We've Learned About Growing Better OKRs"
 date: 2024-03-20
 description: "A reflection on the OKRA series journey, highlighting key insights, patterns, and future directions for collaborative OKR execution."
 series: ["okra"]

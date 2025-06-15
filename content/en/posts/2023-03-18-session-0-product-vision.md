@@ -1,5 +1,5 @@
 ---
-title: "Session #0: Product Vision"
+title: "OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow"
 date: 2023-03-18
 description: "The second post in the OKRA series, introducing Session #0 as a practical workshop for teams to create shared vision and context when company strategy is unclear."
 series: ["okra"]
