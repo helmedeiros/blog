@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 4
 ---
 
-# Session #2: Milestones Brainstorming
-
 ## 1. From Hypotheses to Actionable Milestones
 
 After Session #1, the team walks away with draft Objectives, Key Results, and a set of hypotheses. Session #2 takes that intent and makes it operational. It's the moment where bets become plans—where ideas gain weight through real milestones, epics, spikes, and experiments.

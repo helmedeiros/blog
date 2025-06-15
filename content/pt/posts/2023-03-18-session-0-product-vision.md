@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 2
 ---
 
-# Sessão #0: Visão de Produto
-
 ## 1. Quando a Estratégia Está Ausente, Comece com Entendimento Compartilhado
 
 Em alguns momentos, os OKRs da empresa chegam tarde, mudam rapidamente ou simplesmente não existem. Isso pode paralisar a equipe no início de um novo trimestre. Nesses casos, em vez de esperar pela direção estratégica de cima, criamos a Sessão #0 para ajudar as equipes a se orientarem com base nas necessidades dos clientes, nas restrições da plataforma e nas oportunidades de negócio.

@@ -1,4 +1,4 @@
 ---
-title: "Série Framework OKRA"
-description: "Uma série de posts sobre o framework OKRA (OKR Agreement), uma abordagem prática para alinhamento e execução de OKRs em equipes."
+title: "Execução Colaborativa de OKRs: Série OKRA"
+description: "Um guia prático, passo a passo, para construir compromisso real de equipe e resultados de produto com o framework OKRA (OKR Agreement). Inclui facilitação, templates e aprendizados de times reais."
 ---

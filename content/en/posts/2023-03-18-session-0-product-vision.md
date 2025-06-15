@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 2
 ---
 
-# Session #0: Product Vision
-
 ## 1. When Strategy Is Missing, Start With Shared Understanding
 
 At times, company-level OKRs either come late, change rapidly, or simply don't exist. This can paralyze a team at the start of a new quarter. In those moments, rather than wait for strategic direction to arrive from above, we built Session #0 to help teams self-orient around customer needs, platform constraints, and business opportunities.

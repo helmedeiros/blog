@@ -6,8 +6,6 @@ series: ["okra"]
 series_order: 6
 ---
 
-# Revisitando a Série OKRA: Aprendizados e Direções Futuras
-
 ## 1. A Evolução do OKRA: De Experimento a Framework
 
 Quando começamos a documentar nossa jornada com o OKRA no início de 2023, estávamos compartilhando o que havia funcionado para nossa equipe. O que começou como uma solução prática para desafios de planejamento trimestral evoluiu para um framework abrangente que equipes em todo o mundo estão adaptando aos seus contextos. Este post revisita nossos principais aprendizados e olha para o futuro do OKRA.
