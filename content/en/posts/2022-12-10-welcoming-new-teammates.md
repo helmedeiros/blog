@@ -1,6 +1,6 @@
 ---
 title: "Welcoming Someone New—Without Changing What Worked"
-date: 2022-08-10T10:00:00-03:00
+date: 2022-12-10T10:00:00-03:00
 description: "How we structured onboarding for new teammates while maintaining our remote-first culture, with clear rituals and connected experiences that work both in-person and digitally."
 tags: [remote-first, onboarding, async, team-growth, rituals]
 series: "Remote-First Work"

@@ -1,6 +1,6 @@
 ---
 title: "Recebendo Alguém Novo—Sem Mudar o que Funcionava"
-date: 2022-08-10T10:00:00-03:00
+date: 2022-12-10T10:00:00-03:00
 description: "Como estruturamos o onboarding de novos colegas mantendo nossa cultura remote-first, com rituais claros e experiências conectadas que funcionam tanto presencial quanto digitalmente."
 tags: [remote-first, onboarding, assíncrono, crescimento-de-time, rituais]
 series: "Remote-First Work"
