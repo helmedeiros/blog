@@ -6,8 +6,7 @@ date: 2009-11-25T13:07:38+00:00
 idptt_tweeted:
 dsq_thread_id:
 series: "TDC Rio 2009"
-categories:
-  - Eventos
+categories: ["Technology", "Events"]
 tags:
   - 2009
   - cloud computing

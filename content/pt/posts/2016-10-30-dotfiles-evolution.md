@@ -3,12 +3,7 @@ title: "Refinando Meus Dotfiles: Mais Limpo, Mais Esperto, Mais Simples"
 author: helio
 layout: post
 date: 2016-10-30T10:00:00+00:00
-categories:
-  - Terminal
-  - Automação
-  - Dotfiles
-  - Experiência do Desenvolvedor
-  - Refatoração
+categories: ["Technology", "Leadership"]
 tags:
   - dotfiles
   - terminal

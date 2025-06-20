@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-08T14:30:22+00:00
 description: "Reflexões sobre a décima e última aula de Engenharia de Software, explorando a aplicação concreta de Extreme Programming em ambientes reais de equipe."
-categories:
-  - Ágil
-  - Metodologias
-  - XP
-  - Educação
+categories: ["Leadership", "Agile"]
 tags:
   - Engenharia de Software
   - Programação Extrema

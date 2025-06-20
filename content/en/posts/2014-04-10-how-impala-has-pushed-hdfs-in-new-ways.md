@@ -6,8 +6,7 @@ date: 2014-04-10T16:05:02+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Eventos
+categories: ["Technology", "Events"]
 tags:
   - aaron myers
   - cloudera

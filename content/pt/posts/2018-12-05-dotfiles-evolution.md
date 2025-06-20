@@ -3,12 +3,7 @@ title: "Dotfiles 2018: Do Pessoal ao Compartilhado"
 author: helio
 layout: post
 date: 2018-12-05T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Onboarding
-  - Ferramentas de Desenvolvedor
-  - Ambiente de Desenvolvimento
-  - Setup de Ambiente
+categories: ["Technology", "Leadership"]
 tags:
   - dotfiles
   - onboarding

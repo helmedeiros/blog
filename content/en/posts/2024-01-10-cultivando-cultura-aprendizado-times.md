@@ -1,5 +1,6 @@
 ---
 title: "Cultivating a Learning Culture Inside Product Teams"
+categories: ["Leadership", "Management"]
 date: 2024-01-10
 description: "How to build teams that learn faster than competition through concrete practices, learning-reinforcing leadership, and safe environments for experimentation."
 tags: ["learning", "culture", "teams", "product", "engineering", "leadership"]

@@ -3,8 +3,7 @@ title: "Mini-scenario: Web Classifieds"
 author: helio
 layout: post
 date: 2008-06-13T01:57:56+00:00
-categories:
-  - UML
+categories: ["Events", "Architecture"]
 series: "UML Mini-scenarios"
 tags:
   - mini-scenarios

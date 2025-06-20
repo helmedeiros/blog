@@ -3,9 +3,7 @@ title: "Do Modelo ao Código: RUP e Arquiteturas em Camadas"
 author: helio
 layout: post
 date: 2008-07-25T08:00:00+00:00
-categories:
-  - RUP
-  - Engenharia de Software
+categories: ["Architecture", "Technology"]
 ---
 
 A maioria dos esforços de modelagem falha porque ficam presos na abstração.

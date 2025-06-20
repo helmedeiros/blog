@@ -1,5 +1,6 @@
 ---
 title: "Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others"
+categories: ["Leadership", "Technology"]
 date: 2011-12-20
 series: "Life in Porto Alegre"
 tags:

@@ -6,11 +6,7 @@ date: 2014-11-06T12:57:31+00:00
 seo_follow:
 seo_noindex:
 embed:
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
+categories: ["Technology"]
 tags:
   - "#AgileBR"
   - "Barry O'Reilly"

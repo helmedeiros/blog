@@ -1,5 +1,6 @@
 ---
 title: "Gratitude and Transition: From Dell to RBS"
+categories: ["Technology", "Events"]
 date: 2012-04-01
 series: "Life in Porto Alegre"
 tags:

@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-08T14:30:22+00:00
 description: "Reflections on the tenth and final Software Engineering lecture, exploring the concrete application of Extreme Programming in real-world team environments."
-categories:
-  - Agile
-  - Methodologies
-  - XP
-  - Education
+categories: ["Agile", "Technology"]
 tags:
   - Software Engineering
   - Extreme Programming

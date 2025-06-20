@@ -4,10 +4,7 @@ author: helio
 layout: post
 date: 2010-11-15T18:00:00+00:00
 slug: primeira-semana-dell-porto-alegre
-categories:
-  - Carreira
-  - Desenvolvimento
-  - Porto Alegre
+categories: ["Events", "Technology"]
 tags:
   - Dell
   - Stefanini

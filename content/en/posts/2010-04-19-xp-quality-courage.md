@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-04-19T12:30:19+00:00
 description: "Reflections on the eighth Software Engineering lecture, exploring Extreme Programming's core values, emphasis on quality, and courage-driven practices."
-categories:
-  - Agile
-  - Methodologies
-  - XP
-  - Education
+categories: ["Agile", "Technology"]
 tags:
   - Software Engineering
   - Extreme Programming

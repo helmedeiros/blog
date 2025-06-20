@@ -1,5 +1,6 @@
 ---
 title: "Final de Semana de Release, Automação e o Valor da Liderança de Verdade"
+categories: ["Leadership", "Agile"]
 date: 2011-01-30
 series: "Vida em Porto Alegre"
 tags: ["Dell", "Liderança", "Automação", "Deploy", "Cultura"]

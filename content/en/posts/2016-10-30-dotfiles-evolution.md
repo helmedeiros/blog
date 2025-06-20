@@ -3,12 +3,7 @@ title: "Dotfiles Refinement: Cleaner, Smarter, Faster"
 author: helio
 layout: post
 date: 2016-10-30T10:00:00+00:00
-categories:
-  - Terminal
-  - Automation
-  - Dotfiles
-  - Developer Experience
-  - Refactoring
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - terminal

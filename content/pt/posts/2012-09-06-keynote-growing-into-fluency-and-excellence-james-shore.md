@@ -9,10 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Technology", "Agile"]
 tags:
   - '#AgileBR'
   - 2012

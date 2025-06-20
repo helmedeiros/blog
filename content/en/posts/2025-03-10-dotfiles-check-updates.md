@@ -3,12 +3,7 @@ title: "Check-Updates: Keeping My Machine Honest"
 author: helio
 layout: post
 date: 2025-03-10T12:00:00+00:00
-categories:
-  - Dotfiles
-  - Developer Hygiene
-  - Shell Scripts
-  - Automation
-  - Maintenance
+categories: ["Technology", "Architecture"]
 tags:
   - dotfiles
   - maintenance

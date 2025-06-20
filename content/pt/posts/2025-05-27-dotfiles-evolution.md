@@ -3,12 +3,7 @@ title: "Dotfiles 2025: Inicialização Rápida e Adaptação Inteligente"
 author: helio
 layout: post
 date: 2025-05-27T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Configuração de Desenvolvedor
-  - Portabilidade
-  - Shell
-  - Integração de Sistemas
+categories: ["Technology", "Events"]
 tags:
   - dotfiles
   - portability

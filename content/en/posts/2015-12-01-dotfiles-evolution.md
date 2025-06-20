@@ -3,12 +3,7 @@ title: "Evolving My Dotfiles: From Flat to Modular"
 author: helio
 layout: post
 date: 2015-12-01T10:00:00+00:00
-categories:
-  - Productivity
-  - Tools
-  - Dev Environment
-  - Dotfiles
-  - Automation
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - productivity

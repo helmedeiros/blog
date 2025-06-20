@@ -5,10 +5,7 @@ layout: post
 date: 2009-11-18T23:37:20+00:00
 dsq_thread_id:
   - 4969844886
-categories:
-  - Eventos
-  - DDD
-  - Treinamento
+categories: ["Architecture", "Technology"]
 tags:
   - Caelum
   - DDD

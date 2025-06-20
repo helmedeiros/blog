@@ -1,5 +1,6 @@
 ---
 title: "Trabalho Remoto, Resiliência e o Poder da Amizade"
+categories: ["Events"]
 date: 2011-10-15
 series: "Vida em Porto Alegre"
 tags:

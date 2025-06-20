@@ -3,8 +3,7 @@ title: "Minicenário: CONTROLE DE BOLÃO"
 author: helio
 layout: post
 date: 2008-06-17T02:14:52+00:00
-categories:
-  - UML
+categories: ["Events", "Architecture"]
 tags:
   - mini-scenarios
   - uml-series

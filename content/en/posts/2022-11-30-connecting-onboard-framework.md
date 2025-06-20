@@ -3,7 +3,7 @@ title: "Making Remote-First Work Great — Part 5: Connecting Onboard Framework"
 subtitle: "Designing Onboarding for Trust, Clarity, and Growth"
 date: 2022-11-30
 tags: [remote-first, onboarding, team-culture, facilitation, async, framework]
-categories: [Leadership, Remote Work]
+categories: ["Technology", "Leadership"]
 series: ["Remote-First Work"]
 series_order: 5
 ---

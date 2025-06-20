@@ -1,5 +1,6 @@
 ---
 title: "Making Remote-First Work Great — Part 1: Crawling, Walking, Learning"
+categories: ["Events", "Leadership"]
 date: 2021-06-10
 description: "My personal journey into remote work: from awkward first steps at Dell to embracing a remote-first mindset at ThoughtWorks."
 tags:

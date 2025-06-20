@@ -3,8 +3,7 @@ title: "Padrões de Projeto: Soluções Comprovadas para Desafios de Implementa�
 author: helio
 layout: post
 date: 2008-07-02T03:27:57+00:00
-categories:
-  - Padrões de Projeto
+categories: ["Architecture", "Technology"]
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

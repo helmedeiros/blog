@@ -6,11 +6,7 @@ date: 2012-09-05T14:33:33+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
+categories: ["Events", "Agile"]
 tags:
   - 2012
   - AGILE

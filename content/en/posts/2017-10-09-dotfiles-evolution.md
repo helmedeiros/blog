@@ -3,12 +3,7 @@ title: "Dotfiles 2017: Cutting Even Deeper"
 author: helio
 layout: post
 date: 2017-10-09T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Shell
-  - Developer Workflow
-  - Craft
-  - Refactoring
+categories: ["Technology"]
 tags:
   - dotfiles
   - shell

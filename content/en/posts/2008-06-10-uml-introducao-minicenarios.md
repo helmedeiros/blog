@@ -3,8 +3,7 @@ title: "Why UML Still Matters: A Shared Language for Software Design"
 author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00
-categories:
-  - UML
+categories: ["Architecture", "Events"]
 series: "UML Mini-scenarios"
 tags:
   - mini-scenarios

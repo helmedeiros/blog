@@ -3,12 +3,7 @@ title: "Dotfiles 2021: Preparing to Scale Myself"
 author: helio
 layout: post
 date: 2021-05-07T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Developer Setup
-  - Terminal Craft
-  - Portability
-  - Developer Experience
+categories: ["Technology"]
 tags:
   - dotfiles
   - remote-work

@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-15T14:30:22+00:00
 description: "Reflections on the eleventh and final Software Engineering lecture, exploring Domain-Driven Design principles and their practical application in real-world software development."
-categories:
-  - Architecture
-  - Design
-  - DDD
-  - Education
+categories: ["Architecture", "Technology"]
 tags:
   - Software Engineering
   - Domain-Driven Design

@@ -6,10 +6,7 @@ date: 2011-06-29T15:49:35+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Agile
-  - Agile Brazil 2011
-  - Learning Culture
+categories: ["Events", "Leadership"]
 tags:
   - agilebrazil2011
   - generationy

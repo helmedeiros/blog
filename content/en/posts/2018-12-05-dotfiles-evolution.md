@@ -3,12 +3,7 @@ title: "Dotfiles 2018: From Personal to Shared"
 author: helio
 layout: post
 date: 2018-12-05T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Onboarding
-  - Developer Tools
-  - Craft
-  - Environment Setup
+categories: ["Technology", "Leadership"]
 tags:
   - dotfiles
   - onboarding

@@ -1,5 +1,6 @@
 ---
 title: "OKRA Sessão #1: Cultivando OKRs de Equipe a Partir do Solo da Estratégia"
+categories: ["Leadership", "Architecture"]
 date: 2023-04-08
 description: "O terceiro post da série OKRA, guiando equipes pelo processo de rascunho de OKRs de equipe a partir da estratégia da empresa, com dicas práticas de facilitação e padrões reais."
 series: ["okra"]

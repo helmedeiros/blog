@@ -3,7 +3,7 @@ title: "yUML – Por que escrever um blog?"
 date: 2009-08-05T12:03:24+02:00
 draft: false
 tags: ["UML", "blog", "documentação", "design-de-software", "yUML"]
-categories: ["UML", "Ferramentas", "Blog"]
+categories: ["Architecture"]
 ---
 
 Venho tentando há algum tempo criar o hábito de, assim como leio ótimos _posts_, também escrevê-los. Em muitos desses textos vejo a ênfase na importância da disseminação do conhecimento — e é sobre isso que falo neste _post_ de retomada.

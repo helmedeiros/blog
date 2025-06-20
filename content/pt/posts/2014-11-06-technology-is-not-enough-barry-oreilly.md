@@ -9,11 +9,7 @@ seo_noindex:
   - "false"
 embed:
   - This is the default text
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
+categories: ["Technology"]
 tags:
   - "#AgileBR"
   - "Barry O'Reilly"

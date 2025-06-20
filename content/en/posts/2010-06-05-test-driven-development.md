@@ -3,10 +3,7 @@ title: "Test-Driven Development: Building the Right Thing the Right Way"
 author: helio
 date: 2010-06-05T14:30:22+00:00
 description: "Reflections on the fourteenth Software Engineering lecture, exploring Test-Driven Development as a design methodology that goes beyond testing to shape how we think about building software."
-categories:
-  - Testing
-  - Development Methodology
-  - Education
+categories: ["Technology", "Agile"]
 tags:
   - Software Engineering
   - Test-Driven Development

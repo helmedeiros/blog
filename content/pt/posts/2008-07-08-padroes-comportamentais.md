@@ -3,8 +3,7 @@ title: "Padrões Comportamentais: Coordenando Responsabilidades com Flexibilidad
 author: helio
 layout: post
 date: 2008-07-08T03:27:57+00:00
-categories:
-  - Padrões de Projeto
+categories: ["Architecture", "Technology"]
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

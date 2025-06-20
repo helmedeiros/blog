@@ -3,7 +3,7 @@ title: "My Team Needs an Overdrive Pedal"
 date: 2010-02-12T01:55:03+02:00
 draft: false
 tags: ["AGILE", "XP", "Teams", "Leadership", "Collaboration", "Multipliers"]
-categories: ["Agile", "Teams"]
+categories: ["Leadership", "Management"]
 ---
 
 Lately, I've been thinking a lot about how we can make our teams work better — not just as leaders, but as people who genuinely want to contribute with efficiency, empathy, and purpose. I believe that no matter what role you have on a team, you can **positively influence how the team operates**, creating an environment where growth, support, and productivity thrive together.

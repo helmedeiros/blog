@@ -9,10 +9,7 @@ seo_follow:
   - "false"
 seo_noindex:
   - "false"
-categories:
-  - ZSH
-  - Terminal
-  - Ferramentas
+categories: ["Technology", "Events"]
 tags:
   - bash
   - oh-my-zsh

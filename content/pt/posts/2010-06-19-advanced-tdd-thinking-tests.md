@@ -10,7 +10,7 @@ tags:
     "junit",
     "desenvolvimento",
   ]
-categories: ["Engenharia de Software"]
+categories: ["Technology", "Agile"]
 series: ["Aulas de Engenharia de Software"]
 slug: "tdd-avancado-pensando-com-testes"
 summary: "Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando que ele é mais do que uma técnica — é uma forma de pensar. Utilizando um sistema real de template de e-mails, desenvolvemos tudo partindo de testes. Cada linha foi uma decisão validada, cada falha evitada antes de acontecer."

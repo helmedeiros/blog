@@ -6,9 +6,7 @@ author: helio
 layout: post
 idptt_tweeted:
   - 1
-categories:
-  - Ageis
-  - Metodologias
+categories: ["Events", "Leadership"]
 tags:
   - Comunicacao
   - Feedback

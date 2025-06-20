@@ -4,10 +4,7 @@ author: helio
 layout: post
 date: 2010-06-25T20:00:00+00:00
 slug: agile-brazil-2010-card-wall-caroli
-categories:
-  - Agile
-  - Eventos
-  - Kanban
+categories: ["Events", "Agile"]
 tags:
   - Agile Brazil
   - Paulo Caroli

@@ -3,10 +3,7 @@ title: "Testes de Software: Fidelidade, Qualidade e Evolução do Sistema"
 author: helio
 date: 2010-05-29T14:30:22+00:00
 description: "Reflexões sobre a décima terceira aula de Engenharia de Software, explorando testes de software como atividade estratégica de design integrada aos processos reais de desenvolvimento."
-categories:
-  - Testes
-  - Garantia de Qualidade
-  - Educação
+categories: ["Technology", "Events"]
 tags:
   - Engenharia de Software
   - Testes de Software

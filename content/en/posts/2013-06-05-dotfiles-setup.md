@@ -3,13 +3,7 @@ title: "Dotfiles: Setup, Backup, and Productivity"
 author: helio
 layout: post
 date: 2013-06-05T10:00:00+00:00
-categories:
-  - Tools
-  - Productivity
-  - Terminal
-  - Configuration
-  - Dev Environment
-  - Dotfiles
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - zsh

@@ -3,10 +3,7 @@ title: "Requisitos, Validação e o Papel dos Testes"
 author: helio
 date: 2010-05-22T14:30:22+00:00
 description: "Reflexões sobre a décima segunda e última aula de Engenharia de Software, explorando engenharia de requisitos, práticas de validação e a conexão crítica entre requisitos claros e testes eficazes."
-categories:
-  - Ágil
-  - Metodologias
-  - Educação
+categories: ["Technology", "Management"]
 tags:
   - Engenharia de Software
   - Engenharia de Requisitos

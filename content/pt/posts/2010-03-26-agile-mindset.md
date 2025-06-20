@@ -6,10 +6,7 @@ date: 2010-03-26T10:21:39+00:00
 description: "Reflexões sobre a quinta aula de Engenharia de Software, introduzindo metodologias ágeis, o Manifesto Ágil e transformação de mentalidade no desenvolvimento."
 idptt_tweeted:
   - 1
-categories:
-  - Ágil
-  - Metodologias
-  - Educação
+categories: ["Agile", "Leadership"]
 tags:
   - Engenharia de Software
   - Agilidade

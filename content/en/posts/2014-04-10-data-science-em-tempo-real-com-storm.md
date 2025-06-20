@@ -7,8 +7,7 @@ embed:
 seo_follow: 
 seo_noindex: 
 dsq_thread_id: 
-categories:
-  - Eventos
+categories: ["Technology", "Events"]
 tags:
   - big data
   - data scientist

@@ -3,9 +3,7 @@ title: "Making RUP Agile: Modeling with Just Enough Discipline"
 author: helio
 layout: post
 date: 2008-07-20T08:00:00+00:00
-categories:
-  - RUP
-  - Software Engineering
+categories: ["Architecture", "Agile"]
 ---
 
 When you mention RUP in an Agile room, someone will roll their eyes.

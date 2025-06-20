@@ -3,8 +3,7 @@ title: "Por que UML Ainda Importa: Uma Linguagem Compartilhada para Projetar Sis
 author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00
-categories:
-  - UML
+categories: ["Architecture", "Events"]
 tags:
   - mini-scenarios
   - uml-series

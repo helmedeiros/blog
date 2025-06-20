@@ -6,10 +6,7 @@ date: 2011-12-11T17:52:30+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Apresentações
-  - Eventos
-  - Slides
+categories: ["Technology"]
 ---
 
 <p style="text-align: center">

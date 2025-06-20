@@ -1,5 +1,6 @@
 ---
 title: "Release Weekend, Automation, and the Value of Real Leadership"
+categories: ["Leadership", "Technology"]
 date: 2011-01-30
 series: "Life in Porto Alegre"
 tags: ["Dell", "Leadership", "Automation", "Deploy", "Culture"]

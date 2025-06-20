@@ -3,9 +3,7 @@ title: "Por que Engenharia de Software? Construindo com propósito além do cód
 author: helio
 date: 2010-02-24T02:10:53+00:00
 description: "Reflexões sobre minha primeira aula de Engenharia de Software na UnP, abordando a importância de métodos e práticas no desenvolvimento sustentável."
-categories:
-  - Educação
-  - Engenharia de Software
+categories: ["Technology", "Agile"]
 tags:
   - UnP
   - Ensino

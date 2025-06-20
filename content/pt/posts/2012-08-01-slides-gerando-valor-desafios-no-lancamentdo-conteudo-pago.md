@@ -9,11 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Apresentações
-  - Eventos
-  - Metodologias
-  - Slides
+categories: ["Architecture"]
 tags:
   - lean manufacturing
   - Lean Startup

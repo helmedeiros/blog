@@ -3,10 +3,7 @@ title: "Never too late! From Bash to ZSH!"
 author: helio
 layout: post
 date: 2011-11-15T20:23:19+00:00
-categories:
-  - ZSH
-  - Terminal
-  - Tools
+categories: ["Technology", "Events"]
 tags:
   - bash
   - oh-my-zsh

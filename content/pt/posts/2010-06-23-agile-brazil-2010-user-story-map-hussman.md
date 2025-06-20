@@ -4,10 +4,7 @@ author: helio
 layout: post
 date: 2010-06-23T18:00:00+00:00
 slug: agile-brazil-2010-user-story-map-hussman
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Events", "Agile"]
 tags:
   - Agile Brazil
   - David Hussman

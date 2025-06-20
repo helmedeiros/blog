@@ -3,8 +3,7 @@ title: Padrões de Análise
 author: helio
 layout: post
 date: 2008-07-01T03:27:57+00:00
-categories:
-  - Padrões de Análise
+categories: ["Architecture"]
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Introdução** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

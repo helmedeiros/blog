@@ -1,5 +1,6 @@
 ---
 title: "OKRA Session #3: Milestones Value, Effort & Dependencies"
+categories: ["Management", "Technology"]
 date: 2024-04-08
 description: "Session #3 of the OKRA series: how to collaboratively estimate effort, value, and dependencies for milestones, turning ideas into actionable plans."
 series: ["okra"]

@@ -6,8 +6,7 @@ date: 2012-12-29T13:32:02+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Eventos
+categories: ["Events"]
 tags:
   - desconf
   - desconf2012

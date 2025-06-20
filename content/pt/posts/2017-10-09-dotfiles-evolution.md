@@ -3,12 +3,7 @@ title: "Dotfiles 2017: Cortando Ainda Mais Fundo"
 author: helio
 layout: post
 date: 2017-10-09T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Shell
-  - Fluxo de Trabalho
-  - Refatoração
-  - Minimalismo
+categories: ["Technology"]
 tags:
   - dotfiles
   - shell

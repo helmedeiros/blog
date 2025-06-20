@@ -3,12 +3,7 @@ title: "Expanda Mentes, Amplie Horizontes"
 author: helio
 layout: post
 date: 2023-06-20T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
+categories: ["Agile", "Leadership"]
 tags:
   - leadership
   - management

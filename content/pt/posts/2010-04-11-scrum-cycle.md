@@ -6,10 +6,7 @@ date: 2010-04-11T23:09:21+00:00
 description: "Reflexões sobre a sétima aula de Engenharia de Software, explorando o ciclo operacional do Scrum, papéis, cerimônias e como equipes se auto-organizam em torno da entrega de valor."
 idptt_tweeted:
   - 1
-categories:
-  - Ágil
-  - Metodologias
-  - Educação
+categories: ["Agile", "Leadership"]
 tags:
   - Engenharia de Software
   - Scrum

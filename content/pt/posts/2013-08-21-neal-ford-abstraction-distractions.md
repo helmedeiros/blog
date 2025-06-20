@@ -11,10 +11,7 @@ seo_noindex:
   - 'false'
 dsq_thread_id:
   - 4969852574
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 tags:
   - '#AgileBR'
   - AGILE

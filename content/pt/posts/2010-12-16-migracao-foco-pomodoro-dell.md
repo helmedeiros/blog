@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-12-16T18:00:00+00:00
 slug: migracao-foco-pomodoro-dell
-categories:
-  - Carreira
-  - Desenvolvimento
-  - Porto Alegre
-  - Produtividade
+categories: ["Events", "Leadership"]
 tags:
   - Dell
   - Stefanini

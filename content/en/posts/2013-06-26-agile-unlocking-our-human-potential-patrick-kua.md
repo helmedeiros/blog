@@ -7,10 +7,7 @@ date: 2013-06-26T13:45:53+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 ---
 
 [<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1] There's more to developing products than just developing them.

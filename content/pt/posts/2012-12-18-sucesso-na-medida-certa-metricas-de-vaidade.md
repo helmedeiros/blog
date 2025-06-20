@@ -9,12 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
-  - Slides
+categories: ["Management"]
 tags:
   - 2012
   - desconf

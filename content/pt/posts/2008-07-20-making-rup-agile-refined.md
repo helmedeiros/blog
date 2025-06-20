@@ -3,9 +3,7 @@ title: "Tornando o RUP Ágil: Modelagem com Disciplina na Medida Certa"
 author: helio
 layout: post
 date: 2008-07-20T08:00:00+00:00
-categories:
-  - RUP
-  - Engenharia de Software
+categories: ["Architecture", "Agile"]
 ---
 
 Quando você menciona RUP em um ambiente Ágil, alguém revira os olhos.

@@ -1,5 +1,6 @@
 ---
 title: "Why We Stayed Remote-First—Even When the Office Reopened"
+categories: ["Leadership"]
 date: 2022-06-01
 description: "The conscious decision to maintain remote-first practices when the office reopened, avoiding the hybrid trap and preserving what worked."
 tags: ["remote-first", "hybrid", "post-pandemic", "async", "team-practices"]

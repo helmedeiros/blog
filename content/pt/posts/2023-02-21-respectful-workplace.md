@@ -3,13 +3,7 @@ title: "Ambiente Respeitoso – De Inclusão à Equidade"
 author: helio
 layout: post
 date: 2023-02-21T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
-  - Diversidade e Inclusão
+categories: ["Events", "Leadership"]
 tags:
   - leadership
   - management

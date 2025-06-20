@@ -11,7 +11,7 @@ tags:
     assíncrono,
     framework,
   ]
-categories: [Liderança, Trabalho Remoto]
+categories: ["Leadership", "Technology"]
 series: ["Remote-First Work"]
 series_order: 5
 ---

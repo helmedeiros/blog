@@ -3,12 +3,7 @@ title: "Team Agreements – A Foundation for Autonomy, Ownership, and Collaborat
 author: helio
 layout: post
 date: 2021-10-27T10:00:00+00:00
-categories:
-  - Leadership
-  - Management
-  - Teams
-  - Agile
-  - Culture
+categories: ["Leadership", "Agile"]
 tags:
   - team-agreements
   - autonomy
