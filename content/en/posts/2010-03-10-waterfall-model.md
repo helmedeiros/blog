@@ -6,7 +6,7 @@ date: 2010-03-10T02:53:58+00:00
 description: "Reflections on the third Software Engineering lecture, exploring the waterfall model, defined vs empirical processes, and the importance of critical thinking."
 idptt_tweeted:
   - 1
-categories: ["Management"]
+categories: ["Leadership"]
 tags:
   - Software Engineering
   - Waterfall Model

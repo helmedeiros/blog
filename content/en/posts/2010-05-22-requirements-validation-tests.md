@@ -3,7 +3,7 @@ title: "Requirements, Validation, and the Role of Testing"
 author: helio
 date: 2010-05-22T14:30:22+00:00
 description: "Reflections on the twelfth and final Software Engineering lecture, exploring requirements engineering, validation practices, and the critical connection between clear requirements and effective testing."
-categories: ["Technology", "Management"]
+categories: ["Technology", "Leadership"]
 tags:
   - Software Engineering
   - Requirements Engineering

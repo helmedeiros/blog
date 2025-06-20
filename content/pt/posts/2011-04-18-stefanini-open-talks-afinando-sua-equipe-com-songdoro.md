@@ -7,7 +7,7 @@ embed:
 seo_follow:
 seo_noindex:
 idptt_tweeted:
-categories: ["Events", "Management"]
+categories: ["Events", "Leadership"]
 tags:
   - Open Talks
   - Pomodoro

@@ -6,7 +6,7 @@ date: 2012-09-06T18:07:51+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories: ["Management", "Agile"]
+categories: ["Leadership", "Agile"]
 tags:
   - "#AgileBR"
   - AGILE

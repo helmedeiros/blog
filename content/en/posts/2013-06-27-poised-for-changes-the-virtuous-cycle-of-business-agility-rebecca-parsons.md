@@ -6,7 +6,7 @@ date: 2013-06-27T13:12:28+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories: ["Technology", "Management"]
+categories: ["Technology", "Leadership"]
 ---
 
 What is agility in business?

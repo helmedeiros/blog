@@ -9,7 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories: ["Management"]
+categories: ["Leadership"]
 tags:
   - 2012
   - desconf

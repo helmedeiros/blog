@@ -6,7 +6,7 @@ date: 2010-03-03T01:21:54+00:00
 description: "Reflections on the second Software Engineering lecture, focusing on process, models, and purpose in software development."
 idptt_tweeted:
   - 1
-categories: ["Leadership", "Management"]
+categories: ["Leadership"]
 tags:
   - Software Engineering
   - Process
