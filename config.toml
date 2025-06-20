@@ -10,6 +10,10 @@ theme = "beautifulhugo"
     title = "helio."
     weight = 1
     contentDir = "content/en"
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/"
+      weight = 1
 
   [languages.pt]
     languageCode = "pt-br"
@@ -17,9 +21,13 @@ theme = "beautifulhugo"
     title = "helio."
     weight = 2
     contentDir = "content/pt"
+    [[languages.pt.menu.main]]
+      name = "Posts"
+      url = "/"
+      weight = 1
 
 [pagination]
-  pagerSize = 9
+  pagerSize = 50
 
 [taxonomies]
   tag = "tags"
@@ -42,9 +50,3 @@ theme = "beautifulhugo"
     noClasses = false
     codeFences = true
     guessSyntax = true
-
-[menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 1

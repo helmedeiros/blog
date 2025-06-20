@@ -1,6 +1,6 @@
 ---
 title: "Cultivando uma Cultura de Aprendizado em Times de Produto"
-categories: ["Leadership", "Management"]
+categories: ["Leadership"]
 date: 2024-01-10
 description: "Como formar times que aprendem mais rápido que a concorrência através de práticas concretas, liderança que reforça o aprendizado e ambientes seguros para experimentação."
 tags: ["aprendizado", "cultura", "times", "produto", "engenharia", "liderança"]

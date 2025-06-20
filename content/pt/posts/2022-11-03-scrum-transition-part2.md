@@ -4,7 +4,7 @@ author: helio
 layout: post
 date: 2022-11-03T10:00:00+00:00
 series: "Transição de Kanban para Scrum"
-categories: ["Agile", "Management"]
+categories: ["Agile", "Leadership"]
 tags:
   - transicao-scrum
   - definicao-de-metas

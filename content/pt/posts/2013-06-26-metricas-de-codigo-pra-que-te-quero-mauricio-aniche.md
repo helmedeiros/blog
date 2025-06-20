@@ -11,7 +11,7 @@ seo_noindex:
   - 'false'
 dsq_thread_id:
   - 4969967005
-categories: ["Technology", "Management"]
+categories: ["Technology", "Leadership"]
 ---
 Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.
 

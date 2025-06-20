@@ -6,7 +6,7 @@ date: 2010-03-10T02:53:58+00:00
 description: "Reflexões sobre a terceira aula de Engenharia de Software, explorando o modelo cascata, processos definidos vs empíricos, e a importância do pensamento crítico."
 idptt_tweeted:
   - 1
-categories: ["Management", "Technology"]
+categories: ["Leadership", "Technology"]
 tags:
   - Engenharia de Software
   - Modelo Cascata

@@ -3,7 +3,7 @@ title: "Treinamentos de Liderança/Gestão"
 author: helio
 layout: post
 date: 2023-05-04T10:00:00+00:00
-categories: ["Leadership", "Management"]
+categories: ["Leadership"]
 tags:
   - leadership
   - management

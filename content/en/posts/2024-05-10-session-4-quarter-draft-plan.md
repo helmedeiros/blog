@@ -1,6 +1,6 @@
 ---
 title: "OKRA Session #4: OKR Quarter Draft Plan"
-categories: ["Technology", "Management"]
+categories: ["Technology", "Leadership"]
 date: 2024-05-10
 description: "Session #4 of the OKRA series: how to collaboratively build a visual draft plan for the quarter, making alignment visible and actionable."
 series: ["okra"]
