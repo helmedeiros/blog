@@ -51,8 +51,6 @@ Each session is divided into **three key parts**, inspired by the principles of 
 
 ### 1. Make People Awesome
 
-30 minutes
-
 ![Make People Awesome Figjam board](/uploads/2022/11/expectation_and_awesome.png)
 
 This is where we share expectations. The new joiner explains how they see their role, and the team shares what they expect or hope to see. It's about naming assumptions out loud—so we don't carry them in silence.
@@ -68,7 +66,6 @@ Then we go card by card—reading, reacting, discussing.
 
 ### 2. Make Safety a Prerequisite
 
-30 minutes
 ![Make People Awesome Figjam board](/uploads/2022/11/expectation_and_awesome.png)
 
 Next, we talk about strengths, insecurities, and support areas. This is where psychological safety starts—not with words, but with visibility.
@@ -85,7 +82,6 @@ Then we read and discuss each, asking:
 
 ### 3. Cultivation & Support Areas
 
-30 minutes
 ![Cultivation Plan Figjam board](/uploads/2022/11/cultivation_ares.png)
 
 Finally, we co-create a personalized onboarding roadmap.

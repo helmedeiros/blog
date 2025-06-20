@@ -59,7 +59,6 @@ Cada sessão é dividida em **três partes principais**, inspiradas pelos princ�
 
 ### 1. Make People Awesome
 
-30 minutos
 ![Quadro Figjam Make People Awesome](/uploads/2022/11/expectation_and_awesome.png)
 
 Aqui a gente compartilha expectativas. A nova pessoa explica como enxerga seu papel, e o time compartilha o que espera ou deseja ver. É o momento de nomear suposições—antes que virem mal-entendidos silenciosos.
@@ -75,7 +74,6 @@ Depois lemos tudo, discutimos cada ponto, e criamos alinhamento.
 
 ### 2. Make Safety a Prerequisite
 
-30 minutos
 ![Quadro Figjam Make People Awesome](/uploads/2022/11/expectation_and_awesome.png)
 
 Agora falamos sobre pontos fortes, inseguranças e áreas onde a pessoa precisa de apoio. A segurança psicológica começa aqui—não só com discurso, mas com visibilidade e escuta.
@@ -92,7 +90,6 @@ Depois lemos e discutimos com a pergunta:
 
 ### 3. Áreas de Cultivo e Suporte
 
-30 minutos
 ![Quadro Figjam Cultivation Plan](/uploads/2022/11/cultivation_ares.png)
 
 Por fim, cocriamos um plano de onboarding personalizado.
