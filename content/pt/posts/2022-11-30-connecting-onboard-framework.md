@@ -27,8 +27,6 @@ Foi por isso que criei o **Connecting Onboard**: uma estrutura de onboarding pen
 
 Usamos pela primeira vez no início de 2021. Desde então, virou nossa prática padrão para toda nova contratação—não importa de onde a pessoa venha.
 
----
-
 ## O que é o Connecting Onboard?
 
 Connecting Onboard é uma **sessão facilitada com Figjam (ou quadro branco)** para descobrir o que realmente importa nas primeiras semanas de alguém:
@@ -41,8 +39,6 @@ Em vez de presumir, a gente pergunta.
 Depois, criamos um plano de onboarding personalizado com participação de todo o time.
 
 Essa prática funciona tanto remoto quanto presencial. Serve para times em crescimento, empresas maiores com squads interdependentes, ou times pequenos construindo uma base sólida juntos.
-
----
 
 ## Quando Usamos
 
@@ -57,13 +53,9 @@ Rodamos uma sessão do Connecting Onboard em dois momentos principais:
 - Não há uma rotina presencial de onboarding
 - Queremos evitar ruídos, desalinhamentos e fricções desnecessárias
 
----
-
 ## A Estrutura em 3 Etapas
 
 Cada sessão é dividida em **três partes principais**, inspiradas pelos princípios de segurança, autonomia e desenvolvimento. Normalmente leva 90 minutos com um quadro Figjam preparado.
-
----
 
 ### 1. Make People Awesome
 
@@ -80,8 +72,6 @@ Dividimos os cards:
 - Azul: o time (buddy, gestor) adiciona seus recados
 
 Depois lemos tudo, discutimos cada ponto, e criamos alinhamento.
-
----
 
 ### 2. Make Safety a Prerequisite
 
@@ -100,13 +90,10 @@ Depois lemos e discutimos com a pergunta:
 
 > "Como podemos apoiar essa pessoa de forma honesta e prática?"
 
----
-
 ### 3. Áreas de Cultivo e Suporte
 
 30 minutos
 ![Quadro Figjam Cultivation Plan](/uploads/2022/11/cultivation_ares.png)
-![Quadro Figjam Cultivation Plan](/uploads/2022/11/Cultivation_Plan.png)
 
 Por fim, cocriamos um plano de onboarding personalizado.
 
@@ -116,14 +103,10 @@ O time então se voluntaria para guiar as sessões e distribui os temas em um ca
 
 Não é só boas-vindas—é um compromisso real.
 
----
-
 ## Ferramentas e Templates
 
 - [Template Figjam - Connecting Onboard](https://www.figma.com/community/file/1517925221825604738)
 - Funciona com qualquer quadro digital (Figjam, Miro) ou fisicamente com marcadores e post-its
-
----
 
 ## Por que Funciona
 
@@ -138,8 +121,6 @@ Com o Connecting Onboard:
 
 E o mais importante: transforma onboarding no que ele deveria ser.
 Uma via de mão dupla.
-
----
 
 ## Quer Rodar no Seu Time?
 
