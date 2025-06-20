@@ -3,12 +3,7 @@ title: "Por que Dotfiles Importam: Notas de um Recomeço"
 author: helio
 layout: post
 date: 2013-04-03T19:00:00+00:00
-categories:
-  - Produtividade
-  - Ferramentas
-  - Onboarding
-  - Ambiente de Desenvolvimento
-  - Dotfiles
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - produtividade

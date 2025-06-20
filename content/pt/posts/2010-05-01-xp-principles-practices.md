@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-01T10:15:39+00:00
 description: "Reflexões sobre a nona e última aula de Engenharia de Software, explorando as práticas concretas da Programação Extrema e sua relação com desenvolvimento sustentável de software."
-categories:
-  - Ágil
-  - Metodologias
-  - XP
-  - Educação
+categories: ["Agile", "Technology"]
 tags:
   - Engenharia de Software
   - Programação Extrema

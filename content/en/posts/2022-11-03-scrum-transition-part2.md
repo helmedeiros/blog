@@ -4,12 +4,7 @@ author: helio
 layout: post
 date: 2022-11-03T10:00:00+00:00
 series: "Kanban to Scrum Transition"
-categories:
-  - Agile
-  - Teams
-  - Process
-  - Scrum
-  - Kanban
+categories: ["Agile", "Management"]
 tags:
   - scrum-transition
   - goal-setting

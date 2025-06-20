@@ -3,8 +3,7 @@ title: "Creational Design Patterns: Building Objects with Flexibility"
 author: helio
 layout: post
 date: 2008-07-04T03:27:57+00:00
-categories:
-  - Design Patterns
+categories: ["Architecture", "Technology"]
 series: "Design Patterns and Analysis"
 ---
 

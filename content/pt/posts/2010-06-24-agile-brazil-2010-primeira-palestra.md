@@ -4,10 +4,7 @@ author: helio
 layout: post
 date: 2010-06-24T18:00:00+00:00
 slug: agile-brazil-2010-primeira-palestra
-categories:
-  - Agile
-  - Comunidade
-  - Retrospectiva
+categories: ["Agile", "Events"]
 tags:
   - Agile Brazil
   - XP

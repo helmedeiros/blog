@@ -3,8 +3,7 @@ title: "Modelagem com RUP: Disciplina, Não Documentação"
 author: helio
 layout: post
 date: 2008-07-12T09:24:51+00:00
-categories:
-  - RUP
+categories: ["Architecture", "Technology"]
 tags:
   - Atividade
   - BDUF

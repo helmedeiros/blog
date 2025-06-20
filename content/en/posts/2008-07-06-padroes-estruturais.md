@@ -3,8 +3,7 @@ title: "Structural Design Patterns: Composing Objects with Purpose"
 author: helio
 layout: post
 date: 2008-07-06T03:27:57+00:00
-categories:
-  - Design Patterns
+categories: ["Architecture", "Technology"]
 series: "Design Patterns and Analysis"
 ---
 

@@ -3,9 +3,7 @@ title: "Why Software Engineering? Building with Purpose Beyond Code"
 author: helio
 date: 2010-02-24T02:10:53+00:00
 description: "Reflections on my first Software Engineering lecture at UnP, addressing the importance of methods and practices in sustainable development."
-categories:
-  - Education
-  - Software Engineering
+categories: ["Technology", "Agile"]
 tags:
   - UnP
   - Teaching

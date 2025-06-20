@@ -6,10 +6,7 @@ date: 2010-04-11T23:09:21+00:00
 description: "Reflections on the seventh Software Engineering lecture, exploring the Scrum operational cycle, roles, ceremonies, and how teams self-organize around value delivery."
 idptt_tweeted:
   - 1
-categories:
-  - Agile
-  - Methodologies
-  - Education
+categories: ["Agile", "Events"]
 tags:
   - Software Engineering
   - Scrum

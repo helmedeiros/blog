@@ -4,9 +4,7 @@ author: helio
 layout: post
 date: 2010-06-22T02:54:34+00:00
 slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
-categories:
-  - Eventos
-  - Agile
+categories: ["Agile", "Events"]
 tags:
   - Agile Brazil
   - XP

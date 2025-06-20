@@ -6,10 +6,7 @@ date: 2012-04-12T01:37:54+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Technology"]
 tags:
   - AGILE
   - guma-rs

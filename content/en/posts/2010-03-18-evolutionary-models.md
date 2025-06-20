@@ -6,9 +6,7 @@ date: 2010-03-18T02:42:59+00:00
 description: "Reflections on the fourth Software Engineering lecture, exploring evolutionary models, CBSE, software reuse, and iterative development."
 idptt_tweeted:
   - 1
-categories:
-  - Methodologies
-  - Education
+categories: ["Technology", "Agile"]
 tags:
   - Software Engineering
   - Evolutionary Models

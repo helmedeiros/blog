@@ -10,7 +10,7 @@ tags:
     "colaboração",
     "desenvolvimento",
   ]
-categories: ["Engenharia de Software"]
+categories: ["Technology", "Leadership"]
 series: "Aulas de Engenharia de Software"
 slug: "controle-versao-fundacao-essencial"
 summary: "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional: controle de versão. Mais do que explicar comandos do Git, buscamos mostrar o impacto real na manutenção, colaboração e rastreabilidade de projetos. Controle de versão não é opcional. É engenharia básica."

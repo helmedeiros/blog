@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-04-19T12:30:19+00:00
 description: "Reflexões sobre a oitava aula de Engenharia de Software, explorando os valores centrais da Programação Extrema, ênfase em qualidade e práticas baseadas em coragem."
-categories:
-  - Ágil
-  - Metodologias
-  - XP
-  - Educação
+categories: ["Agile", "Technology"]
 tags:
   - Engenharia de Software
   - Programação Extrema

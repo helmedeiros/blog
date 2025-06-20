@@ -3,8 +3,7 @@ title: "Padrões de Criação: Construindo Objetos com Flexibilidade"
 author: helio
 layout: post
 date: 2008-07-04T03:27:57+00:00
-categories:
-  - Padrões de Projeto
+categories: ["Architecture", "Technology"]
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

@@ -1,5 +1,6 @@
 ---
 title: "OKRA in Action: Growing Product Culture Beyond the OKR Checklist"
+categories: ["Leadership", "Management"]
 date: 2023-06-23
 description: "The fifth post in the OKRA series, exploring how OKRA and product management practices shape team culture, foster shared ownership, and accelerate learning."
 series: ["okra"]

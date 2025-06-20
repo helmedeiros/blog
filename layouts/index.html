@@ -1,54 +1,274 @@
 {{ define "main" }}
-  <div role="main" class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        {{ with .Content }}
-          <div class="well">
-            {{.}}
+<link rel="stylesheet" href="/css/custom-layout.css">
+<link rel="stylesheet" href="/css/research-style.css">
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-md-12">
+
+      <!-- Blog Header -->
+      <div class="blog-header">
+        <h1 class="blog-title">Blog</h1>
+
+        <!-- Filter Navigation -->
+        <div class="blog-filters">
+          <div class="filter-tabs">
+            <button class="filter-tab active" data-filter="all">All</button>
+            <button class="filter-tab" data-filter="technology">Technology</button>
+            <button class="filter-tab" data-filter="agile">Agile</button>
+            <button class="filter-tab" data-filter="events">Events</button>
+            <button class="filter-tab" data-filter="leadership">Leadership</button>
+            <button class="filter-tab" data-filter="architecture">Architecture</button>
+            <button class="filter-tab" data-filter="management">Management</button>
           </div>
-        {{ end }}
 
-        {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          <div class="blog-controls">
+            <div class="filter-control">
+              <label for="filter-select">Filter</label>
+              <select id="filter-select">
+                <option value="all">All Categories</option>
+                <option value="technology">Technology</option>
+                <option value="agile">Agile</option>
+                <option value="events">Events</option>
+                <option value="leadership">Leadership</option>
+                <option value="architecture">Architecture</option>
+                <option value="management">Management</option>
+              </select>
+            </div>
 
-        <!-- Featured Posts Section (First 2 posts with full details) -->
-        {{ if gt (len $pag.Pages) 0 }}
-          <div class="featured-posts">
-            <h2 class="section-title">{{ i18n "featuredPosts" | default "Featured Posts" }}</h2>
-            {{ range first 2 $pag.Pages }}
-              {{ partial "post_preview_featured" . }}
-            {{ end }}
+            <div class="sort-control">
+              <label for="sort-select">Sort</label>
+              <select id="sort-select">
+                <option value="date-desc">Newest first</option>
+                <option value="date-asc">Oldest first</option>
+                <option value="title">Title A-Z</option>
+              </select>
+            </div>
+
+            <button class="view-toggle" id="view-toggle">
+              <i class="fas fa-th-list"></i>
+            </button>
           </div>
-        {{ end }}
+        </div>
+      </div>
 
-        <!-- Recent Posts Section (Remaining posts with titles only) -->
-        {{ if gt (len $pag.Pages) 2 }}
-          <div class="recent-posts">
-            <h2 class="section-title">{{ i18n "previousArticles" | default "Previous Articles" }}</h2>
-            <ul class="posts-list-simple">
-              {{ range after 2 $pag.Pages }}
-                {{ partial "post_preview_simple" . }}
+      <!-- Posts Counter -->
+      <div class="posts-counter">
+        <span id="posts-count">
+          {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          Showing {{ len $pag.Pages }} of {{ $pag.TotalNumberOfElements }} posts
+          {{ if gt $pag.TotalPages 1 }}
+            (Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }})
+          {{ end }}
+        </span>
+      </div>
+
+      <!-- Blog Posts -->
+      <div class="blog-posts" id="blog-posts">
+        {{ range $pag.Pages }}
+          <article class="post-card"
+                   data-categories="{{ range .Params.categories }}{{ . | lower | replaceRE `[^a-z0-9]+` `-` }} {{ end }}"
+                   data-date="{{ .Date.Format "2006-01-02" }}"
+                   data-title="{{ .Title }}"
+                   data-timestamp="{{ .Date.Unix }}">
+
+            <div class="post-card-meta">
+              <span class="post-card-category">
+                {{ if .Params.categories }}
+                  {{ index .Params.categories 0 }}
+                {{ else }}
+                  Publication
+                {{ end }}
+              </span>
+              <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "Jan 2, 2006" }}
+              </time>
+            </div>
+
+            <h2 class="post-card-title">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h2>
+
+            <div class="post-card-description">
+              {{ if .Params.description }}
+                {{ .Params.description | truncate 200 }}
+              {{ else if .Summary }}
+                {{ .Summary | plainify | truncate 200 }}
+              {{ else }}
+                {{ .Content | plainify | truncate 200 }}
               {{ end }}
-            </ul>
-          </div>
-        {{ end }}
+            </div>
 
-        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-          <ul class="pager main-pager">
-            {{ if .Paginator.HasPrev }}
-              <li class="previous">
-                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
-              </li>
+            {{ if .Params.tags }}
+              <div class="post-card-tags">
+                {{ range first 3 .Params.tags }}
+                  <span class="post-tag">{{ . }}</span>
+                {{ end }}
+              </div>
             {{ end }}
-            {{ if .Paginator.HasNext }}
-              <li class="next">
-                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
-              </li>
-            {{ end }}
-          </ul>
+          </article>
         {{ end }}
       </div>
+
+      <!-- Load More Section -->
+      {{ if .Paginator.HasNext }}
+        <div class="load-more-section">
+          <a href="{{ .Paginator.Next.URL }}" class="load-more-btn">
+            Load more
+          </a>
+          <div class="pagination-info">
+            <span class="pagination-text">
+              Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}
+            </span>
+          </div>
+        </div>
+      {{ else if gt .Paginator.TotalPages 1 }}
+        <div class="load-more-section">
+          <div class="pagination-info">
+            <span class="pagination-text">
+              End of posts ({{ .Paginator.TotalNumberOfElements }} total)
+            </span>
+            <a href="{{ .Site.BaseURL }}" class="back-to-first-btn">
+              <i class="fas fa-arrow-up"></i> Back to first page
+            </a>
+          </div>
+        </div>
+      {{ end }}
+
     </div>
   </div>
+</div>
 
-    <link rel="stylesheet" href="/css/custom-layout.css">
+<script>
+// Enhanced Filter and Sort Functionality with Pagination
+document.addEventListener('DOMContentLoaded', function() {
+  const filterTabs = document.querySelectorAll('.filter-tab');
+  const filterSelect = document.getElementById('filter-select');
+  const sortSelect = document.getElementById('sort-select');
+  const blogPosts = document.getElementById('blog-posts');
+  const postCards = document.querySelectorAll('.post-card');
+  const postsCount = document.getElementById('posts-count');
+
+  let currentFilter = 'all';
+  let currentSort = 'date-desc';
+
+  // Update posts counter
+  function updatePostsCounter() {
+    const visiblePosts = Array.from(postCards).filter(card =>
+      card.style.display !== 'none'
+    ).length;
+
+    const totalPosts = postCards.length;
+
+    if (currentFilter === 'all') {
+      // Keep the original pagination info when showing all
+      return;
+    } else {
+      postsCount.textContent = `Showing ${visiblePosts} of ${totalPosts} posts on this page (filtered by ${currentFilter})`;
+    }
+  }
+
+  // Enhanced filter functionality
+  function filterPosts(category) {
+    currentFilter = category;
+    let visibleCount = 0;
+
+    postCards.forEach(card => {
+      const cardCategories = card.dataset.categories.toLowerCase();
+      const shouldShow = category === 'all' || cardCategories.includes(category.toLowerCase());
+
+      if (shouldShow) {
+        card.style.display = 'block';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    updatePostsCounter();
+
+    // Re-apply current sorting to visible posts
+    sortPosts(currentSort, false);
+  }
+
+  // Enhanced sort functionality
+  function sortPosts(sortBy, updateCounter = true) {
+    currentSort = sortBy;
+
+    // Get only visible cards for sorting
+    const visibleCards = Array.from(postCards).filter(card =>
+      card.style.display !== 'none'
+    );
+
+    const sortedCards = visibleCards.sort((a, b) => {
+      switch(sortBy) {
+        case 'date-desc':
+          return parseInt(b.dataset.timestamp) - parseInt(a.dataset.timestamp);
+        case 'date-asc':
+          return parseInt(a.dataset.timestamp) - parseInt(b.dataset.timestamp);
+        case 'title':
+          return a.dataset.title.localeCompare(b.dataset.title);
+        default:
+          return 0;
+      }
+    });
+
+    // Clear the container and re-append sorted visible cards
+    // First, temporarily store all hidden cards
+    const hiddenCards = Array.from(postCards).filter(card =>
+      card.style.display === 'none'
+    );
+
+    // Clear container
+    blogPosts.innerHTML = '';
+
+    // Add sorted visible cards first
+    sortedCards.forEach(card => blogPosts.appendChild(card));
+
+    // Add hidden cards at the end (they won't be visible anyway)
+    hiddenCards.forEach(card => blogPosts.appendChild(card));
+
+    if (updateCounter) {
+      updatePostsCounter();
+    }
+  }
+
+  // Initialize with proper sorting
+  function initializeBlog() {
+    // Start with newest first (date-desc) - already sorted by Hugo
+    filterPosts('all');
+
+    console.log(`Blog page loaded with ${postCards.length} posts`);
+  }
+
+  // Tab click handlers
+  filterTabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      filterTabs.forEach(t => t.classList.remove('active'));
+      this.classList.add('active');
+
+      const filter = this.dataset.filter;
+      filterSelect.value = filter;
+      filterPosts(filter);
+    });
+  });
+
+  // Select change handlers
+  filterSelect.addEventListener('change', function() {
+    const filter = this.value;
+    filterTabs.forEach(tab => tab.classList.remove('active'));
+    const activeTab = document.querySelector(`[data-filter="${filter}"]`);
+    if (activeTab) activeTab.classList.add('active');
+    filterPosts(filter);
+  });
+
+  sortSelect.addEventListener('change', function() {
+    sortPosts(this.value);
+  });
+
+  // Initialize the blog
+  initializeBlog();
+});
+</script>
+
 {{ end }}

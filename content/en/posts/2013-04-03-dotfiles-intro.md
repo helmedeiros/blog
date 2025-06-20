@@ -3,12 +3,7 @@ title: "Why Dotfiles Matter: Notes from a Fresh Start"
 author: helio
 layout: post
 date: 2013-04-03T19:00:00+00:00
-categories:
-  - Productivity
-  - Tools
-  - Onboarding
-  - Dev Environment
-  - Dotfiles
+categories: ["Technology", "Leadership"]
 tags:
   - dotfiles
   - productivity

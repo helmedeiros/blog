@@ -4,10 +4,7 @@ author: helio
 layout: post
 date: 2010-06-25T18:00:00+00:00
 slug: agile-brazil-2010-retrospectives-corbucci-bravo
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 tags:
   - Agile Brazil
   - Retrospectivas

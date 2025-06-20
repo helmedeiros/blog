@@ -3,8 +3,7 @@ title: "Mini-scenario: Lottery Pool Control System"
 author: helio
 layout: post
 date: 2008-06-17T02:14:52+00:00
-categories:
-  - UML
+categories: ["Events", "Leadership"]
 series: "UML Mini-scenarios"
 tags:
   - mini-scenarios

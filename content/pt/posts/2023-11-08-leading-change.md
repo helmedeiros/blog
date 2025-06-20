@@ -3,12 +3,7 @@ title: "Liderando Mudanças – Entendendo e Apoiando Reações Humanas"
 author: helio
 layout: post
 date: 2023-11-08T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
+categories: ["Leadership", "Architecture"]
 tags:
   - leadership
   - management

@@ -3,10 +3,7 @@ title: "Testing Software: Fidelity, Quality, and System Evolution"
 author: helio
 date: 2010-05-29T14:30:22+00:00
 description: "Reflections on the thirteenth Software Engineering lecture, exploring software testing as a strategic design activity embedded throughout real development processes."
-categories:
-  - Testing
-  - Quality Assurance
-  - Education
+categories: ["Technology", "Leadership"]
 tags:
   - Software Engineering
   - Software Testing

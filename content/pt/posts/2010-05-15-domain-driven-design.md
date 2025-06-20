@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-15T14:30:22+00:00
 description: "Reflexões sobre a décima primeira e última aula de Engenharia de Software, explorando os princípios de Domain-Driven Design e sua aplicação prática no desenvolvimento de software real."
-categories:
-  - Arquitetura
-  - Design
-  - DDD
-  - Educação
+categories: ["Architecture", "Technology"]
 tags:
   - Engenharia de Software
   - Domain-Driven Design

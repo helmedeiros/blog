@@ -3,12 +3,7 @@ title: "Dotfiles 2025: Boot Fast, Adapt Smarter"
 author: helio
 layout: post
 date: 2025-05-27T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Developer Setup
-  - Portability
-  - Shell
-  - System Integration
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - portability

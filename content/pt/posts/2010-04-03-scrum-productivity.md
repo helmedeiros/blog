@@ -6,10 +6,7 @@ date: 2010-04-03T01:32:39+00:00
 description: "Reflexões sobre a sexta aula de Engenharia de Software, explorando Scrum como framework para equipes produtivas, ritmo sustentável e entrega de valor."
 idptt_tweeted:
   - 1
-categories:
-  - Ágil
-  - Metodologias
-  - Educação
+categories: ["Agile", "Technology"]
 tags:
   - Engenharia de Software
   - Scrum

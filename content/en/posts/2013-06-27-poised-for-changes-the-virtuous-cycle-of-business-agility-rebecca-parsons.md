@@ -6,10 +6,7 @@ date: 2013-06-27T13:12:28+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Technology", "Management"]
 ---
 
 What is agility in business?

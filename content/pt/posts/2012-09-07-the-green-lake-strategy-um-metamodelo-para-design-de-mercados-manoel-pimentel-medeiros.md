@@ -9,10 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Leadership", "Agile"]
 tags:
   - '#AgileBR'
   - agile brazil

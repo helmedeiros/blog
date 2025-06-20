@@ -6,8 +6,7 @@ date: 2014-04-10T13:54:41+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Eventos
+categories: ["Events", "Management"]
 tags:
   - data scientist
   - NASA

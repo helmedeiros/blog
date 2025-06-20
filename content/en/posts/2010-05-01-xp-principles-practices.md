@@ -4,11 +4,7 @@ author: helio
 layout: post
 date: 2010-05-01T10:15:39+00:00
 description: "Reflections on the ninth and final Software Engineering lecture, exploring Extreme Programming's concrete practices and their relationship to sustainable software development."
-categories:
-  - Agile
-  - Methodologies
-  - XP
-  - Education
+categories: ["Agile", "Technology"]
 tags:
   - Software Engineering
   - Extreme Programming

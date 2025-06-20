@@ -3,12 +3,7 @@ title: "Liderança Responsiva – Parte 1: Presença e Adaptabilidade no Cotidia
 author: helio
 layout: post
 date: 2023-07-05T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
+categories: ["Leadership", "Architecture"]
 tags:
   - leadership
   - management

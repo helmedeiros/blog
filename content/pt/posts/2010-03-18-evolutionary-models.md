@@ -6,9 +6,7 @@ date: 2010-03-18T02:42:59+00:00
 description: "Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos evolucionários, CBSE, reúso de software e desenvolvimento iterativo."
 idptt_tweeted:
   - 1
-categories:
-  - Metodologias
-  - Educação
+categories: ["Technology", "Agile"]
 tags:
   - Engenharia de Software
   - Modelos Evolucionários

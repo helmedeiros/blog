@@ -10,7 +10,7 @@ tags:
     "UnP",
     "Academia",
   ]
-categories: ["Academia", "Carreira"]
+categories: ["Agile"]
 ---
 
 ![Imagem do anúncio da matrícula na UnP](/uploads/2010/01/Screen-shot-2010-01-26-at-8.44.18-PM.png)

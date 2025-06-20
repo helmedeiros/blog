@@ -19,7 +19,7 @@ theme = "beautifulhugo"
     contentDir = "content/pt"
 
 [pagination]
-  pagerSize = 50
+  pagerSize = 9
 
 [taxonomies]
   tag = "tags"

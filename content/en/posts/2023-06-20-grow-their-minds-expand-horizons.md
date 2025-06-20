@@ -3,12 +3,7 @@ title: "Grow Their Minds, Expand Our Horizons"
 author: helio
 layout: post
 date: 2023-06-20T10:00:00+00:00
-categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
+categories: ["Leadership", "Technology"]
 tags:
   - leadership
   - management

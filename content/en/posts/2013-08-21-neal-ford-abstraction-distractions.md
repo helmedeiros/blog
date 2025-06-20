@@ -7,10 +7,7 @@ embed:
 seo_follow:
 seo_noindex:
 dsq_thread_id:
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile"]
 tags:
   - "#AgileBR"
   - AGILE

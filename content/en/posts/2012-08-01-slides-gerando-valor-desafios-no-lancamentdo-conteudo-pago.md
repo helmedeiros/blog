@@ -6,11 +6,7 @@ date: 2012-08-02T01:38:48+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Apresentações
-  - Eventos
-  - Metodologias
-  - Slides
+categories: ["Architecture", "Events"]
 tags:
   - lean manufacturing
   - Lean Startup

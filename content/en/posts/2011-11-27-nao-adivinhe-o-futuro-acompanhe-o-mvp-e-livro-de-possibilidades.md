@@ -6,11 +6,7 @@ date: 2011-11-27T17:08:43+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Apresentações
-  - Eventos
-  - Metodologias
-  - Slides
+categories: ["Agile", "Architecture"]
 tags:
   - 2011
   - cultura

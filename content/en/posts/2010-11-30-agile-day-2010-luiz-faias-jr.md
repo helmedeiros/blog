@@ -8,10 +8,7 @@ embed:
 seo_follow:
 seo_noindex:
 dsq_thread_id:
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Leadership"]
 series: "Agile Day 2010"
 tags:
   - 2010

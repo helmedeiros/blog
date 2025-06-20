@@ -3,7 +3,7 @@ title: "Minha equipe precisa de um pedal de overdriver"
 date: 2010-02-12T01:55:03+02:00
 draft: false
 tags: ["AGILE", "XP", "Equipes", "Liderança", "Colaboração", "Multiplicadores"]
-categories: ["Agile", "Equipes"]
+categories: ["Leadership", "Events"]
 ---
 
 Tenho refletido bastante sobre como podemos melhorar a forma como trabalhamos juntos nas equipes, não apenas como líderes, mas também como pessoas que desejam contribuir com eficiência, empatia e propósito. Acredito que todos nós, independentemente do cargo que ocupamos, temos o poder de **influenciar positivamente a dinâmica do time**, criando um ambiente onde crescer, compartilhar e ser produtivo andam juntos.

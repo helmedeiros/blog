@@ -1,5 +1,6 @@
 ---
 title: "Por que Continuamos Remote-First—Mesmo com o Escritório Reaberto"
+categories: ["Events"]
 date: 2022-06-01
 description: "A decisão consciente de manter práticas remote-first quando o escritório reabriu, evitando a armadilha do híbrido e preservando o que funcionava."
 tags:

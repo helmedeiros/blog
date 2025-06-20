@@ -9,10 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Management"]
 ---
 O que é agilidade em negócios? Esta foi a pergunta inicial da Rebecca, provavelmente o principal ponto é fazer entregas mais rápido com mais valor, onde o negócio alcance mais eficiência, com medições constantes de hipóteses, e assim que conseguimos confirma-las, então podemos incorpora-las.
 

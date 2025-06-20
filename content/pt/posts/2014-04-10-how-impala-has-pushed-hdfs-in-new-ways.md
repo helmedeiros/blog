@@ -9,8 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Eventos
+categories: ["Technology", "Architecture"]
 tags:
   - aaron myers
   - cloudera

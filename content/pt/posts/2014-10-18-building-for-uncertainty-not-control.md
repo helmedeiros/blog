@@ -4,7 +4,7 @@ author: "helio"
 date: 2015-10-18T09:22:12+02:00
 subtitle: "Por que tantas empresas falham no crescimento e como construir para a incerteza com estruturas em rede e experimentação científica."
 tags: ["growth", "produto", "organização", "experimentação", "rede"]
-categories: ["Tecnologia", "Gestão"]
+categories: ["Agile", "Events"]
 ---
 
 # Construindo para a Incerteza, Não para o Controle

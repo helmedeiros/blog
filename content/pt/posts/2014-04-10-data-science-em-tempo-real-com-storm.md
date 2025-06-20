@@ -11,8 +11,7 @@ seo_noindex:
   - 'false'
 dsq_thread_id:
   - 4969845304
-categories:
-  - Eventos
+categories: ["Technology"]
 tags:
   - big data
   - data scientist

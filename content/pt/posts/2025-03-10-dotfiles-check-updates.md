@@ -3,12 +3,7 @@ title: "Check-Updates: Mantendo Minha Máquina Honesta"
 author: helio
 layout: post
 date: 2025-03-10T12:00:00+00:00
-categories:
-  - Dotfiles
-  - Higiene de Desenvolvimento
-  - Shell Scripts
-  - Automação
-  - Manutenção
+categories: ["Technology", "Leadership"]
 tags:
   - dotfiles
   - maintenance

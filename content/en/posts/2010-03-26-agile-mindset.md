@@ -6,10 +6,7 @@ date: 2010-03-26T10:21:39+00:00
 description: "Reflections on the fifth Software Engineering lecture, introducing agile methodologies, the Agile Manifesto, and mindset transformation in development."
 idptt_tweeted:
   - 1
-categories:
-  - Agile
-  - Methodologies
-  - Education
+categories: ["Agile", "Technology"]
 tags:
   - Software Engineering
   - Agility

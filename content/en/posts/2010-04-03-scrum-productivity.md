@@ -6,10 +6,7 @@ date: 2010-04-03T01:32:39+00:00
 description: "Reflections on the sixth Software Engineering lecture, exploring Scrum as a framework for productive teams, sustainable rhythm, and value delivery."
 idptt_tweeted:
   - 1
-categories:
-  - Agile
-  - Methodologies
-  - Education
+categories: ["Agile", "Technology"]
 tags:
   - Software Engineering
   - Scrum

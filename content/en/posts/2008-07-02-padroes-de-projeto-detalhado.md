@@ -3,8 +3,7 @@ title: "Design Patterns: Proven Solutions for Implementation Challenges"
 author: helio
 layout: post
 date: 2008-07-02T03:27:57+00:00
-categories:
-  - Design Patterns
+categories: ["Architecture", "Technology"]
 series: "Design Patterns and Analysis"
 ---
 
@@ -40,7 +39,7 @@ Most documented patterns include:
 
 ## The Catalog of Design Patterns
 
-The classic "Gang of Four" book classifies 23 design patterns into three categories:
+The classic "Gang of Four" book classifies 23 design patterns into three categories: ["Architecture", "Technology"]
 
 ## Creational Patterns
 

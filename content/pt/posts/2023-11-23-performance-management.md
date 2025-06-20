@@ -3,13 +3,7 @@ title: "Gestão de Performance 101 – Conversas com Propósito para Impulsionar
 author: helio
 layout: post
 date: 2023-11-23T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
-  - Performance
+categories: ["Leadership", "Architecture"]
 tags:
   - leadership
   - management

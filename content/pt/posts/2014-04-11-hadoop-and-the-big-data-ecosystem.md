@@ -11,8 +11,7 @@ seo_noindex:
   - 'false'
 dsq_thread_id:
   - 4969853650
-categories:
-  - Eventos
+categories: ["Agile", "Technology"]
 tags:
   - big data
   - hadoop

@@ -11,10 +11,7 @@ seo_follow:
   - "false"
 seo_noindex:
   - "false"
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 series: "Agile Day 2010"
 tags:
   - 2010

@@ -7,10 +7,7 @@ idptt_tweeted:
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 series: "Agile Day 2010"
 tags:
   - 2010

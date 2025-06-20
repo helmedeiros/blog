@@ -9,8 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Eventos
+categories: ["Events"]
 ---
 &nbsp;<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter">
 

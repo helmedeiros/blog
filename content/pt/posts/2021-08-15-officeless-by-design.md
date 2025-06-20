@@ -1,5 +1,6 @@
 ---
 title: "Sem Escritório por Design"
+categories: ["Events", "Leadership"]
 date: 2021-08-15
 description: "Como nosso time transformou o trabalho remoto emergencial em uma cultura officeless intencional, com apoio de treinamento estruturado e experimentação coletiva."
 tags:

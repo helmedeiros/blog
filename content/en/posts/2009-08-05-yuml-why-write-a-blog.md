@@ -3,7 +3,7 @@ title: "yUML – Why Write a Blog?"
 date: 2009-08-05T12:03:24+02:00
 draft: false
 tags: ["UML", "blogging", "documentation", "software-design", "yUML"]
-categories: ["UML", "Tools", "Blogging"]
+categories: ["Architecture"]
 ---
 
 For some time now, I've been trying to develop the habit of not just reading great _posts_, but writing them too. Many of those I read emphasize the importance of sharing knowledge — and that's what I'm picking up again in this post.

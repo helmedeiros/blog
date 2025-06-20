@@ -3,12 +3,7 @@ title: "Evoluindo Meus Dotfiles: Do Simples ao Modular"
 author: helio
 layout: post
 date: 2015-12-01T10:00:00+00:00
-categories:
-  - Produtividade
-  - Ferramentas
-  - Ambiente de Desenvolvimento
-  - Dotfiles
-  - Automação
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - produtividade

@@ -3,12 +3,7 @@ title: "Primeiros 90 Dias como Gestor – Introdução e Parceiros de Pessoas"
 author: helio
 layout: post
 date: 2023-05-05T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
+categories: ["Leadership", "Agile"]
 tags:
   - leadership
   - management

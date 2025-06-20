@@ -3,12 +3,7 @@ title: "Dotfiles 2023: Durable by Design"
 author: helio
 layout: post
 date: 2023-09-29T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Developer Setup
-  - Shell
-  - Portability
-  - Craft
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - infrastructure

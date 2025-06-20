@@ -3,12 +3,7 @@ title: "Liderança Responsiva – Parte 2: Coaching, Confiança e Resiliência e
 author: helio
 layout: post
 date: 2023-07-06T10:00:00+00:00
-categories:
-  - Liderança
-  - Gestão
-  - Desenvolvimento Profissional
-  - Treinamentos
-  - Equipes
+categories: ["Leadership", "Events"]
 tags:
   - leadership
   - management

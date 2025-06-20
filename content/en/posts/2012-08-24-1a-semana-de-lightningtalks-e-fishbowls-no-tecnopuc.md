@@ -6,12 +6,7 @@ date: 2012-08-24T12:06:34+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
-  - Slides
+categories: ["Events", "Agile"]
 tags:
   - coragem
   - extreme programming

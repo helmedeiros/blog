@@ -6,8 +6,7 @@ date: 2014-04-10T15:03:02+00:00
 embed:
 seo_follow:
 seo_noindex:
-categories:
-  - Eventos
+categories: ["Events", "Leadership"]
 tags:
   - Jarrod Overson
   - qconsp

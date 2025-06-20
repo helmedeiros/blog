@@ -7,9 +7,7 @@ embed:
 seo_follow:
 seo_noindex:
 idptt_tweeted:
-categories:
-  - Agile
-  - Metodologias
+categories: ["Events", "Agile"]
 tags:
   - Open Talks
   - Pomodoro

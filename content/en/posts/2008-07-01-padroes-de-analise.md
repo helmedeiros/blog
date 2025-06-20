@@ -3,8 +3,7 @@ title: Analysis Patterns
 author: helio
 layout: post
 date: 2008-07-01T03:27:57+00:00
-categories:
-  - Analysis Patterns
+categories: ["Architecture"]
 series: "Design Patterns and Analysis"
 ---
 

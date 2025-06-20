@@ -3,10 +3,7 @@ title: "Agile Day 2010 – Parte 1: Klaus Wuestefeld sobre Qualidade vs. Velocid
 author: helio
 layout: post
 date: 2010-11-25T01:41:25+00:00
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Agile"]
 series: "Agile Day 2010"
 tags:
   - 2010

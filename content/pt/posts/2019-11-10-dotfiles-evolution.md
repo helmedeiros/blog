@@ -3,12 +3,7 @@ title: "Dotfiles 2019: De Volta ao Pessoal"
 author: helio
 layout: post
 date: 2019-11-10T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Fluxo de Trabalho
-  - Terminal
-  - Refino
-  - Prática
+categories: ["Technology", "Agile"]
 tags:
   - dotfiles
   - terminal

@@ -6,10 +6,7 @@ date: 2012-09-05T19:51:01+00:00
 embed: 
 seo_follow: 
 seo_noindex: 
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Events"]
 tags:
   - '#AgileBR'
   - AGILE

@@ -1,5 +1,6 @@
 ---
 title: "Construindo Confiança, Um Jogo de Cada Vez"
+categories: ["Leadership", "Architecture"]
 date: 2018-12-30T10:00:00-03:00
 author: Helio Medeiros
 tags: ["team building", "thoughtworks", "workshop", "colaboração", "cultura"]

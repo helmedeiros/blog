@@ -1,5 +1,6 @@
 ---
 title: "OKRs Reimaginados: Como o OKRA Transformou Estratégia em Compromisso Real"
+categories: ["Leadership", "Architecture"]
 date: 2023-03-01
 description: "O primeiro post da nossa série OKRA, explorando como evoluímos dos OKRs tradicionais para um framework mais colaborativo e efetivo para alinhamento e execução em equipes."
 series: ["okra"]

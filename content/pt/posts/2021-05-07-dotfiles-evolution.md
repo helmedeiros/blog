@@ -3,12 +3,7 @@ title: "Dotfiles 2021: Preparando Para Escalar a Mim Mesmo"
 author: helio
 layout: post
 date: 2021-05-07T10:00:00+00:00
-categories:
-  - Dotfiles
-  - Configuração de Desenvolvedor
-  - Terminal
-  - Portabilidade
-  - Experiência do Desenvolvedor
+categories: ["Technology", "Architecture"]
 tags:
   - dotfiles
   - remote-work

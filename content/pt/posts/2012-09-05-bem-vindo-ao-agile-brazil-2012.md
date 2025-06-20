@@ -9,11 +9,7 @@ seo_follow:
   - 'false'
 seo_noindex:
   - 'false'
-categories:
-  - Ageis
-  - Apresentações
-  - Eventos
-  - Metodologias
+categories: ["Events", "Agile"]
 tags:
   - 2012
   - AGILE

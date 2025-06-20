@@ -3,9 +3,7 @@ title: "Stefanini Open Talks – Pomodoro Technique and Depth in Work"
 author: helio
 layout: post
 date: 2011-01-13T01:07:59+00:00
-categories:
-  - Events
-  - Productivity
+categories: ["Events", "Management"]
 tags:
   - Hélio
   - Open Talks

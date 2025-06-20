@@ -9,10 +9,7 @@ seo_follow:
   - "false"
 seo_noindex:
   - "false"
-categories:
-  - Agile
-  - Eventos
-  - Metodologias
+categories: ["Events", "Agile"]
 tags:
   - agilebrazil2011
   - aprendizagem

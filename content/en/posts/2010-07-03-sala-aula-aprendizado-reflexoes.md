@@ -1,5 +1,6 @@
 ---
 title: "The Classroom as a Learning Ground: Reflections from a Semester"
+categories: ["Events", "Agile"]
 date: 2010-07-03T00:00:00-03:00
 slug: classroom-learning-reflections
 category: Software Engineering

@@ -3,10 +3,7 @@ title: "Unit Testing with JUnit: Clarity Before Complexity"
 author: helio
 date: 2010-06-12T14:30:22+00:00
 description: "Reflections on the fifteenth and final Software Engineering lecture, exploring unit testing with JUnit as a structured approach to validation, feedback loops, and design improvement."
-categories:
-  - Testing
-  - Unit Testing
-  - Education
+categories: ["Technology", "Agile"]
 tags:
   - Software Engineering
   - Unit Testing

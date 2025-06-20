@@ -11,10 +11,7 @@ seo_noindex:
   - 'false'
 dsq_thread_id:
   - 4969966687
-categories:
-  - Ageis
-  - Eventos
-  - Metodologias
+categories: ["Agile", "Leadership"]
 tags:
   - '#AgileBR'
   - agile brazil
