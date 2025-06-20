@@ -87,7 +87,6 @@ Then we read and discuss each, asking:
 
 30 minutes
 ![Cultivation Plan Figjam board](/uploads/2022/11/cultivation_ares.png)
-![Cultivation Plan Figjam board](/uploads/2022/11/Cultivation_Plan.png)
 
 Finally, we co-create a personalized onboarding roadmap.
 
