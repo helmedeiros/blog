@@ -2,8 +2,10 @@
 title: Padrões de Análise
 author: helio
 layout: post
-date: 2008-07-01T03:27:57+00:00
-categories: ["Architecture"]
+date: 2008-07-01 03:27:57+00:00
+categories:
+- Architecture
+subtitle: Padrões de design para desenvolvimento de software
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Introdução** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

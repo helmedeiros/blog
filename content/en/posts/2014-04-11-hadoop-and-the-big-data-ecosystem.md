@@ -1,18 +1,21 @@
 ---
-title: "Hadoop and the Big Data Ecosystem"
+title: Hadoop and the Big Data Ecosystem
 author: helio
 layout: post
-date: 2014-04-11T13:36:05+00:00
-embed:
-seo_follow:
-seo_noindex:
-dsq_thread_id:
-categories: ["Technology", "Agile"]
+date: 2014-04-11 13:36:05+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Technology
+- Agile
 tags:
-  - big data
-  - hadoop
-  - qconsp
-  - Todd Lipcon
+- big data
+- hadoop
+- qconsp
+- Todd Lipcon
+subtitle: Software development concepts and practices
 ---
 
 Why should we worry?

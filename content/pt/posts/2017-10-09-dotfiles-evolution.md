@@ -1,18 +1,20 @@
 ---
-title: "Dotfiles 2017: Cortando Ainda Mais Fundo"
+title: 'Dotfiles 2017: Cortando Ainda Mais Fundo'
 author: helio
 layout: post
-date: 2017-10-09T10:00:00+00:00
-categories: ["Technology"]
+date: 2017-10-09 10:00:00+00:00
+categories:
+- Technology
 tags:
-  - dotfiles
-  - shell
-  - zsh
-  - minimalismo
-  - refatoração
-  - aliases
-  - simplificação
-  - pruning
+- dotfiles
+- shell
+- zsh
+- minimalismo
+- refatoração
+- aliases
+- simplificação
+- pruning
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Um Ano Depois: Hora de Podar

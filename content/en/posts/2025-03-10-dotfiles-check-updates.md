@@ -1,18 +1,21 @@
 ---
-title: "Check-Updates: Keeping My Machine Honest"
+title: 'Check-Updates: Keeping My Machine Honest'
 author: helio
 layout: post
-date: 2025-03-10T12:00:00+00:00
-categories: ["Technology", "Architecture"]
+date: 2025-03-10 12:00:00+00:00
+categories:
+- Technology
+- Architecture
 tags:
-  - dotfiles
-  - maintenance
-  - automation
-  - homebrew
-  - developer-hygiene
-  - shell-scripts
-  - updates
-  - environment-management
+- dotfiles
+- maintenance
+- automation
+- homebrew
+- developer-hygiene
+- shell-scripts
+- updates
+- environment-management
+subtitle: Software development concepts and practices
 ---
 
 ## A Healthy Machine is a Productive One

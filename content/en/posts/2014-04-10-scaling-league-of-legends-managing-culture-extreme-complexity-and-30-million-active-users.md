@@ -1,16 +1,20 @@
 ---
-title: "Scaling League of Legends: managing culture, extreme complexity and active users"
+title: 'Scaling League of Legends: managing culture, extreme complexity and active
+  users'
 author: helio
 layout: post
-date: 2014-04-10T15:03:02+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Leadership"]
+date: 2014-04-10 15:03:02+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Leadership
 tags:
-  - Jarrod Overson
-  - qconsp
-  - riot games
+- Jarrod Overson
+- qconsp
+- riot games
+subtitle: Experiences and learnings from technology events
 ---
 
 The keynote at [Jarrod Overson][1] started at 10:58h with a bit about his background

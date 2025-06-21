@@ -1,22 +1,27 @@
 ---
-title: "Test-Driven Development: Building the Right Thing the Right Way"
+title: 'Test-Driven Development: Building the Right Thing the Right Way'
 author: helio
-date: 2010-06-05T14:30:22+00:00
-description: "Reflections on the fourteenth Software Engineering lecture, exploring Test-Driven Development as a design methodology that goes beyond testing to shape how we think about building software."
-categories: ["Technology", "Agile"]
+date: 2010-06-05 14:30:22+00:00
+description: Reflections on the fourteenth Software Engineering lecture, exploring
+  Test-Driven Development as a design methodology that goes beyond testing to shape
+  how we think about building software.
+categories:
+- Technology
+- Agile
 tags:
-  - Software Engineering
-  - Test-Driven Development
-  - TDD
-  - Red-Green-Refactor
-  - Acceptance TDD
-  - ATDD
-  - Design
-  - Quality
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Test-Driven Development
+- TDD
+- Red-Green-Refactor
+- Acceptance TDD
+- ATDD
+- Design
+- Quality
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 14 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

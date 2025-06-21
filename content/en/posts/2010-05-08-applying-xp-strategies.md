@@ -1,23 +1,27 @@
 ---
-title: "XP in Practice: Real Strategies for Real Teams"
+title: 'XP in Practice: Real Strategies for Real Teams'
 author: helio
 layout: post
-date: 2010-05-08T14:30:22+00:00
-description: "Reflections on the tenth and final Software Engineering lecture, exploring the concrete application of Extreme Programming in real-world team environments."
-categories: ["Agile", "Technology"]
+date: 2010-05-08 14:30:22+00:00
+description: Reflections on the tenth and final Software Engineering lecture, exploring
+  the concrete application of Extreme Programming in real-world team environments.
+categories:
+- Agile
+- Technology
 tags:
-  - Software Engineering
-  - Extreme Programming
-  - Team Management
-  - Workspace Design
-  - Planning
-  - Development Cycle
-  - Coach
-  - Tracker
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Extreme Programming
+- Team Management
+- Workspace Design
+- Planning
+- Development Cycle
+- Coach
+- Tracker
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Leadership strategies and team management
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 10 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

@@ -1,22 +1,25 @@
 ---
-title: "Nunca é tarde! Convertido do Bash para ZSH!"
+title: Nunca é tarde! Convertido do Bash para ZSH!
 author: helio
 layout: post
-date: 2011-11-15T20:23:19+00:00
+date: 2011-11-15 20:23:19+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - "false"
+- 'false'
 seo_noindex:
-  - "false"
-categories: ["Technology", "Events"]
+- 'false'
+categories:
+- Technology
+- Events
 tags:
-  - bash
-  - oh-my-zsh
-  - shell
-  - zsh
-  - terminal
-  - produtividade
+- bash
+- oh-my-zsh
+- shell
+- zsh
+- terminal
+- produtividade
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Uma nova era no terminal

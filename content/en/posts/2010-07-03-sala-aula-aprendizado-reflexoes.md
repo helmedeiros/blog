@@ -1,23 +1,27 @@
 ---
-title: "The Classroom as a Learning Ground: Reflections from a Semester"
-categories: ["Events", "Agile"]
-date: 2010-07-03T00:00:00-03:00
+title: 'The Classroom as a Learning Ground: Reflections from a Semester'
+categories:
+- Events
+- Agile
+date: 2010-07-03 00:00:00-03:00
 slug: classroom-learning-reflections
 category: Software Engineering
 tags:
-  - Software Engineering Lectures
-  - Teaching
-  - Education
-  - Reflection
-  - Professional Development
-description: "Final reflections from a semester of teaching software engineering - lessons learned about consistency, vulnerability, and advocating for our profession."
+- Software Engineering Lectures
+- Teaching
+- Education
+- Reflection
+- Professional Development
+description: Final reflections from a semester of teaching software engineering -
+  lessons learned about consistency, vulnerability, and advocating for our profession.
 keywords:
-  - software engineering education
-  - teaching programming
-  - classroom experience
-  - professional development
-  - software engineering advocacy
+- software engineering education
+- teaching programming
+- classroom experience
+- professional development
+- software engineering advocacy
 draft: false
+subtitle: Experiences and learnings from technology events
 ---
 
 ![Placeholder for current image](path/to/image-placeholder.jpeg)

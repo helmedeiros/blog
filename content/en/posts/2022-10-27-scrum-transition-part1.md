@@ -1,19 +1,22 @@
 ---
-title: "From Kanban to Scrum – Recognizing the Need for Change"
+title: From Kanban to Scrum – Recognizing the Need for Change
 author: helio
 layout: post
-date: 2022-10-27T10:00:00+00:00
-series: "Kanban to Scrum Transition"
-categories: ["Agile", "Leadership"]
+date: 2022-10-27 10:00:00+00:00
+series: Kanban to Scrum Transition
+categories:
+- Agile
+- Leadership
 tags:
-  - kanban
-  - scrum
-  - transition
-  - process-improvement
-  - team-evolution
-  - agile-transformation
-  - retrospectives
-  - team-leadership
+- kanban
+- scrum
+- transition
+- process-improvement
+- team-evolution
+- agile-transformation
+- retrospectives
+- team-leadership
+subtitle: Agile practices and development methodologies
 ---
 
 > **Series: Kanban to Scrum Transition** | **Part 1 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_

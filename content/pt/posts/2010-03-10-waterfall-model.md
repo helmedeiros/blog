@@ -1,21 +1,26 @@
 ---
-title: "Quando Seguir a Receita Falha: Repensando o Modelo Cascata"
+title: 'Quando Seguir a Receita Falha: Repensando o Modelo Cascata'
 author: helio
 layout: post
-date: 2010-03-10T02:53:58+00:00
-description: "Reflexões sobre a terceira aula de Engenharia de Software, explorando o modelo cascata, processos definidos vs empíricos, e a importância do pensamento crítico."
+date: 2010-03-10 02:53:58+00:00
+description: Reflexões sobre a terceira aula de Engenharia de Software, explorando
+  o modelo cascata, processos definidos vs empíricos, e a importância do pensamento
+  crítico.
 idptt_tweeted:
-  - 1
-categories: ["Leadership", "Technology"]
+- 1
+categories:
+- Leadership
+- Technology
 tags:
-  - Engenharia de Software
-  - Modelo Cascata
-  - Processo Definido
-  - BDUF
-  - UnP
-  - Ensino
-  - Pensamento Crítico
-  - software-engineering-series
+- Engenharia de Software
+- Modelo Cascata
+- Processo Definido
+- BDUF
+- UnP
+- Ensino
+- Pensamento Crítico
+- software-engineering-series
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 3 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

@@ -1,17 +1,19 @@
 ---
-title: "UNCONFUSED 2011-Mustache edition"
+title: UNCONFUSED 2011-Mustache edition
 author: helio
 layout: post
-date: 2011-11-29T18:53:53+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Events"]
+date: 2011-11-29 18:53:53+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
 tags:
-  - 2011
-  - desconf
-  - Faculdade Dom Bosco
-  - poa
+- 2011
+- desconf
+- Faculdade Dom Bosco
+- poa
+subtitle: Experiences and learnings from technology events
 ---
 
 [<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] On the last Saturday, November 29th, 2011, I had the pleasure of exchanging many ideas during the second edition of a new type of event that brings innovation in its name DESCONF!

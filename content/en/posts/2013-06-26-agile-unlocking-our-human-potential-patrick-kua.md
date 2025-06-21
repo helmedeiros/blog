@@ -1,13 +1,16 @@
 ---
-title: "Agile: Unlocking Our Human Potential - Patrick Kua"
+title: 'Agile: Unlocking Our Human Potential - Patrick Kua'
 Agile: Unlocking our Human Potential –
 author: helio
 layout: post
-date: 2013-06-26T13:45:53+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Agile", "Events"]
+date: 2013-06-26 13:45:53+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Events
+subtitle: Agile practices and development methodologies
 ---
 
 [<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1] There's more to developing products than just developing them.

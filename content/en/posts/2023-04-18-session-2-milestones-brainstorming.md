@@ -1,10 +1,15 @@
 ---
-title: "OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action"
-categories: ["Leadership", "Agile"]
+title: 'OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action'
+categories:
+- Leadership
+- Agile
 date: 2023-04-18
-description: "The fourth post in the OKRA series, showing how to turn OKR hypotheses into actionable milestones, with facilitation tips and real-world examples."
-series: ["okra"]
+description: The fourth post in the OKRA series, showing how to turn OKR hypotheses
+  into actionable milestones, with facilitation tips and real-world examples.
+series:
+- okra
 series_order: 4
+subtitle: OKRA framework for objectives and key results management
 ---
 
 ## 1. From Hypotheses to Actionable Milestones

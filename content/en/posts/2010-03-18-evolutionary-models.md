@@ -1,23 +1,27 @@
 ---
-title: "Learn, Adapt, Evolve: Embracing Change in Software Development"
+title: 'Learn, Adapt, Evolve: Embracing Change in Software Development'
 author: helio
 layout: post
-date: 2010-03-18T02:42:59+00:00
-description: "Reflections on the fourth Software Engineering lecture, exploring evolutionary models, CBSE, software reuse, and iterative development."
+date: 2010-03-18 02:42:59+00:00
+description: Reflections on the fourth Software Engineering lecture, exploring evolutionary
+  models, CBSE, software reuse, and iterative development.
 idptt_tweeted:
-  - 1
-categories: ["Technology", "Agile"]
+- 1
+categories:
+- Technology
+- Agile
 tags:
-  - Software Engineering
-  - Evolutionary Models
-  - CBSE
-  - Reuse
-  - Prototyping
-  - Spiral Model
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Evolutionary Models
+- CBSE
+- Reuse
+- Prototyping
+- Spiral Model
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 4 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

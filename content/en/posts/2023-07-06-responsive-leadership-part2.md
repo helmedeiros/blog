@@ -1,30 +1,31 @@
 ---
-title: "Responsive Leadership – Part 2: Coaching, Trust, and Team Resilience"
+title: 'Responsive Leadership – Part 2: Coaching, Trust, and Team Resilience'
 author: helio
 layout: post
-date: 2023-07-06T10:00:00+00:00
+date: 2023-07-06 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
+- Leadership
+- Management
+- Professional Development
+- Training
+- Teams
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - responsive-leadership
-  - coaching
-  - trust
-  - psychological-safety
-  - grow-model
-  - star-model
-  - team-resilience
-  - five-dysfunctions
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- responsive-leadership
+- coaching
+- trust
+- psychological-safety
+- grow-model
+- star-model
+- team-resilience
+- five-dysfunctions
+subtitle: Leadership strategies and team management
 ---
 
 ## Creating a Coaching Culture

@@ -1,18 +1,21 @@
 ---
-title: "Dotfiles 2023: Durable by Design"
+title: 'Dotfiles 2023: Durable by Design'
 author: helio
 layout: post
-date: 2023-09-29T10:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2023-09-29 10:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - infrastructure
-  - durability
-  - portability
-  - trust
-  - refinement
-  - developer-tools
-  - shell-configuration
+- dotfiles
+- infrastructure
+- durability
+- portability
+- trust
+- refinement
+- developer-tools
+- shell-configuration
+subtitle: Software development concepts and practices
 ---
 
 ## Quiet Refinement, Serious Intent

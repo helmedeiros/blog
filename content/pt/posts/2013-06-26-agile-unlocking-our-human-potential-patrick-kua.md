@@ -2,14 +2,17 @@
 title: 'Agile: Unlocking our Human Potential – Patrick Kua'
 author: helio
 layout: post
-date: 2013-06-26T13:45:53+00:00
+date: 2013-06-26 13:45:53+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Technology", "Agile"]
+- 'false'
+categories:
+- Technology
+- Agile
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 [<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 

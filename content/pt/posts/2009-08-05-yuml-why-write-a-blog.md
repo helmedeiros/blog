@@ -2,6 +2,7 @@
 title: "yUML – Por que escrever um blog?"
 date: 2009-08-05T12:03:24+02:00
 draft: false
+subtitle: Por que decidi começar a blogar sobre desenvolvimento de software
 tags: ["UML", "blog", "documentação", "design-de-software", "yUML"]
 categories: ["Architecture"]
 ---

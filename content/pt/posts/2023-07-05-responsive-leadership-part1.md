@@ -1,5 +1,6 @@
 ---
 title: "Liderança Responsiva – Parte 1: Presença e Adaptabilidade no Cotidiano"
+subtitle: "Desenvolvendo habilidades de liderança que se adaptam às necessidades da equipe e circunstâncias"
 author: helio
 layout: post
 date: 2023-07-05T10:00:00+00:00

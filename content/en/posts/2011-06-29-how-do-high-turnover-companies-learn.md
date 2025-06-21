@@ -1,19 +1,22 @@
 ---
-title: "How Do High-Turnover Companies Actually Learn?"
+title: How Do High-Turnover Companies Actually Learn?
 author: helio
 layout: post
-date: 2011-06-29T15:49:35+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Leadership"]
+date: 2011-06-29 15:49:35+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Leadership
 tags:
-  - agilebrazil2011
-  - generationy
-  - knowledge-retention
-  - learning
-  - brownbags
-  - employee-engagement
+- agilebrazil2011
+- generationy
+- knowledge-retention
+- learning
+- brownbags
+- employee-engagement
+subtitle: Experiences and learnings from technology events
 ---
 
 ## The Question That Opened the Talk

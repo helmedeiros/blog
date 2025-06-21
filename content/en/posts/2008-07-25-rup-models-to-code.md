@@ -1,9 +1,12 @@
 ---
-title: "From Models to Code: RUP and Layered Architectures"
+title: 'From Models to Code: RUP and Layered Architectures'
 author: helio
 layout: post
-date: 2008-07-25T08:00:00+00:00
-categories: ["Architecture", "Technology"]
+date: 2008-07-25 08:00:00+00:00
+categories:
+- Architecture
+- Technology
+subtitle: Software development concepts and practices
 ---
 
 Most modeling efforts fail because they get stuck in abstraction.

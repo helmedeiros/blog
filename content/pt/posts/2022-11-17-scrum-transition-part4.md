@@ -1,24 +1,25 @@
 ---
-title: "De Kanban para Scrum – Parte 4: Nossos Rituais, Do Nosso Jeito"
+title: 'De Kanban para Scrum – Parte 4: Nossos Rituais, Do Nosso Jeito'
 author: helio
 layout: post
-date: 2022-11-17T10:00:00+00:00
-series: "Transição de Kanban para Scrum"
+date: 2022-11-17 10:00:00+00:00
+series: Transição de Kanban para Scrum
 categories:
-  - Agile
-  - Teams
-  - Process
-  - Scrum
-  - Leadership
+- Agile
+- Teams
+- Process
+- Scrum
+- Leadership
 tags:
-  - transicao-scrum
-  - daily-sync
-  - sprint-planning
-  - refinamento
-  - retrospectiva
-  - lean-inception
-  - remote-first
-  - processo-time
+- transicao-scrum
+- daily-sync
+- sprint-planning
+- refinamento
+- retrospectiva
+- lean-inception
+- remote-first
+- processo-time
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 > **Série: Transição de Kanban para Scrum** | **Parte 4 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_

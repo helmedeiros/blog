@@ -1,10 +1,16 @@
 ---
-title: "OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil"
-categories: ["Architecture", "Leadership"]
+title: 'OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil'
+categories:
+- Architecture
+- Leadership
 date: 2023-04-08
-description: "The third post in the OKRA series, guiding teams through the process of drafting team OKRs from company strategy, with practical facilitation tips and real-world patterns."
-series: ["okra"]
+description: The third post in the OKRA series, guiding teams through the process
+  of drafting team OKRs from company strategy, with practical facilitation tips and
+  real-world patterns.
+series:
+- okra
 series_order: 3
+subtitle: Leadership strategies and team management
 ---
 
 ## 1. When Company OKRs Are Clear, It's Time to Draft Team OKRs

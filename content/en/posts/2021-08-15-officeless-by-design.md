@@ -1,12 +1,20 @@
 ---
-title: "Officeless by Design"
-categories: ["Architecture"]
+title: Officeless by Design
+categories:
+- Architecture
 date: 2021-08-15
-description: "How our team transformed emergency remote work into intentional officeless culture, supported by structured training and collective experimentation."
+description: How our team transformed emergency remote work into intentional officeless
+  culture, supported by structured training and collective experimentation.
 tags:
-  ["remote-first", "officeless", "async", "team-practices", "remote-culture"]
-series: ["Remote-First Work"]
+- remote-first
+- officeless
+- async
+- team-practices
+- remote-culture
+series:
+- Remote-First Work
 series_order: 2
+subtitle: Software development concepts and practices
 ---
 
 ## A Team in Transition

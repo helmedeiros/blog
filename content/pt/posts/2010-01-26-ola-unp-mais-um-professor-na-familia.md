@@ -2,6 +2,7 @@
 title: "Mais um professor na família!"
 date: 2010-01-26T23:47:13+02:00
 draft: false
+subtitle: Iniciando minha jornada como professor na universidade UNP
 tags:
   [
     "Engenharia de Software",

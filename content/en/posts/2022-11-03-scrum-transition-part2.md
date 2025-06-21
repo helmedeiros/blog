@@ -1,19 +1,22 @@
 ---
-title: "From Kanban to Scrum – Part 2: Aligning Goals, Metrics, and Shared Understanding"
+title: 'From Kanban to Scrum – Part 2: Aligning Goals, Metrics, and Shared Understanding'
 author: helio
 layout: post
-date: 2022-11-03T10:00:00+00:00
-series: "Kanban to Scrum Transition"
-categories: ["Agile", "Leadership"]
+date: 2022-11-03 10:00:00+00:00
+series: Kanban to Scrum Transition
+categories:
+- Agile
+- Leadership
 tags:
-  - scrum-transition
-  - goal-setting
-  - team-alignment
-  - scrum-values
-  - definition-of-done
-  - definition-of-ready
-  - collaborative-workshops
-  - team-leadership
+- scrum-transition
+- goal-setting
+- team-alignment
+- scrum-values
+- definition-of-done
+- definition-of-ready
+- collaborative-workshops
+- team-leadership
+subtitle: Agile practices and development methodologies
 ---
 
 > **Series: Kanban to Scrum Transition** | **Part 2 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_

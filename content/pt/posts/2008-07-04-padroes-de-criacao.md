@@ -1,9 +1,12 @@
 ---
-title: "Padrões de Criação: Construindo Objetos com Flexibilidade"
+title: 'Padrões de Criação: Construindo Objetos com Flexibilidade'
 author: helio
 layout: post
-date: 2008-07-04T03:27:57+00:00
-categories: ["Architecture", "Technology"]
+date: 2008-07-04 03:27:57+00:00
+categories:
+- Architecture
+- Technology
+subtitle: Padrões de criação para construção flexível de objetos
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

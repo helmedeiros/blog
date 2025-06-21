@@ -1,18 +1,21 @@
 ---
-title: "Why Dotfiles Matter: Notes from a Fresh Start"
+title: 'Why Dotfiles Matter: Notes from a Fresh Start'
 author: helio
 layout: post
-date: 2013-04-03T19:00:00+00:00
-categories: ["Technology", "Leadership"]
+date: 2013-04-03 19:00:00+00:00
+categories:
+- Technology
+- Leadership
 tags:
-  - dotfiles
-  - productivity
-  - terminal
-  - configuration
-  - onboarding
-  - development
-  - git
-  - zsh
+- dotfiles
+- productivity
+- terminal
+- configuration
+- onboarding
+- development
+- git
+- zsh
+subtitle: Software development concepts and practices
 ---
 
 ## The Real Reason I Started Caring

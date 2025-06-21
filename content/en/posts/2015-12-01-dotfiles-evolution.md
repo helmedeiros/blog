@@ -1,19 +1,22 @@
 ---
-title: "Evolving My Dotfiles: From Flat to Modular"
+title: 'Evolving My Dotfiles: From Flat to Modular'
 author: helio
 layout: post
-date: 2015-12-01T10:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2015-12-01 10:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - productivity
-  - terminal
-  - automation
-  - modular
-  - zsh
-  - bash
-  - mackup
-  - homebrew
+- dotfiles
+- productivity
+- terminal
+- automation
+- modular
+- zsh
+- bash
+- mackup
+- homebrew
+subtitle: Software development concepts and practices
 ---
 
 ## Two Years Later: Why I Revisited Everything

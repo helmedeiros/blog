@@ -1,17 +1,20 @@
 ---
-title: "Generating Value – Challenges in Launching Paid Content"
+title: Generating Value – Challenges in Launching Paid Content
 author: helio
 layout: post
-date: 2012-08-02T01:38:48+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Architecture", "Events"]
+date: 2012-08-02 01:38:48+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Architecture
+- Events
 tags:
-  - lean manufacturing
-  - Lean Startup
-  - RBS
-  - Testes
+- lean manufacturing
+- Lean Startup
+- RBS
+- Testes
+subtitle: Software development concepts and practices
 ---
 
 Today we had another edition of <a title="Grupo RBS" href="http://www.gruporbs.com.br/" target="_blank">Grupo RBS</a>, where I presented along with <a title="Cintia Lima" href="https://twitter.com/cinti4lim4" target="_blank">Cintia Lima</a> the case about the challenges of launching paid content from Jornais Grupo RBS tool; a project of great importance, which like others has a varied and exploratory scope prioritized/validated, built with a newly formed team.

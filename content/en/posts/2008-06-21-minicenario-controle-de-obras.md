@@ -1,13 +1,16 @@
 ---
-title: "Mini-scenario: Construction Control"
+title: 'Mini-scenario: Construction Control'
 author: helio
 layout: post
-date: 2008-06-21T09:24:08+00:00
-categories: ["Events", "Architecture"]
-series: "UML Mini-scenarios"
+date: 2008-06-21 09:24:08+00:00
+categories:
+- Events
+- Architecture
+series: UML Mini-scenarios
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+subtitle: Construction and materials control through UML modeling
 ---
 
 > **Series: UML Mini-scenarios** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_

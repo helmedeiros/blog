@@ -1,32 +1,33 @@
 ---
-title: "Performance Management 101 – Enabling Growth Through Purposeful Conversations"
+title: Performance Management 101 – Enabling Growth Through Purposeful Conversations
 author: helio
 layout: post
-date: 2023-11-23T10:00:00+00:00
+date: 2023-11-23 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
-  - Performance
+- Leadership
+- Management
+- Professional Development
+- Training
+- Teams
+- Performance
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - performance-management
-  - smart-goals
-  - feedback
-  - sbid
-  - johari-window
-  - golden-thread
-  - skill-will
-  - motivation
-  - omio-runway
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- performance-management
+- smart-goals
+- feedback
+- sbid
+- johari-window
+- golden-thread
+- skill-will
+- motivation
+- omio-runway
+subtitle: Reflections on leadership and people development
 ---
 
 ## 1. Why Manage Performance

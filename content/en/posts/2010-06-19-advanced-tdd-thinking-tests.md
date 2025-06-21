@@ -1,11 +1,23 @@
 ---
-title: "Advanced TDD: Thinking in Tests"
-date: 2010-06-19T09:00:00-03:00
-tags: ["software engineering", "tdd", "testing", "java", "junit", "development"]
-categories: ["Technology", "Agile"]
-series: "Software Engineering Lectures"
-slug: "advanced-tdd-thinking-tests"
-summary: "In this lecture, we explored how Test-Driven Development (TDD) evolves from a tool to a mindset. Through live coding and real requirements, we worked on building a dynamic email templating system—purely from tests. Each line written was a decision validated or a bug prevented."
+title: 'Advanced TDD: Thinking in Tests'
+date: 2010-06-19 09:00:00-03:00
+tags:
+- software engineering
+- tdd
+- testing
+- java
+- junit
+- development
+categories:
+- Technology
+- Agile
+series: Software Engineering Lectures
+slug: advanced-tdd-thinking-tests
+summary: In this lecture, we explored how Test-Driven Development (TDD) evolves from
+  a tool to a mindset. Through live coding and real requirements, we worked on building
+  a dynamic email templating system—purely from tests. Each line written was a decision
+  validated or a bug prevented.
+subtitle: Software development concepts and practices
 ---
 
 **Software Engineering Lectures - Part Part 16 of 19**

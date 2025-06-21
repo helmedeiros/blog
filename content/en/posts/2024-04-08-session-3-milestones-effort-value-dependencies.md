@@ -1,12 +1,17 @@
 ---
-title: "OKRA Session #3: Milestones Value, Effort & Dependencies"
-categories: ["Leadership", "Technology"]
+title: 'OKRA Session #3: Milestones Value, Effort & Dependencies'
+categories:
+- Leadership
+- Technology
 date: 2024-04-08
-description: "Session #3 of the OKRA series: how to collaboratively estimate effort, value, and dependencies for milestones, turning ideas into actionable plans."
-series: ["okra"]
+description: 'Session #3 of the OKRA series: how to collaboratively estimate effort,
+  value, and dependencies for milestones, turning ideas into actionable plans.'
+series:
+- okra
 series_order: 4
 lang: en
 slug: session-3-milestones-effort-value-dependencies
+subtitle: 'Insights on okra session #3: milestones value, effort & dependencies'
 ---
 
 ## A Year Later: Why We Built This Session

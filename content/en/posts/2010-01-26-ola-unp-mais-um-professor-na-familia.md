@@ -2,6 +2,7 @@
 title: "One More Teacher in the Family!"
 date: 2010-01-26T23:47:13+02:00
 draft: false
+subtitle: Starting my teaching journey at UNP university
 tags:
   [
     "Software Engineering",

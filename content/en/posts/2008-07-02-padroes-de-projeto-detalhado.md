@@ -1,10 +1,13 @@
 ---
-title: "Design Patterns: Proven Solutions for Implementation Challenges"
+title: 'Design Patterns: Proven Solutions for Implementation Challenges'
 author: helio
 layout: post
-date: 2008-07-02T03:27:57+00:00
-categories: ["Architecture", "Technology"]
-series: "Design Patterns and Analysis"
+date: 2008-07-02 03:27:57+00:00
+categories:
+- Architecture
+- Technology
+series: Design Patterns and Analysis
+subtitle: Design patterns for software development
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_

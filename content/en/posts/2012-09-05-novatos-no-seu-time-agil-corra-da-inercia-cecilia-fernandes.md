@@ -1,19 +1,22 @@
 ---
-title: "Newbies on your agile team? Break free from inertia! – Cecilia Fernandes"
+title: Newbies on your agile team? Break free from inertia! – Cecilia Fernandes
 author: helio
 layout: post
-date: 2012-09-05T19:51:01+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Agile", "Events"]
+date: 2012-09-05 19:51:01+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Events
 tags:
-  - '#AgileBR'
-  - AGILE
-  - agile brazil
-  - agilebrazil2012
-  - Caelum
-  - Cecilia Fernandes
+- '#AgileBR'
+- AGILE
+- agile brazil
+- agilebrazil2012
+- Caelum
+- Cecilia Fernandes
+subtitle: Leadership strategies and team management
 ---
 
 <figure id="attachment_606" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-606" src="/uploads/2012/09/corraDaInerciaCecilia.jpg" alt="Evitando mudanças" width="470" height="249" srcset="/uploads/2012/09/corraDaInerciaCecilia.jpg 470w, /uploads/2012/09/corraDaInerciaCecilia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]<figcaption class="wp-caption-text">Avoiding Changes</figcaption></figure> Started talking about [inércia][2], explaining that inertia doesn't mean being stationary, but it can be...

@@ -1,22 +1,27 @@
 ---
-title: "Unit Testing with JUnit: Clarity Before Complexity"
+title: 'Unit Testing with JUnit: Clarity Before Complexity'
 author: helio
-date: 2010-06-12T14:30:22+00:00
-description: "Reflections on the fifteenth and final Software Engineering lecture, exploring unit testing with JUnit as a structured approach to validation, feedback loops, and design improvement."
-categories: ["Technology", "Agile"]
+date: 2010-06-12 14:30:22+00:00
+description: Reflections on the fifteenth and final Software Engineering lecture,
+  exploring unit testing with JUnit as a structured approach to validation, feedback
+  loops, and design improvement.
+categories:
+- Technology
+- Agile
 tags:
-  - Software Engineering
-  - Unit Testing
-  - JUnit
-  - Test Automation
-  - Test Fixtures
-  - Test Cases
-  - Design
-  - Quality
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Unit Testing
+- JUnit
+- Test Automation
+- Test Fixtures
+- Test Cases
+- Design
+- Quality
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 15 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

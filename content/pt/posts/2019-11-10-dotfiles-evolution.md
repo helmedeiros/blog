@@ -1,18 +1,21 @@
 ---
-title: "Dotfiles 2019: De Volta ao Pessoal"
+title: 'Dotfiles 2019: De Volta ao Pessoal'
 author: helio
 layout: post
-date: 2019-11-10T10:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2019-11-10 10:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - terminal
-  - workflow
-  - personal
-  - simplification
-  - back-to-basics
-  - individual-craft
-  - personal-reset
+- dotfiles
+- terminal
+- workflow
+- personal
+- simplification
+- back-to-basics
+- individual-craft
+- personal-reset
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Depois da Configuração Compartilhada, o Retorno ao Essencial

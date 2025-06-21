@@ -1,13 +1,16 @@
 ---
-title: "Code metrics, what I want them for? -Mauricio Aniche"
+title: Code metrics, what I want them for? -Mauricio Aniche
 author: helio
 layout: post
-date: 2013-06-26T18:56:30+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
-categories: ["Technology", "Events"]
+date: 2013-06-26 18:56:30+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Technology
+- Events
+subtitle: Software development concepts and practices
 ---
 
 Making decisions is very complicated and in software, we live by guesswork.

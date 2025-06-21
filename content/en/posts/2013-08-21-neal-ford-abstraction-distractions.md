@@ -1,17 +1,19 @@
 ---
-title: "Neal Ford – Abstraction Distractions"
+title: Neal Ford – Abstraction Distractions
 author: helio
 layout: post
-date: 2013-08-21T20:14:02+00:00
-embed:
-seo_follow:
-seo_noindex:
-dsq_thread_id:
-categories: ["Agile"]
+date: 2013-08-21 20:14:02+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Agile
 tags:
-  - "#AgileBR"
-  - AGILE
-  - agile brazil
+- '#AgileBR'
+- AGILE
+- agile brazil
+subtitle: Agile methodologies and development best practices
 ---
 
 Discussing abstractions in today's context is reflecting on the very nature of computer science and software engineering.

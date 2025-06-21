@@ -2,23 +2,25 @@
 title: The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato
 author: helio
 layout: post
-date: 2012-09-05T17:45:08+00:00
+date: 2012-09-05 17:45:08+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Agile"]
+- 'false'
+categories:
+- Agile
 tags:
-  - '#AgileBR'
-  - 2012
-  - agile brazil
-  - agilebrazil2012
-  - continuos delivery
-  - Danilo Sato
-  - Jenny Wong
-  - MVP
+- '#AgileBR'
+- 2012
+- agile brazil
+- agilebrazil2012
+- continuos delivery
+- Danilo Sato
+- Jenny Wong
+- MVP
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 [<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 

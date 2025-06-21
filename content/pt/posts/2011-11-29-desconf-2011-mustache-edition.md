@@ -2,19 +2,21 @@
 title: DESCONF 2011-Mustache edition
 author: helio
 layout: post
-date: 2011-11-29T18:53:53+00:00
+date: 2011-11-29 18:53:53+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Events"]
+- 'false'
+categories:
+- Events
 tags:
-  - 2011
-  - desconf
-  - Faculdade Dom Bosco
-  - poa
+- 2011
+- desconf
+- Faculdade Dom Bosco
+- poa
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 [<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
 

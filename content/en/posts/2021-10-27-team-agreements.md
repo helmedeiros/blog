@@ -1,19 +1,23 @@
 ---
-title: "Team Agreements – A Foundation for Autonomy, Ownership, and Collaboration"
+title: Team Agreements – A Foundation for Autonomy, Ownership, and Collaboration
 author: helio
 layout: post
-date: 2021-10-27T10:00:00+00:00
-categories: ["Leadership", "Agile"]
+date: 2021-10-27 10:00:00+00:00
+categories:
+- Leadership
+- Agile
 tags:
-  - team-agreements
-  - autonomy
-  - collaboration
-  - retrospectives
-  - team-culture
-  - onboarding
-  - leadership
-  - agile
-  - empowerment
+- team-agreements
+- autonomy
+- collaboration
+- retrospectives
+- team-culture
+- onboarding
+- leadership
+- agile
+- empowerment
+subtitle: Insights on team agreements – a foundation for autonomy, ownership, and
+  collaboration
 ---
 
 ## Introduction

@@ -2,21 +2,24 @@
 title: Hadoop and the Big Data Ecosystem
 author: helio
 layout: post
-date: 2014-04-11T13:36:05+00:00
+date: 2014-04-11 13:36:05+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
+- 'false'
 dsq_thread_id:
-  - 4969853650
-categories: ["Agile", "Technology"]
+- 4969853650
+categories:
+- Agile
+- Technology
 tags:
-  - big data
-  - hadoop
-  - qconsp
-  - Todd Lipcon
+- big data
+- hadoop
+- qconsp
+- Todd Lipcon
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 Porque devemos nos preocupar? Assim começou o keynote do <a title="Todd Lipcon" href="https://twitter.com/tlipcon" target="_blank">Todd Lipcon</a>&#8230; Talvez porque ao longo dos últimos anos, as empresas têm visto uma explosão no volume, variedade e velocidade dos dados que eles têm de lidar todos os dias. Esta tem sido uma bênção e uma maldição. Ao mesmo tempo que a explosão de dados nos permitiu gerar novos tipos de aplicativos e insights altamente inteligentes, os desenvolvedores descobriram que a geração anterior de ferramentas de gerenciamento de dados e frameworks desmoronavam quando tentando trabalhar e manter terabytes ou petabytes de dados muitas vezes mal-estruturados.
 

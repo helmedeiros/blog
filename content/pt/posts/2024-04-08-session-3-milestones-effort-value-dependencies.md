@@ -1,12 +1,17 @@
 ---
-title: "OKRA Sessão #3: Esforço, Valor e Dependências dos Marcos"
-categories: ["Leadership", "Agile"]
+title: 'OKRA Sessão #3: Esforço, Valor e Dependências dos Marcos'
+categories:
+- Leadership
+- Agile
 date: 2024-04-08
-description: "Sessão #3 da série OKRA: como estimar colaborativamente esforço, valor e dependências dos marcos, transformando ideias em planos acionáveis."
-series: ["okra"]
+description: 'Sessão #3 da série OKRA: como estimar colaborativamente esforço, valor
+  e dependências dos marcos, transformando ideias em planos acionáveis.'
+series:
+- okra
 series_order: 4
 lang: pt
 slug: session-3-milestones-effort-value-dependencies
+subtitle: Framework OKRA para gestão de objetivos e resultados
 ---
 
 ## Um Ano Depois: Por Que Criamos Esta Sessão

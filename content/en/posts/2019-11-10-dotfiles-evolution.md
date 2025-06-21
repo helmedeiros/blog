@@ -1,18 +1,21 @@
 ---
-title: "Dotfiles 2019: Back to Personal"
+title: 'Dotfiles 2019: Back to Personal'
 author: helio
 layout: post
-date: 2019-11-10T10:00:00+00:00
-categories: ["Technology", "Leadership"]
+date: 2019-11-10 10:00:00+00:00
+categories:
+- Technology
+- Leadership
 tags:
-  - dotfiles
-  - terminal
-  - workflow
-  - personal
-  - simplification
-  - back-to-basics
-  - individual-craft
-  - personal-reset
+- dotfiles
+- terminal
+- workflow
+- personal
+- simplification
+- back-to-basics
+- individual-craft
+- personal-reset
+subtitle: Software development concepts and practices
 ---
 
 ## After the Team Setup, the Personal Reset

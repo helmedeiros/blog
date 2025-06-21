@@ -2,17 +2,19 @@
 title: Desconf 2012 – Fim do mundo
 author: helio
 layout: post
-date: 2012-12-29T13:32:02+00:00
+date: 2012-12-29 13:32:02+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Events"]
+- 'false'
+categories:
+- Events
 tags:
-  - desconf
-  - desconf2012
+- desconf
+- desconf2012
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 &nbsp;<figure id="attachment_700" style="width: 467px" class="wp-caption aligncenter">
 

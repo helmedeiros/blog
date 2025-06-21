@@ -1,21 +1,26 @@
 ---
-title: "Desenvolvimento Orientado a Testes: Construindo a Coisa Certa da Forma Certa"
+title: 'Desenvolvimento Orientado a Testes: Construindo a Coisa Certa da Forma Certa'
 author: helio
-date: 2010-06-05T14:30:22+00:00
-description: "Reflexões sobre a décima quarta aula de Engenharia de Software, explorando o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além dos testes para moldar como pensamos sobre construir software."
-categories: ["Technology", "Agile"]
+date: 2010-06-05 14:30:22+00:00
+description: Reflexões sobre a décima quarta aula de Engenharia de Software, explorando
+  o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além
+  dos testes para moldar como pensamos sobre construir software.
+categories:
+- Technology
+- Agile
 tags:
-  - Engenharia de Software
-  - Desenvolvimento Orientado a Testes
-  - TDD
-  - Vermelho-Verde-Refatoração
-  - TDD de Aceitação
-  - ATDD
-  - Design
-  - Qualidade
-  - UnP
-  - Ensino
-  - serie-engenharia-software
+- Engenharia de Software
+- Desenvolvimento Orientado a Testes
+- TDD
+- Vermelho-Verde-Refatoração
+- TDD de Aceitação
+- ATDD
+- Design
+- Qualidade
+- UnP
+- Ensino
+- serie-engenharia-software
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 > **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

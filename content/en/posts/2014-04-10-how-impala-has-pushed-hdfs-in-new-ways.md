@@ -1,17 +1,20 @@
 ---
-title: "How Impala Has Pushed HDFS in New Directions"
+title: How Impala Has Pushed HDFS in New Directions
 author: helio
 layout: post
-date: 2014-04-10T16:05:02+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Technology", "Events"]
+date: 2014-04-10 16:05:02+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Technology
+- Events
 tags:
-  - aaron myers
-  - cloudera
-  - impala
-  - qconsp
+- aaron myers
+- cloudera
+- impala
+- qconsp
+subtitle: Software development concepts and practices
 ---
 
 As Impala and the [Cloudera][1] have helped the community over the past few years, nothing better than the <a title="Aaron Myers" href="https://twitter.com/atm" target="_blank">Aaron</a> to talk about it with <a title="Hadoop" href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, let's see how it works with <a title="HDFS" href="http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">HDFS</a>, and how the latter has been modified to meet new requirements.

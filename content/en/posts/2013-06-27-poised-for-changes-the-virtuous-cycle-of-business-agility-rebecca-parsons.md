@@ -1,12 +1,15 @@
 ---
-title: "Ready for Changes – The Virtuous cycle of business Agility – Rebecca Parsons"
+title: Ready for Changes – The Virtuous cycle of business Agility – Rebecca Parsons
 author: helio
 layout: post
-date: 2013-06-27T13:12:28+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Technology", "Leadership"]
+date: 2013-06-27 13:12:28+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Technology
+- Leadership
+subtitle: Software development concepts and practices
 ---
 
 What is agility in business?

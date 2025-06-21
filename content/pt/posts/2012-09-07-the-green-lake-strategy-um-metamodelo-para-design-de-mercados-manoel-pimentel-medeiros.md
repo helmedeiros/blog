@@ -1,24 +1,28 @@
 ---
-title: The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel Medeiros
+title: The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel
+  Medeiros
 author: helio
 layout: post
-date: 2012-09-07T12:12:40+00:00
+date: 2012-09-07 12:12:40+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Leadership", "Agile"]
+- 'false'
+categories:
+- Leadership
+- Agile
 tags:
-  - '#AgileBR'
-  - agile brazil
-  - Blue Ocean Strategy
-  - design de mercado
-  - manoel pimentel
-  - manoelep
-  - metamodelo
-  - The Green Lake Strategy
+- '#AgileBR'
+- agile brazil
+- Blue Ocean Strategy
+- design de mercado
+- manoel pimentel
+- manoelep
+- metamodelo
+- The Green Lake Strategy
+subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
 ---
 A estratégia do [oceano azul][1], é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &#8220;como podemos escapar do oceano vermlho&#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado. O oceano azul pode te levar a um nirvana.
 

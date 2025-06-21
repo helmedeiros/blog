@@ -1,24 +1,25 @@
 ---
-title: "Acordos de Time – Base para Autonomia, Responsabilidade e Colaboração"
+title: Acordos de Time – Base para Autonomia, Responsabilidade e Colaboração
 author: helio
 layout: post
-date: 2021-10-27T10:00:00+00:00
+date: 2021-10-27 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Teams
-  - Agile
-  - Culture
+- Leadership
+- Management
+- Teams
+- Agile
+- Culture
 tags:
-  - acordos-de-time
-  - autonomia
-  - colaboracao
-  - retrospectivas
-  - cultura-de-time
-  - onboarding
-  - lideranca
-  - agile
-  - empoderamento
+- acordos-de-time
+- autonomia
+- colaboracao
+- retrospectivas
+- cultura-de-time
+- onboarding
+- lideranca
+- agile
+- empoderamento
+subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
 ---
 
 ## Introdução

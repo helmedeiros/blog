@@ -1,5 +1,6 @@
 ---
 title: "Responsive Leadership – Part 1: Leading with Presence and Adaptability"
+subtitle: "Developing leadership skills that adapt to team needs and changing circumstances"
 author: helio
 layout: post
 date: 2023-07-05T10:00:00+00:00

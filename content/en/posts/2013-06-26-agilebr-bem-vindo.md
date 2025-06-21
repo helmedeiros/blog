@@ -1,18 +1,21 @@
 ---
-title: "Welcome to AgileBR!! ("
+title: Welcome to AgileBR!! (
 author: helio
 layout: post
-date: 2013-06-26T13:26:47+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Agile", "Events"]
+date: 2013-06-26 13:26:47+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Events
 tags:
-  - '#AgileBR'
-  - AGILE
-  - agile brazil
-  - agilebrazil2013
-  - manoelep
+- '#AgileBR'
+- AGILE
+- agile brazil
+- agilebrazil2013
+- manoelep
+subtitle: Agile practices and development methodologies
 ---
 
 [<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1] Today, June 26th, a day for one of the biggest protests of our new Brazilian change, we are gathered to start the largest agile methods event in the southern hemisphere.

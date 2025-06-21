@@ -2,21 +2,24 @@
 title: Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes
 author: helio
 layout: post
-date: 2012-09-05T19:51:01+00:00
+date: 2012-09-05 19:51:01+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Agile", "Leadership"]
+- 'false'
+categories:
+- Agile
+- Leadership
 tags:
-  - '#AgileBR'
-  - AGILE
-  - agile brazil
-  - agilebrazil2012
-  - Caelum
-  - Cecilia Fernandes
+- '#AgileBR'
+- AGILE
+- agile brazil
+- agilebrazil2012
+- Caelum
+- Cecilia Fernandes
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 <figure id="attachment_606" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-606" src="/uploads/2012/09/corraDaInerciaCecilia.jpg" alt="Evitando mudanças" width="470" height="249" srcset="/uploads/2012/09/corraDaInerciaCecilia.jpg 470w, /uploads/2012/09/corraDaInerciaCecilia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]<figcaption class="wp-caption-text">Evitando mudanças</figcaption></figure> 
 

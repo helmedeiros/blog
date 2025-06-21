@@ -1,14 +1,17 @@
 ---
-title: "Mini-scenario: PARKING"
 author: helio
+categories:
+- Events
+- Architecture
+date: 2008-06-25 02:48:10+00:00
+dsq_thread_id: null
 layout: post
-date: 2008-06-25T02:48:10+00:00
-dsq_thread_id:
-categories: ["Events", "Architecture"]
-series: "UML Mini-scenarios"
+series: UML Mini-scenarios
+subtitle: Parking management system design through UML scenarios
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+title: 'Mini-scenario: PARKING'
 ---
 
 > **Series: UML Mini-scenarios** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_

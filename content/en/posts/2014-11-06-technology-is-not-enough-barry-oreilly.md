@@ -1,15 +1,17 @@
 ---
-title: "Technology isn't enough! Barry O'Reilly"
+title: Technology isn't enough! Barry O'Reilly
 author: helio
 layout: post
-date: 2014-11-06T12:57:31+00:00
-seo_follow:
-seo_noindex:
-embed:
-categories: ["Technology"]
+date: 2014-11-06 12:57:31+00:00
+seo_follow: null
+seo_noindex: null
+embed: null
+categories:
+- Technology
 tags:
-  - "#AgileBR"
-  - "Barry O'Reilly"
+- '#AgileBR'
+- Barry O'Reilly
+subtitle: Software development concepts and practices
 ---
 
 During the years, companies appear and disappear with a certain frequency, and not just small ones have disappeared, but many large ones have perished as well.

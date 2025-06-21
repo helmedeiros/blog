@@ -2,14 +2,16 @@
 title: Mexa-se e porque não!!
 author: helio
 layout: post
-date: 2011-12-11T17:52:30+00:00
+date: 2011-12-11 17:52:30+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Technology"]
+- 'false'
+categories:
+- Technology
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 <p style="text-align: center">
   <a href="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png"><img class="aligncenter size-full wp-image-476" src="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png" alt="" width="474" height="228" srcset="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png 519w, /uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" /></a>

@@ -2,6 +2,7 @@
 title: "My Team Needs an Overdrive Pedal"
 date: 2010-02-12T01:55:03+02:00
 draft: false
+subtitle: When teams need that extra boost to accelerate performance
 tags: ["AGILE", "XP", "Teams", "Leadership", "Collaboration", "Multipliers"]
 categories: ["Leadership"]
 ---

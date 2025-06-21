@@ -1,22 +1,27 @@
 ---
-title: "XP em Ação: Princípios, Práticas e Excelência Sustentável"
+title: 'XP em Ação: Princípios, Práticas e Excelência Sustentável'
 author: helio
 layout: post
-date: 2010-05-01T10:15:39+00:00
-description: "Reflexões sobre a nona e última aula de Engenharia de Software, explorando as práticas concretas da Programação Extrema e sua relação com desenvolvimento sustentável de software."
-categories: ["Agile", "Technology"]
+date: 2010-05-01 10:15:39+00:00
+description: Reflexões sobre a nona e última aula de Engenharia de Software, explorando
+  as práticas concretas da Programação Extrema e sua relação com desenvolvimento sustentável
+  de software.
+categories:
+- Agile
+- Technology
 tags:
-  - Engenharia de Software
-  - Programação Extrema
-  - TDD
-  - Programação em Pares
-  - Refatoração
-  - Integração Contínua
-  - Design Simples
-  - Planning Game
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Programação Extrema
+- TDD
+- Programação em Pares
+- Refatoração
+- Integração Contínua
+- Design Simples
+- Planning Game
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 9 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

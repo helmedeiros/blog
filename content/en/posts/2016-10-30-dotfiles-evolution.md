@@ -1,19 +1,22 @@
 ---
-title: "Dotfiles Refinement: Cleaner, Smarter, Faster"
+title: 'Dotfiles Refinement: Cleaner, Smarter, Faster'
 author: helio
 layout: post
-date: 2016-10-30T10:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2016-10-30 10:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - terminal
-  - automation
-  - zsh
-  - bash
-  - refactoring
-  - simplification
-  - loader
-  - functions
+- dotfiles
+- terminal
+- automation
+- zsh
+- bash
+- refactoring
+- simplification
+- loader
+- functions
+subtitle: Software development concepts and practices
 ---
 
 ## A Year Later, A Simpler Setup

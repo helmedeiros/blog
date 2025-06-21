@@ -377,17 +377,20 @@ footer,
     padding: 3rem 0;
     margin-bottom: 3rem;
     text-align: center;
-    border-bottom: 1px solid #e9ecef;
 }
 
 .article-title {
-    font-size: 2.7rem;
-    font-weight: 700;
-    color: #2c3e50;
-    margin-bottom: 1rem;
-    line-height: 1.3;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    color: #000;
+    margin-bottom: 1.5rem;
+    line-height: 1.1;
     max-width: 100%;
     word-wrap: break-word;
+    letter-spacing: -0.02em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .article-subtitle {
@@ -475,10 +478,11 @@ footer,
 }
 
 .article-content h2 {
-    font-size: 2.0rem;
-    border-bottom: 2px solid #e9ecef;
-    padding-bottom: 0.5rem;
-    margin-top: 3.5rem;
+    font-size: 2.3125rem;
+    font-weight: 400;
+    margin-top: 6.5rem;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 .article-content h3 {
@@ -552,14 +556,12 @@ footer,
     padding: 2rem;
     border-radius: 12px;
     margin-bottom: 3rem;
-    border: 1px solid #e9ecef;
     box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 
 .article-footer .article-meta {
     margin-bottom: 2rem;
     padding-bottom: 1.5rem;
-    border-bottom: 1px solid #e9ecef;
     justify-content: flex-start;
 }
 
@@ -609,7 +611,6 @@ footer,
     padding: 2rem;
     border-radius: 12px;
     margin-bottom: 3rem;
-    border: 1px solid #e9ecef;
     box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 
@@ -641,7 +642,6 @@ footer,
     border-radius: 8px;
     text-decoration: none;
     transition: all 0.3s ease;
-    border: 1px solid #e9ecef;
 }
 
 .related-post-link:hover {
@@ -674,7 +674,6 @@ footer,
 .nav-next {
     background: #ffffff;
     border-radius: 12px;
-    border: 1px solid #e9ecef;
     box-shadow: 0 2px 12px rgba(0,0,0,0.04);
     overflow: hidden;
     transition: all 0.3s ease;
@@ -722,7 +721,6 @@ footer,
     background: #ffffff;
     padding: 2rem;
     border-radius: 12px;
-    border: 1px solid #e9ecef;
     box-shadow: 0 2px 12px rgba(0,0,0,0.04);
     margin-bottom: 3rem;
 }
@@ -917,8 +915,9 @@ footer,
     }
 
     .article-title {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         padding: 0 1rem;
+        line-height: 1.2;
     }
 
     .article-subtitle {

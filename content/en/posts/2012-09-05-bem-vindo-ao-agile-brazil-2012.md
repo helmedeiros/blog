@@ -1,17 +1,20 @@
 ---
-title: "Welcome to Agile Brazil 2012"
+title: Welcome to Agile Brazil 2012
 author: helio
 layout: post
-date: 2012-09-05T14:33:33+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Events", "Agile"]
+date: 2012-09-05 14:33:33+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Agile
 tags:
-  - 2012
-  - AGILE
-  - agile brazil
-  - agilebrazil2012
+- 2012
+- AGILE
+- agile brazil
+- agilebrazil2012
+subtitle: Agile practices and development methodologies
 ---
 
 The Agile Brazil 2012 has arrived!

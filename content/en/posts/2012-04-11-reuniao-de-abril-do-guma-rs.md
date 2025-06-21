@@ -1,18 +1,21 @@
 ---
-title: "Se virol – April Meeting of GUMA-RS"
+title: Se virol – April Meeting of GUMA-RS
 author: helio
 layout: post
-date: 2012-04-12T01:37:54+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Agile", "Technology"]
+date: 2012-04-12 01:37:54+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Technology
 tags:
-  - AGILE
-  - guma-rs
-  - Marco Enes
-  - Meganti
-  - se virol
+- AGILE
+- guma-rs
+- Marco Enes
+- Meganti
+- se virol
+subtitle: Software development concepts and practices
 ---
 
 The Agile Methodology:

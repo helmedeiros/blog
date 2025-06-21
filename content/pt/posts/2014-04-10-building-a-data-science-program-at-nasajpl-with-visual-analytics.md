@@ -2,18 +2,21 @@
 title: Building a Data Science Program at NASA/JPL with Visual Analytics
 author: helio
 layout: post
-date: 2014-04-10T13:54:41+00:00
+date: 2014-04-10 13:54:41+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Technology", "Agile"]
+- 'false'
+categories:
+- Technology
+- Agile
 tags:
-  - data scientist
-  - NASA
-  - qconsp
+- data scientist
+- NASA
+- qconsp
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 <span style="line-height: 1.5em">Explorar o universo gera um conjunto enorme de dados. E quando estamos falando sobre os dados que nos deparamos o tempo todo, estamos falando com um conjunto de satélites que estão processando e enviando dados dia e noite durante todo o dia.</span>
 

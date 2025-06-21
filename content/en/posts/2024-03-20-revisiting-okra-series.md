@@ -1,13 +1,17 @@
 ---
 title: "OKRA Roots & Shoots: What We've Learned About Growing Better OKRs"
-categories: ["Technology", "Agile"]
+categories:
+  - Technology
+  - Agile
 date: 2024-03-20
-description: "A reflection on the OKRA series journey, highlighting key insights, patterns, and future directions for collaborative OKR execution."
-series: ["okra"]
+description:
+  A reflection on the OKRA series journey, highlighting key insights, patterns,
+  and future directions for collaborative OKR execution.
+series:
+  - okra
 series_order: 6
+subtitle: Objectives and key results management with OKRA
 ---
-
-# Revisiting the OKRA Series: Key Learnings and Future Directions
 
 ## 1. The Evolution of OKRA: From Experiment to Framework
 

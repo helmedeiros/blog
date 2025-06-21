@@ -2,22 +2,25 @@
 title: O limbo da demanda latente – Alê Gomes
 author: helio
 layout: post
-date: 2013-06-28T13:20:24+00:00
+date: 2013-06-28 13:20:24+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
+- 'false'
 dsq_thread_id:
-  - 4969852243
-categories: ["Events", "Agile"]
+- 4969852243
+categories:
+- Events
+- Agile
 tags:
-  - '#AgileBR'
-  - alegomes
-  - agile brazil
-  - agilebrazil2013
-  - politicas publicas
+- '#AgileBR'
+- alegomes
+- agile brazil
+- agilebrazil2013
+- politicas publicas
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 O Alê começou se apresentando  e se colocando como indigno de ser keynoter deste grande evento, e começando a definir todos os outros que estão envolvidos no crescimento da comunidade. Para ele um não só é eleito um comitê para representar e lutar pelos interesses de todos uma vez que várias vozes ao mesmo tempo estão clamando.
 

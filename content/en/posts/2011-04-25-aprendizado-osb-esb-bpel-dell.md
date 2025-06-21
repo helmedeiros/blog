@@ -1,9 +1,19 @@
 ---
-title: "Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell"
-categories: ["Technology", "Events"]
+title: 'Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell'
+categories:
+- Technology
+- Events
 date: 2011-04-25
-series: "Life in Porto Alegre"
-tags: ["Dell", "OSB", "ESB", "BPEL", "Java", "Oracle", "Learning"]
+series: Life in Porto Alegre
+tags:
+- Dell
+- OSB
+- ESB
+- BPEL
+- Java
+- Oracle
+- Learning
+subtitle: Software development concepts and practices
 ---
 
 _This is Part 4 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._

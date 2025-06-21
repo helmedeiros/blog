@@ -1,33 +1,36 @@
 ---
-title: "Laser Focus, Pomodoro, and Migrating with Confidence"
+title: Laser Focus, Pomodoro, and Migrating with Confidence
 author: helio
 layout: post
-date: 2010-12-16T18:00:00+00:00
+date: 2010-12-16 18:00:00+00:00
 slug: migracao-foco-pomodoro-dell
-categories: ["Events"]
+categories:
+- Events
 tags:
-  - Dell
-  - Stefanini
-  - Pomodoro
-  - Migration
-  - TDD
-  - Mentorship
-  - Eduardo Mathias
-  - Carlos Eduardo Maciel
-  - OSB
-  - BPEL
-  - ESB
-description: "How to use Pomodoro Technique and small commits to migrate legacy services with confidence at Dell, with technical mentorship support."
+- Dell
+- Stefanini
+- Pomodoro
+- Migration
+- TDD
+- Mentorship
+- Eduardo Mathias
+- Carlos Eduardo Maciel
+- OSB
+- BPEL
+- ESB
+description: How to use Pomodoro Technique and small commits to migrate legacy services
+  with confidence at Dell, with technical mentorship support.
 keywords:
-  - pomodoro technique
-  - legacy service migration
-  - dell stefanini
-  - small commits
-  - technical mentorship
-  - eduardo mathias
-  - carlos eduardo maciel
-  - tdd java
-series: "Life in Porto Alegre"
+- pomodoro technique
+- legacy service migration
+- dell stefanini
+- small commits
+- technical mentorship
+- eduardo mathias
+- carlos eduardo maciel
+- tdd java
+series: Life in Porto Alegre
+subtitle: Experiences and learnings from technology events
 ---
 
 > **Series: Life in Porto Alegre** | **Part 2 of 7** > _Discovering a new city and a new career_

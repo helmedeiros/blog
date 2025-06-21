@@ -1,24 +1,25 @@
 ---
-title: "From Kanban to Scrum – Part 4: Our Plays, Our Way"
+title: 'From Kanban to Scrum – Part 4: Our Plays, Our Way'
 author: helio
 layout: post
-date: 2022-11-17T10:00:00+00:00
-series: "Kanban to Scrum Transition"
+date: 2022-11-17 10:00:00+00:00
+series: Kanban to Scrum Transition
 categories:
-  - Agile
-  - Teams
-  - Process
-  - Scrum
-  - Leadership
+- Agile
+- Teams
+- Process
+- Scrum
+- Leadership
 tags:
-  - scrum-transition
-  - daily-sync
-  - sprint-planning
-  - refinement
-  - retrospective
-  - lean-inception
-  - remote-first
-  - team-process
+- scrum-transition
+- daily-sync
+- sprint-planning
+- refinement
+- retrospective
+- lean-inception
+- remote-first
+- team-process
+subtitle: Agile practices and development methodologies
 ---
 
 > **Series: Kanban to Scrum Transition** | **Part 4 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_

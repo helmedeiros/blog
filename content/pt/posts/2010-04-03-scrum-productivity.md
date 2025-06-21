@@ -1,23 +1,27 @@
 ---
-title: "Encontrando o Ritmo da Equipe: Scrum para Entrega Produtiva e Previsível"
+title: 'Encontrando o Ritmo da Equipe: Scrum para Entrega Produtiva e Previsível'
 author: helio
 layout: post
-date: 2010-04-03T01:32:39+00:00
-description: "Reflexões sobre a sexta aula de Engenharia de Software, explorando Scrum como framework para equipes produtivas, ritmo sustentável e entrega de valor."
+date: 2010-04-03 01:32:39+00:00
+description: Reflexões sobre a sexta aula de Engenharia de Software, explorando Scrum
+  como framework para equipes produtivas, ritmo sustentável e entrega de valor.
 idptt_tweeted:
-  - 1
-categories: ["Agile", "Technology"]
+- 1
+categories:
+- Agile
+- Technology
 tags:
-  - Engenharia de Software
-  - Scrum
-  - Product Backlog
-  - Sprint Backlog
-  - Burndown
-  - User Story
-  - Equipes Ágeis
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Scrum
+- Product Backlog
+- Sprint Backlog
+- Burndown
+- User Story
+- Equipes Ágeis
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Estratégias de liderança e gestão de equipes
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 6 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

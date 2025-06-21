@@ -1,16 +1,19 @@
 ---
-title: "Building a Data Science Program at NASA/JPL with Visual Analysis"
+title: Building a Data Science Program at NASA/JPL with Visual Analysis
 author: helio
 layout: post
-date: 2014-04-10T13:54:41+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Leadership"]
+date: 2014-04-10 13:54:41+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Leadership
 tags:
-  - data scientist
-  - NASA
-  - qconsp
+- data scientist
+- NASA
+- qconsp
+subtitle: Experiences and learnings from technology events
 ---
 
 Exploring the universe generates a huge amount of data.

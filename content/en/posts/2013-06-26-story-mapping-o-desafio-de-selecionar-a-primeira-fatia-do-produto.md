@@ -1,18 +1,21 @@
 ---
-title: "Story Mapping: the challenge of selecting the first slice of the product"
+title: 'Story Mapping: the challenge of selecting the first slice of the product'
 author: helio
 layout: post
-date: 2013-06-26T15:58:21+00:00
-embed:
-seo_follow:
-seo_noindex:
-dsq_thread_id:
-categories: ["Agile", "Events"]
+date: 2013-06-26 15:58:21+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Agile
+- Events
 tags:
-  - "#AgileBR"
-  - agile brazil
-  - agilebrazil
-  - Henrique Imbertti
+- '#AgileBR'
+- agile brazil
+- agilebrazil
+- Henrique Imbertti
+subtitle: Experiences and learnings from technology events
 ---
 
 [<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1] Imbertti started talking about why agile, for him one of the things is to discover the product and meet the time-to-market; another point is to work together and debate the topics.

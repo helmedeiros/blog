@@ -2,22 +2,24 @@
 title: Data Science em Tempo Real com Storm
 author: helio
 layout: post
-date: 2014-04-10T18:32:54+00:00
+date: 2014-04-10 18:32:54+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
+- 'false'
 dsq_thread_id:
-  - 4969845304
-categories: ["Technology"]
+- 4969845304
+categories:
+- Technology
 tags:
-  - big data
-  - data scientist
-  - Fabiane Nardon
-  - qconsp
-  - storm
+- big data
+- data scientist
+- Fabiane Nardon
+- qconsp
+- storm
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 Hoje sabemos que temos um monte de dados, e dai descobrimos que estes dados não é só uma caixinha mais várias, você aplica processadores estatísticos, algo de inteligência artificial, e no final temos uma saída com os dados que são esperados.
 

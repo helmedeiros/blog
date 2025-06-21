@@ -1,21 +1,24 @@
 ---
-title: "Don't predict the future, follow it! MVP and Book of Possibilities!"
+title: Don't predict the future, follow it! MVP and Book of Possibilities!
 author: helio
 layout: post
-date: 2011-11-27T17:08:43+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Agile", "Architecture"]
+date: 2011-11-27 17:08:43+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Architecture
 tags:
-  - 2011
-  - cultura
-  - desconf
-  - foursquare
-  - ideias
-  - Lean Startup
-  - Livro de possibilidades
-  - MVP
+- 2011
+- cultura
+- desconf
+- foursquare
+- ideias
+- Lean Startup
+- Livro de possibilidades
+- MVP
+subtitle: Software development concepts and practices
 ---
 
 <figure id="attachment_436" style="width: 474px" class="wp-caption aligncenter">[<img class="size-full wp-image-436" src="/uploads/2011/11/keepYoureyesOpen.jpg" alt="" width="474" height="228" srcset="/uploads/2011/11/keepYoureyesOpen.jpg 519w, /uploads/2011/11/keepYoureyesOpen-300x144.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] <figcaption class="wp-caption-text">KYEO</figcaption></figure> I often think that every project, whether here or in China, has something similar at its beginning, something that allows for foundation, growth, and continuous improvement. . .

@@ -1,10 +1,14 @@
 ---
-title: "OKRA Sessão #2: Colhendo Marcos—Da Hipótese do OKR à Ação"
-categories: ["Leadership"]
+title: 'OKRA Sessão #2: Colhendo Marcos—Da Hipótese do OKR à Ação'
+categories:
+- Leadership
 date: 2023-04-18
-description: "O quarto post da série OKRA, mostrando como transformar hipóteses de OKR em marcos acionáveis, com dicas de facilitação e exemplos reais."
-series: ["okra"]
+description: O quarto post da série OKRA, mostrando como transformar hipóteses de
+  OKR em marcos acionáveis, com dicas de facilitação e exemplos reais.
+series:
+- okra
 series_order: 4
+subtitle: Framework OKRA para gestão de objetivos e resultados
 ---
 
 ## 1. De Hipóteses a Marcos Ação

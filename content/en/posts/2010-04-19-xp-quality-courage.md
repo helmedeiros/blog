@@ -1,24 +1,28 @@
 ---
-title: "Quality Through Courage: Extreme Programming's Bold Approach"
+title: 'Quality Through Courage: Extreme Programming''s Bold Approach'
 author: helio
 layout: post
-date: 2010-04-19T12:30:19+00:00
-description: "Reflections on the eighth Software Engineering lecture, exploring Extreme Programming's core values, emphasis on quality, and courage-driven practices."
-categories: ["Agile", "Technology"]
+date: 2010-04-19 12:30:19+00:00
+description: Reflections on the eighth Software Engineering lecture, exploring Extreme
+  Programming's core values, emphasis on quality, and courage-driven practices.
+categories:
+- Agile
+- Technology
 tags:
-  - Software Engineering
-  - Extreme Programming
-  - Quality
-  - Courage
-  - Communication
-  - Simplicity
-  - Feedback
-  - Unit Testing
-  - Pair Programming
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Extreme Programming
+- Quality
+- Courage
+- Communication
+- Simplicity
+- Feedback
+- Unit Testing
+- Pair Programming
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Agile practices and development methodologies
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 8 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

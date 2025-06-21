@@ -2,21 +2,24 @@
 title: 'Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman'
 author: helio
 layout: post
-date: 2012-09-06T18:07:51+00:00
+date: 2012-09-06 18:07:51+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Agile", "Architecture"]
+- 'false'
+categories:
+- Agile
+- Architecture
 tags:
-  - '#AgileBR'
-  - AGILE
-  - agile brazil
-  - Agile Portfolio Planning
-  - Johanna Rothman
-  - Project Portfolio
+- '#AgileBR'
+- AGILE
+- agile brazil
+- Agile Portfolio Planning
+- Johanna Rothman
+- Project Portfolio
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 &nbsp;
 

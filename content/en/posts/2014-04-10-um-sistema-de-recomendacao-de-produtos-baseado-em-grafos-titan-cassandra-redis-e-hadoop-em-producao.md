@@ -1,16 +1,20 @@
 ---
-title: "An Recommendation System for Products based on graphs: Titan, Cassandra, Redis and Hadoop in production"
+title: 'An Recommendation System for Products based on graphs: Titan, Cassandra, Redis
+  and Hadoop in production'
 author: helio
 layout: post
-date: 2014-04-10T21:27:50+00:00
-embed:
-seo_follow:
-seo_noindex:
-dsq_thread_id:
-categories: ["Technology", "Leadership"]
+date: 2014-04-10 21:27:50+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Technology
+- Leadership
 tags:
-  - big data
-  - data scientist
+- big data
+- data scientist
+subtitle: Software development concepts and practices
 ---
 
 Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it..

@@ -1,20 +1,23 @@
 ---
-title: "Growing Fluency and Excellence"
+title: Growing Fluency and Excellence
 author: helio
 layout: post
-date: 2012-09-06T13:48:33+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Technology"]
+date: 2012-09-06 13:48:33+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Technology
 tags:
-  - "#AgileBR"
-  - 2012
-  - adoção ágil
-  - agile brazil
-  - Agile Fluency
-  - james shore
-  - Team-Scale Anarcho-Syndicalism
+- '#AgileBR'
+- 2012
+- adoção ágil
+- agile brazil
+- Agile Fluency
+- james shore
+- Team-Scale Anarcho-Syndicalism
+subtitle: Software development concepts and practices
 ---
 
 The [James Shore][1] started his presentation at 09:10 talking about how he got involved in a first project using <a title="Feature Driven Development" href="http://en.wikipedia.org/wiki/Feature-driven_development" target="_blank">FDD</a>, with various practices involving the client and prototypes.

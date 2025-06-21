@@ -1,12 +1,14 @@
 ---
-title: "Get moving and why not!!"
+title: Get moving and why not!!
 author: helio
 layout: post
-date: 2011-12-11T17:52:30+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-categories: ["Technology"]
+date: 2011-12-11 17:52:30+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Technology
+subtitle: Software development concepts and practices
 ---
 
 <p style="text-align: center">

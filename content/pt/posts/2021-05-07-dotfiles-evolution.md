@@ -1,18 +1,21 @@
 ---
-title: "Dotfiles 2021: Preparando Para Escalar a Mim Mesmo"
+title: 'Dotfiles 2021: Preparando Para Escalar a Mim Mesmo'
 author: helio
 layout: post
-date: 2021-05-07T10:00:00+00:00
-categories: ["Technology", "Architecture"]
+date: 2021-05-07 10:00:00+00:00
+categories:
+- Technology
+- Architecture
 tags:
-  - dotfiles
-  - remote-work
-  - bootstrap
-  - scaling
-  - portability
-  - simplification
-  - repeatability
-  - developer-experience
+- dotfiles
+- remote-work
+- bootstrap
+- scaling
+- portability
+- simplification
+- repeatability
+- developer-experience
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Dois Anos Depois, Mesmas Ferramentas, Nova Intenção

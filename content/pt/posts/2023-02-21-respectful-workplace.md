@@ -1,25 +1,28 @@
 ---
-title: "Ambiente Respeitoso – De Inclusão à Equidade"
+title: Ambiente Respeitoso – De Inclusão à Equidade
 author: helio
 layout: post
-date: 2023-02-21T10:00:00+00:00
-categories: ["Events", "Leadership"]
+date: 2023-02-21 10:00:00+00:00
+categories:
+- Events
+- Leadership
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - respectful-workplace
-  - equity
-  - inclusion
-  - diversity
-  - intersectionality
-  - cultural-differences
-  - microaggressions
-  - inclusive-language
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- respectful-workplace
+- equity
+- inclusion
+- diversity
+- intersectionality
+- cultural-differences
+- microaggressions
+- inclusive-language
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 
 ## Além da Igualdade: Construindo um Ambiente Realmente Respeitoso e Equitativo

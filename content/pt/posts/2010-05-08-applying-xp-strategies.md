@@ -1,22 +1,26 @@
 ---
-title: "XP na Prática: Estratégias Reais para Equipes Reais"
+title: 'XP na Prática: Estratégias Reais para Equipes Reais'
 author: helio
 layout: post
-date: 2010-05-08T14:30:22+00:00
-description: "Reflexões sobre a décima e última aula de Engenharia de Software, explorando a aplicação concreta de Extreme Programming em ambientes reais de equipe."
-categories: ["Leadership", "Agile"]
+date: 2010-05-08 14:30:22+00:00
+description: Reflexões sobre a décima e última aula de Engenharia de Software, explorando
+  a aplicação concreta de Extreme Programming em ambientes reais de equipe.
+categories:
+- Leadership
+- Agile
 tags:
-  - Engenharia de Software
-  - Programação Extrema
-  - Gestão de Equipes
-  - Design de Ambiente
-  - Planejamento
-  - Ciclo de Desenvolvimento
-  - Treinador
-  - Rastreador
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Programação Extrema
+- Gestão de Equipes
+- Design de Ambiente
+- Planejamento
+- Ciclo de Desenvolvimento
+- Treinador
+- Rastreador
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Estratégias de liderança e gestão de equipes
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 10 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

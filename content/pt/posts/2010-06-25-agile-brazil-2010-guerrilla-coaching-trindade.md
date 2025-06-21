@@ -1,29 +1,34 @@
 ---
-title: "Agile Brazil 2010 – Parte 5: Coaching de Guerrilha com Francisco Trindade"
+title: 'Agile Brazil 2010 – Parte 5: Coaching de Guerrilha com Francisco Trindade'
 author: helio
 layout: post
-date: 2010-06-25T19:00:00+00:00
+date: 2010-06-25 19:00:00+00:00
 slug: agile-brazil-2010-guerrilla-coaching-trindade
-categories: ["Events", "Leadership"]
+categories:
+- Events
+- Leadership
 tags:
-  - Agile Brazil
-  - Coaching
-  - Francisco Trindade
-  - Liderança
-  - Mudança Organizacional
-  - Kaizen
-  - Kaikaku
-  - Influência
-description: "Workshop de coaching de guerrilha com Francisco Trindade no Agile Brazil 2010 - aprendendo a liderar mudanças sem autoridade formal através de influência estratégica e observação."
+- Agile Brazil
+- Coaching
+- Francisco Trindade
+- Liderança
+- Mudança Organizacional
+- Kaizen
+- Kaikaku
+- Influência
+description: Workshop de coaching de guerrilha com Francisco Trindade no Agile Brazil
+  2010 - aprendendo a liderar mudanças sem autoridade formal através de influência
+  estratégica e observação.
 keywords:
-  - coaching guerrilha
-  - agile brazil 2010
-  - francisco trindade
-  - lideranca sem autoridade
-  - mudanca organizacional
-  - kaizen kaikaku
-  - influencia estrategica
-series: "Agile Brazil 2010"
+- coaching guerrilha
+- agile brazil 2010
+- francisco trindade
+- lideranca sem autoridade
+- mudanca organizacional
+- kaizen kaikaku
+- influencia estrategica
+series: Agile Brazil 2010
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 > **Série: Agile Brazil 2010** | **Parte 5 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
