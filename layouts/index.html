@@ -116,12 +116,40 @@
             </div>
 
             <div class="sort-control">
-              <label for="sort-select">Sort</label>
-              <select id="sort-select">
-                <option value="date-desc">Newest first</option>
-                <option value="date-asc">Oldest first</option>
-                <option value="title">Title A-Z</option>
-              </select>
+              <button class="sort-btn" id="sort-btn">
+                <span>Sort</span>
+                <svg class="sort-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                  <path d="M3 4.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zM3 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 3 8zm0 3.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/>
+                </svg>
+              </button>
+
+              <!-- Sort Dropdown -->
+              <div class="sort-dropdown" id="sort-dropdown">
+                <div class="sort-dropdown-content">
+                  <div class="sort-options">
+                    <label class="sort-option">
+                      <input type="radio" name="sort" value="date-desc" checked>
+                      <span class="radio-mark"></span>
+                      Newest → Oldest
+                    </label>
+                    <label class="sort-option">
+                      <input type="radio" name="sort" value="date-asc">
+                      <span class="radio-mark"></span>
+                      Oldest → Newest
+                    </label>
+                    <label class="sort-option">
+                      <input type="radio" name="sort" value="title">
+                      <span class="radio-mark"></span>
+                      Alphabetical (A-Z)
+                    </label>
+                    <label class="sort-option">
+                      <input type="radio" name="sort" value="title-desc">
+                      <span class="radio-mark"></span>
+                      Alphabetical (Z-A)
+                    </label>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <button class="view-toggle" id="view-toggle">
@@ -193,7 +221,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const filterBtn = document.getElementById('filter-btn');
   const filterDropdown = document.getElementById('filter-dropdown');
   const filterCancelBtn = document.getElementById('filter-cancel');
-  const sortSelect = document.getElementById('sort-select');
+  const sortBtn = document.getElementById('sort-btn');
+  const sortDropdown = document.getElementById('sort-dropdown');
   const blogPosts = document.getElementById('blog-posts');
   const postCards = document.querySelectorAll('.post-card');
 
@@ -295,6 +324,8 @@ document.addEventListener('DOMContentLoaded', function() {
           return parseInt(a.dataset.timestamp) - parseInt(b.dataset.timestamp);
         case 'title':
           return a.dataset.title.localeCompare(b.dataset.title);
+        case 'title-desc':
+          return b.dataset.title.localeCompare(a.dataset.title);
         default:
           return 0;
       }
@@ -336,10 +367,12 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
 
-    // Set sort select value
-    if (sortSelect) {
-      sortSelect.value = currentSort;
-    }
+    // Set sort radio button
+    const sortRadios = document.querySelectorAll('input[name="sort"]');
+    sortRadios.forEach(radio => {
+      radio.checked = radio.value === currentSort;
+    });
+    updateSortButtonText();
 
     // Update filter checkboxes and button text
     updateFilterCheckboxes();
@@ -491,6 +524,56 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  // Sort dropdown functionality
+  function toggleSortDropdown() {
+    if (sortDropdown) {
+      const isOpening = !sortDropdown.classList.contains('active');
+      sortDropdown.classList.toggle('active');
+
+      // Toggle sort icon
+      updateSortIcon(isOpening);
+
+      if (sortBtn) {
+        sortBtn.classList.toggle('active');
+      }
+    }
+  }
+
+  // Update sort icon based on dropdown state
+  function updateSortIcon(isOpen) {
+    const sortIcon = sortBtn.querySelector('.sort-icon');
+    if (!sortIcon) return;
+
+    if (isOpen) {
+      // Change to X icon
+      sortIcon.innerHTML = `
+        <path d="M4.23431 4.23431C4.54673 3.9219 5.05327 3.9219 5.36569 4.23431L8 6.86863L10.6343 4.23431C10.9467 3.9219 11.4533 3.9219 11.7657 4.23431C12.0781 4.54673 12.0781 5.05327 11.7657 5.36569L9.13137 8L11.7657 10.6343C12.0781 10.9467 12.0781 11.4533 11.7657 11.7657C11.4533 12.0781 10.9467 12.0781 10.6343 11.7657L8 9.13137L5.36569 11.7657C5.05327 12.0781 4.54673 12.0781 4.23431 11.7657C3.9219 11.4533 3.9219 10.9467 4.23431 10.6343L6.86863 8L4.23431 5.36569C3.9219 5.05327 3.9219 4.54673 4.23431 4.23431Z"/>
+      `;
+    } else {
+      // Change back to sort icon
+      sortIcon.innerHTML = `
+        <path d="M3 4.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zM3 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 3 8zm0 3.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/>
+      `;
+    }
+  }
+
+  // Update sort button text based on selected option
+  function updateSortButtonText() {
+    const sortLabels = {
+      'date-desc': 'Newest → Oldest',
+      'date-asc': 'Oldest → Newest',
+      'title': 'Alphabetical (A-Z)',
+      'title-desc': 'Alphabetical (Z-A)'
+    };
+
+    if (sortBtn) {
+      const span = sortBtn.querySelector('span');
+      if (span) {
+        span.textContent = sortLabels[currentSort] || 'Sort';
+      }
+    }
+  }
+
   // Position dropdown to avoid screen overflow
   function positionDropdown() {
     if (!filterDropdown || !filterBtn) return;
@@ -637,22 +720,53 @@ document.addEventListener('DOMContentLoaded', function() {
     filterCancelBtn.addEventListener('click', handleCancelClick);
   }
 
-  // Close dropdown when clicking outside
+  // Sort button event handler
+  if (sortBtn) {
+    sortBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      toggleSortDropdown();
+    });
+  }
+
+  // Sort radio button event handlers
+  const sortRadios = document.querySelectorAll('input[name="sort"]');
+  sortRadios.forEach(radio => {
+    radio.addEventListener('change', function() {
+      if (this.checked) {
+        currentSort = this.value;
+        updateSortButtonText();
+        applySorting();
+        updateURL();
+
+        // Close the dropdown
+        if (sortDropdown) {
+          sortDropdown.classList.remove('active');
+        }
+        if (sortBtn) {
+          sortBtn.classList.remove('active');
+        }
+        updateSortIcon(false);
+      }
+    });
+  });
+
+  // Close dropdowns when clicking outside
   document.addEventListener('click', function(e) {
+    // Close filter dropdown
     if (filterDropdown && !filterDropdown.contains(e.target) && filterBtn && !filterBtn.contains(e.target)) {
       filterDropdown.classList.remove('active');
       filterBtn.classList.remove('active');
       updateFilterIcon(false); // Reset to filter icon
     }
-  });
 
-  if (sortSelect) {
-    sortSelect.addEventListener('change', function() {
-      currentSort = this.value;
-      applySorting();
-      updateURL();
-    });
-  }
+    // Close sort dropdown
+    if (sortDropdown && !sortDropdown.contains(e.target) && sortBtn && !sortBtn.contains(e.target)) {
+      sortDropdown.classList.remove('active');
+      sortBtn.classList.remove('active');
+      updateSortIcon(false); // Reset to sort icon
+    }
+  });
 
   // Handle window resize to reposition dropdown if open
   window.addEventListener('resize', function() {
