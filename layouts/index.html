@@ -460,12 +460,34 @@ document.addEventListener('DOMContentLoaded', function() {
       // Advanced filter functionality
   function toggleFilterDropdown() {
     if (filterDropdown) {
+      const isOpening = !filterDropdown.classList.contains('active');
       filterDropdown.classList.toggle('active');
+
+      // Toggle filter icon
+      updateFilterIcon(isOpening);
 
       // Position dropdown responsively to avoid overflow
       if (filterDropdown.classList.contains('active')) {
         positionDropdown();
       }
+    }
+  }
+
+  // Update filter icon based on dropdown state
+  function updateFilterIcon(isOpen) {
+    const filterIcon = filterBtn.querySelector('.filter-icon');
+    if (!filterIcon) return;
+
+    if (isOpen) {
+      // Change to X icon
+      filterIcon.innerHTML = `
+        <path d="M4.23431 4.23431C4.54673 3.9219 5.05327 3.9219 5.36569 4.23431L8 6.86863L10.6343 4.23431C10.9467 3.9219 11.4533 3.9219 11.7657 4.23431C12.0781 4.54673 12.0781 5.05327 11.7657 5.36569L9.13137 8L11.7657 10.6343C12.0781 10.9467 12.0781 11.4533 11.7657 11.7657C11.4533 12.0781 10.9467 12.0781 10.6343 11.7657L8 9.13137L5.36569 11.7657C5.05327 12.0781 4.54673 12.0781 4.23431 11.7657C3.9219 11.4533 3.9219 10.9467 4.23431 10.6343L6.86863 8L4.23431 5.36569C3.9219 5.05327 3.9219 4.54673 4.23431 4.23431Z"/>
+      `;
+    } else {
+      // Change back to filter icon
+      filterIcon.innerHTML = `
+        <path d="M9.66667 3.33333C8.93029 3.33333 8.33333 3.93029 8.33333 4.66667C8.33333 5.40305 8.93029 6 9.66667 6C10.403 6 11 5.40305 11 4.66667C11 3.93029 10.403 3.33333 9.66667 3.33333ZM7.08401 4C7.38004 2.84985 8.42411 2 9.66667 2C10.9092 2 11.9533 2.84985 12.2493 4H13.3333C13.7015 4 14 4.29848 14 4.66667C14 5.03486 13.7015 5.33333 13.3333 5.33333H12.2493C11.9533 6.48349 10.9092 7.33333 9.66667 7.33333C8.42411 7.33333 7.38004 6.48349 7.08401 5.33333H2.66667C2.29848 5.33333 2 5.03486 2 4.66667C2 4.29848 2.29848 4 2.66667 4H7.08401ZM6.33333 10C5.59695 10 5 10.597 5 11.3333C5 12.0697 5.59695 12.6667 6.33333 12.6667C7.06971 12.6667 7.66667 12.0697 7.66667 11.3333C7.66667 10.597 7.06971 10 6.33333 10ZM3.75068 10.6667C4.04671 9.51652 5.09077 8.66667 6.33333 8.66667C7.57589 8.66667 8.61996 9.51652 8.91599 10.6667H13.3333C13.7015 10.6667 14 10.9651 14 11.3333C14 11.7015 13.7015 12 13.3333 12H8.91599C8.61996 13.1502 7.57589 14 6.33333 14C5.09077 14 4.04671 13.1502 3.75068 12H2.66667C2.29848 12 2 11.7015 2 11.3333C2 10.9651 2.29848 10.6667 2.66667 10.6667H3.75068Z"/>
+      `;
     }
   }
 
@@ -564,6 +586,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (filterBtn) {
         filterBtn.classList.remove('active');
       }
+      updateFilterIcon(false); // Reset to filter icon
     }
   }
 
@@ -619,6 +642,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (filterDropdown && !filterDropdown.contains(e.target) && filterBtn && !filterBtn.contains(e.target)) {
       filterDropdown.classList.remove('active');
       filterBtn.classList.remove('active');
+      updateFilterIcon(false); // Reset to filter icon
     }
   });
 
