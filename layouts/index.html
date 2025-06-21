@@ -28,8 +28,8 @@
             <div class="advanced-filter-control">
               <button class="filter-btn" id="filter-btn">
                 <span>Filter</span>
-                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                  <path d="M3 6h10M5 10h6M7 14h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                <svg class="filter-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                  <path d="M9.66667 3.33333C8.93029 3.33333 8.33333 3.93029 8.33333 4.66667C8.33333 5.40305 8.93029 6 9.66667 6C10.403 6 11 5.40305 11 4.66667C11 3.93029 10.403 3.33333 9.66667 3.33333ZM7.08401 4C7.38004 2.84985 8.42411 2 9.66667 2C10.9092 2 11.9533 2.84985 12.2493 4H13.3333C13.7015 4 14 4.29848 14 4.66667C14 5.03486 13.7015 5.33333 13.3333 5.33333H12.2493C11.9533 6.48349 10.9092 7.33333 9.66667 7.33333C8.42411 7.33333 7.38004 6.48349 7.08401 5.33333H2.66667C2.29848 5.33333 2 5.03486 2 4.66667C2 4.29848 2.29848 4 2.66667 4H7.08401ZM6.33333 10C5.59695 10 5 10.597 5 11.3333C5 12.0697 5.59695 12.6667 6.33333 12.6667C7.06971 12.6667 7.66667 12.0697 7.66667 11.3333C7.66667 10.597 7.06971 10 6.33333 10ZM3.75068 10.6667C4.04671 9.51652 5.09077 8.66667 6.33333 8.66667C7.57589 8.66667 8.61996 9.51652 8.91599 10.6667H13.3333C13.7015 10.6667 14 10.9651 14 11.3333C14 11.7015 13.7015 12 13.3333 12H8.91599C8.61996 13.1502 7.57589 14 6.33333 14C5.09077 14 4.04671 13.1502 3.75068 12H2.66667C2.29848 12 2 11.7015 2 11.3333C2 10.9651 2.29848 10.6667 2.66667 10.6667H3.75068Z"/>
                 </svg>
               </button>
 
@@ -66,42 +66,51 @@
                     <h3 class="filter-section-title">Topic</h3>
                     <div class="filter-options">
                       <label class="filter-option">
-                        <input type="checkbox" value="scrum" data-category="topic">
+                        <input type="checkbox" value="remote-first" data-category="topic">
                         <span class="checkmark"></span>
-                        Scrum & Methodologies
+                        Remote-First Work
                       </label>
                       <label class="filter-option">
-                        <input type="checkbox" value="design-patterns" data-category="topic">
-                        <span class="checkmark"></span>
-                        Design Patterns
-                      </label>
-                      <label class="filter-option">
-                        <input type="checkbox" value="team-building" data-category="topic">
+                        <input type="checkbox" value="team building" data-category="topic">
                         <span class="checkmark"></span>
                         Team Building
                       </label>
                       <label class="filter-option">
-                        <input type="checkbox" value="conferences" data-category="topic">
+                        <input type="checkbox" value="software engineering" data-category="topic">
                         <span class="checkmark"></span>
-                        Conferences & Talks
+                        Software Engineering
                       </label>
                       <label class="filter-option">
-                        <input type="checkbox" value="product-management" data-category="topic">
+                        <input type="checkbox" value="testing" data-category="topic">
+                        <span class="checkmark"></span>
+                        Testing & TDD
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="onboarding" data-category="topic">
+                        <span class="checkmark"></span>
+                        Onboarding & Growth
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="product" data-category="topic">
                         <span class="checkmark"></span>
                         Product Management
                       </label>
                       <label class="filter-option">
-                        <input type="checkbox" value="software-development" data-category="topic">
+                        <input type="checkbox" value="agile" data-category="topic">
                         <span class="checkmark"></span>
-                        Software Development
+                        Agile & XP
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="culture" data-category="topic">
+                        <span class="checkmark"></span>
+                        Team Culture
                       </label>
                     </div>
                   </div>
+                </div>
 
-                  <div class="filter-actions">
-                    <button class="filter-clear-btn" id="filter-clear">Clear all</button>
-                    <button class="filter-apply-btn" id="filter-apply">Apply filters</button>
-                  </div>
+                <div class="filter-actions">
+                  <button class="filter-cancel-btn" id="filter-cancel">Cancel</button>
                 </div>
               </div>
             </div>
@@ -136,6 +145,7 @@
         {{ range $allPosts.ByDate.Reverse }}
           <article class="post-card"
                    data-categories="{{ range .Params.categories }}{{ . | lower | replaceRE `[^a-z0-9]+` `-` }} {{ end }}"
+                   data-tags="{{ range .Params.tags }}{{ . | lower }} {{ end }}"
                    data-date="{{ .Date.Format "2006-01-02" }}"
                    data-title="{{ .Title }}"
                    data-timestamp="{{ .Date.Unix }}">
@@ -182,8 +192,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const filterTabs = document.querySelectorAll('.filter-tab');
   const filterBtn = document.getElementById('filter-btn');
   const filterDropdown = document.getElementById('filter-dropdown');
-  const filterClearBtn = document.getElementById('filter-clear');
-  const filterApplyBtn = document.getElementById('filter-apply');
+  const filterCancelBtn = document.getElementById('filter-cancel');
   const sortSelect = document.getElementById('sort-select');
   const blogPosts = document.getElementById('blog-posts');
   const postCards = document.querySelectorAll('.post-card');
@@ -243,11 +252,11 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!hasCategory) shouldShow = false;
       }
 
-      // Check topic filters (basic implementation)
+      // Check topic filters - these match against tags
       if (activeFilters.topic.length > 0 && shouldShow) {
+        const cardTags = card.dataset.tags ? card.dataset.tags.toLowerCase() : '';
         const hasTopicMatch = activeFilters.topic.some(topic => {
-          return cardCategories.includes(topic.toLowerCase()) ||
-                 card.textContent.toLowerCase().includes(topic.toLowerCase());
+          return cardTags.includes(topic.toLowerCase());
         });
         if (!hasTopicMatch) shouldShow = false;
       }
@@ -264,6 +273,7 @@ document.addEventListener('DOMContentLoaded', function() {
     applySorting();
     updateURL();
     updateFilterButtonText();
+    updateCancelButton();
 
     // Show filter info if filters are active
     showFilterInfo(visibleCount);
@@ -364,6 +374,20 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  // Update cancel button text and behavior
+  function updateCancelButton() {
+    const totalActiveFilters = activeFilters.category.length + activeFilters.topic.length;
+    if (filterCancelBtn) {
+      if (totalActiveFilters > 0) {
+        filterCancelBtn.textContent = 'Clear all';
+        filterCancelBtn.className = 'filter-clear-btn';
+      } else {
+        filterCancelBtn.textContent = 'Cancel';
+        filterCancelBtn.className = 'filter-cancel-btn';
+      }
+    }
+  }
+
   // Show filter information
   function showFilterInfo(visibleCount) {
     const hasActiveFilters = activeFilters.category.length > 0 || activeFilters.topic.length > 0;
@@ -399,6 +423,38 @@ document.addEventListener('DOMContentLoaded', function() {
   function toggleFilterDropdown() {
     if (filterDropdown) {
       filterDropdown.classList.toggle('active');
+
+      // Position dropdown responsively to avoid overflow
+      if (filterDropdown.classList.contains('active')) {
+        positionDropdown();
+      }
+    }
+  }
+
+  // Position dropdown to avoid screen overflow
+  function positionDropdown() {
+    if (!filterDropdown || !filterBtn) return;
+
+    // Reset positioning classes
+    filterDropdown.classList.remove('position-right');
+
+    // Get dimensions and positions
+    const dropdownRect = filterDropdown.getBoundingClientRect();
+    const buttonRect = filterBtn.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+
+    // Check if dropdown would overflow on the right
+    const wouldOverflowRight = buttonRect.left + dropdownRect.width > viewportWidth - 20; // 20px margin
+
+    // On mobile (480px and below), center the dropdown
+    if (viewportWidth <= 480) {
+      // Centering is handled by CSS transform
+      return;
+    }
+
+    // On larger screens, position left or right based on available space
+    if (wouldOverflowRight) {
+      filterDropdown.classList.add('position-right');
     }
   }
 
@@ -435,11 +491,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Apply the filters
     applyFilters();
-
-    // Close dropdown
-    if (filterDropdown) {
-      filterDropdown.classList.remove('active');
-    }
   }
 
   function clearAdvancedFilters() {
@@ -459,6 +510,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Apply filters (will show all posts)
     applyFilters();
+  }
+
+  function handleCancelClick() {
+    const totalActiveFilters = activeFilters.category.length + activeFilters.topic.length;
+
+    if (totalActiveFilters > 0) {
+      // Clear all filters
+      clearAdvancedFilters();
+    } else {
+      // Just close the dropdown
+      if (filterDropdown) {
+        filterDropdown.classList.remove('active');
+      }
+      if (filterBtn) {
+        filterBtn.classList.remove('active');
+      }
+    }
   }
 
   // Tab click handlers
@@ -492,20 +560,27 @@ document.addEventListener('DOMContentLoaded', function() {
       e.preventDefault();
       e.stopPropagation();
       toggleFilterDropdown();
+      filterBtn.classList.toggle('active');
     });
   }
 
-  if (filterApplyBtn) {
-    filterApplyBtn.addEventListener('click', applyAdvancedFilters);
-  }
-  if (filterClearBtn) {
-    filterClearBtn.addEventListener('click', clearAdvancedFilters);
+  // Add event listeners to checkboxes for immediate filtering
+  const checkboxes = document.querySelectorAll('.filter-dropdown input[type="checkbox"]');
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', function() {
+      applyAdvancedFilters();
+    });
+  });
+
+  if (filterCancelBtn) {
+    filterCancelBtn.addEventListener('click', handleCancelClick);
   }
 
   // Close dropdown when clicking outside
   document.addEventListener('click', function(e) {
     if (filterDropdown && !filterDropdown.contains(e.target) && filterBtn && !filterBtn.contains(e.target)) {
       filterDropdown.classList.remove('active');
+      filterBtn.classList.remove('active');
     }
   });
 
@@ -516,6 +591,13 @@ document.addEventListener('DOMContentLoaded', function() {
       updateURL();
     });
   }
+
+  // Handle window resize to reposition dropdown if open
+  window.addEventListener('resize', function() {
+    if (filterDropdown && filterDropdown.classList.contains('active')) {
+      positionDropdown();
+    }
+  });
 
   // Initialize the UI from URL parameters
   initializeFromURL();
