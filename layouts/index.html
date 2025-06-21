@@ -366,12 +366,50 @@ document.addEventListener('DOMContentLoaded', function() {
       const span = filterBtn.querySelector('span');
       if (span) {
         if (totalActiveFilters > 0) {
-          span.textContent = `Filter (${totalActiveFilters})`;
+          // Get the first selected filter name
+          const firstFilter = getFirstSelectedFilterName();
+          if (totalActiveFilters === 1) {
+            span.textContent = firstFilter;
+          } else {
+            span.textContent = `${firstFilter} +${totalActiveFilters - 1} more`;
+          }
         } else {
           span.textContent = 'Filter';
         }
       }
     }
+  }
+
+  // Get the display name of the first selected filter
+  function getFirstSelectedFilterName() {
+    // Filter value to display name mapping
+    const filterDisplayNames = {
+      // Categories
+      'agile': 'Agile',
+      'architecture': 'Architecture',
+      'events': 'Events',
+      'leadership': 'Leadership',
+
+      // Topics
+      'remote-first': 'Remote-First Work',
+      'team building': 'Team Building',
+      'software engineering': 'Software Engineering',
+      'testing': 'Testing & TDD',
+      'onboarding': 'Onboarding & Growth',
+      'product': 'Product Management',
+      'culture': 'Team Culture'
+    };
+
+    // Check categories first, then topics
+    if (activeFilters.category.length > 0) {
+      const firstCategory = activeFilters.category[0];
+      return filterDisplayNames[firstCategory] || firstCategory;
+    } else if (activeFilters.topic.length > 0) {
+      const firstTopic = activeFilters.topic[0];
+      return filterDisplayNames[firstTopic] || firstTopic;
+    }
+
+    return 'Filter';
   }
 
   // Update cancel button text and behavior
