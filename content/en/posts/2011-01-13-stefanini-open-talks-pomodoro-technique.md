@@ -1,20 +1,23 @@
 ---
-title: "Stefanini Open Talks – Pomodoro Technique and Depth in Work"
+title: Stefanini Open Talks – Pomodoro Technique and Depth in Work
 author: helio
 layout: post
-date: 2011-01-13T01:07:59+00:00
-categories: ["Events", "Leadership"]
+date: 2011-01-13 01:07:59+00:00
+categories:
+- Events
+- Leadership
 tags:
-  - Hélio
-  - Open Talks
-  - poa
-  - Pomodoro
-  - Stefanini
-  - TECNOPUC
-  - Dell
-  - Pomodoro Technique
-  - Productivity
-  - Focus
+- Hélio
+- Open Talks
+- poa
+- Pomodoro
+- Stefanini
+- TECNOPUC
+- Dell
+- Pomodoro Technique
+- Productivity
+- Focus
+subtitle: Experiences and learnings from technology events
 ---
 
 Today, Thursday January 13th, I had the opportunity to kick off the very first edition of Stefanini Open Talks, held at the Assespro Auditorium in building 96 of Tecnopuc. This initiative came out of conversations with Marcelo Schmidt and the administrative team of Stefanini responsible for the Dell account. Our goal was both simple and ambitious: to create a shared learning space inside our operation, celebrating the knowledge we build through our daily experiences.

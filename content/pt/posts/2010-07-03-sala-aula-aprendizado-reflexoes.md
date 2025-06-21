@@ -1,23 +1,27 @@
 ---
-title: "A Sala de Aula Como Aprendizado: Reflexões de Um Semestre"
-categories: ["Events", "Technology"]
-date: 2010-07-03T00:00:00-03:00
+title: 'A Sala de Aula Como Aprendizado: Reflexões de Um Semestre'
+categories:
+- Events
+- Technology
+date: 2010-07-03 00:00:00-03:00
 slug: sala-aula-aprendizado-reflexoes
 category: Engenharia de Software
 tags:
-  - Aulas de Engenharia de Software
-  - Ensino
-  - Educação
-  - Reflexão
-  - Desenvolvimento Profissional
-description: "Reflexões finais de um semestre ensinando engenharia de software - lições sobre constância, vulnerabilidade e advocacia pela nossa profissão."
+- Aulas de Engenharia de Software
+- Ensino
+- Educação
+- Reflexão
+- Desenvolvimento Profissional
+description: Reflexões finais de um semestre ensinando engenharia de software - lições
+  sobre constância, vulnerabilidade e advocacia pela nossa profissão.
 keywords:
-  - educação em engenharia de software
-  - ensino de programação
-  - experiência em sala de aula
-  - desenvolvimento profissional
-  - advocacia em engenharia de software
+- educação em engenharia de software
+- ensino de programação
+- experiência em sala de aula
+- desenvolvimento profissional
+- advocacia em engenharia de software
 draft: false
+subtitle: Experiências no ensino e academia
 ---
 
 Termino mais um semestre como professor na Universidade Potiguar (UnP) com o coração cheio e a cabeça fervendo. Ensinar uma disciplina por meses é uma experiência completamente diferente de facilitar workshops ou palestrar em conferências. Lá, tudo é intensivo, direto ao ponto. Aqui, há continuidade, rotina, dúvidas recorrentes, ausências, reencontros e aprendizados de longo prazo — tanto para os alunos quanto para mim.

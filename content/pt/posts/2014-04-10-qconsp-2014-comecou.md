@@ -2,14 +2,16 @@
 title: QConSP 2014! Começou!
 author: helio
 layout: post
-date: 2014-04-10T12:50:51+00:00
+date: 2014-04-10 12:50:51+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Events"]
+- 'false'
+categories:
+- Events
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 &nbsp;<figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter">
 

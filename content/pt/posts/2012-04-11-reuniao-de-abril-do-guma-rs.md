@@ -2,20 +2,23 @@
 title: “Se virol” – Reunião de Abril do GUMA-RS
 author: helio
 layout: post
-date: 2012-04-12T01:37:54+00:00
+date: 2012-04-12 01:37:54+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Agile", "Events"]
+- 'false'
+categories:
+- Agile
+- Events
 tags:
-  - AGILE
-  - guma-rs
-  - Marco Enes
-  - Meganti
-  - se virol
+- AGILE
+- guma-rs
+- Marco Enes
+- Meganti
+- se virol
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 [<img class="aligncenter size-full wp-image-508" src="/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="/uploads/2012/04/gumaJuly.jpg 417w, /uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 

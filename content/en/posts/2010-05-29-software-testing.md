@@ -1,21 +1,26 @@
 ---
-title: "Testing Software: Fidelity, Quality, and System Evolution"
+title: 'Testing Software: Fidelity, Quality, and System Evolution'
 author: helio
-date: 2010-05-29T14:30:22+00:00
-description: "Reflections on the thirteenth Software Engineering lecture, exploring software testing as a strategic design activity embedded throughout real development processes."
-categories: ["Technology", "Leadership"]
+date: 2010-05-29 14:30:22+00:00
+description: Reflections on the thirteenth Software Engineering lecture, exploring
+  software testing as a strategic design activity embedded throughout real development
+  processes.
+categories:
+- Technology
+- Leadership
 tags:
-  - Software Engineering
-  - Software Testing
-  - Unit Testing
-  - Integration Testing
-  - Test-Driven Development
-  - Quality Assurance
-  - Test Pyramid
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Software Testing
+- Unit Testing
+- Integration Testing
+- Test-Driven Development
+- Quality Assurance
+- Test Pyramid
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 13 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

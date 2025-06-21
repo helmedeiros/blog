@@ -2,22 +2,25 @@
 title: 1ª Semana de LightningTalks e FishBowls no TecnoPUC
 author: helio
 layout: post
-date: 2012-08-24T12:06:34+00:00
+date: 2012-08-24 12:06:34+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Events", "Leadership"]
+- 'false'
+categories:
+- Events
+- Leadership
 tags:
-  - coragem
-  - extreme programming
-  - Feedback
-  - TDD
-  - Test Driven Development
-  - Testes
-  - XP
+- coragem
+- extreme programming
+- Feedback
+- TDD
+- Test Driven Development
+- Testes
+- XP
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 Aconteceu há algumas horas o [4º dia][1] da [1ª Semana de LightningTalks e FishBowls no TecnoPUC][2] onde apresentei a Lightning Talk [ Test Driven Development &#8211; Em busca de feedback útil e concreto][3], que abordava o conceito de feedback validado na construção de software.
 

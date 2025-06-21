@@ -1,17 +1,18 @@
 ---
-title: "Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others"
-categories: ["Leadership", "Technology"]
+title: 'Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others'
+categories:
+- Leadership
+- Technology
 date: 2011-12-20
-series: "Life in Porto Alegre"
+series: Life in Porto Alegre
 tags:
-  [
-    "Dell",
-    "Leadership",
-    "Teaching",
-    "Mentoring",
-    "Marcelo Schmidt",
-    "Education",
-  ]
+- Dell
+- Leadership
+- Teaching
+- Mentoring
+- Marcelo Schmidt
+- Education
+subtitle: Software development concepts and practices
 ---
 
 _This is Part 6 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._

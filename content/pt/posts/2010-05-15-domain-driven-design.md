@@ -1,20 +1,25 @@
 ---
-title: "Domain-Driven Design na Prática: Construindo Software que Fala Negócio"
+title: 'Domain-Driven Design na Prática: Construindo Software que Fala Negócio'
 author: helio
 layout: post
-date: 2010-05-15T14:30:22+00:00
-description: "Reflexões sobre a décima primeira e última aula de Engenharia de Software, explorando os princípios de Domain-Driven Design e sua aplicação prática no desenvolvimento de software real."
-categories: ["Architecture", "Technology"]
+date: 2010-05-15 14:30:22+00:00
+description: Reflexões sobre a décima primeira e última aula de Engenharia de Software,
+  explorando os princípios de Domain-Driven Design e sua aplicação prática no desenvolvimento
+  de software real.
+categories:
+- Architecture
+- Technology
 tags:
-  - Engenharia de Software
-  - Domain-Driven Design
-  - Arquitetura
-  - Modelagem
-  - Lógica de Negócio
-  - Linguagem Ubíqua
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Domain-Driven Design
+- Arquitetura
+- Modelagem
+- Lógica de Negócio
+- Linguagem Ubíqua
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 11 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

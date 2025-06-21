@@ -1,18 +1,21 @@
 ---
-title: "Dotfiles 2025: Boot Fast, Adapt Smarter"
+title: 'Dotfiles 2025: Boot Fast, Adapt Smarter'
 author: helio
 layout: post
-date: 2025-05-27T10:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2025-05-27 10:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - portability
-  - multi-host
-  - adaptation
-  - profile-zsh
-  - defensive-scripting
-  - secrets-management
-  - system-integration
+- dotfiles
+- portability
+- multi-host
+- adaptation
+- profile-zsh
+- defensive-scripting
+- secrets-management
+- system-integration
+subtitle: Software development concepts and practices
 ---
 
 ## New Contexts, Same Philosophy

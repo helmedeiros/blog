@@ -1,24 +1,29 @@
 ---
-title: "Executando o Ciclo Scrum: Do Planejamento ao Software Funcionando"
+title: 'Executando o Ciclo Scrum: Do Planejamento ao Software Funcionando'
 author: helio
 layout: post
-date: 2010-04-11T23:09:21+00:00
-description: "Reflexões sobre a sétima aula de Engenharia de Software, explorando o ciclo operacional do Scrum, papéis, cerimônias e como equipes se auto-organizam em torno da entrega de valor."
+date: 2010-04-11 23:09:21+00:00
+description: Reflexões sobre a sétima aula de Engenharia de Software, explorando o
+  ciclo operacional do Scrum, papéis, cerimônias e como equipes se auto-organizam
+  em torno da entrega de valor.
 idptt_tweeted:
-  - 1
-categories: ["Agile", "Leadership"]
+- 1
+categories:
+- Agile
+- Leadership
 tags:
-  - Engenharia de Software
-  - Scrum
-  - Sprint Planning
-  - Daily Scrum
-  - Sprint Review
-  - Sprint Retrospective
-  - Sprint Goal
-  - Auto-Organização
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Scrum
+- Sprint Planning
+- Daily Scrum
+- Sprint Review
+- Sprint Retrospective
+- Sprint Goal
+- Auto-Organização
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 7 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

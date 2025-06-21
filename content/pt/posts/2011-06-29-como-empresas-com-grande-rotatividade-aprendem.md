@@ -1,19 +1,22 @@
 ---
-title: "Como Empresas com Grande Rotatividade Aprendem?"
+title: Como Empresas com Grande Rotatividade Aprendem?
 author: helio
 layout: post
-date: 2011-06-29T15:49:35+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Leadership", "Events"]
+date: 2011-06-29 15:49:35+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Leadership
+- Events
 tags:
-  - agilebrazil2011
-  - geracaoy
-  - retencao-de-talentos
-  - aprendizagem
-  - brownbags
-  - engajamento
+- agilebrazil2011
+- geracaoy
+- retencao-de-talentos
+- aprendizagem
+- brownbags
+- engajamento
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 
 ## A Pergunta Que Abriu a Palestra

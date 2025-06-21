@@ -1,30 +1,36 @@
 ---
-title: "Agile Brazil 2010 – Parte 3: Ao Vivo do Agile Brazil 2010: Minha Primeira Palestra sobre Agile"
+title: 'Agile Brazil 2010 – Parte 3: Ao Vivo do Agile Brazil 2010: Minha Primeira
+  Palestra sobre Agile'
 author: helio
 layout: post
-date: 2010-06-24T18:00:00+00:00
+date: 2010-06-24 18:00:00+00:00
 slug: agile-brazil-2010-primeira-palestra
-categories: ["Agile", "Events"]
+categories:
+- Agile
+- Events
 tags:
-  - Agile Brazil
-  - XP
-  - Scrum
-  - Kanban
-  - Educação Ágil
-  - UnP
-  - UFRN
-  - História do Agile
-description: "Ao vivo do Agile Brazil 2010 - reflexões sobre a primeira conferência nacional de métodos ágeis do Brasil, minha primeira palestra sobre agile e o nascimento de uma comunidade."
+- Agile Brazil
+- XP
+- Scrum
+- Kanban
+- Educação Ágil
+- UnP
+- UFRN
+- História do Agile
+description: Ao vivo do Agile Brazil 2010 - reflexões sobre a primeira conferência
+  nacional de métodos ágeis do Brasil, minha primeira palestra sobre agile e o nascimento
+  de uma comunidade.
 keywords:
-  - agile brazil 2010
-  - conferencia agile brasil
-  - martin fowler
-  - philippe kruchten
-  - david hussman
-  - comunidade agile
-  - xp programacao extrema
-  - metodologia scrum
-series: "Agile Brazil 2010"
+- agile brazil 2010
+- conferencia agile brasil
+- martin fowler
+- philippe kruchten
+- david hussman
+- comunidade agile
+- xp programacao extrema
+- metodologia scrum
+series: Agile Brazil 2010
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 [<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Time Agile Brazil 2010" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]

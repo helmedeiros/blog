@@ -1,20 +1,23 @@
 ---
-title: "Primeiros 90 Dias como Gestor – Introdução e Parceiros de Pessoas"
+title: Primeiros 90 Dias como Gestor – Introdução e Parceiros de Pessoas
 author: helio
 layout: post
-date: 2023-05-05T10:00:00+00:00
-categories: ["Leadership", "Agile"]
+date: 2023-05-05 10:00:00+00:00
+categories:
+- Leadership
+- Agile
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - first-90-days
-  - people-partners
-  - performance-management
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- first-90-days
+- people-partners
+- performance-management
+subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
 ---
 
 ## Revisitando os Fundamentos com Novo Olhar

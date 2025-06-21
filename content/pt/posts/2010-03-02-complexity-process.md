@@ -1,20 +1,23 @@
 ---
-title: "Domando a Complexidade: Quando o Processo Ajuda e Quando Atrapalha"
+title: 'Domando a Complexidade: Quando o Processo Ajuda e Quando Atrapalha'
 author: helio
 layout: post
-date: 2010-03-03T01:21:54+00:00
-description: "Reflexões sobre a segunda aula de Engenharia de Software, focando em processo, modelos e propósito no desenvolvimento de software."
+date: 2010-03-03 01:21:54+00:00
+description: Reflexões sobre a segunda aula de Engenharia de Software, focando em
+  processo, modelos e propósito no desenvolvimento de software.
 idptt_tweeted:
-  - 1
-categories: ["Leadership"]
+- 1
+categories:
+- Leadership
 tags:
-  - Engenharia de Software
-  - Processo
-  - Modelos
-  - UnP
-  - Ensino
-  - Crise do Software
-  - software-engineering-series
+- Engenharia de Software
+- Processo
+- Modelos
+- UnP
+- Ensino
+- Crise do Software
+- software-engineering-series
+subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 2 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

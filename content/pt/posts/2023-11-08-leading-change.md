@@ -1,24 +1,27 @@
 ---
-title: "Liderando Mudanças – Entendendo e Apoiando Reações Humanas"
+title: Liderando Mudanças – Entendendo e Apoiando Reações Humanas
 author: helio
 layout: post
-date: 2023-11-08T10:00:00+00:00
-categories: ["Leadership", "Architecture"]
+date: 2023-11-08 10:00:00+00:00
+categories:
+- Leadership
+- Architecture
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - change-management
-  - kubler-ross
-  - emotional-intelligence
-  - change-curve
-  - empathy
-  - adaptation
-  - communication
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- change-management
+- kubler-ross
+- emotional-intelligence
+- change-curve
+- empathy
+- adaptation
+- communication
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Mudança vs Competição

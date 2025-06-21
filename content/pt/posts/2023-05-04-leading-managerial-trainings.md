@@ -1,18 +1,20 @@
 ---
-title: "Treinamentos de Liderança/Gestão"
+title: Treinamentos de Liderança/Gestão
 author: helio
 layout: post
-date: 2023-05-04T10:00:00+00:00
-categories: ["Leadership"]
+date: 2023-05-04 10:00:00+00:00
+categories:
+- Leadership
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - first-90-days
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- first-90-days
+subtitle: Estratégias de liderança e gestão de equipes
 ---
 
 ## Um Ano para Aprender, Compartilhar e Evoluir

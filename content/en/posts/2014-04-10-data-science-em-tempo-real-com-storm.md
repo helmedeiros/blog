@@ -1,19 +1,22 @@
 ---
-title: "Real-time Data Science with Storm"
+title: Real-time Data Science with Storm
 author: helio
 layout: post
-date: 2014-04-10T18:32:54+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
-categories: ["Technology", "Events"]
+date: 2014-04-10 18:32:54+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Technology
+- Events
 tags:
-  - big data
-  - data scientist
-  - Fabiane Nardon
-  - qconsp
-  - storm
+- big data
+- data scientist
+- Fabiane Nardon
+- qconsp
+- storm
+subtitle: Software development concepts and practices
 ---
 
 Today we know that we have a lot of data, and from there, we discover that this data isn't just a box with several others.

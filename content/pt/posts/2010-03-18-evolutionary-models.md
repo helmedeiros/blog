@@ -1,22 +1,26 @@
 ---
-title: "Aprender, Adaptar, Evoluir: Abraçando a Mudança no Desenvolvimento de Software"
+title: 'Aprender, Adaptar, Evoluir: Abraçando a Mudança no Desenvolvimento de Software'
 author: helio
 layout: post
-date: 2010-03-18T02:42:59+00:00
-description: "Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos evolucionários, CBSE, reúso de software e desenvolvimento iterativo."
+date: 2010-03-18 02:42:59+00:00
+description: Reflexões sobre a quarta aula de Engenharia de Software, explorando modelos
+  evolucionários, CBSE, reúso de software e desenvolvimento iterativo.
 idptt_tweeted:
-  - 1
-categories: ["Technology", "Agile"]
+- 1
+categories:
+- Technology
+- Agile
 tags:
-  - Engenharia de Software
-  - Modelos Evolucionários
-  - CBSE
-  - Reúso
-  - Prototipagem
-  - Modelo Espiral
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Modelos Evolucionários
+- CBSE
+- Reúso
+- Prototipagem
+- Modelo Espiral
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

@@ -1,19 +1,24 @@
 ---
-title: "TDD Avançado: Pensando com Testes"
-date: 2010-06-19T09:00:00-03:00
+title: 'TDD Avançado: Pensando com Testes'
+date: 2010-06-19 09:00:00-03:00
 tags:
-  [
-    "engenharia de software",
-    "tdd",
-    "testes",
-    "java",
-    "junit",
-    "desenvolvimento",
-  ]
-categories: ["Technology", "Agile"]
-series: ["Aulas de Engenharia de Software"]
-slug: "tdd-avancado-pensando-com-testes"
-summary: "Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando que ele é mais do que uma técnica — é uma forma de pensar. Utilizando um sistema real de template de e-mails, desenvolvemos tudo partindo de testes. Cada linha foi uma decisão validada, cada falha evitada antes de acontecer."
+- engenharia de software
+- tdd
+- testes
+- java
+- junit
+- desenvolvimento
+categories:
+- Technology
+- Agile
+series:
+- Aulas de Engenharia de Software
+slug: tdd-avancado-pensando-com-testes
+summary: Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando
+  que ele é mais do que uma técnica — é uma forma de pensar. Utilizando um sistema
+  real de template de e-mails, desenvolvemos tudo partindo de testes. Cada linha foi
+  uma decisão validada, cada falha evitada antes de acontecer.
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 **Aulas de Engenharia de Software - Parte 16 de 19**

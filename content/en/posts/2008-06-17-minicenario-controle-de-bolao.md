@@ -5,6 +5,7 @@ layout: post
 date: 2008-06-17T02:14:52+00:00
 categories: ["Events", "Leadership"]
 series: "UML Mini-scenarios"
+subtitle: Managing lottery pools with automated participant tracking and payment control
 tags:
   - mini-scenarios
   - uml-series

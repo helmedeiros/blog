@@ -1,15 +1,17 @@
 ---
-title: "Desconf 2012 – End of the world"
+title: Desconf 2012 – End of the world
 author: helio
 layout: post
-date: 2012-12-29T13:32:02+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events"]
+date: 2012-12-29 13:32:02+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
 tags:
-  - desconf
-  - desconf2012
+- desconf
+- desconf2012
+subtitle: Experiences and learnings from technology events
 ---
 
 <figure id="attachment_700" style="width: 467px" class="wp-caption aligncenter"> <a href="/2012/12/29/desconf-2012-fim-do-mundo/desconf2012/" rel="attachment wp-att-700"><img class=" wp-image-700 " alt="Desconf2012" src="/uploads/2012/12/desconf2012.jpg" width="467" height="225" srcset="/uploads/2012/12/desconf2012.jpg 519w, /uploads/2012/12/desconf2012-300x144.jpg 300w" sizes="(max-width: 467px) 100vw, 467px" /></a> <figcaption class="wp-caption-text">Desconf 2012 – I Spoke Before the End of the World</figcaption></figure> It happened on December 17, 2012, at the third edition of the rapid unconference (<a title="desconf" href="http://www.desconf.com.br/" target="_blank">#desconf2012</a>) in Porto Alegre.

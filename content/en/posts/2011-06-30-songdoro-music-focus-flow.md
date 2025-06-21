@@ -1,18 +1,21 @@
 ---
-title: "Songdoro: Music, Focus, and Flow"
+title: 'Songdoro: Music, Focus, and Flow'
 author: helio
 layout: post
-date: 2011-06-30T15:49:35+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Agile"]
+date: 2011-06-30 15:49:35+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Agile
 tags:
-  - agilebrazil2011
-  - pomodoro
-  - productivity
-  - songdoro
-  - focus
+- agilebrazil2011
+- pomodoro
+- productivity
+- songdoro
+- focus
+subtitle: Experiences and learnings from technology events
 ---
 
 Right after our lightning talk on retention and knowledge transfer, I joined **Daniel Wildt** for a second session. This time, we were tuning into something less visible but incredibly important — **focus, energy, and the rhythm of productivity**.

@@ -1,22 +1,27 @@
 ---
-title: "Requirements, Validation, and the Role of Testing"
+title: Requirements, Validation, and the Role of Testing
 author: helio
-date: 2010-05-22T14:30:22+00:00
-description: "Reflections on the twelfth and final Software Engineering lecture, exploring requirements engineering, validation practices, and the critical connection between clear requirements and effective testing."
-categories: ["Technology", "Leadership"]
+date: 2010-05-22 14:30:22+00:00
+description: Reflections on the twelfth and final Software Engineering lecture, exploring
+  requirements engineering, validation practices, and the critical connection between
+  clear requirements and effective testing.
+categories:
+- Technology
+- Leadership
 tags:
-  - Software Engineering
-  - Requirements Engineering
-  - Validation
-  - Testing
-  - TDD
-  - Quality Assurance
-  - User Stories
-  - Acceptance Criteria
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Requirements Engineering
+- Validation
+- Testing
+- TDD
+- Quality Assurance
+- User Stories
+- Acceptance Criteria
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 12 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

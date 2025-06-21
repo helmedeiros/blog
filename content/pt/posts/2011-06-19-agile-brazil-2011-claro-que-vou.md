@@ -1,21 +1,24 @@
 ---
-title: "Agile Brazil 2011 – Eu Vou!"
+title: Agile Brazil 2011 – Eu Vou!
 author: helio
 layout: post
-date: 2011-06-19T15:49:35+00:00
+date: 2011-06-19 15:49:35+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - "false"
+- 'false'
 seo_noindex:
-  - "false"
-categories: ["Events", "Agile"]
+- 'false'
+categories:
+- Events
+- Agile
 tags:
-  - agilebrazil2011
-  - aprendizagem
-  - geracaoy
-  - Pomodoro
-  - Songdoro
+- agilebrazil2011
+- aprendizagem
+- geracaoy
+- Pomodoro
+- Songdoro
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 O <a href="http://agilebrazil.com" target="_blank">Agile Brazil 2011</a> acontece de 27 de junho a 1º de julho em Fortaleza/CE, reunindo mais de 50 palestras que abordam os principais temas da agilidade no cenário global. E a boa notícia: **eu estarei lá — e palestrando!**

@@ -1,13 +1,17 @@
 ---
 title: "OKRA em Ação: Cultivando Cultura de Produto Além do Checklist de OKRs"
-categories: ["Leadership"]
+categories:
+  - Leadership
 date: 2023-06-23
-description: "O quinto post da série OKRA, explorando como OKRA e práticas de gestão de produto moldam a cultura do time, promovem responsabilidade compartilhada e aceleram o aprendizado."
-series: ["okra"]
+description:
+  O quinto post da série OKRA, explorando como OKRA e práticas de gestão
+  de produto moldam a cultura do time, promovem responsabilidade compartilhada e aceleram
+  o aprendizado.
+series:
+  - okra
 series_order: 5
+subtitle: Gestão de objetivos e resultados com OKRA
 ---
-
-# Construindo Cultura de Produto com OKRA e Gestão de Produto
 
 ## 1. Cultura se constrói com prática, não com pôsteres
 

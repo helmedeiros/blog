@@ -1,20 +1,23 @@
 ---
-title: "First Week of Lightning Talks and Fishbowls at TecnoPUC"
+title: First Week of Lightning Talks and Fishbowls at TecnoPUC
 author: helio
 layout: post
-date: 2012-08-24T12:06:34+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events", "Agile"]
+date: 2012-08-24 12:06:34+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+- Agile
 tags:
-  - coragem
-  - extreme programming
-  - Feedback
-  - TDD
-  - Test Driven Development
-  - Testes
-  - XP
+- coragem
+- extreme programming
+- Feedback
+- TDD
+- Test Driven Development
+- Testes
+- XP
+subtitle: Experiences and learnings from technology events
 ---
 
 A few hours ago at the [4º dia][1] of [1ª Semana LightningTalks e FishBowls TecnoPUC][2], I presented a Lightning Talk [ Test Driven Development &#8211; Em busca de feedback útil e concreto][3], which addressed the concept of validated feedback in software construction.

@@ -1,12 +1,16 @@
 ---
-title: "OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs"
-categories: ["Leadership"]
+title: 'OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs'
+categories:
+- Leadership
 date: 2024-05-10
-description: "Sessão #4 da série OKRA: como construir colaborativamente um rascunho visual do plano do trimestre, tornando o alinhamento visível e acionável."
-series: ["okra"]
+description: 'Sessão #4 da série OKRA: como construir colaborativamente um rascunho
+  visual do plano do trimestre, tornando o alinhamento visível e acionável.'
+series:
+- okra
 series_order: 5
 lang: pt
 slug: session-4-quarter-draft-plan
+subtitle: Framework OKRA para gestão de objetivos e resultados
 ---
 
 ## Do Alinhamento à Visualização

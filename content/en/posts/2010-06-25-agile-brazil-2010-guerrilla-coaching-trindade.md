@@ -1,29 +1,34 @@
 ---
-title: "Agile Brazil 2010 – Part 5: Guerrilla Coaching with Francisco Trindade"
+title: 'Agile Brazil 2010 – Part 5: Guerrilla Coaching with Francisco Trindade'
 author: helio
 layout: post
-date: 2010-06-25T19:00:00+00:00
+date: 2010-06-25 19:00:00+00:00
 slug: agile-brazil-2010-guerrilla-coaching-trindade
-categories: ["Leadership", "Agile"]
+categories:
+- Leadership
+- Agile
 tags:
-  - Agile Brazil
-  - Coaching
-  - Francisco Trindade
-  - Leadership
-  - Organizational Change
-  - Kaizen
-  - Kaikaku
-  - Influence
-description: "Francisco Trindade's guerrilla coaching workshop at Agile Brazil 2010 - learning to lead change without formal authority through strategic influence and observation."
+- Agile Brazil
+- Coaching
+- Francisco Trindade
+- Leadership
+- Organizational Change
+- Kaizen
+- Kaikaku
+- Influence
+description: Francisco Trindade's guerrilla coaching workshop at Agile Brazil 2010
+  - learning to lead change without formal authority through strategic influence and
+  observation.
 keywords:
-  - guerrilla coaching
-  - agile brazil 2010
-  - francisco trindade
-  - leadership without authority
-  - organizational change
-  - kaizen kaikaku
-  - strategic influence
-series: "Agile Brazil 2010"
+- guerrilla coaching
+- agile brazil 2010
+- francisco trindade
+- leadership without authority
+- organizational change
+- kaizen kaikaku
+- strategic influence
+series: Agile Brazil 2010
+subtitle: Agile practices and development methodologies
 ---
 
 > **Series: Agile Brazil 2010** | **Part 5 of 6** > _Complete coverage of Brazil's first national agile conference_

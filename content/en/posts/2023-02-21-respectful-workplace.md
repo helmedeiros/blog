@@ -1,31 +1,32 @@
 ---
-title: "Respectful Workplace – From Inclusion to Equity"
+title: Respectful Workplace – From Inclusion to Equity
 author: helio
 layout: post
-date: 2023-02-21T10:00:00+00:00
+date: 2023-02-21 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
-  - Diversity and Inclusion
+- Leadership
+- Management
+- Professional Development
+- Training
+- Teams
+- Diversity and Inclusion
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - respectful-workplace
-  - equity
-  - inclusion
-  - diversity
-  - intersectionality
-  - cultural-differences
-  - microaggressions
-  - inclusive-language
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- respectful-workplace
+- equity
+- inclusion
+- diversity
+- intersectionality
+- cultural-differences
+- microaggressions
+- inclusive-language
+subtitle: Reflections on leadership and people development
 ---
 
 ## Beyond Equality: Building a Respectful and Equitable Workplace

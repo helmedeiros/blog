@@ -2,17 +2,19 @@
 title: Technology is not enough! Barry O’Reilly
 author: helio
 layout: post
-date: 2014-11-06T12:57:31+00:00
+date: 2014-11-06 12:57:31+00:00
 seo_follow:
-  - "false"
+- 'false'
 seo_noindex:
-  - "false"
+- 'false'
 embed:
-  - This is the default text
-categories: ["Technology"]
+- This is the default text
+categories:
+- Technology
 tags:
-  - "#AgileBR"
-  - "Barry O'Reilly"
+- '#AgileBR'
+- Barry O'Reilly
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 Durante os anos empresas aparecem e desaparecem com uma certa frequência, e não apenas pequenas tem desaparecido mas com muita frequência as grandes tem perecido. Para onde foram as ideias? O que aconteceu com o mercado? Estamos fazendo o certo? Estamos tentando controlar o incontrolável o imprevisível?

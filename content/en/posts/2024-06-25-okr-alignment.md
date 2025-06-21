@@ -1,10 +1,16 @@
 ---
-title: "From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our Teams"
-categories: ["Leadership", "Technology"]
+title: 'From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our
+  Teams'
+categories:
+- Leadership
+- Technology
 date: 2024-06-25
-description: "A practical guide to engaging your team in building quarterly OKRs together through transparent, structured facilitation."
-series: ["OKRA"]
+description: A practical guide to engaging your team in building quarterly OKRs together
+  through transparent, structured facilitation.
+series:
+- OKRA
 series_order: 6
+subtitle: Leadership strategies and team management
 ---
 
 ## Why We Created the OKRA Framework

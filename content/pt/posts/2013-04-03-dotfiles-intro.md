@@ -1,18 +1,21 @@
 ---
-title: "Por que Dotfiles Importam: Notas de um Recomeço"
+title: 'Por que Dotfiles Importam: Notas de um Recomeço'
 author: helio
 layout: post
-date: 2013-04-03T19:00:00+00:00
-categories: ["Technology", "Agile"]
+date: 2013-04-03 19:00:00+00:00
+categories:
+- Technology
+- Agile
 tags:
-  - dotfiles
-  - produtividade
-  - terminal
-  - configuração
-  - onboarding
-  - desenvolvimento
-  - git
-  - zsh
+- dotfiles
+- produtividade
+- terminal
+- configuração
+- onboarding
+- desenvolvimento
+- git
+- zsh
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## O Verdadeiro Motivo pelo Qual Comecei a Me Importar

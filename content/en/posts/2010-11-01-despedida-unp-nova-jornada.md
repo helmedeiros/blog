@@ -1,23 +1,26 @@
 ---
-title: "Closing a Chapter: Gratitude and New Paths"
-categories: ["Events"]
-date: 2010-11-01T00:00:00-03:00
+title: 'Closing a Chapter: Gratitude and New Paths'
+categories:
+- Events
+date: 2010-11-01 00:00:00-03:00
 slug: farewell-unp-new-journey
 category: Software Engineering
 tags:
-  - Software Engineering Lectures
-  - Teaching
-  - Career Transition
-  - Gratitude
-  - Professional Growth
-description: "Final farewell from teaching at UnP - reflecting on the journey and moving forward to new challenges in Porto Alegre."
+- Software Engineering Lectures
+- Teaching
+- Career Transition
+- Gratitude
+- Professional Growth
+description: Final farewell from teaching at UnP - reflecting on the journey and moving
+  forward to new challenges in Porto Alegre.
 keywords:
-  - software engineering education
-  - teaching farewell
-  - career transition
-  - professional development
-  - university teaching
+- software engineering education
+- teaching farewell
+- career transition
+- professional development
+- university teaching
 draft: false
+subtitle: Experiences and learnings from technology events
 ---
 
 With a heavy but grateful heart, I share that this will be my final semester teaching at Universidade Potiguar (UnP). It's a decision I made with care, reflection, and excitement for what lies ahead.

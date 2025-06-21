@@ -1,12 +1,14 @@
 ---
-title: "QConSP 2014! It's started! "
+title: 'QConSP 2014! It''s started! '
 author: helio
 layout: post
-date: 2014-04-10T12:50:51+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Events"]
+date: 2014-04-10 12:50:51+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Events
+subtitle: Experiences and learnings from technology events
 ---
 
 <figure id="attachment_811" style="width: 476px" class="wp-caption aligncenter"> <img class="size-full wp-image-811" alt="QCon São Paulo 2014" src="/uploads/2014/04/qconSP14.png" width="476" height="240" srcset="/uploads/2014/04/qconSP14.png 476w, /uploads/2014/04/qconSP14-300x151.png 300w" sizes="(max-width: 476px) 100vw, 476px" /><figcaption class="wp-caption-text">QCon São Paulo 2014</figcaption></figure> In its 5th edition, Qcon starts in São Paulo, at WTC, with a new location, new infrastructure, larger network intervals.

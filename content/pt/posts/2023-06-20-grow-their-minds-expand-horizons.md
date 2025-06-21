@@ -1,21 +1,24 @@
 ---
-title: "Expanda Mentes, Amplie Horizontes"
+title: Expanda Mentes, Amplie Horizontes
 author: helio
 layout: post
-date: 2023-06-20T10:00:00+00:00
-categories: ["Agile", "Leadership"]
+date: 2023-06-20 10:00:00+00:00
+categories:
+- Agile
+- Leadership
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - growth-mindset
-  - empathy
-  - coaching
-  - psychological-safety
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- growth-mindset
+- empathy
+- coaching
+- psychological-safety
+subtitle: Práticas ágeis e metodologias de desenvolvimento
 ---
 
 ## O Poder de Reforçar o que Importa

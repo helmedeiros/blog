@@ -1,21 +1,24 @@
 ---
-title: "Agile Day 2010 – Announcement: Agile Day 2010 Preview"
+title: 'Agile Day 2010 – Announcement: Agile Day 2010 Preview'
 author: helio
 layout: post
-date: 2010-11-24T00:09:00+00:00
-idptt_tweeted:
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Agile", "Events"]
-series: "Agile Day 2010"
+date: 2010-11-24 00:09:00+00:00
+idptt_tweeted: null
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Agile
+- Events
+series: Agile Day 2010
 tags:
-  - 2010
-  - agileday
-  - guma
-  - poa
-  - pucrs
-  - RS
+- 2010
+- agileday
+- guma
+- poa
+- pucrs
+- RS
+subtitle: Agile practices and development methodologies
 ---
 
 <figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">

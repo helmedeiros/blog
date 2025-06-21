@@ -1,13 +1,16 @@
 ---
 title: "OKRA in Action: Growing Product Culture Beyond the OKR Checklist"
-categories: ["Leadership"]
+categories:
+  - Leadership
 date: 2023-06-23
-description: "The fifth post in the OKRA series, exploring how OKRA and product management practices shape team culture, foster shared ownership, and accelerate learning."
-series: ["okra"]
+description:
+  The fifth post in the OKRA series, exploring how OKRA and product management
+  practices shape team culture, foster shared ownership, and accelerate learning.
+series:
+  - okra
 series_order: 5
+subtitle: Objectives and key results management with OKRA
 ---
-
-# Building Product Culture Through OKRA and Product Management
 
 ## 1. Culture Is Built Through Practice, Not Just Posters
 

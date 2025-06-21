@@ -1,12 +1,15 @@
 ---
-title: "Minicenário: CLASSIFICADOS NA WEB"
 author: helio
+categories:
+- Events
+- Architecture
+date: 2008-06-13 01:57:56+00:00
 layout: post
-date: 2008-06-13T01:57:56+00:00
-categories: ["Events", "Architecture"]
+subtitle: Modelando sistema de classificados web usando mini-cenários UML
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+title: 'Minicenário: CLASSIFICADOS NA WEB'
 ---
 
 > **Série: Mini-cenários UML** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

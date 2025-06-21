@@ -1,18 +1,21 @@
 ---
-title: "Stefanini Open Talks – Songdoro Technique and the Power of Music for Focus"
+title: Stefanini Open Talks – Songdoro Technique and the Power of Music for Focus
 author: helio
 layout: post
-date: 2011-04-19T00:38:19+00:00
-embed:
-seo_follow:
-seo_noindex:
-idptt_tweeted:
-categories: ["Events", "Agile"]
+date: 2011-04-19 00:38:19+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+idptt_tweeted: null
+categories:
+- Events
+- Agile
 tags:
-  - Open Talks
-  - Pomodoro
-  - Songdoro
-  - Stefanini
+- Open Talks
+- Pomodoro
+- Songdoro
+- Stefanini
+subtitle: Experiences and learnings from technology events
 ---
 
 This Monday, April 18th, I had the pleasure of participating in another edition of Stefanini Open Talks, continuing the [brown bag tradition][1] that's been growing every month. This time, my presentation focused on a concept I've been developing for a while — combining focus, productive cycles, and **music**.

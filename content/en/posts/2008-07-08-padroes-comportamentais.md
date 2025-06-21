@@ -1,10 +1,13 @@
 ---
-title: "Behavioral Design Patterns: Coordinating Responsibilities with Flexibility"
+title: 'Behavioral Design Patterns: Coordinating Responsibilities with Flexibility'
 author: helio
 layout: post
-date: 2008-07-08T03:27:57+00:00
-categories: ["Architecture", "Technology"]
-series: "Design Patterns and Analysis"
+date: 2008-07-08 03:27:57+00:00
+categories:
+- Architecture
+- Technology
+series: Design Patterns and Analysis
+subtitle: Behavioral patterns for object interaction
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_

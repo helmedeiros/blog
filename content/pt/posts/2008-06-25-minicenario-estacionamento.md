@@ -1,14 +1,17 @@
 ---
-title: "Minicenário: ESTACIONAMENTO"
 author: helio
-layout: post
-date: 2008-06-25T02:48:10+00:00
+categories:
+- Events
+- Architecture
+date: 2008-06-25 02:48:10+00:00
 dsq_thread_id:
-  - 4969844895
-categories: ["Events", "Architecture"]
+- 4969844895
+layout: post
+subtitle: Design de sistema de estacionamento através de cenários UML
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+title: 'Minicenário: ESTACIONAMENTO'
 ---
 
 > **Série: Mini-cenários UML** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

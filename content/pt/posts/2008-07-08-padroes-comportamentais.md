@@ -1,9 +1,12 @@
 ---
-title: "Padrões Comportamentais: Coordenando Responsabilidades com Flexibilidade"
+title: 'Padrões Comportamentais: Coordenando Responsabilidades com Flexibilidade'
 author: helio
 layout: post
-date: 2008-07-08T03:27:57+00:00
-categories: ["Architecture", "Technology"]
+date: 2008-07-08 03:27:57+00:00
+categories:
+- Architecture
+- Technology
+subtitle: Padrões de design para desenvolvimento de software
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

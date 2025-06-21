@@ -1,18 +1,21 @@
 ---
-title: "Sem Escritório por Design"
-categories: ["Events", "Leadership"]
+title: Sem Escritório por Design
+categories:
+- Events
+- Leadership
 date: 2021-08-15
-description: "Como nosso time transformou o trabalho remoto emergencial em uma cultura officeless intencional, com apoio de treinamento estruturado e experimentação coletiva."
+description: Como nosso time transformou o trabalho remoto emergencial em uma cultura
+  officeless intencional, com apoio de treinamento estruturado e experimentação coletiva.
 tags:
-  [
-    "remote-first",
-    "officeless",
-    "assíncrono",
-    "práticas-de-time",
-    "cultura-remota",
-  ]
-series: ["Remote-First Work"]
+- remote-first
+- officeless
+- assíncrono
+- práticas-de-time
+- cultura-remota
+series:
+- Remote-First Work
 series_order: 2
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 
 ## Um Time em Transição

@@ -1,19 +1,22 @@
 ---
-title: "Refinando Meus Dotfiles: Mais Limpo, Mais Esperto, Mais Simples"
+title: 'Refinando Meus Dotfiles: Mais Limpo, Mais Esperto, Mais Simples'
 author: helio
 layout: post
-date: 2016-10-30T10:00:00+00:00
-categories: ["Technology", "Leadership"]
+date: 2016-10-30 10:00:00+00:00
+categories:
+- Technology
+- Leadership
 tags:
-  - dotfiles
-  - terminal
-  - automação
-  - zsh
-  - bash
-  - refatoração
-  - simplificação
-  - loader
-  - functions
+- dotfiles
+- terminal
+- automação
+- zsh
+- bash
+- refatoração
+- simplificação
+- loader
+- functions
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 ## Um Ano Depois, Um Setup Mais Simples

@@ -1,23 +1,24 @@
 ---
-title: "Leading/Managerial Trainings"
+title: Leading/Managerial Trainings
 author: helio
 layout: post
-date: 2023-05-04T10:00:00+00:00
+date: 2023-05-04 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
+- Leadership
+- Management
+- Professional Development
+- Training
+- Teams
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - first-90-days
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- first-90-days
+subtitle: Leadership strategies and team management
 ---
 
 ## A Year to Learn, Share, and Grow

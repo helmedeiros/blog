@@ -1,18 +1,21 @@
 ---
-title: "Stefanini Open Talks – Songdoro e o Poder do Ritmo na Produtividade"
+title: Stefanini Open Talks – Songdoro e o Poder do Ritmo na Produtividade
 author: helio
 layout: post
-date: 2011-04-18T23:38:19+00:00
-embed:
-seo_follow:
-seo_noindex:
-idptt_tweeted:
-categories: ["Events", "Leadership"]
+date: 2011-04-18 23:38:19+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+idptt_tweeted: null
+categories:
+- Events
+- Leadership
 tags:
-  - Open Talks
-  - Pomodoro
-  - Songdoro
-  - Stefanini
+- Open Talks
+- Pomodoro
+- Songdoro
+- Stefanini
+subtitle: Experiências e aprendizados em eventos de tecnologia
 ---
 
 Nesta segunda-feira, 18 de abril, participei com entusiasmo de mais uma edição do Stefanini Open Talks, continuando nossa tradição de brown bags que vem crescendo a cada mês. Desta vez, a apresentação foi sobre um conceito que venho amadurecendo há algum tempo: a ideia de unir foco, ciclos de produtividade e **música**.

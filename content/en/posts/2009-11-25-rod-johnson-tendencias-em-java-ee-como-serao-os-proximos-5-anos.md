@@ -1,26 +1,29 @@
 ---
-title: "Rod Johnson: Trends in Java EE - What Will the Next 5 Years Look Like?"
+title: 'Rod Johnson: Trends in Java EE - What Will the Next 5 Years Look Like?'
 author: helio
 layout: post
-date: 2009-11-25T13:07:38+00:00
-idptt_tweeted:
-dsq_thread_id:
-series: "TDC Rio 2009"
-categories: ["Technology", "Events"]
+date: 2009-11-25 13:07:38+00:00
+idptt_tweeted: null
+dsq_thread_id: null
+series: TDC Rio 2009
+categories:
+- Technology
+- Events
 tags:
-  - 2009
-  - cloud computing
-  - J2EE
-  - oracle
-  - Rod Johnson
-  - roo
-  - Ruby On Rails
-  - spring
-  - springsource
-  - sun
-  - TDC
-  - tendências
-  - vmware
+- 2009
+- cloud computing
+- J2EE
+- oracle
+- Rod Johnson
+- roo
+- Ruby On Rails
+- spring
+- springsource
+- sun
+- TDC
+- tendências
+- vmware
+subtitle: Software development concepts and practices
 ---
 
 > **Series: TDC Rio 2009** | **Part 2 of 2** > _Key insights from Brazil's premier Java conference_

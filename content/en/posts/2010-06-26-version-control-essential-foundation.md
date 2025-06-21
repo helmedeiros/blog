@@ -1,19 +1,23 @@
 ---
-title: "Version Control: Don't Code Without It"
-date: 2010-06-26T09:00:00-03:00
+title: 'Version Control: Don''t Code Without It'
+date: 2010-06-26 09:00:00-03:00
 tags:
-  [
-    "software engineering",
-    "version control",
-    "git",
-    "svn",
-    "collaboration",
-    "development",
-  ]
-categories: ["Technology", "Agile"]
-series: "Software Engineering Lectures"
-slug: "version-control-essential-foundation"
-summary: "In this lecture, we turned to a topic that every developer ignores at their own risk: version control. But we didn't just walk through Git commands—we explored the reasoning, pitfalls, and project-saving habits that come from disciplined usage. Version control isn't optional; it's foundational."
+- software engineering
+- version control
+- git
+- svn
+- collaboration
+- development
+categories:
+- Technology
+- Agile
+series: Software Engineering Lectures
+slug: version-control-essential-foundation
+summary: 'In this lecture, we turned to a topic that every developer ignores at their
+  own risk: version control. But we didn''t just walk through Git commands—we explored
+  the reasoning, pitfalls, and project-saving habits that come from disciplined usage.
+  Version control isn''t optional; it''s foundational.'
+subtitle: Software development concepts and practices
 ---
 
 **Software Engineering Lectures - Part Part 17 of 19**

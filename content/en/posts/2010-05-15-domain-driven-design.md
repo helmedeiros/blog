@@ -1,21 +1,26 @@
 ---
-title: "Domain-Driven Design in Practice: Building Software That Speaks Business"
+title: 'Domain-Driven Design in Practice: Building Software That Speaks Business'
 author: helio
 layout: post
-date: 2010-05-15T14:30:22+00:00
-description: "Reflections on the eleventh and final Software Engineering lecture, exploring Domain-Driven Design principles and their practical application in real-world software development."
-categories: ["Architecture", "Technology"]
+date: 2010-05-15 14:30:22+00:00
+description: Reflections on the eleventh and final Software Engineering lecture, exploring
+  Domain-Driven Design principles and their practical application in real-world software
+  development.
+categories:
+- Architecture
+- Technology
 tags:
-  - Software Engineering
-  - Domain-Driven Design
-  - Architecture
-  - Modeling
-  - Business Logic
-  - Ubiquitous Language
-  - UnP
-  - Teaching
-  - software-engineering-series
-series: "Software Engineering Fundamentals"
+- Software Engineering
+- Domain-Driven Design
+- Architecture
+- Modeling
+- Business Logic
+- Ubiquitous Language
+- UnP
+- Teaching
+- software-engineering-series
+series: Software Engineering Fundamentals
+subtitle: Software development concepts and practices
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 11 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

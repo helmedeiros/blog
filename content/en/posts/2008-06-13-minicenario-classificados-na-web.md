@@ -1,13 +1,16 @@
 ---
-title: "Mini-scenario: Web Classifieds"
 author: helio
+categories:
+- Events
+- Architecture
+date: 2008-06-13 01:57:56+00:00
 layout: post
-date: 2008-06-13T01:57:56+00:00
-categories: ["Events", "Architecture"]
-series: "UML Mini-scenarios"
+series: UML Mini-scenarios
+subtitle: Modeling web classifieds system using UML mini-scenarios
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+title: 'Mini-scenario: Web Classifieds'
 ---
 
 > **Series: UML Mini-scenarios** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_

@@ -1,19 +1,22 @@
 ---
-title: "Agile Portfolio - Planning: Managing Your Project Portfolio – "
+title: 'Agile Portfolio - Planning: Managing Your Project Portfolio – '
 author: helio
 layout: post
-date: 2012-09-06T18:07:51+00:00
-embed:
-seo_follow:
-seo_noindex:
-categories: ["Leadership", "Agile"]
+date: 2012-09-06 18:07:51+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+categories:
+- Leadership
+- Agile
 tags:
-  - "#AgileBR"
-  - AGILE
-  - agile brazil
-  - Agile Portfolio Planning
-  - Johanna Rothman
-  - Project Portfolio
+- '#AgileBR'
+- AGILE
+- agile brazil
+- Agile Portfolio Planning
+- Johanna Rothman
+- Project Portfolio
+subtitle: Agile practices and development methodologies
 ---
 
 &emsp; A [Johanna][1] started by thanking for the invitation and saying how happy they are to be in Brazil.

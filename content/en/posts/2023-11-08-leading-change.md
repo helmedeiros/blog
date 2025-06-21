@@ -1,29 +1,30 @@
 ---
-title: "Leading Change – Understanding and Supporting Human Reactions to Change"
+title: Leading Change – Understanding and Supporting Human Reactions to Change
 author: helio
 layout: post
-date: 2023-11-08T10:00:00+00:00
+date: 2023-11-08 10:00:00+00:00
 categories:
-  - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
+- Leadership
+- Management
+- Professional Development
+- Training
+- Teams
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - change-management
-  - kubler-ross
-  - emotional-intelligence
-  - change-curve
-  - empathy
-  - adaptation
-  - communication
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- change-management
+- kubler-ross
+- emotional-intelligence
+- change-curve
+- empathy
+- adaptation
+- communication
+subtitle: Reflections on leadership and people development
 ---
 
 ## Change vs Competition

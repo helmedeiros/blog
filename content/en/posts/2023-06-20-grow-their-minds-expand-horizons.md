@@ -1,21 +1,24 @@
 ---
-title: "Grow Their Minds, Expand Our Horizons"
+title: Grow Their Minds, Expand Our Horizons
 author: helio
 layout: post
-date: 2023-06-20T10:00:00+00:00
-categories: ["Leadership", "Technology"]
+date: 2023-06-20 10:00:00+00:00
+categories:
+- Leadership
+- Technology
 tags:
-  - leadership
-  - management
-  - training
-  - professional-development
-  - team-leadership
-  - omio
-  - management-series
-  - growth-mindset
-  - empathy
-  - coaching
-  - psychological-safety
+- leadership
+- management
+- training
+- professional-development
+- team-leadership
+- omio
+- management-series
+- growth-mindset
+- empathy
+- coaching
+- psychological-safety
+subtitle: Agile practices and development methodologies
 ---
 
 ## The Power of Reinforcing What Matters

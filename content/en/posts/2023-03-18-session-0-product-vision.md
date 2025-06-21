@@ -2,6 +2,7 @@
 title: "OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow"
 categories: ["Leadership", "Technology"]
 date: 2023-03-18
+subtitle: OKRA Session 0 - establishing clear product vision and direction
 description: "The second post in the OKRA series, introducing Session #0 as a practical workshop for teams to create shared vision and context when company strategy is unclear."
 series: ["okra"]
 series_order: 2

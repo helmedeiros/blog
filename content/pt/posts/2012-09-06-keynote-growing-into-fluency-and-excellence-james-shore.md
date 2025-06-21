@@ -2,22 +2,25 @@
 title: 'Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore'
 author: helio
 layout: post
-date: 2012-09-06T13:48:33+00:00
+date: 2012-09-06 13:48:33+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Technology", "Agile"]
+- 'false'
+categories:
+- Technology
+- Agile
 tags:
-  - '#AgileBR'
-  - 2012
-  - adoção ágil
-  - agile brazil
-  - Agile Fluency
-  - james shore
-  - Team-Scale Anarcho-Syndicalism
+- '#AgileBR'
+- 2012
+- adoção ágil
+- agile brazil
+- Agile Fluency
+- james shore
+- Team-Scale Anarcho-Syndicalism
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 O [James Shore][1] iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando <a title="Feature Driven Development" href="http://en.wikipedia.org/wiki/Feature-driven_development" target="_blank">FDD</a>, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo <a title="Times ágeis as vezes podem realizar práticas sem saber o porque..." href="/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/" target="_blank">inertes na realização de práticas ágeis</a>, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora. Não adianta <a title="Construindo rapidamente a coisa certa!" href="/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/" target="_blank">construir rapidamente a coisa errada</a>.
 

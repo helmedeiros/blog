@@ -1,16 +1,19 @@
 ---
-title: "Never too late! From Bash to ZSH!"
+title: Never too late! From Bash to ZSH!
 author: helio
 layout: post
-date: 2011-11-15T20:23:19+00:00
-categories: ["Technology", "Events"]
+date: 2011-11-15 20:23:19+00:00
+categories:
+- Technology
+- Events
 tags:
-  - bash
-  - oh-my-zsh
-  - shell
-  - zsh
-  - terminal
-  - productivity
+- bash
+- oh-my-zsh
+- shell
+- zsh
+- terminal
+- productivity
+subtitle: Software development concepts and practices
 ---
 
 ## A New Era in the Terminal

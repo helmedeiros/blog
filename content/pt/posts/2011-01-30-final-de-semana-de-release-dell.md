@@ -1,9 +1,17 @@
 ---
-title: "Final de Semana de Release, Automação e o Valor da Liderança de Verdade"
-categories: ["Leadership", "Agile"]
+title: Final de Semana de Release, Automação e o Valor da Liderança de Verdade
+categories:
+- Leadership
+- Agile
 date: 2011-01-30
-series: "Vida em Porto Alegre"
-tags: ["Dell", "Liderança", "Automação", "Deploy", "Cultura"]
+series: Vida em Porto Alegre
+tags:
+- Dell
+- Liderança
+- Automação
+- Deploy
+- Cultura
+subtitle: Estratégias de liderança e gestão de equipes
 ---
 
 _Esta é a Parte 3 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._

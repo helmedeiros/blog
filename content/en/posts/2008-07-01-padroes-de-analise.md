@@ -2,9 +2,11 @@
 title: Analysis Patterns
 author: helio
 layout: post
-date: 2008-07-01T03:27:57+00:00
-categories: ["Architecture"]
-series: "Design Patterns and Analysis"
+date: 2008-07-01 03:27:57+00:00
+categories:
+- Architecture
+series: Design Patterns and Analysis
+subtitle: Design patterns for software development
 ---
 
 > **Series: Design Patterns and Analysis** | **Introduction** > _Developed during Master's in Web Systems Projects_

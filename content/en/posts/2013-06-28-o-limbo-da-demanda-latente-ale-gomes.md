@@ -1,19 +1,22 @@
 ---
-title: "The latent demand limbo – Alê Gomes"
+title: The latent demand limbo – Alê Gomes
 author: helio
 layout: post
-date: 2013-06-28T13:20:24+00:00
-embed: 
-seo_follow: 
-seo_noindex: 
-dsq_thread_id: 
-categories: ["Events", "Technology"]
+date: 2013-06-28 13:20:24+00:00
+embed: null
+seo_follow: null
+seo_noindex: null
+dsq_thread_id: null
+categories:
+- Events
+- Technology
 tags:
-  - '#AgileBR'
-  - alegomes
-  - agile brazil
-  - agilebrazil2013
-  - politicas publicas
+- '#AgileBR'
+- alegomes
+- agile brazil
+- agilebrazil2013
+- politicas publicas
+subtitle: Software development concepts and practices
 ---
 
 The Alê started by presenting himself and positioning himself as unworthy of being the keynote speaker at this great event, and began defining everyone else involved in the community's growth.

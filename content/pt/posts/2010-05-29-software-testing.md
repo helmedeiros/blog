@@ -1,20 +1,25 @@
 ---
-title: "Testes de Software: Fidelidade, Qualidade e Evolução do Sistema"
+title: 'Testes de Software: Fidelidade, Qualidade e Evolução do Sistema'
 author: helio
-date: 2010-05-29T14:30:22+00:00
-description: "Reflexões sobre a décima terceira aula de Engenharia de Software, explorando testes de software como atividade estratégica de design integrada aos processos reais de desenvolvimento."
-categories: ["Technology", "Events"]
+date: 2010-05-29 14:30:22+00:00
+description: Reflexões sobre a décima terceira aula de Engenharia de Software, explorando
+  testes de software como atividade estratégica de design integrada aos processos
+  reais de desenvolvimento.
+categories:
+- Technology
+- Events
 tags:
-  - Engenharia de Software
-  - Testes de Software
-  - Testes Unitários
-  - Testes de Integração
-  - Test-Driven Development
-  - Garantia de Qualidade
-  - Pirâmide de Testes
-  - UnP
-  - Ensino
-  - software-engineering-series
+- Engenharia de Software
+- Testes de Software
+- Testes Unitários
+- Testes de Integração
+- Test-Driven Development
+- Garantia de Qualidade
+- Pirâmide de Testes
+- UnP
+- Ensino
+- software-engineering-series
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 13 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

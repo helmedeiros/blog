@@ -1,10 +1,13 @@
 ---
-title: "Structural Design Patterns: Composing Objects with Purpose"
+title: 'Structural Design Patterns: Composing Objects with Purpose'
 author: helio
 layout: post
-date: 2008-07-06T03:27:57+00:00
-categories: ["Architecture", "Technology"]
-series: "Design Patterns and Analysis"
+date: 2008-07-06 03:27:57+00:00
+categories:
+- Architecture
+- Technology
+series: Design Patterns and Analysis
+subtitle: Structural patterns for class and object composition
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_

@@ -1,5 +1,6 @@
 ---
 title: "Why UML Still Matters: A Shared Language for Software Design"
+subtitle: "Introduction to UML modeling through practical mini-scenarios"
 author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00

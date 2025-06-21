@@ -1,23 +1,27 @@
 ---
-title: "Encerrando um Ciclo: Gratidão e Novos Caminhos"
-categories: ["Events", "Technology"]
-date: 2010-11-01T00:00:00-03:00
+title: 'Encerrando um Ciclo: Gratidão e Novos Caminhos'
+categories:
+- Events
+- Technology
+date: 2010-11-01 00:00:00-03:00
 slug: despedida-unp-nova-jornada
 category: Engenharia de Software
 tags:
-  - Aulas de Engenharia de Software
-  - Ensino
-  - Transição de Carreira
-  - Gratidão
-  - Crescimento Profissional
-description: "Despedida final do ensino na UnP - refletindo sobre a jornada e seguindo para novos desafios em Porto Alegre."
+- Aulas de Engenharia de Software
+- Ensino
+- Transição de Carreira
+- Gratidão
+- Crescimento Profissional
+description: Despedida final do ensino na UnP - refletindo sobre a jornada e seguindo
+  para novos desafios em Porto Alegre.
 keywords:
-  - educação em engenharia de software
-  - despedida do ensino
-  - transição de carreira
-  - desenvolvimento profissional
-  - ensino universitário
+- educação em engenharia de software
+- despedida do ensino
+- transição de carreira
+- desenvolvimento profissional
+- ensino universitário
 draft: false
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 Com o coração apertado, mas cheio de gratidão, compartilho que este será meu último semestre lecionando na Universidade Potiguar (UnP). Uma decisão difícil, tomada com carinho, reflexão e empolgação pelo que vem pela frente.

@@ -2,22 +2,24 @@
 title: Sucesso na medida certa – Métricas de vaidade
 author: helio
 layout: post
-date: 2012-12-18T02:42:59+00:00
+date: 2012-12-18 02:42:59+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
-categories: ["Leadership"]
+- 'false'
+categories:
+- Leadership
 tags:
-  - 2012
-  - desconf
-  - desconf2012
-  - Lean Startup
-  - métricas de vaidade
-  - poa
-  - porto alegre
+- 2012
+- desconf
+- desconf2012
+- Lean Startup
+- métricas de vaidade
+- poa
+- porto alegre
+subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
 ---
 <figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure> 
 

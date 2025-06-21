@@ -1,30 +1,34 @@
 ---
-title: "Agile Brazil 2010 – Part 3: Live from Agile Brazil 2010: My First Agile Talk"
+title: 'Agile Brazil 2010 – Part 3: Live from Agile Brazil 2010: My First Agile Talk'
 author: helio
 layout: post
-date: 2010-06-24T18:00:00+00:00
+date: 2010-06-24 18:00:00+00:00
 slug: agile-brazil-2010-primeira-palestra
-categories: ["Agile", "Events"]
+categories:
+- Agile
+- Events
 tags:
-  - Agile Brazil
-  - XP
-  - Scrum
-  - Kanban
-  - Agile Education
-  - UnP
-  - UFRN
-  - Agile History
-description: "Live from Agile Brazil 2010 - reflections on Brazil's first national agile conference, my first agile talk, and witnessing the birth of a community."
+- Agile Brazil
+- XP
+- Scrum
+- Kanban
+- Agile Education
+- UnP
+- UFRN
+- Agile History
+description: Live from Agile Brazil 2010 - reflections on Brazil's first national
+  agile conference, my first agile talk, and witnessing the birth of a community.
 keywords:
-  - agile brazil 2010
-  - agile conference brazil
-  - martin fowler
-  - philippe kruchten
-  - david hussman
-  - agile community
-  - xp extreme programming
-  - scrum methodology
-series: "Agile Brazil 2010"
+- agile brazil 2010
+- agile conference brazil
+- martin fowler
+- philippe kruchten
+- david hussman
+- agile community
+- xp extreme programming
+- scrum methodology
+series: Agile Brazil 2010
+subtitle: Agile practices and development methodologies
 ---
 
 [<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Agile Brazil 2010 Team" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]

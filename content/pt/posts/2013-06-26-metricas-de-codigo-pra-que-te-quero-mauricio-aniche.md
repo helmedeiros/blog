@@ -2,16 +2,19 @@
 title: Métricas de código, pra que te quero? -Mauricio Aniche
 author: helio
 layout: post
-date: 2013-06-26T18:56:30+00:00
+date: 2013-06-26 18:56:30+00:00
 embed:
-  - This is the default text
+- This is the default text
 seo_follow:
-  - 'false'
+- 'false'
 seo_noindex:
-  - 'false'
+- 'false'
 dsq_thread_id:
-  - 4969967005
-categories: ["Technology", "Leadership"]
+- 4969967005
+categories:
+- Technology
+- Leadership
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.
 

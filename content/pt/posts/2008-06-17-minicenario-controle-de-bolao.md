@@ -1,12 +1,15 @@
 ---
-title: "Minicenário: CONTROLE DE BOLÃO"
 author: helio
+categories:
+- Events
+- Architecture
+date: 2008-06-17 02:14:52+00:00
 layout: post
-date: 2008-06-17T02:14:52+00:00
-categories: ["Events", "Architecture"]
+subtitle: Modelagem UML para sistemas de controle de bolão
 tags:
-  - mini-scenarios
-  - uml-series
+- mini-scenarios
+- uml-series
+title: 'Minicenário: CONTROLE DE BOLÃO'
 ---
 
 > **Série: Mini-cenários UML** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

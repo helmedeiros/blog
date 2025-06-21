@@ -1,20 +1,23 @@
 ---
-title: "No Masks in REAL PROJECTS!"
-date: 2010-05-08T17:47:30+00:00
+title: No Masks in REAL PROJECTS!
+date: 2010-05-08 17:47:30+00:00
 draft: false
 author: helio
 layout: post
-idptt_tweeted:
-categories: ["Events", "Leadership"]
+idptt_tweeted: null
+categories:
+- Events
+- Leadership
 tags:
-  - Comunicacao
-  - Feedback
-  - Homem Mascara
-  - Homem Mascarado
-  - Masked Man
-  - Steve McConnell
-  - Transparency
-  - Culture
+- Comunicacao
+- Feedback
+- Homem Mascara
+- Homem Mascarado
+- Masked Man
+- Steve McConnell
+- Transparency
+- Culture
+subtitle: Experiences and learnings from technology events
 ---
 
 ## Why Don't We Talk More About Transparency?

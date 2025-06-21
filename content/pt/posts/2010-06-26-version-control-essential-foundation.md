@@ -1,19 +1,23 @@
 ---
-title: "Controle de Versão: Não Programe Sem Isso"
-date: 2010-06-26T09:00:00-03:00
+title: 'Controle de Versão: Não Programe Sem Isso'
+date: 2010-06-26 09:00:00-03:00
 tags:
-  [
-    "engenharia de software",
-    "controle de versão",
-    "git",
-    "svn",
-    "colaboração",
-    "desenvolvimento",
-  ]
-categories: ["Technology", "Leadership"]
-series: "Aulas de Engenharia de Software"
-slug: "controle-versao-fundacao-essencial"
-summary: "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional: controle de versão. Mais do que explicar comandos do Git, buscamos mostrar o impacto real na manutenção, colaboração e rastreabilidade de projetos. Controle de versão não é opcional. É engenharia básica."
+- engenharia de software
+- controle de versão
+- git
+- svn
+- colaboração
+- desenvolvimento
+categories:
+- Technology
+- Leadership
+series: Aulas de Engenharia de Software
+slug: controle-versao-fundacao-essencial
+summary: 'Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional:
+  controle de versão. Mais do que explicar comandos do Git, buscamos mostrar o impacto
+  real na manutenção, colaboração e rastreabilidade de projetos. Controle de versão
+  não é opcional. É engenharia básica.'
+subtitle: Conceitos e práticas de desenvolvimento de software
 ---
 
 **Aulas de Engenharia de Software - Parte 17 de 19**
