@@ -399,6 +399,34 @@ footer,
     max-width: 100%;
 }
 
+/* Article Header Meta (Date and Category before title) */
+.article-header-meta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+.article-header-date {
+    color: #6c757d;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+.article-header-category {
+    background: #f3f4f6;
+    color: #6b7280;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Inter', sans-serif;
+}
+
 .article-meta {
     display: flex;
     justify-content: center;
@@ -895,6 +923,14 @@ footer,
 
     .article-subtitle {
         font-size: 1.4rem;
+        padding: 0 1rem;
+    }
+
+    .article-header-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-bottom: 1.5rem;
+        font-size: 1rem;
         padding: 0 1rem;
     }
 

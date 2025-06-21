@@ -10,6 +10,19 @@
 
       <!-- Article Header -->
       <header class="article-header">
+        <!-- Article Meta (Date and Category) -->
+        <div class="article-header-meta">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="article-header-date">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          {{ if .Params.categories }}
+            <span class="article-header-category">
+              {{ index .Params.categories 0 }}
+            </span>
+          {{ end }}
+        </div>
+
+        <!-- Title and Subtitle -->
         <h1 class="article-title">{{ .Title }}</h1>
         {{ if .Params.subtitle }}
           <h2 class="article-subtitle">{{ .Params.subtitle }}</h2>
