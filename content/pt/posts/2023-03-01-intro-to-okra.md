@@ -2,6 +2,7 @@
 title: "OKRs Reimaginados: Como o OKRA Transformou Estratégia em Compromisso Real"
 categories:
   - Development
+  - Agile
 date: 2023-03-01
 description:
   O primeiro post da nossa série OKRA, explorando como evoluímos dos OKRs

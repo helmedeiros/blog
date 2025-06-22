@@ -2,6 +2,7 @@
 title: "OKRA em Ação: Cultivando Cultura de Produto Além do Checklist de OKRs"
 categories:
   - Leadership
+  - Agile
 date: 2023-06-23
 description:
   O quinto post da série OKRA, explorando como OKRA e práticas de gestão

@@ -2,6 +2,7 @@
 title: "OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action"
 categories:
   - Leadership
+  - Agile
 date: 2023-04-18
 description:
   The fourth post in the OKRA series, showing how to turn OKR hypotheses

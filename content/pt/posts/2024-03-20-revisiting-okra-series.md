@@ -2,6 +2,7 @@
 title: "Raízes e Brotos do OKRA: O Que Aprendemos Sobre Cultivar OKRs Melhores"
 categories:
   - Leadership
+  - Agile
 date: 2024-03-20
 description:
   Uma reflexão sobre a jornada da série OKRA, destacando insights principais,

@@ -2,6 +2,7 @@
 title: "OKRs Reimagined: How OKRA Turned Strategy into Real Commitment"
 categories:
   - Development
+  - Agile
 date: 2023-03-01
 description:
   The first post in our OKRA series, exploring how we moved from traditional

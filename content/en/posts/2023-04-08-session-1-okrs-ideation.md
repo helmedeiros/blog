@@ -2,6 +2,7 @@
 title: "OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil"
 categories:
   - Leadership
+  - Agile
 date: 2023-04-08
 description:
   The third post in the OKRA series, guiding teams through the process
