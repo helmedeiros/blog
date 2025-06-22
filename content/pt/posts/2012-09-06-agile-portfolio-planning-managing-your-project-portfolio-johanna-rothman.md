@@ -10,9 +10,9 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Agile
-  - Architecture
   - Events
+  - Leadership
+  - Agile
 tags:
   - "#AgileBR"
   - AGILE

@@ -12,6 +12,7 @@ seo_noindex:
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - "#AgileBR"
   - AGILE
