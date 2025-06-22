@@ -1,7 +1,6 @@
 ---
 title: "OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil"
 categories:
-  - Architecture
   - Leadership
 date: 2023-04-08
 description:

@@ -5,11 +5,6 @@ layout: post
 date: 2023-11-23 10:00:00+00:00
 categories:
   - Leadership
-  - Management
-  - Professional Development
-  - Training
-  - Teams
-  - Performance
 tags:
   - leadership
   - management

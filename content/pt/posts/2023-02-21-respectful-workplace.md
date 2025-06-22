@@ -4,7 +4,6 @@ author: helio
 layout: post
 date: 2023-02-21 10:00:00+00:00
 categories:
-  - Events
   - Leadership
 tags:
   - leadership
