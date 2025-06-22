@@ -6,7 +6,7 @@ date: 2010-05-08 14:30:22+00:00
 description:
   Reflexões sobre a décima e última aula de Engenharia de Software, explorando
   a aplicação concreta de Extreme Programming em ambientes reais de equipe.
-categories: ["Architecture"]
+categories: ["Architecture", "Agile"]
 tags:
   - Engenharia de Software
   - Programação Extrema

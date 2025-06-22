@@ -9,7 +9,7 @@ description:
   em torno da entrega de valor.
 idptt_tweeted:
   - 1
-categories: ["Architecture"]
+categories: ["Architecture", "Agile"]
 tags:
   - Engenharia de Software
   - Scrum

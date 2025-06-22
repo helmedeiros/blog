@@ -8,6 +8,7 @@ description:
   processes.
 categories:
   - Development
+  - Agile
 tags:
   - Software Engineering
   - Software Testing

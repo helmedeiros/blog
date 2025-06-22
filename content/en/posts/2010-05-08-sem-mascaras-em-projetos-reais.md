@@ -7,6 +7,7 @@ layout: post
 idptt_tweeted: null
 categories:
   - Leadership
+  - Agile
 tags:
   - Comunicacao
   - Feedback

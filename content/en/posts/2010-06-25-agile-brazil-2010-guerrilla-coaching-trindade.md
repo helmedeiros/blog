@@ -7,6 +7,7 @@ slug: agile-brazil-2010-guerrilla-coaching-trindade
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile Brazil
   - Coaching

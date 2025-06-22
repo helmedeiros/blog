@@ -10,6 +10,7 @@ idptt_tweeted:
   - 1
 categories:
   - Architecture
+  - Agile
 
 tags:
   - Software Engineering

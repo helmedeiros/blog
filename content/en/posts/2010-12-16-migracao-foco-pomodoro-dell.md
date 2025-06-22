@@ -6,6 +6,7 @@ date: 2010-12-16 18:00:00+00:00
 slug: migracao-foco-pomodoro-dell
 categories:
   - Leadership
+  - Agile
 tags:
   - Dell
   - Stefanini

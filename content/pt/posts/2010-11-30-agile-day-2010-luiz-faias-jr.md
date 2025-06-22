@@ -15,7 +15,7 @@ seo_noindex:
   - "false"
 dsq_thread_id:
   - 4969844961
-categories: ["Events", "Leadership"]
+categories: ["Events", "Leadership", "Agile"]
 series: Agile Day 2010
 tags:
   - 2010

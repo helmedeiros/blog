@@ -9,6 +9,7 @@ slug: agile-brazil-2010-retrospectives-corbucci-bravo
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile Brazil
   - Retrospectives

@@ -9,6 +9,7 @@ slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories:
   - Events
   - Development
+  - Agile
 tags:
   - Agile Brazil
   - XP

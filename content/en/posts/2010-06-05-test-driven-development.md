@@ -8,6 +8,7 @@ description:
   how we think about building software.
 categories:
   - Development
+  - Agile
 tags:
   - Software Engineering
   - Test-Driven Development

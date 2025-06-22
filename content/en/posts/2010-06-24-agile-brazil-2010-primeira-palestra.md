@@ -7,6 +7,7 @@ slug: agile-brazil-2010-primeira-palestra
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile Brazil
   - XP

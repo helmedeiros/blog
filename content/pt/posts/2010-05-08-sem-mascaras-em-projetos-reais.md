@@ -6,7 +6,7 @@ author: helio
 layout: post
 idptt_tweeted:
   - 1
-categories: ["Leadership"]
+categories: ["Leadership", "Agile"]
 tags:
   - Comunicacao
   - Feedback
