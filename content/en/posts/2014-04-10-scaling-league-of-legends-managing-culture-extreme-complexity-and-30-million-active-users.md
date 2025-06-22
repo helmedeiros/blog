@@ -11,6 +11,7 @@ seo_noindex: null
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Jarrod Overson
   - qconsp

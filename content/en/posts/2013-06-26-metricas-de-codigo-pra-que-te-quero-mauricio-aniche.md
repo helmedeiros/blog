@@ -10,6 +10,7 @@ dsq_thread_id: null
 categories:
   - Events
   - Architecture
+  - Agile
 subtitle: Stop guessing and start measuring—learn how to use code metrics, cohesion analysis, and visualization tools like CodeCity to make data-driven decisions about your codebase
 ---
 

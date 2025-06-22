@@ -12,7 +12,7 @@ tags:
     "cultura",
     "agile brazil",
   ]
-categories: ["Leadership"]
+categories: ["Leadership", "Agile"]
 ---
 
 Muitas vezes nos perguntamos:
