@@ -7,9 +7,8 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Leadership
-  - Agile
   - Events
+  - Leadership
 tags:
   - "#AgileBR"
   - AGILE

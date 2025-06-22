@@ -7,8 +7,8 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Agile
-  - Architecture
+  - Events
+  - Leadership
 tags:
   - 2011
   - cultura

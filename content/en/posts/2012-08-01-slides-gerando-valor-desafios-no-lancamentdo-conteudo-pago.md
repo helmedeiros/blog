@@ -7,8 +7,8 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Architecture
   - Events
+  - Development
 tags:
   - lean manufacturing
   - Lean Startup

@@ -1,7 +1,7 @@
 ---
 title: Remote Work, Resilience, and the Power of Friendship
 categories:
-  - Events
+  - Leadership
 date: 2011-10-15
 series: Life in Porto Alegre
 tags:

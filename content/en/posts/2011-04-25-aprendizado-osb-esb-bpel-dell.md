@@ -1,8 +1,7 @@
 ---
 title: "Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell"
 categories:
-
-  - Events
+  - Leadership
 date: 2011-04-25
 series: Life in Porto Alegre
 tags:

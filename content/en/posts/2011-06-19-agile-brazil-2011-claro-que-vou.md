@@ -7,9 +7,7 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Agile
   - Events
-  - Methodologies
 tags:
   - agilebrazil2011
   - learning

@@ -11,7 +11,6 @@ seo_noindex:
   - "false"
 categories:
   - Events
-  - Agile
 tags:
   - 2012
   - AGILE

@@ -7,8 +7,7 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Events
-  - Agile
+  - Leadership
 tags:
   - 2012
   - desconf

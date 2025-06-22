@@ -8,7 +8,7 @@ seo_follow: null
 seo_noindex: null
 categories:
   - Events
-  - Agile
+  - Development
 tags:
   - agilebrazil2011
   - pomodoro
