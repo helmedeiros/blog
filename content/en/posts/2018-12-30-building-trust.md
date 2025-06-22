@@ -2,7 +2,6 @@
 title: Building Trust, One Game at a Time
 categories:
   - Leadership
-  - Architecture
 date: 2018-12-30 10:00:00-03:00
 author: Helio Medeiros
 tags:
