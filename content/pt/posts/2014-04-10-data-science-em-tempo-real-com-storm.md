@@ -12,6 +12,8 @@ seo_noindex:
 dsq_thread_id:
   - 4969845304
 categories:
+  - Events
+  - Architecture
 
 tags:
   - big data

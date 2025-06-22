@@ -10,9 +10,8 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-
-  - Leadership
   - Events
+  - Architecture
 tags:
   - big data
   - data scientist

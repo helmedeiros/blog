@@ -13,6 +13,7 @@ seo_noindex:
   - "false"
 categories:
   - Events
+  - Leadership
 tags:
   - Jarrod Overson
   - qconsp

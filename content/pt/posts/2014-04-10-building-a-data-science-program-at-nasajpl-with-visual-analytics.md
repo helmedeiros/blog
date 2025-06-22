@@ -10,8 +10,8 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-
-  - Agile
+  - Events
+  - Architecture
 tags:
   - data scientist
   - NASA

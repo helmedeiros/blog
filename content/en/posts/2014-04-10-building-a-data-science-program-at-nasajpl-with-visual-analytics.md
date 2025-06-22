@@ -8,7 +8,7 @@ seo_follow: null
 seo_noindex: null
 categories:
   - Events
-  - Leadership
+  - Architecture
 tags:
   - data scientist
   - NASA
