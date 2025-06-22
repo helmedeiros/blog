@@ -1,7 +1,6 @@
 ---
 title: "OKRA Session #4: OKR Quarter Draft Plan"
 categories:
-
   - Leadership
 date: 2024-05-10
 description:
