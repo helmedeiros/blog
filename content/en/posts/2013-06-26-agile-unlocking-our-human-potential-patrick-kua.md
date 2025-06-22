@@ -8,8 +8,8 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Agile
   - Events
+  - Leadership
 subtitle: Unlock team potential through autonomy, excellence, and purpose—discover how intrinsic motivation beats obligation, and why diverse teams with strong relationships deliver better results
 ---
 
