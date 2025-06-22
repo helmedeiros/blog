@@ -5,6 +5,7 @@ layout: post
 date: 2008-07-12 09:24:51+00:00
 categories:
   - Architecture
+  - Agile
 tags:
   - Atividade
   - BDUF

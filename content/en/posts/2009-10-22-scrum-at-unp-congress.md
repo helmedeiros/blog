@@ -14,7 +14,7 @@ tags:
     "Scientific Congress",
     "Methodology",
   ]
-categories: ["Events", "Leadership"]
+categories: ["Events", "Leadership", "Agile"]
 ---
 
 On October 22 and 23, Universidade Potiguar – RN will host its **11th Scientific Congress**, and this year I have the honor of returning — this time as a speaker.
