@@ -2,6 +2,7 @@
 title: Por que Continuamos Remote-First—Mesmo com o Escritório Reaberto
 categories:
   - Leadership
+  - Agile
 date: 2022-06-01
 description:
   A decisão consciente de manter práticas remote-first quando o escritório

@@ -6,6 +6,7 @@ date: 2022-10-27 10:00:00+00:00
 series: Kanban to Scrum Transition
 categories:
   - Leadership
+  - Agile
 tags:
   - kanban
   - scrum

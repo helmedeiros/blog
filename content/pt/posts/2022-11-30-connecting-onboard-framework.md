@@ -11,7 +11,7 @@ tags:
     assíncrono,
     framework,
   ]
-categories: ["Leadership"]
+categories: ["Leadership", "Agile"]
 series: ["Remote-First Work"]
 series_order: 5
 ---

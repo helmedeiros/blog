@@ -6,6 +6,7 @@ date: 2022-11-10 10:00:00+00:00
 series: Transição de Kanban para Scrum
 categories:
   - Leadership
+  - Agile
 tags:
   - transicao-scrum
   - coaching
