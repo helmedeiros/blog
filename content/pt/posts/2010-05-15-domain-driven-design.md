@@ -9,7 +9,7 @@ description:
   de software real.
 categories:
   - Architecture
-  - Technology
+
 tags:
   - Engenharia de Software
   - Domain-Driven Design

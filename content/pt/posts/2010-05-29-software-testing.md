@@ -7,7 +7,7 @@ description:
   testes de software como atividade estratégica de design integrada aos processos
   reais de desenvolvimento.
 categories:
-  - Technology
+
   - Events
 tags:
   - Engenharia de Software

@@ -12,7 +12,7 @@ tags:
     "agile",
     "ba brazil",
   ]
-categories: ["Technology", "Leadership"]
+categories: [ "Leadership"]
 ---
 
 ## Into the Unknown

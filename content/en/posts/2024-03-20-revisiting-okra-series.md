@@ -1,7 +1,7 @@
 ---
 title: "OKRA Roots & Shoots: What We've Learned About Growing Better OKRs"
 categories:
-  - Technology
+
   - Agile
 date: 2024-03-20
 description:

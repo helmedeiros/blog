@@ -7,7 +7,7 @@ seo_follow: null
 seo_noindex: null
 embed: null
 categories:
-  - Technology
+
 tags:
   - "#AgileBR"
   - Barry O'Reilly

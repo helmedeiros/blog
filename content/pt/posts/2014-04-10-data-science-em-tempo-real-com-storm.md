@@ -12,7 +12,7 @@ seo_noindex:
 dsq_thread_id:
   - 4969845304
 categories:
-  - Technology
+
 tags:
   - big data
   - data scientist

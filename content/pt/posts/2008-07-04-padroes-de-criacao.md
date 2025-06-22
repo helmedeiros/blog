@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-04 03:27:57+00:00
 categories:
   - Architecture
-  - Technology
+
 subtitle: "Domine a arte da criação flexível de objetos—descubra como padrões Factory, Builder, Singleton e Prototype resolvem o desafio fundamental de construir objetos desacoplados, testáveis e adaptáveis à mudança"
 ---
 

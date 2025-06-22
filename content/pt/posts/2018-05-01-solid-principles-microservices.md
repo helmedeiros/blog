@@ -12,7 +12,7 @@ tags:
     "engenharia de software",
     "sistemas distribuídos",
   ]
-categories: ["Technology", "Architecture"]
+categories: [ "Architecture"]
 ---
 
 No início da nossa carreira, aprendemos sobre os princípios SOLID como se fossem exclusivos da programação orientada a objetos. Mas esses princípios vão muito além do código limpo dentro de um único repositório. Eles ajudam a estruturar o pensamento em sistemas — especialmente quando esses sistemas escalam para microsserviços.

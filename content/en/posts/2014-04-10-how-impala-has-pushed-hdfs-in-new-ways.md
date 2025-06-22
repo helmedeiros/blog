@@ -7,7 +7,7 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Technology
+
   - Events
 tags:
   - aaron myers

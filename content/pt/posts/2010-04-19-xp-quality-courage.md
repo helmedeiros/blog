@@ -9,7 +9,7 @@ description:
   em coragem.
 categories:
   - Agile
-  - Technology
+
 tags:
   - Engenharia de Software
   - Programação Extrema

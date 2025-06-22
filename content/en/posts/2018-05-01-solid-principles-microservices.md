@@ -12,7 +12,7 @@ tags:
     "software engineering",
     "distributed systems",
   ]
-categories: ["Technology", "Architecture"]
+categories: [ "Architecture"]
 ---
 
 In the early days of our careers, most of us learn about SOLID principles as if they only apply to object-oriented programming and class design. But these principles go far beyond clean code inside a single repository. They help structure thinking in systems, especially when those systems scale into microservices.

@@ -13,7 +13,7 @@ dsq_thread_id:
   - 4969853650
 categories:
   - Agile
-  - Technology
+
   - Events
 tags:
   - big data

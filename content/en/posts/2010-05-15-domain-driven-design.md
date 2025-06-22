@@ -9,7 +9,7 @@ description:
   development.
 categories:
   - Architecture
-  - Technology
+
 tags:
   - Software Engineering
   - Domain-Driven Design

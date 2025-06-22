@@ -10,7 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Technology
+
   - Agile
 subtitle: Desbloqueie o potencial da equipe através de autonomia, excelência e propósito—descubra como motivação intrínseca supera obrigação, e por que times diversos com relacionamentos fortes entregam melhores resultados
 ---

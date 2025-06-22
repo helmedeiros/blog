@@ -10,7 +10,7 @@ idptt_tweeted:
   - 1
 categories:
   - Agile
-  - Technology
+
 tags:
   - Software Engineering
   - Agility

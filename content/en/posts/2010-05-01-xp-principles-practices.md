@@ -9,7 +9,7 @@ description:
   development.
 categories:
   - Agile
-  - Technology
+
 tags:
   - Software Engineering
   - Extreme Programming

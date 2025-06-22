@@ -9,7 +9,7 @@ seo_noindex: null
 dsq_thread_id: null
 categories:
   - Events
-  - Technology
+
 tags:
   - "#AgileBR"
   - alegomes

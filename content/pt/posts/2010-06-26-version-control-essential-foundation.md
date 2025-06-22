@@ -9,7 +9,7 @@ tags:
   - colaboração
   - desenvolvimento
 categories:
-  - Technology
+
   - Leadership
 series: Aulas de Engenharia de Software
 slug: controle-versao-fundacao-essencial

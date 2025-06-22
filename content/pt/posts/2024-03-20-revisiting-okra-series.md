@@ -1,7 +1,7 @@
 ---
 title: "Raízes e Brotos do OKRA: O Que Aprendemos Sobre Cultivar OKRs Melhores"
 categories:
-  - Technology
+
   - Leadership
 date: 2024-03-20
 description:

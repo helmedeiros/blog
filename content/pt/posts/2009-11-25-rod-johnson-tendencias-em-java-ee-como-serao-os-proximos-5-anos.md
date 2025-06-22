@@ -10,7 +10,7 @@ dsq_thread_id:
 series: TDC Rio 2009
 categories:
   - Events
-  - Technology
+
 tags:
   - 2009
   - cloud computing

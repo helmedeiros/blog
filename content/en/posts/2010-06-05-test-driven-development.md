@@ -7,7 +7,7 @@ description:
   Test-Driven Development as a design methodology that goes beyond testing to shape
   how we think about building software.
 categories:
-  - Technology
+
   - Agile
 tags:
   - Software Engineering

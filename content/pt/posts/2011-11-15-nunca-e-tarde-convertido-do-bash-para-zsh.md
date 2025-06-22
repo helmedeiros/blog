@@ -10,7 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Technology
+
   - Events
 tags:
   - bash

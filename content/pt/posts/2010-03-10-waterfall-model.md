@@ -10,7 +10,7 @@ idptt_tweeted:
 - 1
 categories:
 - Leadership
-- Technology
+
 tags:
 - Engenharia de Software
 - Modelo Cascata

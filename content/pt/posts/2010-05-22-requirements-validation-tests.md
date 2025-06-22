@@ -6,7 +6,7 @@ description: Reflexões sobre a décima segunda e última aula de Engenharia de 
   explorando engenharia de requisitos, práticas de validação e a conexão crítica entre
   requisitos claros e testes eficazes.
 categories:
-- Technology
+
 - Leadership
 tags:
 - Engenharia de Software

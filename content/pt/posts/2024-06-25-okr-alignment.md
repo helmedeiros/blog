@@ -4,7 +4,7 @@ title:
   com Nossos Times"
 categories:
   - Leadership
-  - Technology
+
 date: 2024-06-25
 description:
   Um guia prático para engajar seu time na construção conjunta de OKRs

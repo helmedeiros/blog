@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-25 08:00:00+00:00
 categories:
   - Architecture
-  - Technology
+
 subtitle: Bridge the gap between models and working code—discover how RUP's model-to-code transformation process turns abstract UML diagrams into concrete, maintainable software architecture
 ---
 

@@ -8,7 +8,7 @@ seo_follow: null
 seo_noindex: null
 categories:
   - Agile
-  - Technology
+
 tags:
   - AGILE
   - guma-rs

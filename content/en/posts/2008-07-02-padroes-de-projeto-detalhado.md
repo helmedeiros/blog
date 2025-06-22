@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-02 03:27:57+00:00
 categories:
   - Architecture
-  - Technology
+
 series: Design Patterns and Analysis
 subtitle: Unlock the secret language of expert programmers—master the Gang of Four design patterns that transform chaotic code into elegant, maintainable systems through proven object-oriented solutions
 ---
@@ -42,7 +42,7 @@ Most documented patterns include:
 
 ## The Catalog of Design Patterns
 
-The classic "Gang of Four" book classifies 23 design patterns into three categories: ["Architecture", "Technology"]
+The classic "Gang of Four" book classifies 23 design patterns into three categories: ["Architecture"]
 
 ## Creational Patterns
 

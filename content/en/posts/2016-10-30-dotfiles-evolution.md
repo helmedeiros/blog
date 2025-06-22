@@ -4,7 +4,7 @@ author: helio
 layout: post
 date: 2016-10-30 10:00:00+00:00
 categories:
-  - Technology
+
   - Agile
 tags:
   - dotfiles

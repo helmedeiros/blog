@@ -10,7 +10,7 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-  - Technology
+
   - Leadership
   - Events
 tags:

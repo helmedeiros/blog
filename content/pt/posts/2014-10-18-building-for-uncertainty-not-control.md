@@ -4,7 +4,7 @@ author: "helio"
 date: 2015-10-18T09:22:12+02:00
 subtitle: Domine o crescimento através da incerteza construindo estruturas em rede e experimentação científica—movendo de planejamento baseado em controle para sistemas adaptativos que prosperam em ambientes imprevisíveis
 tags: ["growth", "produto", "organização", "experimentação", "rede"]
-categories: ["Technology", "Leadership"]
+categories: [ "Leadership"]
 ---
 
 # Construindo para a Incerteza, Não para o Controle
