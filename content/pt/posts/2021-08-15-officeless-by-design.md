@@ -2,6 +2,7 @@
 title: Sem Escritório por Design
 categories:
   - Leadership
+  - Agile
 date: 2021-08-15
 description:
   Como nosso time transformou o trabalho remoto emergencial em uma cultura

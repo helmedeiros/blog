@@ -6,6 +6,7 @@ date: 2022-11-17 10:00:00+00:00
 series: Kanban to Scrum Transition
 categories:
   - Leadership
+  - Agile
 tags:
   - scrum-transition
   - daily-sync

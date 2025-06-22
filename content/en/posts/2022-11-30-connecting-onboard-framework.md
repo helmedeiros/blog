@@ -3,7 +3,7 @@ title: "Making Remote-First Work Great — Part 5: Connecting Onboard Framework"
 subtitle: Create personalized onboarding experiences using collaborative workshops that uncover individual needs, build psychological safety, and foster belonging from day one
 date: 2022-11-30
 tags: [remote-first, onboarding, team-culture, facilitation, async, framework]
-categories: [ "Leadership"]
+categories: ["Leadership", "Agile"]
 series: ["Remote-First Work"]
 series_order: 5
 ---

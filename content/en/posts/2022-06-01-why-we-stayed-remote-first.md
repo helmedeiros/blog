@@ -2,6 +2,7 @@
 title: Why We Stayed Remote-First—Even When the Office Reopened
 categories:
   - Leadership
+  - Agile
 date: 2022-06-01
 description:
   The conscious decision to maintain remote-first practices when the office

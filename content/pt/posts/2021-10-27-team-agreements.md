@@ -5,6 +5,7 @@ layout: post
 date: 2021-10-27 10:00:00+00:00
 categories:
   - Leadership
+  - Agile
 tags:
   - acordos-de-time
   - autonomia

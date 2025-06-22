@@ -2,6 +2,7 @@
 title: Welcoming Someone New—Without Changing What Worked
 categories:
   - Leadership
+  - Agile
 date: 2022-12-10 10:00:00-03:00
 description:
   How we structured onboarding for new teammates while maintaining our
