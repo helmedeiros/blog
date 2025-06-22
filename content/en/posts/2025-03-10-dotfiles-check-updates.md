@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2025-03-10 12:00:00+00:00
 categories:
-
-  - Architecture
+  - Development
 tags:
   - dotfiles
   - maintenance

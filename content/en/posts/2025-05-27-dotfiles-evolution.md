@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2025-05-27 10:00:00+00:00
 categories:
-
-  - Agile
+  - Development
 tags:
   - dotfiles
   - portability
