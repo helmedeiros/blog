@@ -12,7 +12,7 @@ tags:
     "ágil",
     "ba brazil",
   ]
-categories: [ "Leadership"]
+categories: ["Leadership", "Agile"]
 ---
 
 ## Rumo ao Desconhecido

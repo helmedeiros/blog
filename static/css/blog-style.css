@@ -817,7 +817,10 @@
   animation: fadeIn 0.3s ease-out;
 }
 
-.filter-tab:focus,
+.filter-tab:focus {
+  outline: none;
+}
+
 .load-more-btn:focus,
 .back-to-first-btn:focus {
   outline: 2px solid #000;

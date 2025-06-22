@@ -10,6 +10,7 @@ dsq_thread_id: null
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - "#AgileBR"
   - agile brazil

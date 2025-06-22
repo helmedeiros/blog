@@ -12,6 +12,7 @@ embed:
 categories:
   - Events
   - Leadership
+  - Agile
 
 tags:
   - "#AgileBR"
