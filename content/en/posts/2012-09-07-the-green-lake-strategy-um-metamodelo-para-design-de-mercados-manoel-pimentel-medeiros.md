@@ -7,8 +7,8 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
+  - Events
   - Leadership
-  - Agile
 tags:
   - "#AgileBR"
   - agile brazil

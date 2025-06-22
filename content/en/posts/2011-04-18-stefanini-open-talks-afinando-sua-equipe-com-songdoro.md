@@ -9,7 +9,7 @@ seo_noindex: null
 idptt_tweeted: null
 categories:
   - Events
-  - Agile
+  - Development
 tags:
   - Open Talks
   - Pomodoro

@@ -1,8 +1,7 @@
 ---
 title: "Gratitude and Transition: From Dell to RBS"
 categories:
-
-  - Events
+  - Leadership
 date: 2012-04-01
 series: Life in Porto Alegre
 tags:

@@ -10,8 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-
-  - Events
+  - Development
 tags:
   - bash
   - oh-my-zsh
