@@ -1,7 +1,6 @@
 ---
 title: Sem Escritório por Design
 categories:
-  - Events
   - Leadership
 date: 2021-08-15
 description:

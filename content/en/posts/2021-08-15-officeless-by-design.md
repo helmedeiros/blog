@@ -1,7 +1,7 @@
 ---
 title: Officeless by Design
 categories:
-  - Architecture
+  - Leadership
 date: 2021-08-15
 description:
   How our team transformed emergency remote work into intentional officeless

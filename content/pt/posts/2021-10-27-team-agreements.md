@@ -5,10 +5,6 @@ layout: post
 date: 2021-10-27 10:00:00+00:00
 categories:
   - Leadership
-  - Management
-  - Teams
-  - Agile
-  - Culture
 tags:
   - acordos-de-time
   - autonomia
