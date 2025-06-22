@@ -7,8 +7,7 @@ description:
   exploring unit testing with JUnit as a structured approach to validation, feedback
   loops, and design improvement.
 categories:
-
-  - Agile
+  - Development
 tags:
   - Software Engineering
   - Unit Testing

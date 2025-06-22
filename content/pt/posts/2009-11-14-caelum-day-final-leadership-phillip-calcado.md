@@ -21,7 +21,7 @@ tags:
     "Series",
     "Rio de Janeiro",
   ]
-categories: ["Events", "Leadership", "Agile", "Software Engineering"]
+categories: ["Events", "Leadership"]
 series: "Caelum Day 2009"
 ---
 

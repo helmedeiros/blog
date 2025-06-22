@@ -14,7 +14,7 @@ tags:
     "Congresso Científico",
     "Metodologias",
   ]
-categories: ["Events", "Agile"]
+categories: ["Events", "Leadership"]
 ---
 
 Nos dias 22 e 23 de outubro, a Universidade Potiguar – RN realiza seu **11º Congresso Científico**, e este ano tenho a honra de voltar — agora como palestrante.

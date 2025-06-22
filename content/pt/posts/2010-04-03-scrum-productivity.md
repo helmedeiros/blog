@@ -8,8 +8,7 @@ description:
   como framework para equipes produtivas, ritmo sustentável e entrega de valor.
 idptt_tweeted:
   - 1
-categories:
-  - Agile
+categories: ["Architecture"]
 
 tags:
   - Engenharia de Software

@@ -7,8 +7,7 @@ description:
   software testing as a strategic design activity embedded throughout real development
   processes.
 categories:
-
-  - Leadership
+  - Development
 tags:
   - Software Engineering
   - Software Testing

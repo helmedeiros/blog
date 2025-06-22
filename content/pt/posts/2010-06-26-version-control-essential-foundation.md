@@ -8,9 +8,7 @@ tags:
   - svn
   - colaboração
   - desenvolvimento
-categories:
-
-  - Leadership
+categories: ["Development"]
 series: Aulas de Engenharia de Software
 slug: controle-versao-fundacao-essencial
 summary:

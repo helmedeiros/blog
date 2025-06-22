@@ -7,8 +7,8 @@ idptt_tweeted: null
 dsq_thread_id: null
 series: TDC Rio 2009
 categories:
-
   - Events
+  - Architecture
 tags:
   - 2009
   - cloud computing

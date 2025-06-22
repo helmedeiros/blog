@@ -7,7 +7,7 @@ description:
   Reflections on the tenth and final Software Engineering lecture, exploring
   the concrete application of Extreme Programming in real-world team environments.
 categories:
-  - Agile
+  - Architecture
 
 tags:
   - Software Engineering

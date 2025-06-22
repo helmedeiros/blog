@@ -10,8 +10,7 @@ description:
 idptt_tweeted:
   - 1
 categories:
-  - Agile
-  - Events
+  - Architecture
 tags:
   - Software Engineering
   - Scrum

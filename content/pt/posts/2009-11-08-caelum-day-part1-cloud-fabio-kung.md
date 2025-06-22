@@ -17,7 +17,7 @@ tags:
     "Série",
     "Rio de Janeiro",
   ]
-categories: ["Events"]
+categories: ["Events", "Architecture"]
 series: "Caelum Day 2009"
 ---
 

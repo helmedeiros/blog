@@ -21,7 +21,7 @@ tags:
     "Series",
     "Rio de Janeiro",
   ]
-categories: ["Events", "Frontend", "Rich Internet Applications"]
+categories: ["Events", "Development"]
 series: "Caelum Day 2009"
 ---
 

@@ -7,8 +7,7 @@ description:
   Reflexões sobre a nona e última aula de Engenharia de Software, explorando
   as práticas concretas da Programação Extrema e sua relação com desenvolvimento sustentável
   de software.
-categories:
-  - Agile
+categories: ["Architecture"]
 
 tags:
   - Engenharia de Software

@@ -6,9 +6,7 @@ author: helio
 layout: post
 idptt_tweeted:
   - 1
-categories:
-  - Events
-  - Leadership
+categories: ["Leadership"]
 tags:
   - Comunicacao
   - Feedback

@@ -9,9 +9,8 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-  - Agile
-  - Leadership
   - Events
+  - Leadership
 series: Agile Day 2010
 tags:
   - 2010

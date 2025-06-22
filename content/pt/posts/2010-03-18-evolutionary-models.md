@@ -8,9 +8,7 @@ description:
   evolucionários, CBSE, reúso de software e desenvolvimento iterativo.
 idptt_tweeted:
   - 1
-categories:
-
-  - Agile
+categories: ["Architecture"]
 tags:
   - Engenharia de Software
   - Modelos Evolucionários

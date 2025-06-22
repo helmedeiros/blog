@@ -10,8 +10,7 @@ tags:
   - Development
   - Quality
 categories:
-  - Agile
-  - Events
+  - Leadership
 subtitle: Shift from feature delivery to value creation—discover how focusing on user outcomes rather than polished functionality leads to more meaningful software that truly serves people's needs
 ---
 

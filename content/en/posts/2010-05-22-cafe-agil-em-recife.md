@@ -5,9 +5,8 @@ layout: post
 date: 2010-05-22 21:39:56+00:00
 slug: cafe-agil-em-recife
 categories:
-  - Agile
   - Events
-  - Methodologies
+  - Leadership
 tags:
   - Agile cafe
   - Thoughtworks

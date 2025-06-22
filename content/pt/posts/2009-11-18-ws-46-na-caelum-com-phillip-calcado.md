@@ -5,8 +5,7 @@ layout: post
 date: 2009-11-18 23:37:20+00:00
 dsq_thread_id:
   - 4969844886
-categories:
-  - Architecture
+categories: ["Architecture"]
 
 tags:
   - Caelum

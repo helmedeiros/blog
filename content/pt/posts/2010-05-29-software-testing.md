@@ -6,9 +6,7 @@ description:
   Reflexões sobre a décima terceira aula de Engenharia de Software, explorando
   testes de software como atividade estratégica de design integrada aos processos
   reais de desenvolvimento.
-categories:
-
-  - Events
+categories: ["Development"]
 tags:
   - Engenharia de Software
   - Testes de Software

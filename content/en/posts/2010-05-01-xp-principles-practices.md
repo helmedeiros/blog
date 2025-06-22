@@ -8,7 +8,7 @@ description:
   Extreme Programming's concrete practices and their relationship to sustainable software
   development.
 categories:
-  - Agile
+  - Architecture
 
 tags:
   - Software Engineering

@@ -6,8 +6,7 @@ date: 2009-11-20 14:22:51+00:00
 idptt_tweeted:
   - 1
 series: TDC Rio 2009
-categories:
-  - Events
+categories: ["Events", "Architecture"]
 
 tags:
   - EJB 3.1

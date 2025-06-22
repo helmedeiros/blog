@@ -1,7 +1,6 @@
 ---
 title: "A Sala de Aula Como Aprendizado: Reflexões de Um Semestre"
-categories:
-  - Events
+categories: ["Leadership"]
 
 date: 2010-07-03 00:00:00-03:00
 slug: sala-aula-aprendizado-reflexoes

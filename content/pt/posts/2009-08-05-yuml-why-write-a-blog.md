@@ -4,7 +4,7 @@ date: 2009-08-05T12:03:24+02:00
 draft: false
 subtitle: Transforme texto simples em diagramas UML poderosos—descubra como yUML revoluciona blogs técnicos tornando design complexo de software visual, compartilhável e facilmente incorporado
 tags: ["UML", "blog", "documentação", "design-de-software", "yUML"]
-categories: ["Architecture"]
+categories: ["Leadership"]
 ---
 
 Venho tentando há algum tempo criar o hábito de, assim como leio ótimos _posts_, também escrevê-los. Em muitos desses textos vejo a ênfase na importância da disseminação do conhecimento — e é sobre isso que falo neste _post_ de retomada.

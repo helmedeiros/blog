@@ -9,7 +9,7 @@ description:
 idptt_tweeted:
   - 1
 categories:
-  - Leadership
+  - Architecture
 tags:
   - Software Engineering
   - Process

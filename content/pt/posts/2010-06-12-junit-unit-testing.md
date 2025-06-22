@@ -6,9 +6,7 @@ description:
   Reflexões sobre a décima quinta e última aula de Engenharia de Software,
   explorando testes unitários com JUnit como uma abordagem estruturada para validação,
   ciclos de feedback e melhoria de design.
-categories:
-
-  - Agile
+categories: ["Development"]
 tags:
   - Engenharia de Software
   - Testes Unitários

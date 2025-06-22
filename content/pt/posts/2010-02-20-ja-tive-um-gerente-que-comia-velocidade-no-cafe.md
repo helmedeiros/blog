@@ -7,7 +7,7 @@ subtitle: Escape da armadilha da velocidade através de estimativa significativa
 description: "Reflexões sobre velocidade de equipe, estimativas colaborativas e a importância de focar na entrega de valor real ao invés de apenas métricas."
 idptt_tweeted:
   - 1
-categories: ["Leadership", "Agile"]
+categories: ["Leadership"]
 tags:
   - AGILE
   - Scrum
