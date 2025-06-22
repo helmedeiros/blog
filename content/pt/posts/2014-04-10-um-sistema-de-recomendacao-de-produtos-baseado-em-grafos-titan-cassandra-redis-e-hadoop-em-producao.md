@@ -16,6 +16,7 @@ dsq_thread_id:
 categories:
   - Technology
   - Leadership
+  - Events
 tags:
   - big data
   - data scientist

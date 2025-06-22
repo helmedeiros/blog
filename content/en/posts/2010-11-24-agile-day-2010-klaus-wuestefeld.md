@@ -10,6 +10,7 @@ seo_noindex: null
 dsq_thread_id: null
 categories:
   - Agile
+  - Events
 series: Agile Day 2010
 tags:
   - 2010
