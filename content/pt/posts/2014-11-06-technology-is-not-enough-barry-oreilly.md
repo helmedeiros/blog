@@ -10,6 +10,8 @@ seo_noindex:
 embed:
   - This is the default text
 categories:
+  - Events
+  - Leadership
 
 tags:
   - "#AgileBR"

@@ -14,9 +14,8 @@ seo_noindex:
 dsq_thread_id:
   - 4969855984
 categories:
-
-  - Leadership
   - Events
+  - Architecture
 tags:
   - big data
   - data scientist

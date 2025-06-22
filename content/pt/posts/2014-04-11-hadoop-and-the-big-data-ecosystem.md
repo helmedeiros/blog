@@ -12,9 +12,8 @@ seo_noindex:
 dsq_thread_id:
   - 4969853650
 categories:
-  - Agile
-
   - Events
+  - Architecture
 tags:
   - big data
   - hadoop
