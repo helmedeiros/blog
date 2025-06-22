@@ -10,7 +10,8 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-
+  - Events
+  - Leadership
   - Agile
 tags:
   - "#AgileBR"

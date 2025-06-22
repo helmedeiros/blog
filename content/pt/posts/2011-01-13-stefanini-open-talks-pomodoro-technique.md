@@ -6,6 +6,7 @@ date: 2011-01-13 01:07:59+00:00
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Hélio
   - Open Talks
