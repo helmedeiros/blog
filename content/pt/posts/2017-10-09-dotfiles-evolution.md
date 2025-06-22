@@ -4,6 +4,7 @@ author: helio
 layout: post
 date: 2017-10-09 10:00:00+00:00
 categories:
+  - Development
 
 tags:
   - dotfiles
