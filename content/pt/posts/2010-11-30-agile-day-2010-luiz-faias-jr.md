@@ -18,6 +18,7 @@ dsq_thread_id:
 categories:
   - Agile
   - Leadership
+  - Events
 series: Agile Day 2010
 tags:
   - 2010

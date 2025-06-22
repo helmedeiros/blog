@@ -5,6 +5,7 @@ layout: post
 date: 2010-11-25 01:41:25+00:00
 categories:
   - Agile
+  - Events
 series: Agile Day 2010
 tags:
   - 2010

@@ -12,7 +12,7 @@ tags:
     "tdc",
     "frameworkite",
   ]
-categories: ["Technology", "Architecture"]
+categories: ["Technology", "Architecture", "Events"]
 ---
 
 ## Sobre o Que Era Essa Palestra

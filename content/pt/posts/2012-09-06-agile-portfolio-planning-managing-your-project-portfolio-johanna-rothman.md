@@ -12,6 +12,7 @@ seo_noindex:
 categories:
   - Agile
   - Architecture
+  - Events
 tags:
   - "#AgileBR"
   - AGILE

@@ -1,6 +1,6 @@
 ---
 title: "Making Remote-First Work Great — Part 1: Crawling, Walking, Learning"
-categories: ["Events", "Leadership"]
+categories: ["Leadership"]
 date: 2021-06-10
 subtitle: Journey from awkward kitchen-table calls to mastering distributed collaboration—learning async communication, documentation as empathy, and remote-first mindset through real experience
 description: "My personal journey into remote work: from awkward first steps at Dell to embracing a remote-first mindset at ThoughtWorks."

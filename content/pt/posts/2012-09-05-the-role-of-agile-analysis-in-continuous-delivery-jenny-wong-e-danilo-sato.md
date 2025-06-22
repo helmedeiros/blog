@@ -11,6 +11,7 @@ seo_noindex:
   - "false"
 categories:
   - Agile
+  - Events
 tags:
   - "#AgileBR"
   - 2012

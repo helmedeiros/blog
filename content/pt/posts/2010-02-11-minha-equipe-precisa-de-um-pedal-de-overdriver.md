@@ -4,7 +4,7 @@ date: 2010-02-12T01:55:03+02:00
 draft: false
 subtitle: Torne-se um multiplicador de equipe antes de ter o título—descubra como pequenos atos de liderança, feedback reflexivo e propriedade colaborativa criam o 'overdrive' que impulsiona equipes à excelência
 tags: ["AGILE", "XP", "Equipes", "Liderança", "Colaboração", "Multiplicadores"]
-categories: ["Leadership", "Events"]
+categories: ["Leadership"]
 ---
 
 Tenho refletido bastante sobre como podemos melhorar a forma como trabalhamos juntos nas equipes, não apenas como líderes, mas também como pessoas que desejam contribuir com eficiência, empatia e propósito. Acredito que todos nós, independentemente do cargo que ocupamos, temos o poder de **influenciar positivamente a dinâmica do time**, criando um ambiente onde crescer, compartilhar e ser produtivo andam juntos.

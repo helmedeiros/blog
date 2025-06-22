@@ -12,6 +12,7 @@ seo_noindex:
 categories:
   - Technology
   - Architecture
+  - Events
 tags:
   - aaron myers
   - cloudera

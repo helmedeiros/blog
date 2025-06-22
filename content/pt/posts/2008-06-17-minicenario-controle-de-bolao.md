@@ -1,7 +1,6 @@
 ---
 author: helio
 categories:
-  - Events
   - Architecture
 date: 2008-06-17 02:14:52+00:00
 layout: post

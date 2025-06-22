@@ -10,6 +10,7 @@ dsq_thread_id: null
 categories:
   - Technology
   - Agile
+  - Events
 tags:
   - big data
   - hadoop
