@@ -2,6 +2,7 @@
 title: "OKRA Session #3: Milestones Value, Effort & Dependencies"
 categories:
   - Leadership
+  - Agile
 
 date: 2024-04-08
 description:

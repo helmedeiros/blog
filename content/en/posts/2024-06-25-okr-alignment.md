@@ -4,6 +4,7 @@ title:
   Teams"
 categories:
   - Leadership
+  - Agile
 date: 2024-06-25
 description:
   A practical guide to engaging your team in building quarterly OKRs together

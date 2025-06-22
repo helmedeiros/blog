@@ -6,6 +6,7 @@ layout: post
 date: 2023-07-05T10:00:00+00:00
 categories:
   - Leadership
+  - Agile
 tags:
   - leadership
   - management

@@ -2,6 +2,7 @@
 title: "OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs"
 categories:
   - Leadership
+  - Agile
 date: 2024-05-10
 description:
   "Sessão #4 da série OKRA: como construir colaborativamente um rascunho

@@ -1,6 +1,6 @@
 ---
 title: "Cultivando uma Cultura de Aprendizado em Times de Produto"
-categories: ["Leadership"]
+categories: ["Leadership", "Agile"]
 date: 2024-01-10
 subtitle: Transforme seu time de produto numa máquina de aprendizado que supera a concorrência através de segurança psicológica, práticas concretas e liderança que prioriza o aprender
 description: "Como formar times que aprendem mais rápido que a concorrência através de práticas concretas, liderança que reforça o aprendizado e ambientes seguros para experimentação."

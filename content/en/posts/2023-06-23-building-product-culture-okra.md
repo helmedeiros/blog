@@ -2,6 +2,7 @@
 title: "OKRA in Action: Growing Product Culture Beyond the OKR Checklist"
 categories:
   - Leadership
+  - Agile
 date: 2023-06-23
 description:
   The fifth post in the OKRA series, exploring how OKRA and product management
