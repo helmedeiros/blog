@@ -7,7 +7,7 @@ description:
   Reflections on the eighth Software Engineering lecture, exploring Extreme
   Programming's core values, emphasis on quality, and courage-driven practices.
 categories:
-  - Agile
+  - Architecture
 
 tags:
   - Software Engineering

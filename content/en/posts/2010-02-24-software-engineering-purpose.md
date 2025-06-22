@@ -4,7 +4,7 @@ author: helio
 date: 2010-02-24T02:10:53+00:00
 subtitle: Discover software engineering's deeper purpose—learn how systematic approaches, quality focus, and collaborative practices transform code writing into sustainable solution building that serves real human needs
 description: "Reflections on my first Software Engineering lecture at UnP, addressing the importance of methods and practices in sustainable development."
-categories: [ "Agile"]
+categories: ["Architecture"]
 tags:
   - UnP
   - Teaching

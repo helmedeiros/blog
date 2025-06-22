@@ -19,7 +19,7 @@ tags:
     "Series",
     "Rio de Janeiro",
   ]
-categories: ["Events", "Cloud Computing", "Infrastructure"]
+categories: ["Events", "Architecture"]
 series: "Caelum Day 2009"
 ---
 

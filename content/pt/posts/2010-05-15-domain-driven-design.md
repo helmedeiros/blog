@@ -7,8 +7,7 @@ description:
   Reflexões sobre a décima primeira e última aula de Engenharia de Software,
   explorando os princípios de Domain-Driven Design e sua aplicação prática no desenvolvimento
   de software real.
-categories:
-  - Architecture
+categories: ["Architecture"]
 
 tags:
   - Engenharia de Software

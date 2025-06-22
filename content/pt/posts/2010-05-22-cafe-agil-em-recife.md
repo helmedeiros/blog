@@ -12,9 +12,7 @@ seo_follow:
   - "false"
 seo_noindex:
   - "false"
-categories:
-  - Events
-  - Agile
+categories: ["Events", "Leadership"]
 tags:
   - Cafe agil
   - Thoughtworks

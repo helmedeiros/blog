@@ -6,8 +6,7 @@ author: helio
 layout: post
 date: 2010-11-15 18:00:00+00:00
 slug: primeira-semana-dell-porto-alegre
-categories:
-  - Events
+categories: ["Leadership"]
 
 tags:
   - Dell

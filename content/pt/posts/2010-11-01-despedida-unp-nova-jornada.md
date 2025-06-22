@@ -1,7 +1,6 @@
 ---
 title: "Encerrando um Ciclo: Gratidão e Novos Caminhos"
-categories:
-  - Events
+categories: ["Leadership"]
 
 date: 2010-11-01 00:00:00-03:00
 slug: despedida-unp-nova-jornada

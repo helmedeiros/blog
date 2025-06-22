@@ -7,8 +7,7 @@ description:
   Reflexões sobre a oitava aula de Engenharia de Software, explorando os
   valores centrais da Programação Extrema, ênfase em qualidade e práticas baseadas
   em coragem.
-categories:
-  - Agile
+categories: ["Architecture"]
 
 tags:
   - Engenharia de Software

@@ -9,8 +9,7 @@ description:
 idptt_tweeted:
   - 1
 categories:
-
-  - Agile
+  - Architecture
 tags:
   - Software Engineering
   - Evolutionary Models

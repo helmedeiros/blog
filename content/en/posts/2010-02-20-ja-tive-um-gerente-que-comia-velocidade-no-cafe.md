@@ -8,8 +8,7 @@ description: "Reflections on team velocity, collaborative estimation, and the im
 idptt_tweeted:
   - 1
 categories:
-  - Agile
-  - Management
+  - Leadership
 tags:
   - AGILE
   - Scrum

@@ -8,8 +8,7 @@ description: Reflexões sobre a terceira aula de Engenharia de Software, explora
   crítico.
 idptt_tweeted:
 - 1
-categories:
-- Leadership
+categories: ["Architecture"]
 
 tags:
 - Engenharia de Software

@@ -6,7 +6,6 @@ author: helio
 layout: post
 idptt_tweeted: null
 categories:
-  - Events
   - Leadership
 tags:
   - Comunicacao

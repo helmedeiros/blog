@@ -1,7 +1,7 @@
 ---
 title: "Closing a Chapter: Gratitude and New Paths"
 categories:
-  - Events
+  - Leadership
 date: 2010-11-01 00:00:00-03:00
 slug: farewell-unp-new-journey
 category: Software Engineering

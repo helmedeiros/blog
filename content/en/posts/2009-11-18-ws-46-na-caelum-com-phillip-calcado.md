@@ -6,7 +6,6 @@ date: 2009-11-18 23:37:20+00:00
 dsq_thread_id: null
 categories:
   - Architecture
-  - Events
 tags:
   - Caelum
   - DDD

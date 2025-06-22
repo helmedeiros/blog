@@ -9,8 +9,7 @@ tags:
   - junit
   - development
 categories:
-
-  - Agile
+  - Development
 series: Software Engineering Lectures
 slug: advanced-tdd-thinking-tests
 summary:

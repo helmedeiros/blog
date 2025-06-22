@@ -8,8 +8,7 @@ description:
   processo, modelos e propósito no desenvolvimento de software.
 idptt_tweeted:
   - 1
-categories:
-  - Leadership
+categories: ["Architecture"]
 tags:
   - Engenharia de Software
   - Processo
