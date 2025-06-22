@@ -77,14 +77,20 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 {{- end }}
 
-<script src="{{ "js/main.js" | absURL }}"></script>
+<script defer src="{{ "js/main.js" | absURL }}"></script>
 {{- if .Site.Params.staticman }}
-<script src="{{ "js/staticman.js" | absURL }}"></script>
+<script defer src="{{ "js/staticman.js" | absURL }}"></script>
 {{- end }}
 {{- if  .Site.Params.useHLJS }}
-<script src="{{ "js/highlight.min.js" | absURL }}"></script>
-<script> hljs.initHighlightingOnLoad(); </script>
-<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script>
+<script defer src="{{ "js/highlight.min.js" | absURL }}"></script>
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof hljs !== 'undefined') {
+    hljs.initHighlightingOnLoad();
+    $(document).ready(function() {$("pre.chroma").css("padding","0");});
+  }
+});
+</script>
 {{- end -}}
 
 {{- if .Site.Params.selfHosted -}}

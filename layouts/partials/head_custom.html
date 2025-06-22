@@ -6,3 +6,51 @@
 
 <!-- Web manifest for PWA support -->
 <link rel="manifest" href="https://blog.heliomedeiros.com/site.webmanifest">
+
+<!-- Font preloading for performance -->
+<link rel="preload" href="https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://fonts.gstatic.com/s/lora/v23/nwpVtKeoKwuW3qcGRfGLQ-k5A_1DXu3k4nwKPYGpPWs.woff2" as="font" type="font/woff2" crossorigin>
+
+<!-- Critical resource hints -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+
+<!-- Preload critical CSS -->
+<link rel="preload" href="{{ "css/main.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- Critical CSS for above-the-fold content -->
+<style>
+/* Critical CSS - Inline for faster first paint */
+body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue',sans-serif;margin:0;padding:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.navbar{background:#fff;border-bottom:1px solid #e7e7e7;position:fixed;top:0;width:100%;z-index:1000;min-height:50px}
+.container{max-width:1200px;margin:0 auto;padding:0 15px}
+body{padding-top:70px}
+.intro-header{margin:80px 0 20px;text-align:center}
+.page-heading h1{font-size:50px;margin:0;color:#404040;font-weight:400}
+.post-preview{padding:20px 0;border-bottom:1px solid #eee}
+.post-preview .post-title{font-size:30px;margin-top:0;color:#404040}
+.post-preview .post-meta{color:#808080;font-size:18px;margin:0 0 10px}
+@media(min-width:768px){.post-preview{padding:35px 0}.post-preview .post-title{font-size:36px}.intro-header{margin-top:130px}.page-heading h1{font-size:80px}}
+</style>
+
+<!-- Optimized font loading with font-display: swap -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+</style>
+
+<!-- Service Worker Registration -->
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/sw.js')
+      .then(function(registration) {
+        console.log('SW registered: ', registration);
+      })
+      .catch(function(registrationError) {
+        console.log('SW registration failed: ', registrationError);
+      });
+  });
+}
+</script>

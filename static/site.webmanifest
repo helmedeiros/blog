@@ -1,16 +1,20 @@
 {
-    "name": "helio.",
-    "short_name": "helio.",
-    "description": "Technology insights and agile development",
+    "name": "Helio Medeiros Blog",
+    "short_name": "Helio Blog",
+    "description": "Technology insights and agile development practices",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "categories": ["productivity", "technology", "education"],
+    "lang": "en",
     "icons": [
         {
             "src": "/favicon.svg",
             "sizes": "any",
-            "type": "image/svg+xml"
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
         }
-    ],
-    "theme_color": "#000000",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "start_url": "/"
+    ]
 }
