@@ -1,8 +1,6 @@
 ---
 author: helio
-categories:
-  - Events
-  - Architecture
+categories: ["Architecture"]
 date: 2008-06-13 01:57:56+00:00
 layout: post
 subtitle: "Construa uma plataforma completa de classificados web do zero—acompanhe a jornada de modelagem UML desde histórias de usuário até diagramas de classe, criando um sistema baseado em assinatura com anúncios em destaque, categorias e integração de pagamento"

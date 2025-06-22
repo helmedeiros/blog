@@ -1,7 +1,6 @@
 ---
 author: helio
-categories:
-  - Architecture
+categories: ["Architecture"]
 date: 2008-06-17 02:14:52+00:00
 layout: post
 subtitle: "Simplifique a gestão de bolões em grupo com automação inteligente—projete um sistema modelado em UML que gerencia registro de participantes, controle de pagamentos, distribuição de prêmios e elimina o caos da coordenação manual"

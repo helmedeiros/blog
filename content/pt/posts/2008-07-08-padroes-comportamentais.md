@@ -3,8 +3,7 @@ title: "Padrões Comportamentais: Coordenando Responsabilidades com Flexibilidad
 author: helio
 layout: post
 date: 2008-07-08 03:27:57+00:00
-categories:
-  - Architecture
+categories: ["Architecture"]
 
 subtitle: "Projete interações inteligentes de objetos e workflows—domine padrões Observer, Strategy, Command e State que transformam sistemas rígidos e acoplados em arquiteturas flexíveis e orientadas a eventos que se adaptam a regras de negócio em mudança"
 ---
