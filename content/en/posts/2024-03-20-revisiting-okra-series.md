@@ -1,8 +1,7 @@
 ---
 title: "OKRA Roots & Shoots: What We've Learned About Growing Better OKRs"
 categories:
-
-  - Agile
+  - Leadership
 date: 2024-03-20
 description:
   A reflection on the OKRA series journey, highlighting key insights, patterns,

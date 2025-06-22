@@ -4,7 +4,6 @@ title:
   Teams"
 categories:
   - Leadership
-
 date: 2024-06-25
 description:
   A practical guide to engaging your team in building quarterly OKRs together
