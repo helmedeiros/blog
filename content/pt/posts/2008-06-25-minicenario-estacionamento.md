@@ -1,8 +1,6 @@
 ---
 author: helio
-categories:
-  - Events
-  - Architecture
+categories: ["Architecture"]
 date: 2008-06-25 02:48:10+00:00
 dsq_thread_id:
   - 4969844895

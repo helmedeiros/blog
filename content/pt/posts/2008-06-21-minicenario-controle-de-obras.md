@@ -3,9 +3,7 @@ title: "Minicenário: CONTROLE DE OBRAS"
 author: helio
 layout: post
 date: 2008-06-21 09:24:08+00:00
-categories:
-  - Events
-  - Architecture
+categories: ["Architecture"]
 tags:
   - mini-scenarios
   - uml-series

@@ -4,7 +4,6 @@ author: helio
 layout: post
 date: 2008-06-21 09:24:08+00:00
 categories:
-  - Events
   - Architecture
 series: UML Mini-scenarios
 tags:

@@ -4,7 +4,7 @@ subtitle: "Junte-se ao início de uma jornada de compartilhamento de conheciment
 author: helio
 layout: post
 date: 2008-05-12T20:16:38+00:00
-categories: ["Agile", "Architecture"]
+categories: ["Leadership"]
 ---
 
 Com este primeiro post trago as boas novas:
