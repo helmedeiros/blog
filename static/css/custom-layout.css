@@ -296,7 +296,7 @@ footer,
 }
 
 .post-featured .blog-tags a:hover {
-    background: #3498db;
+    background: #1f2937;
     color: white;
 }
 
@@ -446,7 +446,7 @@ footer,
 }
 
 .article-meta i {
-    color: #3498db;
+    color: #1f2937;
 }
 
 /* Article Content */
@@ -577,7 +577,7 @@ footer,
 
 .article-tags h4 i,
 .social-share h4 i {
-    color: #3498db;
+    color: #1f2937;
 }
 
 .tags-list {
@@ -587,7 +587,7 @@ footer,
 }
 
 .tag-link {
-    background: linear-gradient(135deg, #3498db, #2980b9);
+    background: linear-gradient(135deg, #1f2937, #111827);
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 20px;
@@ -595,12 +595,12 @@ footer,
     font-size: 1.1rem;
     font-weight: 500;
     transition: all 0.3s ease;
-    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+    box-shadow: 0 2px 8px rgba(31, 41, 55, 0.3);
 }
 
 .tag-link:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(52, 152, 219, 0.4);
+    box-shadow: 0 4px 16px rgba(31, 41, 55, 0.4);
     color: white;
     text-decoration: none;
 }
@@ -764,23 +764,23 @@ footer,
 
 .pagination-link {
     display: block;
-    background: linear-gradient(135deg, #3498db, #2980b9);
+    background: linear-gradient(135deg, #1f2937, #111827);
     color: white;
     padding: 1rem 2rem;
     border-radius: 8px;
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
-    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+    box-shadow: 0 2px 8px rgba(31, 41, 55, 0.3);
     text-align: center;
 }
 
 .pagination-link:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(52, 152, 219, 0.4);
+    box-shadow: 0 4px 16px rgba(31, 41, 55, 0.4);
     color: white;
     text-decoration: none;
-    background: linear-gradient(135deg, #2980b9, #3498db);
+    background: linear-gradient(135deg, #111827, #1f2937);
 }
 
 .pagination-link i {
@@ -1276,7 +1276,7 @@ pre code {
 }
 
 .article-content table thead {
-    background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%) !important;
+    background: linear-gradient(135deg, #1f2937 0%, #111827 100%) !important;
 }
 
 .article-content table thead th {
@@ -1303,7 +1303,7 @@ pre code {
 }
 
 .article-content table tbody tr:hover {
-    background-color: #dbeafe !important;
+    background-color: #f3f4f6 !important;
     transform: translateY(-1px);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
@@ -1399,7 +1399,7 @@ pre code {
     }
 
     .article-content table thead {
-        background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%) !important;
+        background: linear-gradient(135deg, #1f2937 0%, #111827 100%) !important;
     }
 
     .article-content table tbody tr {
