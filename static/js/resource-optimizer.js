@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Load non-critical CSS
   const nonCriticalCSS = [
     '/css/photoswipe.min.css',
-    '/css/default-skin.min.css'
+    '/css/photoswipe.default-skin.min.css'
   ];
 
   nonCriticalCSS.forEach(css => {
