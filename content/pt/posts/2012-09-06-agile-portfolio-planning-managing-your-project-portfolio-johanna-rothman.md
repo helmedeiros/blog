@@ -1,33 +1,34 @@
 ---
-title: 'Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman'
+title: "Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman"
 author: helio
 layout: post
 date: 2012-09-06 18:07:51+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
-- Architecture
+  - Agile
+  - Architecture
 tags:
-- '#AgileBR'
-- AGILE
-- agile brazil
-- Agile Portfolio Planning
-- Johanna Rothman
-- Project Portfolio
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - "#AgileBR"
+  - AGILE
+  - agile brazil
+  - Agile Portfolio Planning
+  - Johanna Rothman
+  - Project Portfolio
+subtitle: Escape do caos multitarefa através de gestão estratégica de portfólio—aprenda como priorizar projetos, evitar disrupção de equipe e focar em finalizar ao invés de iniciar
 ---
+
 &nbsp;
 
 A [Johanna][1] iniciou agradecendo pelo convite e dizendo quanto esta feliz de estar no Brazil. E com uma pergunta como vocês adoram trabalhar em projetos multitarefas. Muitos podem gostar mas como você sabe oque fazer? Qual delas fazer primeiro? E quando existem interrupções? Não podemos ficar o tempo todo procurando nossos gerentes para que eles nos digam oque fazer. Nos precisamos e queremos usar nossos cerebros e participar e decidir por nós mesmos oque fazer.
 
 &nbsp;<figure id="attachment_626" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-626" src="/uploads/2012/09/whatsTheProblem.png" alt="Whats The Problem" width="470" height="249" srcset="/uploads/2012/09/whatsTheProblem.png 470w, /uploads/2012/09/whatsTheProblem-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][2]<figcaption class="wp-caption-text">Whats The Problem</figcaption></figure> 
+[<img class="size-full wp-image-626" src="/uploads/2012/09/whatsTheProblem.png" alt="Whats The Problem" width="470" height="249" srcset="/uploads/2012/09/whatsTheProblem.png 470w, /uploads/2012/09/whatsTheProblem-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][2]<figcaption class="wp-caption-text">Whats The Problem</figcaption></figure>
 
 &nbsp;
 
@@ -35,7 +36,7 @@ Para nós pode ser complicado lidar com isso mas gerenciamento é sobre acerca d
 
 &nbsp;<figure id="attachment_632" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-632" src="/uploads/2012/09/whatThesePortfoliosAreMissing.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][4]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption></figure> 
+[<img class="size-full wp-image-632" src="/uploads/2012/09/whatThesePortfoliosAreMissing.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][4]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption></figure>
 
 Mas oque é um portfolio de projetos? Não podemos ter um conjunto de projetos em uma cesta e achar que isto é o portfolio, e muito menos podemos agrupá-los e executar tal plano como se todos pudessem ser rodados e construidos ao mesmo tempo! Precisamos acabar com alguns deles e o que não pode ser feito, realmente não deve ser tentado porque iremos trocar os pés pela as mãos desestruturando a sua equipe. Depois que definirmos prioridades datas de inícios e fins, passamos a ter um portfolio? Mas quando eles podem ser considerados como concluídos ou aceitavelmente concluídos? Precisamos decidir isso aí o teremos mais próximos da realidade.
 
@@ -45,7 +46,7 @@ Precisamos então com os portfolios criados usá-lo a nosso favor, não mudando 
 
 &nbsp;<figure id="attachment_627" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-627" src="/uploads/2012/09/projectPortfolioFlow.png" alt="Project Portfolio Flow" width="470" height="249" srcset="/uploads/2012/09/projectPortfolioFlow.png 470w, /uploads/2012/09/projectPortfolioFlow-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][5]<figcaption class="wp-caption-text">Project Portfolio Flow</figcaption></figure> 
+[<img class="size-full wp-image-627" src="/uploads/2012/09/projectPortfolioFlow.png" alt="Project Portfolio Flow" width="470" height="249" srcset="/uploads/2012/09/projectPortfolioFlow.png 470w, /uploads/2012/09/projectPortfolioFlow-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][5]<figcaption class="wp-caption-text">Project Portfolio Flow</figcaption></figure>
 
 &nbsp;
 
@@ -69,8 +70,8 @@ E será que ágil e Lean podem ajudar? Talvez se tivermos em mente que as pessoa
 
 Não importa quantos projetos você inicia mais sim quantos você termina.
 
- [1]: http://www.jrothman.com/ "johanna Rothman"
- [2]: /uploads/2012/09/whatsTheProblem.png
- [3]: http://en.wikipedia.org/wiki/Human_multitasking "Podemos fazer tarefas simultâneas?"
- [4]: /uploads/2012/09/whatThesePortfoliosAreMissing.png
- [5]: /uploads/2012/09/projectPortfolioFlow.png
+[1]: http://www.jrothman.com/ "johanna Rothman"
+[2]: /uploads/2012/09/whatsTheProblem.png
+[3]: http://en.wikipedia.org/wiki/Human_multitasking "Podemos fazer tarefas simultâneas?"
+[4]: /uploads/2012/09/whatThesePortfoliosAreMissing.png
+[5]: /uploads/2012/09/projectPortfolioFlow.png

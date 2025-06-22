@@ -1,21 +1,21 @@
 ---
-title: 'Dotfiles 2023: Durabilidade por Design'
+title: "Dotfiles 2023: Durabilidade por Design"
 author: helio
 layout: post
 date: 2023-09-29 10:00:00+00:00
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- dotfiles
-- infrastructure
-- durability
-- portability
-- trust
-- refinement
-- developer-tools
-- shell-configuration
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - dotfiles
+  - infrastructure
+  - durability
+  - portability
+  - trust
+  - refinement
+  - developer-tools
+  - shell-configuration
+subtitle: Evolua sua configuração de desenvolvimento com dotfiles inteligentes que se adaptam a diferentes ambientes—Mac, Linux, containers e CI/CD
 ---
 
 ## Refinamento Silencioso, Intenção Séria

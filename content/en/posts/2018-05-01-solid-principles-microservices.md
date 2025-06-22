@@ -2,7 +2,7 @@
 title: "SOLID Principles in a Microservices World"
 date: 2018-05-01T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Reframing classic design principles for distributed systems"
+subtitle: Apply SOLID principles to microservices architecture—identifying system smells and designing cohesive, maintainable distributed systems with clear boundaries and stable contracts
 tags:
   [
     "solid principles",

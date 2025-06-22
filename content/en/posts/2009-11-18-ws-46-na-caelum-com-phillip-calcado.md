@@ -1,23 +1,23 @@
 ---
-title: 'WS-46 with Phillip Calçado: My First True Dive into Domain-Driven Design'
+title: "WS-46 with Phillip Calçado: My First True Dive into Domain-Driven Design"
 author: helio
 layout: post
 date: 2009-11-18 23:37:20+00:00
 dsq_thread_id: null
 categories:
-- Architecture
-- Events
+  - Architecture
+  - Events
 tags:
-- Caelum
-- DDD
-- Domain-Driven Design
-- Phillip Calçado
-- Rio
-- WS-46
-- Modeling
-- Ubiquitous Language
-- Architecture
-subtitle: Software development concepts and practices
+  - Caelum
+  - DDD
+  - Domain-Driven Design
+  - Phillip Calçado
+  - Rio
+  - WS-46
+  - Modeling
+  - Ubiquitous Language
+  - Architecture
+subtitle: Transform your modeling mindset with a DDD master—discover how Phillip Calçado's workshop reveals the power of ubiquitous language, domain modeling, and thinking beyond code patterns
 ---
 
 On November 17, 2009, I finally joined a workshop that felt like a turning point in my career as a developer. I attended **Caelum's WS-46 training** on Domain-Driven Design (DDD) led by none other than **Phillip Calçado** — a name I had followed for years through his blog and talks.

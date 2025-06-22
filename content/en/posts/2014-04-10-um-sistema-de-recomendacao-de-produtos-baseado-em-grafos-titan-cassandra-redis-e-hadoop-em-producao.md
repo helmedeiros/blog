@@ -1,6 +1,7 @@
 ---
-title: 'An Recommendation System for Products based on graphs: Titan, Cassandra, Redis
-  and Hadoop in production'
+title:
+  "An Recommendation System for Products based on graphs: Titan, Cassandra, Redis
+  and Hadoop in production"
 author: helio
 layout: post
 date: 2014-04-10 21:27:50+00:00
@@ -9,12 +10,12 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 tags:
-- big data
-- data scientist
-subtitle: Software development concepts and practices
+  - big data
+  - data scientist
+subtitle: Build production-ready recommendation systems using graph databases—implementing Titan, Cassandra, Redis, and Hadoop with Gremlin traversals to discover "who saw, also saw" patterns at scale
 ---
 
 Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it..

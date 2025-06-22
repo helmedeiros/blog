@@ -1,22 +1,22 @@
 ---
-title: 'De Kanban para Scrum – Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado'
+title: "De Kanban para Scrum – Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado"
 author: helio
 layout: post
 date: 2022-11-03 10:00:00+00:00
 series: Transição de Kanban para Scrum
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- transicao-scrum
-- definicao-de-metas
-- alinhamento-de-time
-- valores-scrum
-- definition-of-done
-- definition-of-ready
-- workshops-colaborativos
-- lideranca-de-time
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - transicao-scrum
+  - definicao-de-metas
+  - alinhamento-de-time
+  - valores-scrum
+  - definition-of-done
+  - definition-of-ready
+  - workshops-colaborativos
+  - lideranca-de-time
+subtitle: Construa entendimento compartilhado antes de mudar processos—co-criando objetivos de equipe, métricas de sucesso e Definição de Pronto/Feito através de workshops colaborativos
 ---
 
 > **Série: Transição de Kanban para Scrum** | **Parte 2 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_

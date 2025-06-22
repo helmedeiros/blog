@@ -3,7 +3,7 @@ title: "SCRUM at the UnP Scientific Congress – Returning with Gratitude"
 date: 2009-10-22T05:31:22+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Teaching an eight-hour mini-course on SCRUM and the joy of returning as a speaker"
+subtitle: "From student to teacher—experience the profound joy of returning to your alma mater to share SCRUM wisdom, completing a full circle of learning, growth, and giving back to the community"
 tags:
   [
     "SCRUM",

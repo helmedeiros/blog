@@ -1,6 +1,6 @@
 ---
 title: "Tornando o Trabalho Remoto-First Excelente — Parte 5: Framework Connecting Onboard"
-subtitle: "Criando um Onboarding com Confiança, Clareza e Crescimento"
+subtitle: Crie experiências de onboarding personalizadas usando workshops colaborativos que descobrem necessidades individuais, constroem segurança psicológica e promovem pertencimento desde o primeiro dia
 date: 2022-11-30
 tags:
   [

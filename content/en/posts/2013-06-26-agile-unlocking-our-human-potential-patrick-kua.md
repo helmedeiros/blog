@@ -1,5 +1,5 @@
 ---
-title: 'Agile: Unlocking Our Human Potential - Patrick Kua'
+title: "Agile: Unlocking Our Human Potential - Patrick Kua"
 Agile: Unlocking our Human Potential –
 author: helio
 layout: post
@@ -8,9 +8,9 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
-subtitle: Agile practices and development methodologies
+  - Agile
+  - Events
+subtitle: Unlock team potential through autonomy, excellence, and purpose—discover how intrinsic motivation beats obligation, and why diverse teams with strong relationships deliver better results
 ---
 
 [<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1] There's more to developing products than just developing them.
@@ -52,6 +52,7 @@ THE MORE DIVERSED OUR TEAMS ARE AND THE GREATER THE INTERACTION BETWEEN THEM, TH
 Agile leaders, who are most of those working, are not people who command or tell everyone what to do, but those who help others with their qualities.
 
 The final message: think about autonomy, excellence, and purpose, cooperation and leadership; the event will help us with that!! @pakua <div style="margin-bottom: 20px;">
+
 <iframe src="https://www.slideserve.com/embed/7318736"
         width="597" height="486" frameborder="0" marginwidth="0" marginheight="0"
         scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"

@@ -4,16 +4,16 @@ author: helio
 layout: post
 date: 2011-11-15 20:23:19+00:00
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 tags:
-- bash
-- oh-my-zsh
-- shell
-- zsh
-- terminal
-- productivity
-subtitle: Software development concepts and practices
+  - bash
+  - oh-my-zsh
+  - shell
+  - zsh
+  - terminal
+  - productivity
+subtitle: Transform your terminal experience from Bash to ZSH—discover command correction, smart auto-completion, and oh-my-zsh magic that turns your shell into a productivity powerhouse
 ---
 
 ## A New Era in the Terminal

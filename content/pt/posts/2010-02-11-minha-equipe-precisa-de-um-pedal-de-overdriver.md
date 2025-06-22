@@ -2,7 +2,7 @@
 title: "Minha equipe precisa de um pedal de overdriver"
 date: 2010-02-12T01:55:03+02:00
 draft: false
-subtitle: Quando equipes precisam daquele impulso extra para acelerar
+subtitle: Torne-se um multiplicador de equipe antes de ter o título—descubra como pequenos atos de liderança, feedback reflexivo e propriedade colaborativa criam o 'overdrive' que impulsiona equipes à excelência
 tags: ["AGILE", "XP", "Equipes", "Liderança", "Colaboração", "Multiplicadores"]
 categories: ["Leadership", "Events"]
 ---

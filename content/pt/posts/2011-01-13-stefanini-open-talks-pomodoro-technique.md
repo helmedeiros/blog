@@ -4,20 +4,20 @@ author: helio
 layout: post
 date: 2011-01-13 01:07:59+00:00
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- Hélio
-- Open Talks
-- poa
-- Pomodoro
-- Stefanini
-- TECNOPUC
-- Dell
-- Técnica Pomodoro
-- Produtividade
-- Foco
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - Hélio
+  - Open Talks
+  - poa
+  - Pomodoro
+  - Stefanini
+  - TECNOPUC
+  - Dell
+  - Técnica Pomodoro
+  - Produtividade
+  - Foco
+subtitle: Domine execução focada através de prática real do Pomodoro—descubra regras de profundidade, listas visuais e adaptações pessoais que transformaram refatoração crítica em ciclos produtivos
 ---
 
 Hoje, quinta-feira 13 de janeiro, tive a oportunidade de abrir o primeiro encontro do Stefanini Open Talks, realizado no Auditório da Assespro, prédio 96 da Tecnopuc. Essa iniciativa nasceu a partir de conversas com Marcelo Schmidt e com a equipe administrativa da Stefanini responsável pela conta da DELL. Nosso objetivo foi simples e ambicioso ao mesmo tempo: criar um espaço de aprendizado compartilhado dentro da própria operação, valorizando os conhecimentos cotidianos que acumulamos.

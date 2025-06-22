@@ -7,14 +7,14 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 tags:
-- aaron myers
-- cloudera
-- impala
-- qconsp
-subtitle: Software development concepts and practices
+  - aaron myers
+  - cloudera
+  - impala
+  - qconsp
+subtitle: Explore how Cloudera Impala revolutionizes HDFS performance—achieving 5-50x speed improvements through low-latency queries, memory optimization, and distributed processing innovations
 ---
 
 As Impala and the [Cloudera][1] have helped the community over the past few years, nothing better than the <a title="Aaron Myers" href="https://twitter.com/atm" target="_blank">Aaron</a> to talk about it with <a title="Hadoop" href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, let's see how it works with <a title="HDFS" href="http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">HDFS</a>, and how the latter has been modified to meet new requirements.

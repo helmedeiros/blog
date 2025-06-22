@@ -1,26 +1,27 @@
 ---
-title: 'Menos Estresse, Mais Entrega: A Mudança de Mentalidade Ágil'
+title: "Menos Estresse, Mais Entrega: A Mudança de Mentalidade Ágil"
 author: helio
 layout: post
 date: 2010-03-26 10:21:39+00:00
-description: Reflexões sobre a quinta aula de Engenharia de Software, introduzindo
+description:
+  Reflexões sobre a quinta aula de Engenharia de Software, introduzindo
   metodologias ágeis, o Manifesto Ágil e transformação de mentalidade no desenvolvimento.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- Engenharia de Software
-- Agilidade
-- Manifesto Ágil
-- Scrum
-- XP
-- FDD
-- UnP
-- Ensino
-- software-engineering-series
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - Engenharia de Software
+  - Agilidade
+  - Manifesto Ágil
+  - Scrum
+  - XP
+  - FDD
+  - UnP
+  - Ensino
+  - software-engineering-series
+subtitle: Mude de obsessão por processo para pensamento people-first—descubra como mentalidade ágil valoriza indivíduos, software funcionando, colaboração do cliente e responder a mudanças sobre aderência rígida a planos
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 5 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

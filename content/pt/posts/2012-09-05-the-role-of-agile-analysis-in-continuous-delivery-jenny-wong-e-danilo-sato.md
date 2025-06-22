@@ -4,24 +4,25 @@ author: helio
 layout: post
 date: 2012-09-05 17:45:08+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
+  - Agile
 tags:
-- '#AgileBR'
-- 2012
-- agile brazil
-- agilebrazil2012
-- continuos delivery
-- Danilo Sato
-- Jenny Wong
-- MVP
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - "#AgileBR"
+  - 2012
+  - agile brazil
+  - agilebrazil2012
+  - continuos delivery
+  - Danilo Sato
+  - Jenny Wong
+  - MVP
+subtitle: Conecte análise e entrega—descubra como analistas ágeis se integram às equipes, validam premissas cedo e garantem que você está construindo a coisa certa rapidamente
 ---
+
 [<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 
 O que é <a title="Continuos Delivery" href="http://en.wikipedia.org/wiki/Continuous_delivery" target="_blank">entrega continua</a>(continuos Delivery &#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a <a title="Jenny Wong - Twitter" href="http://twitter.com/jenny_wong" target="_blank">Jenny</a> e o <a title="Danilo Sato - Blog" href="http://www.dtsato.com/blog/" target="_blank">Danilo</a>, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
@@ -62,5 +63,5 @@ Veja a apresentação a baixo:
   <strong> <a href="http://www.slideshare.net/JennyWong8/role-of-agile-analysis-in-continuous-delivery" title="Role of Agile analysis in continuous delivery" target="_blank">Role of Agile analysis in continuous delivery</a> </strong> from <strong><a href="http://www.slideshare.net/JennyWong8" target="_blank">Jenny Wong</a></strong>
 </div>
 
- [1]: /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png
- [2]: http://www.slideshare.net/JennyWong8/slicing-and-dicing-your-user-stories "Slicing and Dicing user stories"
+[1]: /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png
+[2]: http://www.slideshare.net/JennyWong8/slicing-and-dicing-your-user-stories "Slicing and Dicing user stories"

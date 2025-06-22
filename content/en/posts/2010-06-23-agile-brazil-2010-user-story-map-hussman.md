@@ -1,33 +1,35 @@
 ---
-title: 'Agile Brazil 2010 – Part 2: Story Mapping with David Hussman: Purpose, Flow,
-  and Sticky Notes'
+title:
+  "Agile Brazil 2010 – Part 2: Story Mapping with David Hussman: Purpose, Flow,
+  and Sticky Notes"
 author: helio
 layout: post
 date: 2010-06-23 18:00:00+00:00
 slug: agile-brazil-2010-user-story-map-hussman
 categories:
-- Agile
-- Events
-- Methodologies
+  - Agile
+  - Events
+  - Methodologies
 tags:
-- Agile Brazil
-- David Hussman
-- Story Mapping
-- User Stories
-- Product Management
-- UX
-- Workshop
-description: David Hussman's hands-on story mapping workshop at Agile Brazil 2010
+  - Agile Brazil
+  - David Hussman
+  - Story Mapping
+  - User Stories
+  - Product Management
+  - UX
+  - Workshop
+description:
+  David Hussman's hands-on story mapping workshop at Agile Brazil 2010
   - building shared understanding through user journeys, sticky notes, and paper prototypes.
 keywords:
-- david hussman story mapping
-- agile brazil 2010
-- user story mapping
-- agile product management
-- user journey mapping
-- paper prototyping
+  - david hussman story mapping
+  - agile brazil 2010
+  - user story mapping
+  - agile product management
+  - user journey mapping
+  - paper prototyping
 series: Agile Brazil 2010
-subtitle: Agile practices and development methodologies
+subtitle: Transform requirements into visual journey maps—discover how David Hussman's story mapping creates shared understanding, prioritizes features, and builds products that truly serve user workflows
 ---
 
 [<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="David Hussman Story Mapping Workshop" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]

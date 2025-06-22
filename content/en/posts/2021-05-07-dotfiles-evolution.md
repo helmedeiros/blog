@@ -1,20 +1,20 @@
 ---
-title: 'Dotfiles 2021: Preparing to Scale Myself'
+title: "Dotfiles 2021: Preparing to Scale Myself"
 author: helio
 layout: post
 date: 2021-05-07 10:00:00+00:00
 categories:
-- Technology
+  - Technology
 tags:
-- dotfiles
-- remote-work
-- bootstrap
-- scaling
-- portability
-- simplification
-- repeatability
-- developer-experience
-subtitle: Software development concepts and practices
+  - dotfiles
+  - remote-work
+  - bootstrap
+  - scaling
+  - portability
+  - simplification
+  - repeatability
+  - developer-experience
+subtitle: Transform your personal development environment into a scalable, portable system—with bootstrap clarity, simplified structure, and zero-friction sharing
 ---
 
 ## Two Years Later, Same Tools, New Intent

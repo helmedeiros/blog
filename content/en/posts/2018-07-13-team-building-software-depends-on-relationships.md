@@ -2,7 +2,7 @@
 title: "Team Building: Software Depends on Relationships"
 date: 2018-07-13T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Originally delivered at Agile Brazil 2018, Campinas – October 3rd to 5th"
+subtitle: Build high-performing teams through intentional relationship-building—practical activities for team vision, expectation alignment, and connection that transform collaboration and trust
 tags:
   [
     "team building",

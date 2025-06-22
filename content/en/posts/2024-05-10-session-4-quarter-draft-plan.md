@@ -1,17 +1,18 @@
 ---
-title: 'OKRA Session #4: OKR Quarter Draft Plan'
+title: "OKRA Session #4: OKR Quarter Draft Plan"
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 date: 2024-05-10
-description: 'Session #4 of the OKRA series: how to collaboratively build a visual
-  draft plan for the quarter, making alignment visible and actionable.'
+description:
+  "Session #4 of the OKRA series: how to collaboratively build a visual
+  draft plan for the quarter, making alignment visible and actionable."
 series:
-- okra
+  - okra
 series_order: 5
 lang: en
 slug: session-4-quarter-draft-plan
-subtitle: OKRA framework for objectives and key results management
+subtitle: Build a visual, collaborative quarter plan that creates shared alignment without rigid timelines—turning intentions into executable roadmaps
 ---
 
 ## From Alignment to Visualization

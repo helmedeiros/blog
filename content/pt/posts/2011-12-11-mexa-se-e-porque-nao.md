@@ -4,15 +4,16 @@ author: helio
 layout: post
 date: 2011-12-11 17:52:30+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Technology
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Technology
+subtitle: Torne-se agente ativo de mudança no seu ambiente de trabalho—descubra como ir além do aprendizado passivo e construir relacionamentos de amizade e compromisso cria crescimento intelectual mútuo
 ---
+
 <p style="text-align: center">
   <a href="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png"><img class="aligncenter size-full wp-image-476" src="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png" alt="" width="474" height="228" srcset="/uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM.png 519w, /uploads/2011/12/Screen-Shot-2011-12-11-at-3.48.41-PM-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" /></a>
 </p>
@@ -41,23 +42,23 @@ Pelos lugares por onde passei, vejo que qualquer equipe é capaz e deve lutar pa
 
 &nbsp;
 
- [1]: http://twitter.com/dwildt "Daniel Wildt"
- [2]: http://twitter.com/brunopedroso "Bruno Pedroso"
- [3]: http://twitter.com/#!/alegomes "Alexandre Gomes"
- [4]: http://twitter.com/#!/rwilli "Willi"
- [5]: http://twitter.com/#!/andrefaria "André Faria"
- [6]: http://twitter.com/#!/joaostein "João Stein"
- [7]: http://twitter.com/#!/julioprotzek "Júlio Protzek"
- [8]: http://twitter.com/#!/miprotzek "Michelle Protzek"
- [9]: http://twitter.com/#!/fkenjikamei "Fernando Kenji Kamei"
- [10]: http://twitter.com/#!/lcparzianello "Luiz C. Parzianello"
- [11]: http://twitter.com/#!/manoelp "Manoel Pimentel"
- [12]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
- [13]: http://twitter.com/#!/hugocorbucci "Hugo Corbucci"
- [14]: http://twitter.com/#!/dtsato "Danilo Sato"
- [15]: http://twitter.com/#!/nukdf "Fabricio Buzeto"
- [16]: http://twitter.com/#!/paulocaroli "Paulo Caroli"
- [17]: http://twitter.com/#!/rafajagua "Rafael Camargo"
- [18]: http://twitter.com/#!/thiagoesser "Thiago Esser"
- [19]: /2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
- [20]: /2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
+[1]: http://twitter.com/dwildt "Daniel Wildt"
+[2]: http://twitter.com/brunopedroso "Bruno Pedroso"
+[3]: http://twitter.com/#!/alegomes "Alexandre Gomes"
+[4]: http://twitter.com/#!/rwilli "Willi"
+[5]: http://twitter.com/#!/andrefaria "André Faria"
+[6]: http://twitter.com/#!/joaostein "João Stein"
+[7]: http://twitter.com/#!/julioprotzek "Júlio Protzek"
+[8]: http://twitter.com/#!/miprotzek "Michelle Protzek"
+[9]: http://twitter.com/#!/fkenjikamei "Fernando Kenji Kamei"
+[10]: http://twitter.com/#!/lcparzianello "Luiz C. Parzianello"
+[11]: http://twitter.com/#!/manoelp "Manoel Pimentel"
+[12]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
+[13]: http://twitter.com/#!/hugocorbucci "Hugo Corbucci"
+[14]: http://twitter.com/#!/dtsato "Danilo Sato"
+[15]: http://twitter.com/#!/nukdf "Fabricio Buzeto"
+[16]: http://twitter.com/#!/paulocaroli "Paulo Caroli"
+[17]: http://twitter.com/#!/rafajagua "Rafael Camargo"
+[18]: http://twitter.com/#!/thiagoesser "Thiago Esser"
+[19]: /2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
+[20]: /2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"

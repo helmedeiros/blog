@@ -1,22 +1,22 @@
 ---
-title: 'Evoluindo Meus Dotfiles: Do Simples ao Modular'
+title: "Evoluindo Meus Dotfiles: Do Simples ao Modular"
 author: helio
 layout: post
 date: 2015-12-01 10:00:00+00:00
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- dotfiles
-- produtividade
-- terminal
-- automação
-- modular
-- zsh
-- bash
-- mackup
-- homebrew
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - dotfiles
+  - produtividade
+  - terminal
+  - automação
+  - modular
+  - zsh
+  - bash
+  - mackup
+  - homebrew
+subtitle: Escale de craft pessoal para colaboração em equipe—construindo dotfiles modulares e baseados em tópicos com suporte shell-neutro, bootstrapping inteligente e ambientes reproduzíveis através de Mackup e Brewfile
 ---
 
 ## Dois Anos Depois: Por Que Revisei Tudo

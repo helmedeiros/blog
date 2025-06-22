@@ -8,14 +8,14 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- big data
-- hadoop
-- qconsp
-- Todd Lipcon
-subtitle: Software development concepts and practices
+  - big data
+  - hadoop
+  - qconsp
+  - Todd Lipcon
+subtitle: Navigate the Hadoop ecosystem evolution—from Google's MapReduce origins to modern frameworks like Spark, Sqoop, and Flume that handle terabytes of data with KISS principles
 ---
 
 Why should we worry?

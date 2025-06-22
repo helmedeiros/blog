@@ -1,16 +1,18 @@
 ---
-title: 'From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our
-  Teams'
+title:
+  "From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our
+  Teams"
 categories:
-- Leadership
-- Technology
+  - Leadership
+  - Technology
 date: 2024-06-25
-description: A practical guide to engaging your team in building quarterly OKRs together
+description:
+  A practical guide to engaging your team in building quarterly OKRs together
   through transparent, structured facilitation.
 series:
-- OKRA
+  - OKRA
 series_order: 6
-subtitle: Leadership strategies and team management
+subtitle: Master the complete 5-session OKRA framework that transforms abstract company goals into team-owned OKRs with full buy-in and clear execution plans
 ---
 
 ## Why We Created the OKRA Framework

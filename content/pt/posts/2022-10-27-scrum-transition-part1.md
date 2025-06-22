@@ -5,18 +5,18 @@ layout: post
 date: 2022-10-27 10:00:00+00:00
 series: Transição de Kanban para Scrum
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- kanban
-- scrum
-- transicao
-- melhoria-de-processo
-- evolucao-de-time
-- transformacao-agil
-- retrospectivas
-- lideranca-de-time
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - kanban
+  - scrum
+  - transicao
+  - melhoria-de-processo
+  - evolucao-de-time
+  - transformacao-agil
+  - retrospectivas
+  - lideranca-de-time
+subtitle: Reconheça quando seu processo não está servindo seus objetivos—evoluindo de Kanban reativo para Scrum estruturado através de insights honestos de retrospectiva
 ---
 
 > **Série: Transição de Kanban para Scrum** | **Parte 1 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_

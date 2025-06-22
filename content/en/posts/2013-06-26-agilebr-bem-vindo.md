@@ -7,15 +7,15 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- '#AgileBR'
-- AGILE
-- agile brazil
-- agilebrazil2013
-- manoelep
-subtitle: Agile practices and development methodologies
+  - "#AgileBR"
+  - AGILE
+  - agile brazil
+  - agilebrazil2013
+  - manoelep
+subtitle: Welcome to Agile Brazil 2013—discover key insights from Brazil's premier agile conference covering human potential, story mapping, code metrics, and business agility from industry experts
 ---
 
 [<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1] Today, June 26th, a day for one of the biggest protests of our new Brazilian change, we are gathered to start the largest agile methods event in the southern hemisphere.
@@ -37,5 +37,4 @@ Let's start our AGILE BRAZIL!!!
 Event Photos: <a href="http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/" target="_blank">http://www.flickr.com/photos/heliomedeiros/sets/72157634514354216/</a>
 
 [2]: https://twitter.com/manoelp
-
 [1]: /uploads/2013/06/AGILEBR2013.png

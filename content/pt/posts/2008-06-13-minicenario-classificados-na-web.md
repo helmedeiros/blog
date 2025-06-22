@@ -1,15 +1,15 @@
 ---
 author: helio
 categories:
-- Events
-- Architecture
+  - Events
+  - Architecture
 date: 2008-06-13 01:57:56+00:00
 layout: post
-subtitle: Modelando sistema de classificados web usando mini-cenários UML
+subtitle: "Construa uma plataforma completa de classificados web do zero—acompanhe a jornada de modelagem UML desde histórias de usuário até diagramas de classe, criando um sistema baseado em assinatura com anúncios em destaque, categorias e integração de pagamento"
 tags:
-- mini-scenarios
-- uml-series
-title: 'Minicenário: CLASSIFICADOS NA WEB'
+  - mini-scenarios
+  - uml-series
+title: "Minicenário: CLASSIFICADOS NA WEB"
 ---
 
 > **Série: Mini-cenários UML** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

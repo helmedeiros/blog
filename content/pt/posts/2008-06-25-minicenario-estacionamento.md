@@ -1,17 +1,17 @@
 ---
 author: helio
 categories:
-- Events
-- Architecture
+  - Events
+  - Architecture
 date: 2008-06-25 02:48:10+00:00
 dsq_thread_id:
-- 4969844895
+  - 4969844895
 layout: post
-subtitle: Design de sistema de estacionamento através de cenários UML
+subtitle: "Projete uma solução completa de gestão de estacionamento—domine modelagem de casos de uso UML para geração de tickets, rastreamento de vagas, processamento de pagamentos e otimização de fluxo de clientes em estacionamentos comerciais"
 tags:
-- mini-scenarios
-- uml-series
-title: 'Minicenário: ESTACIONAMENTO'
+  - mini-scenarios
+  - uml-series
+title: "Minicenário: ESTACIONAMENTO"
 ---
 
 > **Série: Mini-cenários UML** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

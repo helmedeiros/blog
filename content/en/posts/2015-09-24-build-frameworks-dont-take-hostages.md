@@ -2,7 +2,7 @@
 title: "Build Frameworks, Don't Take Hostages"
 date: 2015-09-24T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Presented at TDC Porto Alegre — September 24, 2015, as part of the Architecture Track"
+subtitle: Cure frameworkitis by choosing tools with intent—evaluating adaptability over trends, building for clarity over cleverness, and creating frameworks that support teams instead of trapping them
 tags:
   [
     "frameworks",

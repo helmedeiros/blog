@@ -1,12 +1,12 @@
 ---
-title: 'Padrões de Projeto: Soluções Comprovadas para Desafios de Implementação'
+title: "Padrões de Projeto: Soluções Comprovadas para Desafios de Implementação"
 author: helio
 layout: post
 date: 2008-07-02 03:27:57+00:00
 categories:
-- Architecture
-- Technology
-subtitle: Padrões de design para desenvolvimento de software
+  - Architecture
+  - Technology
+subtitle: Desbloqueie a linguagem secreta dos programadores experts—domine os padrões de design da Gang of Four que transformam código caótico em sistemas elegantes e mantíveis através de soluções orientadas a objetos comprovadas
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

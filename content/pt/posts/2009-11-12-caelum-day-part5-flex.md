@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 5: Flex com Rafael Martinelli da DClick"
 date: 2009-11-12T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Explorando interfaces ricas na web com Adobe Flex"
+subtitle: "Experimente o futuro das interfaces web—descubra como Adobe Flex transforma navegadores em plataformas de aplicação poderosas com UX de qualidade desktop que desafia aplicações nativas"
 tags:
   [
     "Caelum Day",

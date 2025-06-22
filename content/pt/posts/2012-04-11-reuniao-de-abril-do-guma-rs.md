@@ -4,29 +4,30 @@ author: helio
 layout: post
 date: 2012-04-12 01:37:54+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- AGILE
-- guma-rs
-- Marco Enes
-- Meganti
-- se virol
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - AGILE
+  - guma-rs
+  - Marco Enes
+  - Meganti
+  - se virol
+subtitle: Reconheça e supere armadilhas ágeis—aprenda os 9 sinais de alerta de que sua equipe está caindo em armadilhas burocráticas ao invés de abraçar verdadeira agilidade colaborativa
 ---
+
 [<img class="aligncenter size-full wp-image-508" src="/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="/uploads/2012/04/gumaJuly.jpg 417w, /uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
 Aconteceu hoje, **11 de Abril de 2012, **na Faculdade de Informática da PUC-RS sala 516**,** mais uma reunião do Grupo de Usuários de Metodologias Ágeis do Rio Grande do Sul. Realmente tem valido a pena estar em terras gauchas!! Grandes talks, muito networking e várias idéias&#8230;.
 
 O evento teve início as 19:28h, com o [Marco Enes][2] fazendo sua lightning talk no &#8220;Se virol&#8221;&#8230; quer dizer o título que era &#8220;se virol&#8221;!!! O Marco é diretor da [Meganti][3], e assim como muitos dos empreendedores atuais se viu as voltas com a consolidação de uma cultura ágil dentro da empresa, e neste cenário propós o talk.
 
-Segundo o Marco, ele assim como vários amigos, gerentes de projetos ou fundadores de startups, veem percebendo um padrão comportamental dentro dos times, como um estado coletivo de letargia, com grande dependência e baixíssima proatividade. Ao que ele relata os times não estão se comportando como esperado de times auto-organizados, impulsionados por preceitos ágeis como [&#8220;_Indivíduos e interação_ entre eles _mais_ que processos _e_ ferramentas&#8221;][4]&#8230; por que será?
+Segundo o Marco, ele assim como vários amigos, gerentes de projetos ou fundadores de startups, veem percebendo um padrão comportamental dentro dos times, como um estado coletivo de letargia, com grande dependência e baixíssima proatividade. Ao que ele relata os times não estão se comportando como esperado de times auto-organizados, impulsionados por preceitos ágeis como [&#8220;*Indivíduos e interação* entre eles *mais* que processos *e* ferramentas&#8221;][4]&#8230; por que será?
 
 O relato, expectativas e  justificativas me pareceram muito familiares, já vimos e ouvimos em vários grupos relatos semelhantes&#8230; times construidos sobre bases de incerteza&#8230; times ou pessoas que por um bom tempo seguiram [métodos puramente prescritivos][5], sob qualquer cenário, e dos quais se espera que por completa força de vontade metodologica, seja feito &#8220;o exorcismo&#8221; de práticas enraizadas e fortalecidas por gerações dentro da mente de todos. Se desfazer do burocrático, dependente e longinquamente adaptativo, em prol do crescer e do fazer em curtos ciclos não é para qualquer um, ou qualquer cenário!! Hum&#8230;. acho que não dá para fazer mágica!!
 
@@ -100,14 +101,14 @@ Não é de hoje que muitos seguem a estrada do [But this but that][11] e adentra
 
 &nbsp;
 
- [1]: /uploads/2012/04/gumaJuly.jpg
- [2]: http://twitter.com/marcoenes
- [3]: https://twitter.com/meganti_br "Meganti"
- [4]: http://manifestoagil.com.br/ "Manifesto ágil"
- [5]: http://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process "RUP"
- [6]: http://www.ted.com/talks/dan_pink_on_motivation.html "Dan Pink on the surprising science of motivation"
- [7]: http://twitter.com/danielpink "Dan Pink"
- [8]: http://www.informit.com/articles/printerfriendly.aspx?p=25913 "Pretending to Be Agile"
- [9]: http://www.informit.com/authors/bio.asp?a=7b7d1926-0ded-4713-a53b-549af36312de
- [10]: http://www.informit.com/title/0201733862
- [11]: http://www.scrum.org/scrumbut "Scrumbut"
+[1]: /uploads/2012/04/gumaJuly.jpg
+[2]: http://twitter.com/marcoenes
+[3]: https://twitter.com/meganti_br "Meganti"
+[4]: http://manifestoagil.com.br/ "Manifesto ágil"
+[5]: http://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process "RUP"
+[6]: http://www.ted.com/talks/dan_pink_on_motivation.html "Dan Pink on the surprising science of motivation"
+[7]: http://twitter.com/danielpink "Dan Pink"
+[8]: http://www.informit.com/articles/printerfriendly.aspx?p=25913 "Pretending to Be Agile"
+[9]: http://www.informit.com/authors/bio.asp?a=7b7d1926-0ded-4713-a53b-549af36312de
+[10]: http://www.informit.com/title/0201733862
+[11]: http://www.scrum.org/scrumbut "Scrumbut"

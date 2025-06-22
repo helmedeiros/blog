@@ -1,16 +1,18 @@
 ---
-title: 'Da Estratégia ao Compromisso: Como Pernelle e Eu Criamos Alinhamento de OKRs
-  com Nossos Times'
+title:
+  "Da Estratégia ao Compromisso: Como Pernelle e Eu Criamos Alinhamento de OKRs
+  com Nossos Times"
 categories:
-- Leadership
-- Technology
+  - Leadership
+  - Technology
 date: 2024-06-25
-description: Um guia prático para engajar seu time na construção conjunta de OKRs
+description:
+  Um guia prático para engajar seu time na construção conjunta de OKRs
   trimestrais com transparência e estrutura.
 series:
-- OKRA
+  - OKRA
 series_order: 6
-subtitle: Gestão de objetivos e resultados com OKRA
+subtitle: Domine o framework OKRA completo de 5 sessões que transforma metas abstratas da empresa em OKRs com senso de pertencimento do time e planos claros de execução
 ---
 
 ## Por que Criamos o Framework OKRA

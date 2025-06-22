@@ -7,13 +7,13 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- data scientist
-- NASA
-- qconsp
-subtitle: Experiences and learnings from technology events
+  - data scientist
+  - NASA
+  - qconsp
+subtitle: Discover how NASA/JPL transforms dark data into actionable insights—building data science programs that empower specialists, facilitate discovery, and turn massive space datasets into public knowledge
 ---
 
 Exploring the universe generates a huge amount of data.

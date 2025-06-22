@@ -1,6 +1,6 @@
 ---
 title: "Responsive Leadership – Part 1: Leading with Presence and Adaptability"
-subtitle: "Developing leadership skills that adapt to team needs and changing circumstances"
+subtitle: Lead with presence and adaptability—mastering communication styles, engagement vs capability frameworks, and the shift from reactive to responsive leadership
 author: helio
 layout: post
 date: 2023-07-05T10:00:00+00:00

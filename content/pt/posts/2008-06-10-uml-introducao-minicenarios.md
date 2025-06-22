@@ -1,6 +1,6 @@
 ---
 title: "Por que UML Ainda Importa: Uma Linguagem Compartilhada para Projetar Sistemas"
-subtitle: "Introdução à modelagem UML através de mini-cenários práticos"
+subtitle: "Domine a arte do design visual de software—descubra como UML transforma requisitos complexos em entendimento claro e compartilhado através de mini-cenários práticos que conectam necessidades de negócio e soluções técnicas"
 author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00

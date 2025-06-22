@@ -3,7 +3,7 @@ title: Já tive um gerente que comia velocidade no café
 author: helio
 layout: post
 date: 2010-02-20T00:44:26+00:00
-subtitle: Contos da gestão - quando velocidade vira obsessão
+subtitle: Escape da armadilha da velocidade através de estimativa significativa—descubra por que planning poker cria conversas, não previsões, e como equipes saudáveis medem capacidade protegendo ritmo sustentável
 description: "Reflexões sobre velocidade de equipe, estimativas colaborativas e a importância de focar na entrega de valor real ao invés de apenas métricas."
 idptt_tweeted:
   - 1

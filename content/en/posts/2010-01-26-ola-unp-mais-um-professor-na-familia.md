@@ -2,7 +2,7 @@
 title: "One More Teacher in the Family!"
 date: 2010-01-26T23:47:13+02:00
 draft: false
-subtitle: Starting my teaching journey at UNP university
+subtitle: Embrace the unexpected joy of teaching—discover how stepping into academia early creates opportunities to give back, simulate real projects, and inspire the next generation of software engineers
 tags:
   [
     "Software Engineering",

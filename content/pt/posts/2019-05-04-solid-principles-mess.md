@@ -2,7 +2,7 @@
 title: "Princípios SOLID e a Bagunça em que Estamos"
 date: 2019-05-04T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Como fomos de monolitos para o caos distribuído e o que SOLID pode nos ensinar sobre microsserviços"
+subtitle: Escape do inferno dos microsserviços aplicando princípios SOLID em nível de sistema—transformando caos distribuído em contextos delimitados com responsabilidades claras e arquitetura sustentável
 tags:
   [
     "princípios solid",

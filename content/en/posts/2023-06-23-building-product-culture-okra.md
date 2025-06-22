@@ -9,7 +9,7 @@ description:
 series:
   - okra
 series_order: 5
-subtitle: Objectives and key results management with OKRA
+subtitle: Use OKRA to build product culture where new stakeholders become co-creators, not just observers—fostering shared ownership and learning loops
 ---
 
 ## 1. Culture Is Built Through Practice, Not Just Posters

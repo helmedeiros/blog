@@ -1,20 +1,20 @@
 ---
-title: 'Dotfiles 2017: Cutting Even Deeper'
+title: "Dotfiles 2017: Cutting Even Deeper"
 author: helio
 layout: post
 date: 2017-10-09 10:00:00+00:00
 categories:
-- Technology
+  - Technology
 tags:
-- dotfiles
-- shell
-- zsh
-- minimalism
-- refactoring
-- aliases
-- simplification
-- pruning
-subtitle: Software development concepts and practices
+  - dotfiles
+  - shell
+  - zsh
+  - minimalism
+  - refactoring
+  - aliases
+  - simplification
+  - pruning
+subtitle: Achieve terminal clarity through ruthless pruning—eliminating magic loaders, unused scripts, and platform complexity to create a fast, honest, and maintainable development environment
 ---
 
 ## One Year Later: Time to Prune

@@ -3,7 +3,7 @@ title: "I Had a Manager Who Ate Velocity for Breakfast"
 author: helio
 layout: post
 date: 2010-02-20T00:44:26+00:00
-subtitle: Tales from management - when velocity becomes an obsession
+subtitle: Escape the velocity trap through meaningful estimation—discover why planning poker creates conversations, not predictions, and how healthy teams measure capacity while protecting sustainable pace
 description: "Reflections on team velocity, collaborative estimation, and the importance of focusing on real value delivery rather than just metrics."
 idptt_tweeted:
   - 1

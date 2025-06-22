@@ -8,14 +8,14 @@ seo_follow: null
 seo_noindex: null
 idptt_tweeted: null
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- Open Talks
-- Pomodoro
-- Songdoro
-- Stefanini
-subtitle: Experiences and learnings from technology events
+  - Open Talks
+  - Pomodoro
+  - Songdoro
+  - Stefanini
+subtitle: Tune your team's productivity with Songdoro—blend Pomodoro technique with power songs to create musical focus blocks that energize collaboration and boost flow states
 ---
 
 This Monday, April 18th, I had the pleasure of participating in another edition of Stefanini Open Talks, continuing the [brown bag tradition][1] that's been growing every month. This time, my presentation focused on a concept I've been developing for a while — combining focus, productive cycles, and **music**.

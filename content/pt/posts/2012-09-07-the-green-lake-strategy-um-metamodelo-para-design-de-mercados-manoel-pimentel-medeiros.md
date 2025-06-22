@@ -1,29 +1,31 @@
 ---
-title: The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel
+title:
+  The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel
   Medeiros
 author: helio
 layout: post
 date: 2012-09-07 12:12:40+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Leadership
-- Agile
+  - Leadership
+  - Agile
 tags:
-- '#AgileBR'
-- agile brazil
-- Blue Ocean Strategy
-- design de mercado
-- manoel pimentel
-- manoelep
-- metamodelo
-- The Green Lake Strategy
-subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
+  - "#AgileBR"
+  - agile brazil
+  - Blue Ocean Strategy
+  - design de mercado
+  - manoel pimentel
+  - manoelep
+  - metamodelo
+  - The Green Lake Strategy
+subtitle: Crie ecossistemas de mercado sustentáveis além da Estratégia do Oceano Azul—aprenda como projetar lagos verdes dentro de oceanos vermelhos, construir meta-produtos e crescer através de franqueamento estratégico
 ---
+
 A estratégia do [oceano azul][1], é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &#8220;como podemos escapar do oceano vermlho&#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado. O oceano azul pode te levar a um nirvana.
 
 &nbsp;
@@ -40,7 +42,7 @@ A Implicancia competitiva pergunta sobre, qual o valor, raridade, dificuldade de
 
 &nbsp;<figure id="attachment_638" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-638" src="/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption></figure> 
+[<img class="size-full wp-image-638" src="/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption></figure>
 
 &nbsp;
 
@@ -72,9 +74,9 @@ Como cirar o lago? Primeiro precisamos criar um meta-produto, em seguida criamos
   <strong> <a href="http://www.slideshare.net/manoelp/the-green-lake-strategy-um-metamodelo-para-design-de-mercados" title="The Green Lake Strategy - Um metamodelo para design de mercados" target="_blank">The Green Lake Strategy &#8211; Um metamodelo para design de mercados</a> </strong> from <strong><a href="http://www.slideshare.net/manoelp" target="_blank">Manoel Pimentel Medeiros</a></strong>
 </div>
 
- [1]: http://en.wikipedia.org/wiki/Blue_Ocean_Strategy "Blue Ocean Strategy"
- [2]: /uploads/2012/09/nirvanaManoel.png
- [3]: /uploads/2012/09/whatThesePortfoliosAreMissing1.png
- [4]: http://xisgaucho.com.br/ "xis-gaucho"
- [5]: http://en.wikipedia.org/wiki/VRIO "VRIO"
- [6]: http://www.slideshare.net/manoelp/tae-teoria-da-alavancagem-estrelar-manoel-pimentel "TAE"
+[1]: http://en.wikipedia.org/wiki/Blue_Ocean_Strategy "Blue Ocean Strategy"
+[2]: /uploads/2012/09/nirvanaManoel.png
+[3]: /uploads/2012/09/whatThesePortfoliosAreMissing1.png
+[4]: http://xisgaucho.com.br/ "xis-gaucho"
+[5]: http://en.wikipedia.org/wiki/VRIO "VRIO"
+[6]: http://www.slideshare.net/manoelp/tae-teoria-da-alavancagem-estrelar-manoel-pimentel "TAE"

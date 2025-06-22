@@ -2,7 +2,7 @@
 title: "Mais um professor na família!"
 date: 2010-01-26T23:47:13+02:00
 draft: false
-subtitle: Iniciando minha jornada como professor na universidade UNP
+subtitle: Abrace a alegria inesperada de ensinar—descubra como entrar na academia cedo cria oportunidades para retribuir, simular projetos reais e inspirar a próxima geração de engenheiros de software
 tags:
   [
     "Engenharia de Software",

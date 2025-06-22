@@ -4,21 +4,21 @@ author: helio
 layout: post
 date: 2023-06-20 10:00:00+00:00
 categories:
-- Leadership
-- Technology
+  - Leadership
+  - Technology
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- growth-mindset
-- empathy
-- coaching
-- psychological-safety
-subtitle: Agile practices and development methodologies
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - growth-mindset
+  - empathy
+  - coaching
+  - psychological-safety
+subtitle: Foster growth mindset in your team through structured coaching, psychological safety, and leadership behaviors that celebrate effort over outcomes
 ---
 
 ## The Power of Reinforcing What Matters

@@ -2,7 +2,7 @@
 title: "SOLID Principles and the Mess We're In"
 date: 2019-05-04T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "How we went from monoliths to distributed chaos and what SOLID can teach us about microservices"
+subtitle: Escape microservices hell by applying SOLID principles at system level—transforming distributed chaos into bounded contexts with clear responsibilities and sustainable architecture
 tags:
   [
     "solid principles",

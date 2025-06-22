@@ -2,7 +2,7 @@
 title: "Fazendo o Remote-First Funcionar — Parte 1: Engatinhar, Caminhar, Aprender"
 categories: ["Events", "Leadership"]
 date: 2021-06-10
-subtitle: Fazendo trabalho remoto funcionar - estratégias para equipes distribuídas
+subtitle: Jornada de chamadas desajeitadas na mesa da cozinha ao domínio da colaboração distribuída—aprendendo comunicação assíncrona, documentação como empatia e mentalidade remote-first através de experiência real
 description: "Minha jornada pessoal no trabalho remoto: dos primeiros passos desajeitados na Dell até abraçar uma mentalidade remote-first na ThoughtWorks."
 tags:
   [

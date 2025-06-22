@@ -1,13 +1,13 @@
 ---
-title: 'Creational Design Patterns: Building Objects with Flexibility'
+title: "Creational Design Patterns: Building Objects with Flexibility"
 author: helio
 layout: post
 date: 2008-07-04 03:27:57+00:00
 categories:
-- Architecture
-- Technology
+  - Architecture
+  - Technology
 series: Design Patterns and Analysis
-subtitle: 'Insights on creational design patterns: building objects with flexibility'
+subtitle: "Master the art of flexible object creation—discover how Factory, Builder, Singleton, and Prototype patterns solve the fundamental challenge of building objects that are decoupled, testable, and adaptable to change"
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 2 of 4** > _Developed during Master's in Web Systems Projects_

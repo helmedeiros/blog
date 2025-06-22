@@ -2,7 +2,7 @@
 title: "Cultivating a Learning Culture Inside Product Teams"
 categories: ["Leadership"]
 date: 2024-01-10
-subtitle: Cultivating learning culture in high-performance teams
+subtitle: Transform your product team into a learning powerhouse that outpaces competition through psychological safety, concrete practices, and learning-first leadership
 description: "How to build teams that learn faster than competition through concrete practices, learning-reinforcing leadership, and safe environments for experimentation."
 tags: ["learning", "culture", "teams", "product", "engineering", "leadership"]
 ---

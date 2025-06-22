@@ -5,20 +5,20 @@ draft: false
 author: helio
 layout: post
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- Comunicacao
-- Feedback
-- Homem da Mascara
-- Homem Mascarado
-- Masked Man
-- Steve McConnell
-- Transparencia
-- Cultura
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - Comunicacao
+  - Feedback
+  - Homem da Mascara
+  - Homem Mascarado
+  - Masked Man
+  - Steve McConnell
+  - Transparencia
+  - Cultura
+subtitle: Crie segurança psicológica para verdades desconfortáveis—descubra como eliminar 'comunicação mascarada' através de práticas de confiança, retrospectivas protegidas e loops de feedback visíveis habilita equipes honestas
 ---
 
 ## Por que falamos tão pouco sobre transparência?

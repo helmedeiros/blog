@@ -1,28 +1,29 @@
 ---
-title: 'Finding Your Team''s Rhythm: Scrum for Productive and Predictable Delivery'
+title: "Finding Your Team's Rhythm: Scrum for Productive and Predictable Delivery"
 author: helio
 layout: post
 date: 2010-04-03 01:32:39+00:00
-description: Reflections on the sixth Software Engineering lecture, exploring Scrum
+description:
+  Reflections on the sixth Software Engineering lecture, exploring Scrum
   as a framework for productive teams, sustainable rhythm, and value delivery.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- Software Engineering
-- Scrum
-- Product Backlog
-- Sprint Backlog
-- Burndown
-- User Story
-- Agile Teams
-- UnP
-- Teaching
-- software-engineering-series
+  - Software Engineering
+  - Scrum
+  - Product Backlog
+  - Sprint Backlog
+  - Burndown
+  - User Story
+  - Agile Teams
+  - UnP
+  - Teaching
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Leadership strategies and team management
+subtitle: Unlock team productivity through Scrum framework—discover how sprints, ceremonies, and roles create sustainable delivery rhythms that balance speed with quality and people with process
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 6 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

@@ -10,7 +10,7 @@ description:
 series:
   - okra
 series_order: 5
-subtitle: Gestão de objetivos e resultados com OKRA
+subtitle: Use OKRA para construir cultura de produto onde novos stakeholders se tornam co-criadores, não apenas observadores—promovendo senso de pertencimento e loops de aprendizado
 ---
 
 ## 1. Cultura se constrói com prática, não com pôsteres

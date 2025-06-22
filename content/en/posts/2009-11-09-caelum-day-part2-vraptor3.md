@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Part 2: VRaptor 3 with Guilherme Silveira and Fili
 date: 2009-11-09T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "A Brazilian framework that could challenge Rails' simplicity"
+subtitle: "Discover Brazil's answer to Ruby on Rails—explore how VRaptor 3's convention-over-configuration philosophy and annotation-driven approach makes Java web development feel surprisingly elegant and productive"
 tags:
   [
     "Caelum Day",

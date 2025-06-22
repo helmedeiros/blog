@@ -7,18 +7,18 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Architecture
+  - Agile
+  - Architecture
 tags:
-- 2011
-- cultura
-- desconf
-- foursquare
-- ideias
-- Lean Startup
-- Livro de possibilidades
-- MVP
-subtitle: Software development concepts and practices
+  - 2011
+  - cultura
+  - desconf
+  - foursquare
+  - ideias
+  - Lean Startup
+  - Livro de possibilidades
+  - MVP
+subtitle: Stop predicting and start following culture through MVP thinking—discover how a Book of Possibilities captures, evolves, and wisely discards ideas beyond short learning cycles
 ---
 
 <figure id="attachment_436" style="width: 474px" class="wp-caption aligncenter">[<img class="size-full wp-image-436" src="/uploads/2011/11/keepYoureyesOpen.jpg" alt="" width="474" height="228" srcset="/uploads/2011/11/keepYoureyesOpen.jpg 519w, /uploads/2011/11/keepYoureyesOpen-300x144.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] <figcaption class="wp-caption-text">KYEO</figcaption></figure> I often think that every project, whether here or in China, has something similar at its beginning, something that allows for foundation, growth, and continuous improvement. . .
@@ -62,17 +62,10 @@ The character had a book where all her future expectations as a perfect husband,
 MAS NÃO ESQUEÇA DE MANTER OS SEUS OLHOS ABERTOS! [<img class="aligncenter size-full wp-image-440" src="/uploads/2011/11/Vision_Test_POSTER.jpg" alt="" width="474" height="228" srcset="/uploads/2011/11/Vision_Test_POSTER.jpg 519w, /uploads/2011/11/Vision_Test_POSTER-300x144.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />][15]
 
 [2]: http://www.moleskine.com/ "moleskine"
-
 [3]: http://desconf.com.br/ "DESCONF 2011"
-
 [1]: /uploads/2011/11/keepYoureyesOpen.jpg
-
 [5]: /uploads/2011/11/DEsconf2011.png
-
 [6]: http://www.imdb.com/title/tt0408985/ "Last Holiday"
-
 [4]: http://www.slideshare.net/heliomedeiros/usar-e-esquecer-suas-ideias-desconf-2011 "Desconf 2011 - Usar e esquecer suas ideias"
-
 [15]: /uploads/2011/11/Vision_Test_POSTER.jpg
-
 [7]: http://www.imdb.com/name/nm0001451/

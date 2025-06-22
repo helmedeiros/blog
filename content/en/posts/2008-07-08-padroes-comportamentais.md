@@ -1,13 +1,13 @@
 ---
-title: 'Behavioral Design Patterns: Coordinating Responsibilities with Flexibility'
+title: "Behavioral Design Patterns: Coordinating Responsibilities with Flexibility"
 author: helio
 layout: post
 date: 2008-07-08 03:27:57+00:00
 categories:
-- Architecture
-- Technology
+  - Architecture
+  - Technology
 series: Design Patterns and Analysis
-subtitle: Behavioral patterns for object interaction
+subtitle: "Design intelligent object interactions and workflows—master Observer, Strategy, Command, and State patterns that transform rigid, coupled systems into flexible, event-driven architectures that adapt to changing business rules"
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_

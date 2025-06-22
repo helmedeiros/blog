@@ -4,20 +4,21 @@ author: helio
 layout: post
 date: 2011-11-29 18:53:53+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Events
+  - Events
 tags:
-- 2011
-- desconf
-- Faculdade Dom Bosco
-- poa
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - 2011
+  - desconf
+  - Faculdade Dom Bosco
+  - poa
+subtitle: Experimente a magia do aprendizado não-convencional—descubra como a edição bigode da Desconf misturou espaços abertos, lightning talks e liberdade de expressão para criar troca colaborativa de conhecimento
 ---
+
 [<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
 
 No último sábado, 29 de Novembro de 2011, tive o prazer de trocar várias idéias durante a segunda edição de uma nova modalidade de evento que trás a inovação em seu nome DESCONF!
@@ -28,10 +29,10 @@ O evento foi iniciado às 09h com o credenciamento e um excelente coffee break. 
 
 Perto das 10h tivemos a primeira intervenção à desordem organizada, convocados pelo Bandeira fomos todos para o auditório onde foram feitas as primeiras atividades para quebrar o gelo, com muitos aplausos aos organizadores, patrocinadores e brindes! Tivemos definidas as regras abaixo e foram iniciados os [lightning talks][3].
 
-  * Não deveríamos sair do campo de visão da camera, para que as ideias alcançassem mais do que os 80 participantes;
-  * Cada apresentação não deveria superar 5min;
-  * Todos deveriam aplaudir ao termino destes 5min.
-  * E quem se pronunciasse mais rápido seria o próximo.
+- Não deveríamos sair do campo de visão da camera, para que as ideias alcançassem mais do que os 80 participantes;
+- Cada apresentação não deveria superar 5min;
+- Todos deveriam aplaudir ao termino destes 5min.
+- E quem se pronunciasse mais rápido seria o próximo.
 
 A largada foi dada em uma rápida e descontraída apresentação de fatos, história e fotos sobre a temática do evento. Sem nenhuma dúvida ficou bem claro que ter barba é sinônimo de liberdade, minha esposa que não me escute&#8230;. 🙂
 
@@ -51,19 +52,19 @@ Após todo o dia não tinha mais nada a fazer do que agradecer a todos os que pa
 </div>
 </p>
 
- [1]: /uploads/2011/11/desconf2011.png
- [2]: www.faculdadedombosco.edu.br/ "Faculdade Dom Bosco"
- [3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
- [4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
- [5]: http://twitter.com/#!/nataliarsand "Natalia Arsand"
- [6]: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
- [7]: twitter.com/ericries "Eric Ries"
- [8]: http://www.slideshare.net/dwildt/mantra-das-possibilidades "Mantra de Possibilidade - Daniel Wildt"
- [9]: http://www.slideshare.net/deborawx/despertando-o-uau "Despertando o UAU - Deb Xavier"
- [10]: http://t.co/NXJON9jH "Ecologias Criativas - Carlos Villela"
- [11]: http://t.co/VS8MZkNs "Negociação - Guilherm Motta"
- [12]: http://blog.lfzawacki.com/hackerspace-na-desconf/ "Hackerspace - Lucas Fialho"
- [13]: http://t.co/9Vu1FoVx "Lado Negro das Startups - Flavio Steffens"
- [14]: http://www.slideshare.net/pedrobel/thoughts-on-user-experience "thoughts-on-user-experience - Pedro Belleza"
- [15]: http://twitter.com/#!/codepo8
- [16]: http://www.slideshare.net/cheilmann/be-a-kickass-speaker-mozcamp-2011
+[1]: /uploads/2011/11/desconf2011.png
+[2]: www.faculdadedombosco.edu.br/ "Faculdade Dom Bosco"
+[3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
+[4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
+[5]: http://twitter.com/#!/nataliarsand "Natalia Arsand"
+[6]: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
+[7]: twitter.com/ericries "Eric Ries"
+[8]: http://www.slideshare.net/dwildt/mantra-das-possibilidades "Mantra de Possibilidade - Daniel Wildt"
+[9]: http://www.slideshare.net/deborawx/despertando-o-uau "Despertando o UAU - Deb Xavier"
+[10]: http://t.co/NXJON9jH "Ecologias Criativas - Carlos Villela"
+[11]: http://t.co/VS8MZkNs "Negociação - Guilherm Motta"
+[12]: http://blog.lfzawacki.com/hackerspace-na-desconf/ "Hackerspace - Lucas Fialho"
+[13]: http://t.co/9Vu1FoVx "Lado Negro das Startups - Flavio Steffens"
+[14]: http://www.slideshare.net/pedrobel/thoughts-on-user-experience "thoughts-on-user-experience - Pedro Belleza"
+[15]: http://twitter.com/#!/codepo8
+[16]: http://www.slideshare.net/cheilmann/be-a-kickass-speaker-mozcamp-2011

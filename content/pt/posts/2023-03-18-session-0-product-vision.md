@@ -2,7 +2,7 @@
 title: "OKRA Sessão #0: Plantando as Sementes da Visão Antes dos OKRs Crescerem"
 categories: ["Leadership", "Technology"]
 date: 2023-03-18
-subtitle: OKRA Sessão 0 - estabelecendo visão e direção clara do produto
+subtitle: Crie visão compartilhada do time quando a estratégia da empresa está indefinida—usando workshops colaborativos para alinhar dores do cliente, oportunidades de negócio e restrições da plataforma
 description: "O segundo post da série OKRA, apresentando a Sessão #0 como um workshop prático para equipes criarem visão e contexto compartilhados quando a estratégia da empresa está indefinida."
 series: ["okra"]
 series_order: 2

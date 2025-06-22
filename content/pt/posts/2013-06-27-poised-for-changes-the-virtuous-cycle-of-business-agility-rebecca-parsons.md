@@ -4,16 +4,17 @@ author: helio
 layout: post
 date: 2013-06-27 13:12:28+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
-- Leadership
-subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
+  - Agile
+  - Leadership
+subtitle: Construa negócios verdadeiramente ágeis através de arquitetura evolutiva, entrega contínua e decisões baseadas em dados—descubra os 6 pilares que criam vantagem competitiva sustentável
 ---
+
 O que é agilidade em negócios? Esta foi a pergunta inicial da Rebecca, provavelmente o principal ponto é fazer entregas mais rápido com mais valor, onde o negócio alcance mais eficiência, com medições constantes de hipóteses, e assim que conseguimos confirma-las, então podemos incorpora-las.
 
 E isso é muito interessante, porque apesar de toda esta ideia envolvida no ciclo de lançamento de um produto, ainda não voltamos a fonte após a entrega para descobrirmos o que fazer em seguida, ou se foi realmente eficiente esta entrega.

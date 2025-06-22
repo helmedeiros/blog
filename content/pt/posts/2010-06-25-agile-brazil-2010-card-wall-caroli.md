@@ -1,35 +1,36 @@
 ---
-title: 'Agile Brazil 2010 – Parte 6: Ponha as Cartas na Parede com Paulo Caroli'
+title: "Agile Brazil 2010 – Parte 6: Ponha as Cartas na Parede com Paulo Caroli"
 author: helio
 layout: post
 date: 2010-06-25 20:00:00+00:00
 slug: agile-brazil-2010-card-wall-caroli
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- Agile Brazil
-- Paulo Caroli
-- Card Wall
-- Kanban
-- Visualização
-- WIP
-- Throughput
-- Fluxo
-description: Workshop sobre uso eficaz do Agile Card Wall com Paulo Caroli no Agile
+  - Agile Brazil
+  - Paulo Caroli
+  - Card Wall
+  - Kanban
+  - Visualização
+  - WIP
+  - Throughput
+  - Fluxo
+description:
+  Workshop sobre uso eficaz do Agile Card Wall com Paulo Caroli no Agile
   Brazil 2010 - aprendendo sobre throughput, latência, WIP limits e visualização de
   fluxo de trabalho.
 keywords:
-- agile brazil 2010
-- paulo caroli
-- card wall
-- kanban
-- wip limits
-- throughput
-- latencia
-- visualizacao fluxo
+  - agile brazil 2010
+  - paulo caroli
+  - card wall
+  - kanban
+  - wip limits
+  - throughput
+  - latencia
+  - visualizacao fluxo
 series: Agile Brazil 2010
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+subtitle: Transforme seu quadro de tarefas de ferramenta de rastreamento em máquina de aprendizado—descubra como throughput, limites WIP e design visual transformam cartões simples em poderosos instrumentos de otimização de fluxo
 ---
 
 > **Série: Agile Brazil 2010** | **Parte 6 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_

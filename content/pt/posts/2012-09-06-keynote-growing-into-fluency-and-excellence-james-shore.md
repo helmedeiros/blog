@@ -1,27 +1,28 @@
 ---
-title: 'Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore'
+title: "Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore"
 author: helio
 layout: post
 date: 2012-09-06 13:48:33+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- '#AgileBR'
-- 2012
-- adoção ágil
-- agile brazil
-- Agile Fluency
-- james shore
-- Team-Scale Anarcho-Syndicalism
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - "#AgileBR"
+  - 2012
+  - adoção ágil
+  - agile brazil
+  - Agile Fluency
+  - james shore
+  - Team-Scale Anarcho-Syndicalism
+subtitle: Alcance fluência ágil através de progressão de 4 estrelas—descubra a jornada de James Shore de projetos falhados à excelência, e por que bom código, habilidades de equipe e valor de negócio devem se alinhar
 ---
+
 O [James Shore][1] iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando <a title="Feature Driven Development" href="http://en.wikipedia.org/wiki/Feature-driven_development" target="_blank">FDD</a>, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo <a title="Times ágeis as vezes podem realizar práticas sem saber o porque..." href="/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/" target="_blank">inertes na realização de práticas ágeis</a>, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora. Não adianta <a title="Construindo rapidamente a coisa certa!" href="/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/" target="_blank">construir rapidamente a coisa errada</a>.
 
 O projeto magicamente recebeu novos recursos, e após tal período de amargura tudo mudou! Segundo James, este baque os fez perceber e os incentivou a realizar constantes questionamentos sobre oque fazer, quanto valor o que se estava entregando gerava, mas mesmo assim, pode-se continuar criando o produto errado. Acontece que se todos não tiverem sofrido e evoluído juntos, podemos continuar com as pessoas MENTINDO, ou elas não sabem oque querem e não se preocupam que o seu achismo não vá no caminho correto. Projetos bons são aqueles que lhe fazem aprender mais e vislumbrar possibilidades que antes eram invisíveis.
@@ -46,11 +47,11 @@ Por fim se alterou a cultura organizacional e a fluência em se entregar de form
 
 Este crescimento aconteceu muito rapidamente mas com uma progressão natural, não só apresentando mas realmente particionando a vivência de realmente melhorar, de entregar não só valor, mais o maior valor possível! Excelente não?<figure id="attachment_619" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-619" src="/uploads/2012/09/diagramaInicial.png" alt="O caminho de uma equipe através de fluência ágil " width="470" height="249" srcset="/uploads/2012/09/diagramaInicial.png 470w, /uploads/2012/09/diagramaInicial-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][8]<figcaption class="wp-caption-text">O caminho de uma equipe através de fluência ágil</figcaption></figure> 
+[<img class="size-full wp-image-619" src="/uploads/2012/09/diagramaInicial.png" alt="O caminho de uma equipe através de fluência ágil " width="470" height="249" srcset="/uploads/2012/09/diagramaInicial.png 470w, /uploads/2012/09/diagramaInicial-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][8]<figcaption class="wp-caption-text">O caminho de uma equipe através de fluência ágil</figcaption></figure>
 
 O James shore se apresentou como um amante de bom código, e uma coisa que ele acha incrível é como grandes empresas não se importam com isso, e tem um péssimo código, que os trava em melhorar suas entregas, de forma que eles não conseguem realmente alcançar as mudanças no negócio necessários, e aqui está realmente o valor da equipe, e enquanto todos conseguem satisfazer seus clientes, você passa a só entregar fora do tempo de mercado. Então ambos estão diretamente ligados e por isso o crescimento das habilidades da equipe não podem ser esquecidos quando falamos de agilidade. Mas não só isso, se as pessoas do seu time e você não estiverem preocupado com o sucesso das pessoas, elas vão acabar procurando outros que o façam. E estes itens são indispensáveis para a melhoria e atingir uma real excelência. &#8220;Bons negócios formam uma empresa, a tecnologia ruim mata a empresa e cola de isto tudo são as pessoas&#8221;.<figure id="attachment_616" style="width: 470px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-616" src="/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="/uploads/2012/09/internaEstrela.jpg 470w, /uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Componentes de um ambiente fluente</figcaption></figure> 
+[<img class="size-full wp-image-616" src="/uploads/2012/09/internaEstrela.jpg" alt="Componentes de um ambiente fluente" width="470" height="249" srcset="/uploads/2012/09/internaEstrela.jpg 470w, /uploads/2012/09/internaEstrela-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][9]<figcaption class="wp-caption-text">Componentes de um ambiente fluente</figcaption></figure>
 
 Para o James não deve ser o objetivo de todos atingir as 4 estrelas, por que as empresas são diferentes e possuem recursos diferentes, e equipe diferente, e todos estes níveis provêem grande vantagem sobre os outros e fluência em algum destes já o faz melhor ainda do que já é. Uma estrela lhe faz fluente em Fundamentos Ágeis, com a segunda estrela você atingiu uma sustentabilidade Agil, a terceira é uma promessa Agile, e por fim o futuro do ágil. Mas novamente sua empresa deve buscar o crescimento mas o objetivo não deve ser realmente mais ágil mas sim usá-la a teu favor.
 
@@ -58,13 +59,13 @@ Mas como sabemos onde estamos, para avaliarmos se o próximo passo é onde quere
 
 [<img class="aligncenter size-full wp-image-618" src="/uploads/2012/09/jamesShoreAndI.png" alt="" width="470" height="249" srcset="/uploads/2012/09/jamesShoreAndI.png 470w, /uploads/2012/09/jamesShoreAndI-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][10]
 
- [1]: https://twitter.com/jamesshore "@jamesshore"
- [2]: http://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming"
- [3]: http://en.wikipedia.org/wiki/Big_Design_Up_Front "BDUF"
- [4]: http://arxta.net/ "arxta"
- [5]: http://www.languagehunters.org/ "language hunters"
- [6]: http://en.wikipedia.org/wiki/Charlie_Rose "Charlie Rose"
- [7]: http://martinfowler.com/articles/agileFluency.html "agileFluency"
- [8]: /uploads/2012/09/diagramaInicial.png
- [9]: /uploads/2012/09/internaEstrela.jpg
- [10]: /uploads/2012/09/jamesShoreAndI.png
+[1]: https://twitter.com/jamesshore "@jamesshore"
+[2]: http://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming"
+[3]: http://en.wikipedia.org/wiki/Big_Design_Up_Front "BDUF"
+[4]: http://arxta.net/ "arxta"
+[5]: http://www.languagehunters.org/ "language hunters"
+[6]: http://en.wikipedia.org/wiki/Charlie_Rose "Charlie Rose"
+[7]: http://martinfowler.com/articles/agileFluency.html "agileFluency"
+[8]: /uploads/2012/09/diagramaInicial.png
+[9]: /uploads/2012/09/internaEstrela.jpg
+[10]: /uploads/2012/09/jamesShoreAndI.png

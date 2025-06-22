@@ -1,15 +1,15 @@
 ---
 author: helio
 categories:
-- Events
-- Architecture
+  - Events
+  - Architecture
 date: 2008-06-17 02:14:52+00:00
 layout: post
-subtitle: Modelagem UML para sistemas de controle de bolão
+subtitle: "Simplifique a gestão de bolões em grupo com automação inteligente—projete um sistema modelado em UML que gerencia registro de participantes, controle de pagamentos, distribuição de prêmios e elimina o caos da coordenação manual"
 tags:
-- mini-scenarios
-- uml-series
-title: 'Minicenário: CONTROLE DE BOLÃO'
+  - mini-scenarios
+  - uml-series
+title: "Minicenário: CONTROLE DE BOLÃO"
 ---
 
 > **Série: Mini-cenários UML** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

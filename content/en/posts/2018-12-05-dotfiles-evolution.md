@@ -1,21 +1,21 @@
 ---
-title: 'Dotfiles 2018: From Personal to Shared'
+title: "Dotfiles 2018: From Personal to Shared"
 author: helio
 layout: post
 date: 2018-12-05 10:00:00+00:00
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 tags:
-- dotfiles
-- onboarding
-- teamwork
-- collaboration
-- shared-environment
-- goeuro
-- common-zsh
-- multi-language
-subtitle: Software development concepts and practices
+  - dotfiles
+  - onboarding
+  - teamwork
+  - collaboration
+  - shared-environment
+  - goeuro
+  - common-zsh
+  - multi-language
+subtitle: Evolve your personal development setup into team-friendly shared foundation—balancing individual craft with collaborative onboarding through common configurations and thoughtful documentation
 ---
 
 ## From Autonomy to Alignment

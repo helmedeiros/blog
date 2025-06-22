@@ -10,7 +10,7 @@ description:
 series:
   - okra
 series_order: 6
-subtitle: Objectives and key results management with OKRA
+subtitle: Discover what we learned after quarters using OKRA—plus the evolution from experiment to proven framework for collaborative OKR execution
 ---
 
 ## 1. The Evolution of OKRA: From Experiment to Framework

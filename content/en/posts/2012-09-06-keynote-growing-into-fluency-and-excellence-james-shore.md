@@ -7,17 +7,17 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
-- Technology
+  - Events
+  - Technology
 tags:
-- '#AgileBR'
-- 2012
-- adoção ágil
-- agile brazil
-- Agile Fluency
-- james shore
-- Team-Scale Anarcho-Syndicalism
-subtitle: Software development concepts and practices
+  - "#AgileBR"
+  - 2012
+  - adoção ágil
+  - agile brazil
+  - Agile Fluency
+  - james shore
+  - Team-Scale Anarcho-Syndicalism
+subtitle: Achieve agile fluency through 4-star progression—discover James Shore's journey from failed projects to excellence, and why good code, team skills, and business value must align
 ---
 
 The [James Shore][1] started his presentation at 09:10 talking about how he got involved in a first project using <a title="Feature Driven Development" href="http://en.wikipedia.org/wiki/Feature-driven_development" target="_blank">FDD</a>, with various practices involving the client and prototypes.

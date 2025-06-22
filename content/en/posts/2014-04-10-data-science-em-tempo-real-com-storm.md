@@ -8,15 +8,15 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 tags:
-- big data
-- data scientist
-- Fabiane Nardon
-- qconsp
-- storm
-subtitle: Software development concepts and practices
+  - big data
+  - data scientist
+  - Fabiane Nardon
+  - qconsp
+  - storm
+subtitle: Master real-time data processing with Apache Storm—learn spouts, bolts, topologies, and parallelism strategies to handle millions of tuples per day with fault-tolerant stream processing
 ---
 
 Today we know that we have a lot of data, and from there, we discover that this data isn't just a box with several others.
@@ -33,7 +33,7 @@ When we think about processing in the "era of real-time", things are quite diffe
 
 The processing time may not be important, the output may not reflect current information, and processing is finite
 
- - batches come in, are processed, and end.
+- batches come in, are processed, and end.
 
 When we talk about "real-time", processing should be fast, the input is a stream, and it's usually infinite.
 
@@ -59,39 +59,39 @@ Topologies allow combining the number of spouts and bolts so that we can achieve
 
 Parallelism, as we know, can be something very risky, which is why Storm allows realizing types of aggregations, such as:
 
- 1. **Shuffle grouping**:
+1.  **Shuffle grouping**:
 
 Tuples are distributed randomly across all tasks in a way that each bolt is guaranteed to receive an equal number of tuples;
 
- 2. <strong style="line-height: 1.5em">Fields grouping</strong><span style="line-height: 1.5em">:
+2.  <strong style="line-height: 1.5em">Fields grouping</strong><span style="line-height: 1.5em">:
 
 The stream is divided by the specified fields in the aggregation.
 
 For example, if the stream is aggregated by the "user-id" field, tuples with the same "user-id" will always go to the same task but with different tuples;</span>
 
- 3. **All grouping**:
+3.  **All grouping**:
 
 The stream is replicated across all tasks of the bolt.
 
 Use this aggregation with caution.
 
- 4. **Global grouping**:
+4.  **Global grouping**:
 
 The entire stream goes to a single task of the bolt.
 
 Specifically, it goes to the task with the smallest ID.
 
- 5. **None grouping**:
+5.  **None grouping**:
 
 This aggregation specifies that you don't care how the stream is aggregated.
 
- 6. **Direct grouping**:
+6.  **Direct grouping**:
 
 A stream aggregated in this way means that the producer of the tuple decides which consumer will receive this tuple.
 
 Direct aggregations can only be declared on streams that have been declared as direct streams;
 
- 7. **Local or shuffle grouping**:
+7.  **Local or shuffle grouping**:
 
 If the target bolt has one or more tasks in the same work process, tuples will be shuffled to only those tasks.
 

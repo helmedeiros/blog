@@ -3,16 +3,16 @@ title: Shouldn't the Goal Be Delivering Great Features?
 date: 2010-02-09 23:49:20+02:00
 draft: false
 tags:
-- AGILE
-- Agile Methodologies
-- ROI
-- XP
-- Development
-- Quality
+  - AGILE
+  - Agile Methodologies
+  - ROI
+  - XP
+  - Development
+  - Quality
 categories:
-- Agile
-- Events
-subtitle: Experiences and learnings from technology events
+  - Agile
+  - Events
+subtitle: Shift from feature delivery to value creation—discover how focusing on user outcomes rather than polished functionality leads to more meaningful software that truly serves people's needs
 ---
 
 Every time I hear someone talk about using agile methodologies, I'm more convinced that we need to reinforce not just the message of adaptability, but also the **discipline required to become truly efficient** at delivering value. Agility is not about skipping steps — it's about **understanding deeply what we do, why we do it, and how to do it well**, so we can make intentional choices about what to keep and what to let go.

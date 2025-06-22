@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte Final: Liderança Técnica com Phillip Calç
 date: 2009-11-14T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Keynote sobre o que realmente significa ser um líder técnico"
+subtitle: "Transforme sua compreensão de liderança técnica—experimente o keynote definidor de carreira de Phillip Calçado que revela a diferença entre gerenciar código e verdadeiramente liderar pessoas através de desafios técnicos complexos"
 tags:
   [
     "Caelum Day",

@@ -7,17 +7,17 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- coragem
-- extreme programming
-- Feedback
-- TDD
-- Test Driven Development
-- Testes
-- XP
-subtitle: Experiences and learnings from technology events
+  - coragem
+  - extreme programming
+  - Feedback
+  - TDD
+  - Test Driven Development
+  - Testes
+  - XP
+subtitle: Pioneer new learning formats in tech hubs—discover how TecnoPUC launched innovative lightning talks and fishbowl discussions to create dynamic knowledge exchange in academic environments
 ---
 
 A few hours ago at the [4º dia][1] of [1ª Semana LightningTalks e FishBowls TecnoPUC][2], I presented a Lightning Talk [ Test Driven Development &#8211; Em busca de feedback útil e concreto][3], which addressed the concept of validated feedback in software construction.

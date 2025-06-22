@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 6: Persistência Java com Paulo Silveira"
 date: 2009-11-13T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Explorando JPA 2.0 e a evolução do mapeamento objeto-relacional"
+subtitle: "Escape do inferno do mapeamento objeto-relacional—descubra como criteria API do JPA 2.0, metamodel e anotações aprimoradas finalmente tornam persistência Java elegante, type-safe e realmente prazerosa de usar"
 tags:
   [
     "Caelum Day",

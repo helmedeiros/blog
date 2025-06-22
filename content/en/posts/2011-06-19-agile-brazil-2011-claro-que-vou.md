@@ -7,16 +7,16 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
-- Methodologies
+  - Agile
+  - Events
+  - Methodologies
 tags:
-- agilebrazil2011
-- learning
-- generationy
-- Pomodoro
-- Songdoro
-subtitle: Agile practices and development methodologies
+  - agilebrazil2011
+  - learning
+  - generationy
+  - Pomodoro
+  - Songdoro
+subtitle: Join Brazil's premier agile gathering with infectious enthusiasm—discover why this conference became a must-attend event for the growing Brazilian agile community
 ---
 
 Agile Brazil 2011 will take place from June 27th to July 1st in Fortaleza, CE — bringing together more than 50 talks covering some of the most important global agile topics. And the best part: **I'll be there — and I'll be speaking!**

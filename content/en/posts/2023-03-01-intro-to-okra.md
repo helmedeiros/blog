@@ -1,15 +1,16 @@
 ---
-title: 'OKRs Reimagined: How OKRA Turned Strategy into Real Commitment'
+title: "OKRs Reimagined: How OKRA Turned Strategy into Real Commitment"
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 date: 2023-03-01
-description: The first post in our OKRA series, exploring how we moved from traditional
+description:
+  The first post in our OKRA series, exploring how we moved from traditional
   OKRs to a more collaborative, effective framework for team alignment and execution.
 series:
-- okra
+  - okra
 series_order: 1
-subtitle: Objectives and key results management with OKRA
+subtitle: Discover how to transform OKRs from quarterly rituals into meaningful team commitments through co-creation, structured collaboration, and shared ownership
 ---
 
 ## 1. Why We Needed More Than Just Alignment

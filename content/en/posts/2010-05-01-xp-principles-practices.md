@@ -1,28 +1,29 @@
 ---
-title: 'XP in Action: Principles, Practices, and Sustainable Excellence'
+title: "XP in Action: Principles, Practices, and Sustainable Excellence"
 author: helio
 layout: post
 date: 2010-05-01 10:15:39+00:00
-description: Reflections on the ninth and final Software Engineering lecture, exploring
+description:
+  Reflections on the ninth and final Software Engineering lecture, exploring
   Extreme Programming's concrete practices and their relationship to sustainable software
   development.
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- Software Engineering
-- Extreme Programming
-- TDD
-- Pair Programming
-- Refactoring
-- Continuous Integration
-- Simple Design
-- Planning Game
-- UnP
-- Teaching
-- software-engineering-series
+  - Software Engineering
+  - Extreme Programming
+  - TDD
+  - Pair Programming
+  - Refactoring
+  - Continuous Integration
+  - Simple Design
+  - Planning Game
+  - UnP
+  - Teaching
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Agile practices and development methodologies
+subtitle: Turn XP theory into daily practice—discover how 12 concrete principles and practices transform development teams from reactive to proactive, from fragile to antifragile
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 9 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

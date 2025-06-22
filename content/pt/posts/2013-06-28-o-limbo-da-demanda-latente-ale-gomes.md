@@ -4,24 +4,25 @@ author: helio
 layout: post
 date: 2013-06-28 13:20:24+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 dsq_thread_id:
-- 4969852243
+  - 4969852243
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- '#AgileBR'
-- alegomes
-- agile brazil
-- agilebrazil2013
-- politicas publicas
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - "#AgileBR"
+  - alegomes
+  - agile brazil
+  - agilebrazil2013
+  - politicas publicas
+subtitle: Aplique princípios ágeis para transformar o governo—descubra como ciclos curtos de feedback, controle social e desenvolvimento focado no cidadão podem revolucionar serviços públicos e democracia
 ---
+
 O Alê começou se apresentando  e se colocando como indigno de ser keynoter deste grande evento, e começando a definir todos os outros que estão envolvidos no crescimento da comunidade. Para ele um não só é eleito um comitê para representar e lutar pelos interesses de todos uma vez que várias vozes ao mesmo tempo estão clamando.
 
 O Agile Brazil tem acontecido bem, e assim acontece quando o interesse deste grupo representa os representados! Acontece que em muitos casos e parece que nossos representantes políticos estão se importando ou priorizando seus interesses acima dos de seus representados.
@@ -46,4 +47,4 @@ O maior problema no Brasil não é tecnológico, ser cascateiro ou não, usar ja
 
 Aplaudido de pé fica a mensagem de vamos mudar o país!
 
- [1]: http://www.ashmaurya.com/ "Ash Maurya"
+[1]: http://www.ashmaurya.com/ "Ash Maurya"

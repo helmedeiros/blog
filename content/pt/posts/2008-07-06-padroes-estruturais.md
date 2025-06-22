@@ -1,12 +1,12 @@
 ---
-title: 'Padrões Estruturais: Compondo Objetos com Propósito'
+title: "Padrões Estruturais: Compondo Objetos com Propósito"
 author: helio
 layout: post
 date: 2008-07-06 03:27:57+00:00
 categories:
-- Architecture
-- Technology
-subtitle: Padrões de design para desenvolvimento de software
+  - Architecture
+  - Technology
+subtitle: "Construa arquiteturas de sistema elegantes através de composição—domine padrões Adapter, Bridge, Decorator e Facade que resolvem o desafio complexo de conectar componentes incompatíveis em sistemas coesos e mantíveis"
 ---
 
 > **Série: Padrões de Projeto e Análise** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

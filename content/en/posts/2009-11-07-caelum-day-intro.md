@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Fresh Impressions from an Unforgettable Saturday"
 date: 2009-11-07T23:27:21+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Introducing a series about the talks that made this tech event memorable"
+subtitle: "Dive into Brazil's cutting-edge tech scene—join an unforgettable Saturday exploring cloud computing, REST, NoSQL, and the future of Java development with industry pioneers"
 tags:
   [
     "Caelum",

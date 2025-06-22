@@ -4,30 +4,30 @@ author: helio
 layout: post
 date: 2023-11-23 10:00:00+00:00
 categories:
-- Leadership
-- Management
-- Professional Development
-- Training
-- Teams
-- Performance
+  - Leadership
+  - Management
+  - Professional Development
+  - Training
+  - Teams
+  - Performance
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- performance-management
-- smart-goals
-- feedback
-- sbid
-- johari-window
-- golden-thread
-- skill-will
-- motivation
-- omio-runway
-subtitle: Reflections on leadership and people development
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - performance-management
+  - smart-goals
+  - feedback
+  - sbid
+  - johari-window
+  - golden-thread
+  - skill-will
+  - motivation
+  - omio-runway
+subtitle: Enable growth through purposeful performance conversations using SMART goals, SBID feedback, skill vs will frameworks, and the golden thread of purpose
 ---
 
 ## 1. Why Manage Performance

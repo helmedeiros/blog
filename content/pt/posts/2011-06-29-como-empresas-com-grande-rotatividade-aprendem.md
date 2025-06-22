@@ -7,16 +7,16 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Leadership
-- Events
+  - Leadership
+  - Events
 tags:
-- agilebrazil2011
-- geracaoy
-- retencao-de-talentos
-- aprendizagem
-- brownbags
-- engajamento
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - agilebrazil2011
+  - geracaoy
+  - retencao-de-talentos
+  - aprendizagem
+  - brownbags
+  - engajamento
+subtitle: Resolva o paradoxo da retenção de conhecimento em ambientes de alta rotatividade—descubra estratégias para capturar, transferir e preservar conhecimento institucional quando equipes mudam constantemente
 ---
 
 ## A Pergunta Que Abriu a Palestra

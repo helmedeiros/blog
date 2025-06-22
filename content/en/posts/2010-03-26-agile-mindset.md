@@ -1,27 +1,28 @@
 ---
-title: 'Less Stress, More Delivery: The Agile Mindset Shift'
+title: "Less Stress, More Delivery: The Agile Mindset Shift"
 author: helio
 layout: post
 date: 2010-03-26 10:21:39+00:00
-description: Reflections on the fifth Software Engineering lecture, introducing agile
+description:
+  Reflections on the fifth Software Engineering lecture, introducing agile
   methodologies, the Agile Manifesto, and mindset transformation in development.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- Software Engineering
-- Agility
-- Agile Manifesto
-- Scrum
-- XP
-- FDD
-- UnP
-- Teaching
-- software-engineering-series
+  - Software Engineering
+  - Agility
+  - Agile Manifesto
+  - Scrum
+  - XP
+  - FDD
+  - UnP
+  - Teaching
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Agile practices and development methodologies
+subtitle: Shift from process obsession to people-first thinking—discover how agile mindset values individuals, working software, customer collaboration, and responding to change over rigid adherence to plans
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 5 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

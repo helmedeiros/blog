@@ -1,12 +1,12 @@
 ---
-title: 'Tornando o RUP Ágil: Modelagem com Disciplina na Medida Certa'
+title: "Tornando o RUP Ágil: Modelagem com Disciplina na Medida Certa"
 author: helio
 layout: post
 date: 2008-07-20 08:00:00+00:00
 categories:
-- Architecture
-- Agile
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - Architecture
+  - Agile
+subtitle: Transforme processo pesado em excelência ágil—descubra como extrair a valiosa disciplina de modelagem do RUP enquanto abraça a responsividade ágil, criando uma abordagem refinada que serve projetos reais
 ---
 
 Quando você menciona RUP em um ambiente Ágil, alguém revira os olhos.

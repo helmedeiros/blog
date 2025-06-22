@@ -1,17 +1,17 @@
 ---
 title: Construindo Confiança, Um Jogo de Cada Vez
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 date: 2018-12-30 10:00:00-03:00
 author: Helio Medeiros
 tags:
-- team building
-- thoughtworks
-- workshop
-- colaboração
-- cultura
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - team building
+  - thoughtworks
+  - workshop
+  - colaboração
+  - cultura
+subtitle: Projete conexões significativas de equipe através de jogos e atividades estruturadas—formato de workshop comprovado que constrói confiança, segurança psicológica e relacionamentos duradouros em equipes distribuídas
 ---
 
 Enquanto trabalhava na Thoughtworks, tive a oportunidade de desenhar e facilitar um workshop de integração que reuniu 60 consultores divididos em cinco times de projeto. O objetivo não era apenas _melhorar a colaboração_—queríamos ir além: construir relações significativas que impactassem diretamente na forma como as pessoas desenvolviam software juntas.

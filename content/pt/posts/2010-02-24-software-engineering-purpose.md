@@ -2,7 +2,7 @@
 title: "Por que Engenharia de Software? Construindo com propósito além do código"
 author: helio
 date: 2010-02-24T02:10:53+00:00
-subtitle: Entendendo o verdadeiro propósito da engenharia de software
+subtitle: Descubra o propósito mais profundo da engenharia de software—aprenda como abordagens sistemáticas, foco em qualidade e práticas colaborativas transformam escrita de código em construção sustentável de soluções que servem necessidades humanas reais
 description: "Reflexões sobre minha primeira aula de Engenharia de Software na UnP, abordando a importância de métodos e práticas no desenvolvimento sustentável."
 categories: ["Technology", "Agile"]
 tags:

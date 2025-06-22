@@ -4,22 +4,22 @@ author: helio
 layout: post
 date: 2011-11-15 20:23:19+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 tags:
-- bash
-- oh-my-zsh
-- shell
-- zsh
-- terminal
-- produtividade
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - bash
+  - oh-my-zsh
+  - shell
+  - zsh
+  - terminal
+  - produtividade
+subtitle: Transforme sua experiência de terminal do Bash para ZSH—descubra correção de comandos, auto-completar inteligente e magia do oh-my-zsh que transforma seu shell em uma potência de produtividade
 ---
 
 ## Uma nova era no terminal

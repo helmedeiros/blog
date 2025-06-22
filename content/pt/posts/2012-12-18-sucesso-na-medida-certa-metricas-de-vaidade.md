@@ -4,24 +4,25 @@ author: helio
 layout: post
 date: 2012-12-18 02:42:59+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Leadership
+  - Leadership
 tags:
-- 2012
-- desconf
-- desconf2012
-- Lean Startup
-- métricas de vaidade
-- poa
-- porto alegre
-subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
+  - 2012
+  - desconf
+  - desconf2012
+  - Lean Startup
+  - métricas de vaidade
+  - poa
+  - porto alegre
+subtitle: Evite métricas de vaidade que enganam suas decisões—aprenda a usar relatórios acionáveis, acessíveis e auditáveis que revelam verdadeiras relações de causa-efeito no seu negócio
 ---
-<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure> 
+
+<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure>
 
 Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?!? Talvez, ambos?
 
@@ -53,6 +54,6 @@ Vamos lá, todos possuem ótimas idéias em algum ponto da vida. Então porque n
 </div>
 </p>
 
- [1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png
- [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
- [3]: http://www.mit.edu/
+[1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png
+[2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
+[3]: http://www.mit.edu/

@@ -5,18 +5,18 @@ layout: post
 date: 2022-10-27 10:00:00+00:00
 series: Kanban to Scrum Transition
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- kanban
-- scrum
-- transition
-- process-improvement
-- team-evolution
-- agile-transformation
-- retrospectives
-- team-leadership
-subtitle: Agile practices and development methodologies
+  - kanban
+  - scrum
+  - transition
+  - process-improvement
+  - team-evolution
+  - agile-transformation
+  - retrospectives
+  - team-leadership
+subtitle: Recognize when your process isn't serving your goals—moving from reactive Kanban to structured Scrum through honest retrospective insights
 ---
 
 > **Series: Kanban to Scrum Transition** | **Part 1 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_

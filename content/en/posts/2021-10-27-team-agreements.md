@@ -4,20 +4,19 @@ author: helio
 layout: post
 date: 2021-10-27 10:00:00+00:00
 categories:
-- Leadership
-- Agile
+  - Leadership
+  - Agile
 tags:
-- team-agreements
-- autonomy
-- collaboration
-- retrospectives
-- team-culture
-- onboarding
-- leadership
-- agile
-- empowerment
-subtitle: Insights on team agreements – a foundation for autonomy, ownership, and
-  collaboration
+  - team-agreements
+  - autonomy
+  - collaboration
+  - retrospectives
+  - team-culture
+  - onboarding
+  - leadership
+  - agile
+  - empowerment
+subtitle: Build autonomous teams through co-created agreements—turning retrospective insights into concrete norms that foster psychological safety, clear expectations, and shared accountability
 ---
 
 ## Introduction

@@ -8,12 +8,12 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Agile
+  - Agile
 tags:
-- '#AgileBR'
-- AGILE
-- agile brazil
-subtitle: Agile methodologies and development best practices
+  - "#AgileBR"
+  - AGILE
+  - agile brazil
+subtitle: Navigate the complexity of software abstractions—learn 10 essential lessons to avoid being distracted by elaborate layers while maintaining code clarity and system understanding
 ---
 
 Discussing abstractions in today's context is reflecting on the very nature of computer science and software engineering.

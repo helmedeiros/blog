@@ -8,14 +8,14 @@ seo_follow: null
 seo_noindex: null
 idptt_tweeted: null
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- Open Talks
-- Pomodoro
-- Songdoro
-- Stefanini
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - Open Talks
+  - Pomodoro
+  - Songdoro
+  - Stefanini
+subtitle: Afine a produtividade da sua equipe com Songdoro—combine técnica Pomodoro com power songs para criar blocos de foco musical que energizam colaboração e aumentam estados de flow
 ---
 
 Nesta segunda-feira, 18 de abril, participei com entusiasmo de mais uma edição do Stefanini Open Talks, continuando nossa tradição de brown bags que vem crescendo a cada mês. Desta vez, a apresentação foi sobre um conceito que venho amadurecendo há algum tempo: a ideia de unir foco, ciclos de produtividade e **música**.

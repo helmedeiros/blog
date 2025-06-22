@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Final Part: Tech Leadership with Phillip Calçado"
 date: 2009-11-14T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "The keynote that changed how I think about leading teams"
+subtitle: "Transform your understanding of technical leadership—experience Phillip Calçado's career-defining keynote that reveals the difference between managing code and truly leading people through complex technical challenges"
 tags:
   [
     "Caelum Day",

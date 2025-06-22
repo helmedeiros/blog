@@ -1,13 +1,13 @@
 ---
-title: 'Structural Design Patterns: Composing Objects with Purpose'
+title: "Structural Design Patterns: Composing Objects with Purpose"
 author: helio
 layout: post
 date: 2008-07-06 03:27:57+00:00
 categories:
-- Architecture
-- Technology
+  - Architecture
+  - Technology
 series: Design Patterns and Analysis
-subtitle: Structural patterns for class and object composition
+subtitle: "Build elegant system architectures through composition—master Adapter, Bridge, Decorator, and Facade patterns that solve the complex challenge of connecting incompatible components into cohesive, maintainable systems"
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_

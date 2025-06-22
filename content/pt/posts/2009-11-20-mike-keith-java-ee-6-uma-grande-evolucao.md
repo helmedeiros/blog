@@ -1,22 +1,22 @@
 ---
-title: 'Mike Keith – Java EE 6: Uma Grande Evolução'
+title: "Mike Keith – Java EE 6: Uma Grande Evolução"
 author: helio
 layout: post
 date: 2009-11-20 14:22:51+00:00
 idptt_tweeted:
-- 1
+  - 1
 series: TDC Rio 2009
 categories:
-- Events
-- Technology
+  - Events
+  - Technology
 tags:
-- EJB 3.1
-- Eventos
-- Global Code
-- J2EE
-- Mike Keith
-- TDC 2009
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - EJB 3.1
+  - Eventos
+  - Global Code
+  - J2EE
+  - Mike Keith
+  - TDC 2009
+subtitle: Testemunhe o renascimento do Java EE—descubra como anotações, servlets assíncronos e EJBs leves finalmente fazem o desenvolvimento Java empresarial parecer moderno, produtivo e livre de XML
 ---
 
 > **Série: TDC Rio 2009** | **Parte 1 de 2** > _Insights fundamentais da maior conferência Java do Brasil_

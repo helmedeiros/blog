@@ -1,32 +1,33 @@
 ---
-title: 'Agile Day 2010 – Parte 2: Luiz Faias Jr. sobre Construindo uma Cultura de
-  Aprendizagem'
+title:
+  "Agile Day 2010 – Parte 2: Luiz Faias Jr. sobre Construindo uma Cultura de
+  Aprendizagem"
 author: helio
 layout: post
 date: 2010-11-30 02:35:31+00:00
 idptt_tweeted:
-- 1
+  - 1
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 dsq_thread_id:
-- 4969844961
+  - 4969844961
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 series: Agile Day 2010
 tags:
-- 2010
-- adpoa10
-- agileday
-- Eventos
-- guma
-- poa
-- pucrs
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - 2010
+  - adpoa10
+  - agileday
+  - Eventos
+  - guma
+  - poa
+  - pucrs
+subtitle: Transforme equipes distribuídas de caos para colaboração—descubra as estratégias comprovadas de Luiz Faias Jr. para fazer ágil remoto funcionar através de confiança, transparência e comunicação intencional
 ---
 
 <figure id="attachment_226" style="width: 417px" class="wp-caption aligncenter">

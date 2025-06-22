@@ -1,33 +1,35 @@
 ---
-title: 'Agile Brazil 2010 – Parte 2: Construindo com Propósito: Story Mapping com
-  David Hussman'
+title:
+  "Agile Brazil 2010 – Parte 2: Construindo com Propósito: Story Mapping com
+  David Hussman"
 author: helio
 layout: post
 date: 2010-06-23 18:00:00+00:00
 slug: agile-brazil-2010-user-story-map-hussman
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- Agile Brazil
-- David Hussman
-- Story Mapping
-- User Stories
-- Gestão de Produto
-- UX
-- Workshop
-description: Workshop prático de story mapping com David Hussman no Agile Brazil 2010
+  - Agile Brazil
+  - David Hussman
+  - Story Mapping
+  - User Stories
+  - Gestão de Produto
+  - UX
+  - Workshop
+description:
+  Workshop prático de story mapping com David Hussman no Agile Brazil 2010
   - construindo entendimento compartilhado através de jornadas de usuário, post-its
   e protótipos de papel.
 keywords:
-- david hussman story mapping
-- agile brazil 2010
-- mapeamento user stories
-- gestao produto agil
-- mapeamento jornada usuario
-- prototipagem papel
+  - david hussman story mapping
+  - agile brazil 2010
+  - mapeamento user stories
+  - gestao produto agil
+  - mapeamento jornada usuario
+  - prototipagem papel
 series: Agile Brazil 2010
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+subtitle: Transforme requisitos em mapas visuais de jornada—descubra como story mapping do David Hussman cria entendimento compartilhado, prioriza funcionalidades e constrói produtos que verdadeiramente servem workflows do usuário
 ---
 
 [<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="Workshop de Story Mapping com David Hussman" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]

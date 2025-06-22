@@ -7,11 +7,11 @@ seo_follow: null
 seo_noindex: null
 embed: null
 categories:
-- Technology
+  - Technology
 tags:
-- '#AgileBR'
-- Barry O'Reilly
-subtitle: Software development concepts and practices
+  - "#AgileBR"
+  - Barry O'Reilly
+subtitle: Transform your organization from hierarchical control to networked agility—embracing transparency, user feedback, and uncertainty to build lean enterprises that thrive in unpredictable markets
 ---
 
 During the years, companies appear and disappear with a certain frequency, and not just small ones have disappeared, but many large ones have perished as well.

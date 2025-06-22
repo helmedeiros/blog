@@ -1,16 +1,17 @@
 ---
-title: 'OKRs Reimaginados: Como o OKRA Transformou Estratégia em Compromisso Real'
+title: "OKRs Reimaginados: Como o OKRA Transformou Estratégia em Compromisso Real"
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 date: 2023-03-01
-description: O primeiro post da nossa série OKRA, explorando como evoluímos dos OKRs
+description:
+  O primeiro post da nossa série OKRA, explorando como evoluímos dos OKRs
   tradicionais para um framework mais colaborativo e efetivo para alinhamento e execução
   em equipes.
 series:
-- okra
+  - okra
 series_order: 1
-subtitle: Gestão de objetivos e resultados com OKRA
+subtitle: Descubra como transformar OKRs de rituais trimestrais em compromissos reais do time através de co-criação, colaboração estruturada e senso de pertencimento
 ---
 
 ## 1. Por que Precisávamos de Mais do que Alinhamento

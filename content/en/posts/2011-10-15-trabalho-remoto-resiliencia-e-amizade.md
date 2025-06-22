@@ -1,17 +1,17 @@
 ---
 title: Remote Work, Resilience, and the Power of Friendship
 categories:
-- Events
+  - Events
 date: 2011-10-15
 series: Life in Porto Alegre
 tags:
-- Dell
-- Remote Work
-- Family
-- Resilience
-- Friendship
-- Leadership
-subtitle: Strategies for remote work and distributed teams
+  - Dell
+  - Remote Work
+  - Family
+  - Resilience
+  - Friendship
+  - Leadership
+subtitle: Navigate remote work during personal crisis with grace—discover how trust, overcommunication, and genuine friendship create psychological safety that enables productivity through pain
 ---
 
 _This is Part 5 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._

@@ -1,25 +1,25 @@
 ---
-title: 'From Kanban to Scrum – Part 3: Coaching Engineers to Lead the Process'
+title: "From Kanban to Scrum – Part 3: Coaching Engineers to Lead the Process"
 author: helio
 layout: post
 date: 2022-11-10 10:00:00+00:00
 series: Kanban to Scrum Transition
 categories:
-- Agile
-- Teams
-- Process
-- Scrum
-- Leadership
+  - Agile
+  - Teams
+  - Process
+  - Scrum
+  - Leadership
 tags:
-- scrum-transition
-- coaching
-- facilitation
-- leadership-development
-- team-empowerment
-- ceremony-ownership
-- distributed-leadership
-- team-growth
-subtitle: Agile practices and development methodologies
+  - scrum-transition
+  - coaching
+  - facilitation
+  - leadership-development
+  - team-empowerment
+  - ceremony-ownership
+  - distributed-leadership
+  - team-growth
+subtitle: Develop distributed leadership by coaching engineers to facilitate Scrum ceremonies—with practical playbooks and gradual ownership rotation
 ---
 
 > **Series: Kanban to Scrum Transition** | **Part 3 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_
