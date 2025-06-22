@@ -5,7 +5,7 @@ const STATIC_CACHE_URLS = [
   '/css/syntax.css',
   '/css/codeblock.css',
   '/css/custom-layout.css',
-  '/css/research-style.css',
+  '/css/blog-style.css',
   '/js/main.js',
   '/js/load-photoswipe.js',
   '/favicon.svg'
