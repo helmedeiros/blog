@@ -2,7 +2,6 @@
 title: Construindo Confiança, Um Jogo de Cada Vez
 categories:
   - Leadership
-  - Architecture
 date: 2018-12-30 10:00:00-03:00
 author: Helio Medeiros
 tags:
