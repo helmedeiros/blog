@@ -1,7 +1,7 @@
 ---
 title: Por que Continuamos Remote-First—Mesmo com o Escritório Reaberto
 categories:
-  - Events
+  - Leadership
 date: 2022-06-01
 description:
   A decisão consciente de manter práticas remote-first quando o escritório
