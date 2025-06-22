@@ -9,7 +9,7 @@ tags:
   - junit
   - desenvolvimento
 categories:
-  - Technology
+
   - Agile
 series:
   - Aulas de Engenharia de Software

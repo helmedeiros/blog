@@ -4,7 +4,7 @@ author: helio
 layout: post
 date: 2013-04-03 19:00:00+00:00
 categories:
-  - Technology
+
   - Leadership
 tags:
   - dotfiles

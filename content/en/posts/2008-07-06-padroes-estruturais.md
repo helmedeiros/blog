@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-06 03:27:57+00:00
 categories:
   - Architecture
-  - Technology
+
 series: Design Patterns and Analysis
 subtitle: "Build elegant system architectures through composition—master Adapter, Bridge, Decorator, and Facade patterns that solve the complex challenge of connecting incompatible components into cohesive, maintainable systems"
 ---

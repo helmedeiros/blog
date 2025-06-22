@@ -1,7 +1,7 @@
 ---
 title: Welcoming Someone New—Without Changing What Worked
 categories:
-  - Technology
+
   - Leadership
 date: 2022-12-10 10:00:00-03:00
 description:

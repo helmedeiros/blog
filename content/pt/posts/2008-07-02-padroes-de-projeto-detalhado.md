@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-02 03:27:57+00:00
 categories:
   - Architecture
-  - Technology
+
 subtitle: Desbloqueie a linguagem secreta dos programadores experts—domine os padrões de design da Gang of Four que transformam código caótico em sistemas elegantes e mantíveis através de soluções orientadas a objetos comprovadas
 ---
 

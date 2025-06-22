@@ -9,7 +9,7 @@ description:
   de software.
 categories:
   - Agile
-  - Technology
+
 tags:
   - Engenharia de Software
   - Programação Extrema

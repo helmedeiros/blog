@@ -14,7 +14,7 @@ seo_noindex:
 dsq_thread_id:
   - 4969855984
 categories:
-  - Technology
+
   - Leadership
   - Events
 tags:

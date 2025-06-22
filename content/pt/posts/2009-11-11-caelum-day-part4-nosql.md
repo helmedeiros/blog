@@ -22,7 +22,7 @@ tags:
     "Series",
     "Rio de Janeiro",
   ]
-categories: ["Events", "Technology", "Database", "NoSQL"]
+categories: ["Events", "Database", "NoSQL"]
 series: "Caelum Day 2009"
 ---
 

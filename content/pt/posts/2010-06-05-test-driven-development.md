@@ -7,7 +7,7 @@ description:
   o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além
   dos testes para moldar como pensamos sobre construir software.
 categories:
-  - Technology
+
   - Agile
 tags:
   - Engenharia de Software

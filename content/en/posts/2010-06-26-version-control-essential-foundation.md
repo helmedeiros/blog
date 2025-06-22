@@ -9,7 +9,7 @@ tags:
   - collaboration
   - development
 categories:
-  - Technology
+
   - Agile
 series: Software Engineering Lectures
 slug: version-control-essential-foundation

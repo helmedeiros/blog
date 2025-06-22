@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-25 08:00:00+00:00
 categories:
   - Architecture
-  - Technology
+
 subtitle: Construa a ponte entre modelos e código funcionando—descubra como o processo de transformação modelo-para-código do RUP transforma diagramas UML abstratos em arquitetura de software concreta e mantível
 ---
 

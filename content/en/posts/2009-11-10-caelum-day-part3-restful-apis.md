@@ -20,7 +20,7 @@ tags:
     "Series",
     "Rio de Janeiro",
   ]
-categories: ["Events", "Technology", "API Design", "Web Development"]
+categories: ["Events", "API Design", "Web Development"]
 series: "Caelum Day 2009"
 ---
 

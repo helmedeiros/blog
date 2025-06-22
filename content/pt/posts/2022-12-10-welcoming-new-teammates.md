@@ -2,7 +2,7 @@
 title: Recebendo Alguém Novo—Sem Mudar o que Funcionava
 categories:
   - Leadership
-  - Technology
+
 date: 2022-12-10 10:00:00-03:00
 description:
   Como estruturamos o onboarding de novos colegas mantendo nossa cultura

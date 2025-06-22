@@ -9,7 +9,7 @@ description:
 idptt_tweeted:
   - 1
 categories:
-  - Technology
+
   - Agile
 tags:
   - Software Engineering

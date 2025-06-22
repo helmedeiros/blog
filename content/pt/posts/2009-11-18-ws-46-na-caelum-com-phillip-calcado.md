@@ -7,7 +7,7 @@ dsq_thread_id:
   - 4969844886
 categories:
   - Architecture
-  - Technology
+
 tags:
   - Caelum
   - DDD

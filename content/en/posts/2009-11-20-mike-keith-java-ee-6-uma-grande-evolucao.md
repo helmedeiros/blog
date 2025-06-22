@@ -7,7 +7,7 @@ idptt_tweeted: null
 series: TDC Rio 2009
 categories:
   - Events
-  - Technology
+
 tags:
   - EJB 3.1
   - Eventos

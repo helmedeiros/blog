@@ -7,7 +7,7 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-  - Technology
+
 subtitle: Become an active agent of change in your workplace—discover how stepping beyond passive learning and building relationships of friendship and commitment creates mutual intellectual growth
 ---
 

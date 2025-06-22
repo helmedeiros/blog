@@ -8,7 +8,7 @@ description:
   the concrete application of Extreme Programming in real-world team environments.
 categories:
   - Agile
-  - Technology
+
 tags:
   - Software Engineering
   - Extreme Programming

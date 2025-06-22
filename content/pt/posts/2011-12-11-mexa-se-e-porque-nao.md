@@ -10,7 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Technology
+
 subtitle: Torne-se agente ativo de mudança no seu ambiente de trabalho—descubra como ir além do aprendizado passivo e construir relacionamentos de amizade e compromisso cria crescimento intelectual mútuo
 ---
 

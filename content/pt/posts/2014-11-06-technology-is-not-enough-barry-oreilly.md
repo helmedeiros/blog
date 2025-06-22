@@ -10,7 +10,7 @@ seo_noindex:
 embed:
   - This is the default text
 categories:
-  - Technology
+
 tags:
   - "#AgileBR"
   - Barry O'Reilly

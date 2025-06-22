@@ -6,7 +6,7 @@ description: Reflections on the twelfth and final Software Engineering lecture, 
   requirements engineering, validation practices, and the critical connection between
   clear requirements and effective testing.
 categories:
-- Technology
+
 - Leadership
 tags:
 - Software Engineering

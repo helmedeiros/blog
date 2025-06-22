@@ -14,7 +14,7 @@ tags:
     "bounded contexts",
     "domain-driven design",
   ]
-categories: ["Technology", "Architecture"]
+categories: [ "Architecture"]
 ---
 
 Já passamos por isso. A indústria é cíclica. Centralização, descentralização. Monolitos, microsserviços. Mas se você está lendo isso, provavelmente está passando por uma transformação para microsserviços ou, pior ainda, lidando com as consequências de uma mal executada. E está se perguntando: como chegamos a esse caos distribuído?

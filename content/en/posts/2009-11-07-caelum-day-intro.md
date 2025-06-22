@@ -18,7 +18,7 @@ tags:
     "Conference",
     "Series",
   ]
-categories: ["Events", "Technology"]
+categories: ["Events"]
 series: "Caelum Day 2009"
 ---
 

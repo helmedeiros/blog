@@ -7,7 +7,7 @@ description:
   explorando testes unitários com JUnit como uma abordagem estruturada para validação,
   ciclos de feedback e melhoria de design.
 categories:
-  - Technology
+
   - Agile
 tags:
   - Engenharia de Software

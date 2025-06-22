@@ -14,7 +14,7 @@ tags:
     "bounded contexts",
     "domain-driven design",
   ]
-categories: ["Technology", "Architecture"]
+categories: [ "Architecture"]
 ---
 
 We've been here before. The industry goes through cycles. Centralization, decentralization. Monoliths, microservices. But if you're reading this, you're probably navigating through a microservices transformation or, worse, living with the aftermath of a poorly executed one. And you're wondering how we ended up in a distributed mess.

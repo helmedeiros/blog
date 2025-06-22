@@ -4,7 +4,7 @@ author: helio
 layout: post
 date: 2011-11-15 20:23:19+00:00
 categories:
-  - Technology
+
   - Events
 tags:
   - bash

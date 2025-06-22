@@ -10,7 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Technology
+
   - Agile
 tags:
   - "#AgileBR"

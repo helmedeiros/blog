@@ -5,7 +5,7 @@ layout: post
 date: 2008-07-06 03:27:57+00:00
 categories:
   - Architecture
-  - Technology
+
 subtitle: "Construa arquiteturas de sistema elegantes através de composição—domine padrões Adapter, Bridge, Decorator e Facade que resolvem o desafio complexo de conectar componentes incompatíveis em sistemas coesos e mantíveis"
 ---
 

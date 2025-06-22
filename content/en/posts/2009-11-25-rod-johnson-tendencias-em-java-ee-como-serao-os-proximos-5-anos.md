@@ -7,7 +7,7 @@ idptt_tweeted: null
 dsq_thread_id: null
 series: TDC Rio 2009
 categories:
-  - Technology
+
   - Events
 tags:
   - 2009

@@ -12,7 +12,7 @@ tags:
     "culture",
     "agile brazil",
   ]
-categories: ["Technology", "Leadership", "Events"]
+categories: [ "Leadership", "Events"]
 ---
 
 We often ask ourselves:
