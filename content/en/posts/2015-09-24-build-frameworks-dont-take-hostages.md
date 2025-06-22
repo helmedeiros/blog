@@ -12,7 +12,7 @@ tags:
     "tdc",
     "frameworkitis",
   ]
-categories: [ "Events"]
+categories: ["Events", "Architecture"]
 ---
 
 ## What This Talk Was Really About
