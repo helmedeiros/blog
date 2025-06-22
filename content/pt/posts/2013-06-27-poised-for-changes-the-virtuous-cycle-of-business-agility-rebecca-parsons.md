@@ -10,7 +10,7 @@ seo_follow:
 seo_noindex:
   - "false"
 categories:
-  - Agile
+  - Events
   - Leadership
 subtitle: Construa negócios verdadeiramente ágeis através de arquitetura evolutiva, entrega contínua e decisões baseadas em dados—descubra os 6 pilares que criam vantagem competitiva sustentável
 ---

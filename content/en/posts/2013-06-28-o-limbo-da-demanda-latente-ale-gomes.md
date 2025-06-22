@@ -9,6 +9,7 @@ seo_noindex: null
 dsq_thread_id: null
 categories:
   - Events
+  - Leadership
 
 tags:
   - "#AgileBR"

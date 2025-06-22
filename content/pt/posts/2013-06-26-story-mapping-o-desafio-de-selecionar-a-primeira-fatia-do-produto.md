@@ -12,9 +12,8 @@ seo_noindex:
 dsq_thread_id:
   - 4969966687
 categories:
-  - Agile
-  - Leadership
   - Events
+  - Leadership
 tags:
   - "#AgileBR"
   - agile brazil

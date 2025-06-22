@@ -12,8 +12,8 @@ seo_noindex:
 dsq_thread_id:
   - 4969967005
 categories:
-
-  - Leadership
+  - Events
+  - Architecture
 subtitle: Pare de adivinhar e comece a medir—aprenda como usar métricas de código, análise de coesão e ferramentas de visualização como CodeCity para tomar decisões baseadas em dados sobre sua base de código
 ---
 

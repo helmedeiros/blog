@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2013-06-05 10:00:00+00:00
 categories:
-
-  - Agile
+  - Development
 tags:
   - dotfiles
   - zsh

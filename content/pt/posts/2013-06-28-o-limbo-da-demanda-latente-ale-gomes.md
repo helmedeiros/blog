@@ -13,7 +13,7 @@ dsq_thread_id:
   - 4969852243
 categories:
   - Events
-  - Agile
+  - Leadership
 tags:
   - "#AgileBR"
   - alegomes
