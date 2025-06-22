@@ -8,6 +8,7 @@ description:
   Programming's core values, emphasis on quality, and courage-driven practices.
 categories:
   - Architecture
+  - Agile
 
 tags:
   - Software Engineering

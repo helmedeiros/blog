@@ -6,6 +6,7 @@ date: 2010-11-15 18:00:00+00:00
 slug: primeira-semana-dell-porto-alegre
 categories:
   - Leadership
+  - Agile
 
 tags:
   - Dell

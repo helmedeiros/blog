@@ -9,6 +9,7 @@ seo_follow: null
 seo_noindex: null
 categories:
   - Events
+  - Agile
 series: Agile Day 2010
 tags:
   - 2010

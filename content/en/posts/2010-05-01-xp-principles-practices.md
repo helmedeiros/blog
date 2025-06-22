@@ -9,6 +9,7 @@ description:
   development.
 categories:
   - Architecture
+  - Agile
 
 tags:
   - Software Engineering

@@ -8,7 +8,7 @@ description:
   metodologias ágeis, o Manifesto Ágil e transformação de mentalidade no desenvolvimento.
 idptt_tweeted:
   - 1
-categories: ["Architecture"]
+categories: ["Architecture", "Agile"]
 tags:
   - Engenharia de Software
   - Agilidade

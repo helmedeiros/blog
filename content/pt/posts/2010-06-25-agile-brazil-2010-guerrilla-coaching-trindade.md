@@ -4,7 +4,7 @@ author: helio
 layout: post
 date: 2010-06-25 19:00:00+00:00
 slug: agile-brazil-2010-guerrilla-coaching-trindade
-categories: ["Events", "Leadership"]
+categories: ["Events", "Leadership", "Agile"]
 tags:
   - Agile Brazil
   - Coaching

@@ -6,7 +6,7 @@ description:
   Reflexões sobre a décima quarta aula de Engenharia de Software, explorando
   o Desenvolvimento Orientado a Testes como uma metodologia de design que vai além
   dos testes para moldar como pensamos sobre construir software.
-categories: ["Development"]
+categories: ["Development", "Agile"]
 tags:
   - Engenharia de Software
   - Desenvolvimento Orientado a Testes

@@ -11,7 +11,7 @@ seo_follow:
   - "false"
 seo_noindex:
   - "false"
-categories: ["Events"]
+categories: ["Events", "Agile"]
 series: Agile Day 2010
 tags:
   - 2010

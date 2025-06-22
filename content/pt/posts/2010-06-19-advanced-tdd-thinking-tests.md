@@ -8,7 +8,7 @@ tags:
   - java
   - junit
   - desenvolvimento
-categories: ["Development"]
+categories: ["Development", "Agile"]
 series:
   - Aulas de Engenharia de Software
 slug: tdd-avancado-pensando-com-testes

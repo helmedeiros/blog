@@ -7,6 +7,7 @@ slug: agile-brazil-2010-card-wall-caroli
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile Brazil
   - Paulo Caroli

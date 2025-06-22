@@ -8,6 +8,7 @@ description:
   clear requirements and effective testing.
 categories:
   - Development
+  - Agile
 tags:
   - Software Engineering
   - Requirements Engineering

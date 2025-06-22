@@ -10,6 +10,7 @@ tags:
   - development
 categories:
   - Development
+  - Agile
 series: Software Engineering Lectures
 slug: advanced-tdd-thinking-tests
 summary:

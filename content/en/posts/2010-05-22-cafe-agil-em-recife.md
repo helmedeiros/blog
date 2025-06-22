@@ -7,6 +7,7 @@ slug: cafe-agil-em-recife
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile cafe
   - Thoughtworks

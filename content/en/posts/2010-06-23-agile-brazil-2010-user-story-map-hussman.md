@@ -9,6 +9,7 @@ slug: agile-brazil-2010-user-story-map-hussman
 categories:
   - Events
   - Leadership
+  - Agile
 tags:
   - Agile Brazil
   - David Hussman
