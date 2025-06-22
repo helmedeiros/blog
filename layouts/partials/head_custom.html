@@ -7,9 +7,9 @@
 <!-- Web manifest for PWA support -->
 <link rel="manifest" href="https://blog.heliomedeiros.com/site.webmanifest">
 
-<!-- Font preloading for performance -->
-<link rel="preload" href="https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="https://fonts.gstatic.com/s/lora/v23/nwpVtKeoKwuW3qcGRfGLQ-k5A_1DXu3k4nwKPYGpPWs.woff2" as="font" type="font/woff2" crossorigin>
+<!-- Font preloading for performance - preload only after CSS loads the fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <!-- Critical resource hints -->
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
