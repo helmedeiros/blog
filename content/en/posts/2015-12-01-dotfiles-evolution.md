@@ -4,8 +4,7 @@ author: helio
 layout: post
 date: 2015-12-01 10:00:00+00:00
 categories:
-
-  - Agile
+  - Development
 tags:
   - dotfiles
   - productivity
