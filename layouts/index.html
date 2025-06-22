@@ -19,7 +19,7 @@
           <div class="filter-tabs">
             <button class="filter-tab active" data-filter="all">All</button>
             <button class="filter-tab" data-filter="agile">Agile</button>
-            <button class="filter-tab" data-filter="events">Events</button>
+            <button class="filter-tab" data-filter="development">Development</button>
             <button class="filter-tab" data-filter="leadership">Leadership</button>
             <button class="filter-tab" data-filter="architecture">Architecture</button>
           </div>
@@ -45,19 +45,19 @@
                         Agile
                       </label>
                       <label class="filter-option">
-                        <input type="checkbox" value="architecture" data-category="category">
+                        <input type="checkbox" value="development" data-category="category">
                         <span class="checkmark"></span>
-                        Architecture
-                      </label>
-                      <label class="filter-option">
-                        <input type="checkbox" value="events" data-category="category">
-                        <span class="checkmark"></span>
-                        Events
+                        Development
                       </label>
                       <label class="filter-option">
                         <input type="checkbox" value="leadership" data-category="category">
                         <span class="checkmark"></span>
                         Leadership
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="architecture" data-category="category">
+                        <span class="checkmark"></span>
+                        Architecture
                       </label>
                     </div>
                   </div>
@@ -419,9 +419,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const filterDisplayNames = {
       // Categories
       'agile': 'Agile',
-      'architecture': 'Architecture',
-      'events': 'Events',
+      'development': 'Development',
       'leadership': 'Leadership',
+      'architecture': 'Architecture',
 
       // Topics
       'remote-first': 'Remote-First Work',
