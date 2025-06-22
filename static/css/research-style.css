@@ -591,7 +591,7 @@
 .post-card-category {
   background: #f3f4f6 !important;
   color: #6b7280 !important;
-  font-size: 0.875rem;
+  font-size: 1.0rem;
   font-weight: 400;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
@@ -616,7 +616,7 @@
 
 .post-card-title {
   margin: 0 0 0.75rem 0;
-  font-size: 1.5rem;
+  font-size: 2.0rem;
   font-weight: 600;
   line-height: 1.25;
   font-family: 'Inter', sans-serif;
@@ -635,7 +635,7 @@
 
 .post-card-description {
   color: #6b7280;
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: 1.5;
   margin-bottom: 0;
   font-family: 'Inter', sans-serif;
