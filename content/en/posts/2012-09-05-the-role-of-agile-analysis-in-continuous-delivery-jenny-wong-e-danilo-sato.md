@@ -7,17 +7,17 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
+  - Agile
 tags:
-- '#AgileBR'
-- 2012
-- agile brazil
-- agilebrazil2012
-- continuos delivery
-- Danilo Sato
-- Jenny Wong
-- MVP
-subtitle: Agile practices and development methodologies
+  - "#AgileBR"
+  - 2012
+  - agile brazil
+  - agilebrazil2012
+  - continuos delivery
+  - Danilo Sato
+  - Jenny Wong
+  - MVP
+subtitle: Bridge the gap between analysis and delivery—discover how agile analysts embed with teams, validate assumptions early, and ensure you're building the right thing fast
 ---
 
 **[<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]** What is <a title="Continuos Delivery" href="http://en.wikipedia.org/wiki/Continuous_delivery" target="_blank">entrega continua</a>(Continuous Delivery – CD)?
@@ -26,9 +26,9 @@ That's how the presentation began!
 
 Following the conversation between the <a title="Jenny Wong
 
- - Twitter" href="http://twitter.com/jenny_wong" target="_blank">Jenny</a> and the <a title="Danilo Sato
+- Twitter" href="http://twitter.com/jenny_wong" target="\_blank">Jenny</a> and the <a title="Danilo Sato
 
- - Blog" href="http://www.dtsato.com/blog/" target="_blank">Danilo</a>, we saw what would follow, principles of analysis and engineering involved, definitions, and finally principles and activities that can be used and tested to really advance in this practice, advancing our deliveries continuously throughout their days and sprints.
+- Blog" href="http://www.dtsato.com/blog/" target="\_blank">Danilo</a>, we saw what would follow, principles of analysis and engineering involved, definitions, and finally principles and activities that can be used and tested to really advance in this practice, advancing our deliveries continuously throughout their days and sprints.
 
 Continuous delivery is a software development strategy that optimizes its delivery process to obtain high-quality software, delivered as quickly as possible.
 
@@ -74,12 +74,12 @@ This way, we'll have the delivery of a more relevant product that makes sense to
 
 Or learning and getting there as soon as possible!
 
-See the presentation below: 
+See the presentation below:
+
 <div style="margin-bottom:5px">
- <strong> <a href="http://www.slideshare.net/JennyWong8/role-of-agile-analysis-in-continuous-delivery" title="Role of Agile analysis in continuous delivery" target="_blank">Role of Agile analysis in continuous delivery</a> </strong> from <strong><a href="http://www.slideshare.net/JennyWong8" target="_blank">Jenny Wong</a></strong> 
+ <strong> <a href="http://www.slideshare.net/JennyWong8/role-of-agile-analysis-in-continuous-delivery" title="Role of Agile analysis in continuous delivery" target="_blank">Role of Agile analysis in continuous delivery</a> </strong> from <strong><a href="http://www.slideshare.net/JennyWong8" target="_blank">Jenny Wong</a></strong>
 </div>
  Note that some placeholders are not replaced with actual English text, but kept exactly as written in the original Portuguese text.
 
 [2]: http://www.slideshare.net/JennyWong8/slicing-and-dicing-your-user-stories "Slicing and Dicing user stories"
-
 [1]: /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png

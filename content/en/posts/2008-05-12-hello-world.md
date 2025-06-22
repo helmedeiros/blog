@@ -1,6 +1,6 @@
 ---
 title: "Ready to start!"
-subtitle: "My first steps into the world of blogging and sharing knowledge"
+subtitle: "Join the beginning of a knowledge-sharing journey—experience the excitement, uncertainty, and promise of a big trying experiment"
 author: helio
 layout: post
 date: 2008-05-12T20:16:38+00:00

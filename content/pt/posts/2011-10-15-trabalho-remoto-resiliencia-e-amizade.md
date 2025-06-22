@@ -1,17 +1,17 @@
 ---
 title: Trabalho Remoto, Resiliência e o Poder da Amizade
 categories:
-- Events
+  - Events
 date: 2011-10-15
 series: Vida em Porto Alegre
 tags:
-- Dell
-- Trabalho Remoto
-- Família
-- Resiliência
-- Amizade
-- Liderança
-subtitle: Estratégias para trabalho remoto e equipes distribuídas
+  - Dell
+  - Trabalho Remoto
+  - Família
+  - Resiliência
+  - Amizade
+  - Liderança
+subtitle: Navegue trabalho remoto durante crise pessoal com elegância—descubra como confiança, supercomunicação e amizade genuína criam segurança psicológica que permite produtividade através da dor
 ---
 
 _Esta é a Parte 5 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._

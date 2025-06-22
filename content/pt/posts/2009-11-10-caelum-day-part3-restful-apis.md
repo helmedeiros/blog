@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 3: RESTful APIs com Sergio Junior e Luiz Cos
 date: 2009-11-10T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Desmistificando REST e descobrindo HATEOAS com Restfulie"
+subtitle: "Desbloqueie o verdadeiro poder da arquitetura REST—vá além de APIs HTTP simples para descobrir HATEOAS e design dirigido por hipermídia que torna serviços web verdadeiramente autodescritivos e evolutivos"
 tags:
   [
     "Caelum Day",

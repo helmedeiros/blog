@@ -2,7 +2,7 @@
 title: "Histórias, Hipóteses e Métricas: Aprendendo no Dia a Dia"
 date: 2018-07-11T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Apresentado no BA Brazil 2018 – São Paulo"
+subtitle: Transforme user stories em experimentos sistemáticos de aprendizado—usando hipóteses, métricas e funis estruturados para validar suposições e construir produtos que crescem com entendimento
 tags:
   [
     "descoberta de produto",

@@ -1,34 +1,36 @@
 ---
-title: 'Agile Brazil 2010 – Part 1: XP in Practice with Paper, Scissors, and True
-  Collaboration'
+title:
+  "Agile Brazil 2010 – Part 1: XP in Practice with Paper, Scissors, and True
+  Collaboration"
 author: helio
 layout: post
 date: 2010-06-22 02:54:34+00:00
 slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- Agile Brazil
-- XP
-- Extreme Programming
-- Bruno Pedroso
-- Dairton Bassi
-- Daniel Wildt
-- Giovanni Bassi
-- Hugo Corbucci
-- Renato Willi
-description: Detailed account of the hands-on XP workshop at Agile Brazil 2010, featuring
+  - Agile Brazil
+  - XP
+  - Extreme Programming
+  - Bruno Pedroso
+  - Dairton Bassi
+  - Daniel Wildt
+  - Giovanni Bassi
+  - Hugo Corbucci
+  - Renato Willi
+description:
+  Detailed account of the hands-on XP workshop at Agile Brazil 2010, featuring
   practical activities, WIP concepts, Lead Time, Cycle Time, and pair programming.
 keywords:
-- agile brazil 2010
-- xp extreme programming
-- hands-on workshop
-- pair programming
-- wip work in progress
-- lead time cycle time
+  - agile brazil 2010
+  - xp extreme programming
+  - hands-on workshop
+  - pair programming
+  - wip work in progress
+  - lead time cycle time
 series: Agile Brazil 2010
-subtitle: Agile practices and development methodologies
+subtitle: Experience XP through hands-on paper ATM building—discover how WIP limits, lead time awareness, and pair programming create sustainable team flow beyond just coding practices
 ---
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]

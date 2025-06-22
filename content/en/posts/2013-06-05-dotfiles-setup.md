@@ -1,22 +1,22 @@
 ---
-title: 'Dotfiles: Setup, Backup, and Productivity'
+title: "Dotfiles: Setup, Backup, and Productivity"
 author: helio
 layout: post
 date: 2013-06-05 10:00:00+00:00
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- dotfiles
-- zsh
-- oh-my-zsh
-- shell
-- terminal
-- productivity
-- git
-- mackup
-- configuration
-subtitle: Software development concepts and practices
+  - dotfiles
+  - zsh
+  - oh-my-zsh
+  - shell
+  - terminal
+  - productivity
+  - git
+  - mackup
+  - configuration
+subtitle: Build your first dotfiles repository from scratch—setting up version control, creating modular configurations, and establishing installation workflows that make environment setup repeatable and shareable
 ---
 
 ## Getting Serious About My Setup

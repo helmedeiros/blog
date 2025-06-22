@@ -5,32 +5,33 @@ layout: post
 date: 2010-05-22 21:39:56+00:00
 slug: cafe-agil-em-recife
 idptt_tweeted:
-- 1
+  - 1
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- Cafe agil
-- Thoughtworks
-- XP
-- TDD
-- Design
-description: Reflexões sobre XP, TDD e design a partir do Café Ágil em Recife, com
+  - Cafe agil
+  - Thoughtworks
+  - XP
+  - TDD
+  - Design
+description:
+  Reflexões sobre XP, TDD e design a partir do Café Ágil em Recife, com
   Paulo Caroli e Luiz Borba discutindo práticas ágeis e cultura de desenvolvimento.
 keywords:
-- cafe agil recife
-- xp extreme programming
-- tdd test driven development
-- paulo caroli
-- thoughtworks
-- desenvolvimento agil
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - cafe agil recife
+  - xp extreme programming
+  - tdd test driven development
+  - paulo caroli
+  - thoughtworks
+  - desenvolvimento agil
+subtitle: Junte-se ao movimento crescente da comunidade ágil brasileira—descubra como o Café Ágil Recife cria espaço para compartilhar experiências, aprender com falhas e construir conexões além de conferências formais
 ---
 
 [<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]

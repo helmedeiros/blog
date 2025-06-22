@@ -1,26 +1,27 @@
 ---
-title: 'Testes Unitários com JUnit: Clareza Antes da Complexidade'
+title: "Testes Unitários com JUnit: Clareza Antes da Complexidade"
 author: helio
 date: 2010-06-12 14:30:22+00:00
-description: Reflexões sobre a décima quinta e última aula de Engenharia de Software,
+description:
+  Reflexões sobre a décima quinta e última aula de Engenharia de Software,
   explorando testes unitários com JUnit como uma abordagem estruturada para validação,
   ciclos de feedback e melhoria de design.
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- Engenharia de Software
-- Testes Unitários
-- JUnit
-- Automação de Testes
-- Test Fixtures
-- Casos de Teste
-- Design
-- Qualidade
-- UnP
-- Ensino
-- serie-engenharia-software
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Engenharia de Software
+  - Testes Unitários
+  - JUnit
+  - Automação de Testes
+  - Test Fixtures
+  - Casos de Teste
+  - Design
+  - Qualidade
+  - UnP
+  - Ensino
+  - serie-engenharia-software
+subtitle: Construa confiança através de teste unitário disciplinado—descubra como JUnit, estrutura de teste e verificação sistemática criam redes de segurança que habilitam refatoração sem medo e evolução confiável de código
 ---
 
 > **Série: Fundamentos da Engenharia de Software** | **Parte 15 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

@@ -6,18 +6,18 @@ author: helio
 layout: post
 idptt_tweeted: null
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- Comunicacao
-- Feedback
-- Homem Mascara
-- Homem Mascarado
-- Masked Man
-- Steve McConnell
-- Transparency
-- Culture
-subtitle: Experiences and learnings from technology events
+  - Comunicacao
+  - Feedback
+  - Homem Mascara
+  - Homem Mascarado
+  - Masked Man
+  - Steve McConnell
+  - Transparency
+  - Culture
+subtitle: Create psychological safety for uncomfortable truths—discover how eliminating 'masked communication' through trust practices, protected retrospectives, and visible feedback loops enables honest teams
 ---
 
 ## Why Don't We Talk More About Transparency?

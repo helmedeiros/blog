@@ -4,25 +4,25 @@ author: helio
 layout: post
 date: 2023-02-21 10:00:00+00:00
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- respectful-workplace
-- equity
-- inclusion
-- diversity
-- intersectionality
-- cultural-differences
-- microaggressions
-- inclusive-language
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - respectful-workplace
+  - equity
+  - inclusion
+  - diversity
+  - intersectionality
+  - cultural-differences
+  - microaggressions
+  - inclusive-language
+subtitle: Vá além de "tratar todos iguais" para criar ativamente equidade, segurança psicológica e pertencimento—através de conversas honestas e liderança intencional
 ---
 
 ## Além da Igualdade: Construindo um Ambiente Realmente Respeitoso e Equitativo

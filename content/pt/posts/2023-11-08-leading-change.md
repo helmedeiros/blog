@@ -4,24 +4,24 @@ author: helio
 layout: post
 date: 2023-11-08 10:00:00+00:00
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- change-management
-- kubler-ross
-- emotional-intelligence
-- change-curve
-- empathy
-- adaptation
-- communication
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - change-management
+  - kubler-ross
+  - emotional-intelligence
+  - change-curve
+  - empathy
+  - adaptation
+  - communication
+subtitle: Navegue mudanças organizacionais com empatia usando a curva de mudança, frameworks emocionais vs lógicos, e estratégias de enfrentamento que apoiam adaptação humana
 ---
 
 ## Mudança vs Competição

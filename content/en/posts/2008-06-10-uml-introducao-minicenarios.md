@@ -1,6 +1,6 @@
 ---
 title: "Why UML Still Matters: A Shared Language for Software Design"
-subtitle: "Introduction to UML modeling through practical mini-scenarios"
+subtitle: "Master the art of visual software design—discover how UML transforms complex requirements into clear, shared understanding through practical mini-scenarios that bridge business needs and technical solutions"
 author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00

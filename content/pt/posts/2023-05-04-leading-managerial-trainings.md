@@ -4,17 +4,17 @@ author: helio
 layout: post
 date: 2023-05-04 10:00:00+00:00
 categories:
-- Leadership
+  - Leadership
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- first-90-days
-subtitle: Estratégias de liderança e gestão de equipes
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - first-90-days
+subtitle: Participe de uma jornada de desenvolvimento de liderança de um ano—dos fundamentos de gestão até habilidades avançadas como liderança de mudança, conversas de performance e resiliência de equipe
 ---
 
 ## Um Ano para Aprender, Compartilhar e Evoluir

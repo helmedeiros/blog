@@ -8,15 +8,15 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Events
-- Technology
+  - Events
+  - Technology
 tags:
-- '#AgileBR'
-- alegomes
-- agile brazil
-- agilebrazil2013
-- politicas publicas
-subtitle: Software development concepts and practices
+  - "#AgileBR"
+  - alegomes
+  - agile brazil
+  - agilebrazil2013
+  - politicas publicas
+subtitle: Apply agile principles to transform government—discover how short feedback cycles, social control, and citizen-focused development can revolutionize public services and democracy
 ---
 
 The Alê started by presenting himself and positioning himself as unworthy of being the keynote speaker at this great event, and began defining everyone else involved in the community's growth.
@@ -37,13 +37,13 @@ When we think about politics, however, with 4-year cycles, we have desires and a
 
 If agile enthusiasts were consulted to change or correct this problem, we would have shorter cycles, daily meetings, pulled systems, and feedback
 
- - but we're not seeing this happen in the public sphere.
+- but we're not seeing this happen in the public sphere.
 
 Alê invited everyone at this moment to participate in social control mass, because only then with everyone's constant feedbacks can they provide betterments.
 
 We must always maintain high the premise set by [Ash Maurya][1] that "Life is too short to create something no one wants." The high administration of public institutions doesn't create any relationship of motivation or connection with the business area
 
- - this has changed.
+- this has changed.
 
 The TCU made a ruling in 2010 (2308/2010-TCU-Plenario).
 
@@ -71,13 +71,13 @@ Estonia is doing this; the state wants to be the facilitator of the people.
 
 The biggest problem in Brazil isn't technological
 
- - being or not using Java or Ruby; it's not about contracting methods and sim is about which software should be made.
+- being or not using Java or Ruby; it's not about contracting methods and sim is about which software should be made.
 
 We need to think about Agile Brazil beyond just making something work directly for what needs to be done!
 
 So Alê adds that we need more than software functioning
 
- - we need the right software!!
+- we need the right software!!
 
 Applauded standing up, the message remains: let's change the country!
 

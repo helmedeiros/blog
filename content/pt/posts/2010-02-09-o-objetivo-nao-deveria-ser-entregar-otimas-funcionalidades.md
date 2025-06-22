@@ -3,15 +3,15 @@ title: O objetivo não deveria ser entregar ótimas funcionalidades?
 date: 2010-02-09 23:49:20+02:00
 draft: false
 tags:
-- AGILE
-- Metodologias Ágeis
-- ROI
-- XP
-- Desenvolvimento
-- Qualidade
+  - AGILE
+  - Metodologias Ágeis
+  - ROI
+  - XP
+  - Desenvolvimento
+  - Qualidade
 categories:
-- Agile
-subtitle: Metodologias ágeis e melhores práticas de desenvolvimento
+  - Agile
+subtitle: Mude de entrega de funcionalidades para criação de valor—descubra como focar em resultados do usuário ao invés de funcionalidade polida leva a software mais significativo que verdadeiramente serve as necessidades das pessoas
 ---
 
 A cada conversa sobre metodologias ágeis, fico mais convencido de que precisamos reforçar não só o discurso da adaptação, mas também a **disciplina necessária para sermos realmente eficientes** em entregar valor. Agilidade não é apenas sobre fazer menos ou cortar etapas — é, antes de tudo, sobre **entender profundamente o que estamos fazendo, por que fazemos e como fazemos bem**, para só então decidir o que deixar de lado.

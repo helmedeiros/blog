@@ -1,25 +1,25 @@
 ---
-title: 'De Kanban para Scrum – Parte 3: Desenvolvendo Engenheiros para Liderar o Processo'
+title: "De Kanban para Scrum – Parte 3: Desenvolvendo Engenheiros para Liderar o Processo"
 author: helio
 layout: post
 date: 2022-11-10 10:00:00+00:00
 series: Transição de Kanban para Scrum
 categories:
-- Agile
-- Teams
-- Process
-- Scrum
-- Leadership
+  - Agile
+  - Teams
+  - Process
+  - Scrum
+  - Leadership
 tags:
-- transicao-scrum
-- coaching
-- facilitacao
-- desenvolvimento-lideranca
-- empoderamento-time
-- propriedade-cerimonia
-- lideranca-distribuida
-- crescimento-time
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - transicao-scrum
+  - coaching
+  - facilitacao
+  - desenvolvimento-lideranca
+  - empoderamento-time
+  - propriedade-cerimonia
+  - lideranca-distribuida
+  - crescimento-time
+subtitle: Desenvolva liderança distribuída treinando engenheiros para facilitar cerimônias Scrum—com playbooks práticos e rotação gradual de responsabilidades
 ---
 
 > **Série: Transição de Kanban para Scrum** | **Parte 3 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_

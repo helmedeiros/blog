@@ -1,26 +1,27 @@
 ---
-title: 'When Following the Recipe Fails: Rethinking Waterfall'
+title: "When Following the Recipe Fails: Rethinking Waterfall"
 author: helio
 layout: post
 date: 2010-03-10 02:53:58+00:00
-description: Reflections on the third Software Engineering lecture, exploring the
+description:
+  Reflections on the third Software Engineering lecture, exploring the
   waterfall model, defined vs empirical processes, and the importance of critical
   thinking.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Leadership
+  - Leadership
 tags:
-- Software Engineering
-- Waterfall Model
-- Defined Process
-- BDUF
-- UnP
-- Teaching
-- Critical Thinking
-- software-engineering-series
+  - Software Engineering
+  - Waterfall Model
+  - Defined Process
+  - BDUF
+  - UnP
+  - Teaching
+  - Critical Thinking
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Reflections on leadership and people development
+subtitle: Understand waterfall's place in software history—discover when sequential development works, why it often fails, and how its lessons inform modern iterative approaches to complex projects
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 3 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

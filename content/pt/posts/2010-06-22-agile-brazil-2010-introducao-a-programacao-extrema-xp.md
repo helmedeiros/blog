@@ -1,33 +1,34 @@
 ---
-title: 'Agile Brazil 2010 – Parte 1: XP na Prática com Papel, Tesoura e Muita Colaboração'
+title: "Agile Brazil 2010 – Parte 1: XP na Prática com Papel, Tesoura e Muita Colaboração"
 author: helio
 layout: post
 date: 2010-06-22 02:54:34+00:00
 slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- Agile Brazil
-- XP
-- Programação Extrema
-- Bruno Pedroso
-- Dairton Bassi
-- Daniel Wildt
-- Giovanni Bassi
-- Hugo Corbucci
-- Renato Willi
-description: Relato detalhado do workshop prático de XP no Agile Brazil 2010, com
+  - Agile Brazil
+  - XP
+  - Programação Extrema
+  - Bruno Pedroso
+  - Dairton Bassi
+  - Daniel Wildt
+  - Giovanni Bassi
+  - Hugo Corbucci
+  - Renato Willi
+description:
+  Relato detalhado do workshop prático de XP no Agile Brazil 2010, com
   atividades hands-on, conceitos de WIP, Lead Time, Cycle Time e programação em par.
 keywords:
-- agile brazil 2010
-- xp extreme programming
-- workshop pratico
-- programacao em par
-- wip work in progress
-- lead time cycle time
+  - agile brazil 2010
+  - xp extreme programming
+  - workshop pratico
+  - programacao em par
+  - wip work in progress
+  - lead time cycle time
 series: Agile Brazil 2010
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+subtitle: Experimente XP através de construção prática de caixa eletrônico de papel—descubra como limites WIP, consciência de lead time e pair programming criam fluxo sustentável de equipe além de práticas de código
 ---
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]

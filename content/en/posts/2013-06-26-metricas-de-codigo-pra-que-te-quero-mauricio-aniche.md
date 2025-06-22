@@ -8,9 +8,9 @@ seo_follow: null
 seo_noindex: null
 dsq_thread_id: null
 categories:
-- Technology
-- Events
-subtitle: Software development concepts and practices
+  - Technology
+  - Events
+subtitle: Stop guessing and start measuring—learn how to use code metrics, cohesion analysis, and visualization tools like CodeCity to make data-driven decisions about your codebase
 ---
 
 Making decisions is very complicated and in software, we live by guesswork.

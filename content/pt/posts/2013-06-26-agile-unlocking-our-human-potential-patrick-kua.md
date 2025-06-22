@@ -1,19 +1,20 @@
 ---
-title: 'Agile: Unlocking our Human Potential – Patrick Kua'
+title: "Agile: Unlocking our Human Potential – Patrick Kua"
 author: helio
 layout: post
 date: 2013-06-26 13:45:53+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Technology
-- Agile
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - Technology
+  - Agile
+subtitle: Desbloqueie o potencial da equipe através de autonomia, excelência e propósito—descubra como motivação intrínseca supera obrigação, e por que times diversos com relacionamentos fortes entregam melhores resultados
 ---
+
 [<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
 
 Existe mais para o desenvolvimento de produtos do que apenas o desenvolvê-os. O patrcik já trabalha há algum tempo com software, e muitos problemas depois ele vê métodos ágeis como a forma de fazê-lo potencializando o pensamento.
@@ -46,4 +47,4 @@ A mensagem final, pense em autonomia, excelência e propósito, cooperação e l
 </div>
 </div>
 
- [1]: /uploads/2013/06/unlockingourhumanpotential.png
+[1]: /uploads/2013/06/unlockingourhumanpotential.png

@@ -1,28 +1,29 @@
 ---
-title: 'Qualidade Através da Coragem: A Abordagem Ousada da Programação Extrema'
+title: "Qualidade Através da Coragem: A Abordagem Ousada da Programação Extrema"
 author: helio
 layout: post
 date: 2010-04-19 12:30:19+00:00
-description: Reflexões sobre a oitava aula de Engenharia de Software, explorando os
+description:
+  Reflexões sobre a oitava aula de Engenharia de Software, explorando os
   valores centrais da Programação Extrema, ênfase em qualidade e práticas baseadas
   em coragem.
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- Engenharia de Software
-- Programação Extrema
-- Qualidade
-- Coragem
-- Comunicação
-- Simplicidade
-- Feedback
-- Testes Unitários
-- Programação em Pares
-- UnP
-- Ensino
-- software-engineering-series
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Engenharia de Software
+  - Programação Extrema
+  - Qualidade
+  - Coragem
+  - Comunicação
+  - Simplicidade
+  - Feedback
+  - Testes Unitários
+  - Programação em Pares
+  - UnP
+  - Ensino
+  - software-engineering-series
+subtitle: Transforme medo em desenvolvimento destemido—descubra como práticas de qualidade do XP como programação em par, TDD e integração contínua dão às equipes coragem para abraçar mudanças e entregar excelência
 ---
 
 > **Série: Fundamentos de Engenharia de Software** | **Parte 8 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_

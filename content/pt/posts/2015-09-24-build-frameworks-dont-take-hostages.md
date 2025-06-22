@@ -2,7 +2,7 @@
 title: "Faça Frameworks, Não Faça Reféns"
 date: 2015-09-24T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Apresentado no TDC Porto Alegre — 24 de Setembro de 2015, na trilha de Arquitetura"
+subtitle: Cure a frameworkitis escolhendo ferramentas com intenção—avaliando adaptabilidade sobre tendências, construindo para clareza sobre esperteza, e criando frameworks que apoiam equipes ao invés de aprisioná-las
 tags:
   [
     "frameworks",

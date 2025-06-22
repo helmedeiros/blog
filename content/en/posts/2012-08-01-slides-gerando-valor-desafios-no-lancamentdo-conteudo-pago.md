@@ -7,14 +7,14 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Architecture
-- Events
+  - Architecture
+  - Events
 tags:
-- lean manufacturing
-- Lean Startup
-- RBS
-- Testes
-subtitle: Software development concepts and practices
+  - lean manufacturing
+  - Lean Startup
+  - RBS
+  - Testes
+subtitle: Master paid content launches through Lean Startup principles—learn replicable patterns for building exploratory products with newly formed teams and varied scope
 ---
 
 Today we had another edition of <a title="Grupo RBS" href="http://www.gruporbs.com.br/" target="_blank">Grupo RBS</a>, where I presented along with <a title="Cintia Lima" href="https://twitter.com/cinti4lim4" target="_blank">Cintia Lima</a> the case about the challenges of launching paid content from Jornais Grupo RBS tool; a project of great importance, which like others has a varied and exploratory scope prioritized/validated, built with a newly formed team.

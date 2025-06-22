@@ -1,5 +1,5 @@
 ---
-title: 'Agile Day 2010 – Announcement: Agile Day 2010 Preview'
+title: "Agile Day 2010 – Announcement: Agile Day 2010 Preview"
 author: helio
 layout: post
 date: 2010-11-24 00:09:00+00:00
@@ -8,17 +8,17 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 series: Agile Day 2010
 tags:
-- 2010
-- agileday
-- guma
-- poa
-- pucrs
-- RS
-subtitle: Agile practices and development methodologies
+  - 2010
+  - agileday
+  - guma
+  - poa
+  - pucrs
+  - RS
+subtitle: Experience Brazil's vibrant agile community in action—join Porto Alegre's passionate practitioners sharing real-world experiences, failures, and breakthrough moments in intimate conference setting
 ---
 
 <figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">

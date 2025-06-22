@@ -1,18 +1,18 @@
 ---
-title: 'Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas'
+title: "Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas"
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 date: 2011-12-20
 series: Vida em Porto Alegre
 tags:
-- Dell
-- Liderança
-- Ensino
-- Mentoria
-- Marcelo Schmidt
-- Educação
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Dell
+  - Liderança
+  - Ensino
+  - Mentoria
+  - Marcelo Schmidt
+  - Educação
+subtitle: Redescubra seu educador interior através de liderança inspiradora—aprenda como grandes tech leads criam espaço para outros crescerem, e por que compartilhar suas dificuldades cria o aprendizado mais poderoso
 ---
 
 _Esta é a Parte 6 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._

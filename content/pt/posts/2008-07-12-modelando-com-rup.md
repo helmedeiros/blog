@@ -1,18 +1,18 @@
 ---
-title: 'Modelagem com RUP: Disciplina, Não Documentação'
+title: "Modelagem com RUP: Disciplina, Não Documentação"
 author: helio
 layout: post
 date: 2008-07-12 09:24:51+00:00
 categories:
-- Architecture
-- Technology
+  - Architecture
+  - Technology
 tags:
-- Atividade
-- BDUF
-- Disciplina
-- RUP
-- template
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Atividade
+  - BDUF
+  - Disciplina
+  - RUP
+  - template
+subtitle: Navegue o mundo estruturado do desenvolvimento de software empresarial—explore como a abordagem disciplinada do RUP para modelagem, iterações e documentação cria processos de desenvolvimento previsíveis e escaláveis
 ---
 
 O **Rational Unified Process (RUP)** é frequentemente mal compreendido. Críticos o veem como um processo pesado, cheio de documentos, diagramas e reuniões intermináveis. Mas, quando usado corretamente, o RUP é **um framework para engenharia disciplinada**, e não uma receita para burocracia.

@@ -3,7 +3,7 @@ title: "SCRUM no Congresso Científico da UnP – Um Retorno com Gratidão"
 date: 2009-10-22T05:31:22+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Ministrando um mini-curso de oito horas sobre SCRUM e a alegria de voltar como palestrante"
+subtitle: "De estudante a professor—experimente a alegria profunda de retornar à alma mater para compartilhar sabedoria SCRUM, completando um ciclo completo de aprendizado, crescimento e retribuição à comunidade"
 tags:
   [
     "SCRUM",

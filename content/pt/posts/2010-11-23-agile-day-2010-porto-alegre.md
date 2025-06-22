@@ -1,28 +1,28 @@
 ---
-title: 'Agile Day 2010 – Anúncio: Prévia do Agile Day 2010'
+title: "Agile Day 2010 – Anúncio: Prévia do Agile Day 2010"
 author: helio
 layout: post
 date: 2010-11-24 00:09:00+00:00
 idptt_tweeted:
-- 1
+  - 1
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 series: Agile Day 2010
 tags:
-- 2010
-- agileday
-- guma
-- poa
-- pucrs
-- RS
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - 2010
+  - agileday
+  - guma
+  - poa
+  - pucrs
+  - RS
+subtitle: Experimente a vibrante comunidade ágil brasileira em ação—junte-se aos praticantes apaixonados de Porto Alegre compartilhando experiências reais, falhas e momentos de descoberta em ambiente íntimo de conferência
 ---
 
 <figure id="attachment_217" style="width: 417px" class="wp-caption aligncenter">

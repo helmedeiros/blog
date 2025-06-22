@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 1: A Nuvem Segundo Fábio Kung"
 date: 2009-11-08T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Primeiras impressões sobre computação em nuvem de quem estava acostumado com servidores físicos"
+subtitle: "Testemunhe o alvorecer da computação em nuvem—experimente a visão presciente de Fábio Kung sobre transformação de infraestrutura, de servidores físicos para computação elástica sob demanda que remodelaria toda a indústria"
 tags:
   [
     "Caelum Day",

@@ -1,36 +1,38 @@
 ---
-title: 'Agile Brazil 2010 – Part 4: Retrospectives with Hugo Corbucci and Mariana
-  Bravo'
+title:
+  "Agile Brazil 2010 – Part 4: Retrospectives with Hugo Corbucci and Mariana
+  Bravo"
 author: helio
 layout: post
 date: 2010-06-25 18:00:00+00:00
 slug: agile-brazil-2010-retrospectives-corbucci-bravo
 categories:
-- Agile
-- Events
-- Methodologies
+  - Agile
+  - Events
+  - Methodologies
 tags:
-- Agile Brazil
-- Retrospectives
-- Hugo Corbucci
-- Mariana Bravo
-- Esther Derby
-- Diana Larsen
-- Ken Schwaber
-- Agile Teams
-description: Hugo Corbucci and Mariana Bravo's hands-on retrospectives workshop at
+  - Agile Brazil
+  - Retrospectives
+  - Hugo Corbucci
+  - Mariana Bravo
+  - Esther Derby
+  - Diana Larsen
+  - Ken Schwaber
+  - Agile Teams
+description:
+  Hugo Corbucci and Mariana Bravo's hands-on retrospectives workshop at
   Agile Brazil 2010 - learning the five phases to transform good teams into great
   teams.
 keywords:
-- agile retrospectives
-- agile brazil 2010
-- hugo corbucci mariana bravo
-- esther derby diana larsen
-- five phase retrospective
-- agile teams
-- reflection learning
+  - agile retrospectives
+  - agile brazil 2010
+  - hugo corbucci mariana bravo
+  - esther derby diana larsen
+  - five phase retrospective
+  - agile teams
+  - reflection learning
 series: Agile Brazil 2010
-subtitle: Agile practices and development methodologies
+subtitle: Transform good teams into great teams—master the 5-phase retrospective framework that turns reflection into action, complaints into insights, and meetings into meaningful growth experiences
 ---
 
 > **Series: Agile Brazil 2010** | **Part 4 of 6** > _Complete coverage of Brazil's first national agile conference_

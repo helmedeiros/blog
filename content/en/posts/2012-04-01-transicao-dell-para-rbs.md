@@ -1,20 +1,20 @@
 ---
-title: 'Gratitude and Transition: From Dell to RBS'
+title: "Gratitude and Transition: From Dell to RBS"
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 date: 2012-04-01
 series: Life in Porto Alegre
 tags:
-- Dell
-- RBS
-- Transition
-- Career
-- Gratitude
-- Eduardo Mathias
-- Carlos Eduardo Maciel
-- Digital Media
-subtitle: Software development concepts and practices
+  - Dell
+  - RBS
+  - Transition
+  - Career
+  - Gratitude
+  - Eduardo Mathias
+  - Carlos Eduardo Maciel
+  - Digital Media
+subtitle: Navigate career transitions with gratitude and purpose—discover how meaningful work environments shape us, and why leaving well is as important as arriving strong
 ---
 
 _This is Part 7 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._

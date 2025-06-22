@@ -4,26 +4,26 @@ author: helio
 layout: post
 date: 2023-11-23 10:00:00+00:00
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- performance-management
-- smart-goals
-- feedback
-- sbid
-- johari-window
-- golden-thread
-- skill-will
-- motivation
-- omio-runway
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - performance-management
+  - smart-goals
+  - feedback
+  - sbid
+  - johari-window
+  - golden-thread
+  - skill-will
+  - motivation
+  - omio-runway
+subtitle: Promova crescimento através de conversas intencionais de performance usando metas SMART, feedback SBID, frameworks de habilidade vs vontade, e o fio dourado do propósito
 ---
 
 ## 1. Por que Gerenciar Performance

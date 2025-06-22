@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Part 1: Cloud Computing with Fábio Kung"
 date: 2009-11-08T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "First impressions of this revolutionary infrastructure approach"
+subtitle: "Witness the dawn of cloud computing—experience Fábio Kung's prescient vision of infrastructure transformation, from physical servers to elastic, on-demand computing that would reshape the entire industry"
 tags:
   [
     "Caelum Day",

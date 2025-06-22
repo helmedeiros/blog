@@ -1,20 +1,21 @@
 ---
 title: Why We Stayed Remote-First—Even When the Office Reopened
 categories:
-- Leadership
+  - Leadership
 date: 2022-06-01
-description: The conscious decision to maintain remote-first practices when the office
+description:
+  The conscious decision to maintain remote-first practices when the office
   reopened, avoiding the hybrid trap and preserving what worked.
 tags:
-- remote-first
-- hybrid
-- post-pandemic
-- async
-- team-practices
+  - remote-first
+  - hybrid
+  - post-pandemic
+  - async
+  - team-practices
 series:
-- Remote-First Work
+  - Remote-First Work
 series_order: 3
-subtitle: Strategies for remote work and distributed teams
+subtitle: Navigate the hybrid trap and preserve what works—designing systems for distributed-first collaboration even when the office reopens
 ---
 
 ## The Office Lights Came Back On

@@ -7,22 +7,22 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
-- Agile
+  - Events
+  - Agile
 tags:
-- 2012
-- desconf
-- desconf2012
-- Lean Startup
-- métricas de vaidade
-- poa
-- porto alegre
-subtitle: Experiences and learnings from technology events
+  - 2012
+  - desconf
+  - desconf2012
+  - Lean Startup
+  - métricas de vaidade
+  - poa
+  - porto alegre
+subtitle: Avoid vanity metrics that mislead your decisions—learn to use actionable, accessible, and auditable reports that reveal true cause-and-effect relationships in your business
 ---
 
 <figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa
 
- - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1] <figcaption class="wp-caption-text">Success in the right measure – Vanity metrics</figcaption></figure> Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
+- Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1] <figcaption class="wp-caption-text">Success in the right measure – Vanity metrics</figcaption></figure> Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
 
 They were presenting a graph that showed when they started focusing on quality, they saw a growth in the number of registrations.
 
@@ -94,7 +94,8 @@ Then why don't we create them?
 
 And who knows when we do that, we put our strategy on paper like a rough map, where we can stop and think at each crossroads but never lose focus on the final goal.
 
-Think always, act as if, and remove what's not aligned as soon as possible. 
+Think always, act as if, and remove what's not aligned as soon as possible.
+
 <p style="text-align: center">
  <div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ltp1NzAzENXGu8" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
@@ -102,11 +103,9 @@ Think always, act as if, and remove what's not aligned as soon as possible.
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
 </div>
-</div> 
+</div>
 </p>
 
 [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
-
 [3]: http://www.mit.edu/
-
 [1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png

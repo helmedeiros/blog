@@ -1,17 +1,17 @@
 ---
 author: helio
 categories:
-- Events
-- Architecture
+  - Events
+  - Architecture
 date: 2008-06-25 02:48:10+00:00
 dsq_thread_id: null
 layout: post
 series: UML Mini-scenarios
-subtitle: Parking management system design through UML scenarios
+subtitle: "Design a complete parking management solution—master UML use case modeling for ticket generation, space tracking, payment processing, and customer flow optimization in commercial parking facilities"
 tags:
-- mini-scenarios
-- uml-series
-title: 'Mini-scenario: PARKING'
+  - mini-scenarios
+  - uml-series
+title: "Mini-scenario: PARKING"
 ---
 
 > **Series: UML Mini-scenarios** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_

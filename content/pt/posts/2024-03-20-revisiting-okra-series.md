@@ -1,15 +1,16 @@
 ---
-title: 'Raízes e Brotos do OKRA: O Que Aprendemos Sobre Cultivar OKRs Melhores'
+title: "Raízes e Brotos do OKRA: O Que Aprendemos Sobre Cultivar OKRs Melhores"
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 date: 2024-03-20
-description: Uma reflexão sobre a jornada da série OKRA, destacando insights principais,
+description:
+  Uma reflexão sobre a jornada da série OKRA, destacando insights principais,
   padrões e direções futuras para execução colaborativa de OKRs.
 series:
-- okra
+  - okra
 series_order: 6
-subtitle: Gestão de objetivos e resultados com OKRA
+subtitle: Descubra o que aprendemos depois que times no mundo todo adotaram o OKRA—além da evolução de experimento para framework comprovado de execução colaborativa de OKRs
 ---
 
 ## 1. A Evolução do OKRA: De Experimento a Framework

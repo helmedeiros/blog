@@ -4,23 +4,24 @@ author: helio
 layout: post
 date: 2014-04-11 13:36:05+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 dsq_thread_id:
-- 4969853650
+  - 4969853650
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- big data
-- hadoop
-- qconsp
-- Todd Lipcon
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - big data
+  - hadoop
+  - qconsp
+  - Todd Lipcon
+subtitle: Navegue pela evolução do ecossistema Hadoop—das origens do MapReduce do Google aos frameworks modernos como Spark, Sqoop e Flume que lidam com terabytes de dados com princípios KISS
 ---
+
 Porque devemos nos preocupar? Assim começou o keynote do <a title="Todd Lipcon" href="https://twitter.com/tlipcon" target="_blank">Todd Lipcon</a>&#8230; Talvez porque ao longo dos últimos anos, as empresas têm visto uma explosão no volume, variedade e velocidade dos dados que eles têm de lidar todos os dias. Esta tem sido uma bênção e uma maldição. Ao mesmo tempo que a explosão de dados nos permitiu gerar novos tipos de aplicativos e insights altamente inteligentes, os desenvolvedores descobriram que a geração anterior de ferramentas de gerenciamento de dados e frameworks desmoronavam quando tentando trabalhar e manter terabytes ou petabytes de dados muitas vezes mal-estruturados.
 
 Quando Todd era uma criança ele encontrou um programa que se fazia passar por uma pessoa respondendo, e depois de algumas perguntas ele descobriu que o programa era muito burro. Apresentando-o a seu pai, foi desafiado, tentou melhorá-lo mas com tal idade, não conseguiu ir muito a frente. Passados 20 anos depois ele vê o <a title="Watson" href="http://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">watson</a> respondendo todos estas perguntas&#8230; a diferença? <a title="Big Data" href="http://en.wikipedia.org/wiki/Big_data" target="_blank">Big data</a>!!
@@ -37,20 +38,20 @@ Uma das partes fundamentais do Hadoop é o <a title="Hadoop Distributed File Sys
 
 Outra parte fundamental é o MapReduce, um modelo de programação que tem duas partes principais, instruções para realizar transformações, parseamento, ou filtrar dados, esta sempre roda antes e sempre devolve resultados; e instruções para sumarizar os dados. Estas instruções trazem muita simplicidade ao trabalho diário processando um registro por vez, não existe necessidade em realizar I/O explicitamente e ele é bem escalonável.<figure id="attachment_849" style="width: 468px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-849" alt="Reducing Soft kitties!!" src="/uploads/2014/04/mapreduce.jpg" width="468" height="240" srcset="/uploads/2014/04/mapreduce.jpg 468w, /uploads/2014/04/mapreduce-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][1]<figcaption class="wp-caption-text">Reducing Soft kitties!!</figcaption></figure> 
+[<img class="size-full wp-image-849" alt="Reducing Soft kitties!!" src="/uploads/2014/04/mapreduce.jpg" width="468" height="240" srcset="/uploads/2014/04/mapreduce.jpg 468w, /uploads/2014/04/mapreduce-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][1]<figcaption class="wp-caption-text">Reducing Soft kitties!!</figcaption></figure>
 
 Neste momento o Todd nos apresentou um MapReduce sobre um domínio simples, para contagem de palavras na música infantil abaixo, entrando em detalhes em como poderíamos conquistar velocidade para este modelo nos fazendo da implementação de MapReduce do Hadoop.
 
 > Soft kitty,
-  
+
 > Warm kitty,
-  
+
 > Little ball of fur.
-  
+
 > Happy kitty,
-  
+
 > Sleepy kitty,
-  
+
 > Purr Purr Purr
 
 Alguns frameworks foram citados:
@@ -67,4 +68,4 @@ Alguns frameworks foram citados:
   <span style="line-height: 1.5em"><strong><a title="Apache Flume" href="http://flume.apache.org/" target="_blank">Flume</a>:</strong> permite a importação de dados para o HDFS enquanto ele são gerados em uma quantidade qualquer de máquinas.</span>
 </p>
 
- [1]: /uploads/2014/04/mapreduce.jpg
+[1]: /uploads/2014/04/mapreduce.jpg

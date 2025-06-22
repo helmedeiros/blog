@@ -7,15 +7,15 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Technology
+  - Agile
+  - Technology
 tags:
-- AGILE
-- guma-rs
-- Marco Enes
-- Meganti
-- se virol
-subtitle: Software development concepts and practices
+  - AGILE
+  - guma-rs
+  - Marco Enes
+  - Meganti
+  - se virol
+subtitle: Recognize and overcome agile pitfalls—learn the 9 warning signs that your team is falling into bureaucratic traps instead of embracing true collaborative agility
 ---
 
 The Agile Methodology:
@@ -26,36 +26,36 @@ However, it's important to recognize that Agile is not just about following cert
 
 Common Challenges:
 
- 1. **Programmers and Testers are at the Bottom of the Food Chain**
+1.  **Programmers and Testers are at the Bottom of the Food Chain**
 
- - Agile teams start programming and testing much earlier than traditional approaches, usually within the first weeks of the project.
+- Agile teams start programming and testing much earlier than traditional approaches, usually within the first weeks of the project.
 
- 2. **Constantly Trying to Get Users to Sign Off on Requirements**
+2.  **Constantly Trying to Get Users to Sign Off on Requirements**
 
- - The Agile approach is to collaborate with the client, and share expectations and responsibilities for project success!
+- The Agile approach is to collaborate with the client, and share expectations and responsibilities for project success!
 
- 3. **Developers Complain When Changes in Requirements Go Through the Bureaucratic Change Control Process**
+3.  **Developers Complain When Changes in Requirements Go Through the Bureaucratic Change Control Process**
 
- - Developers complain when a change in requirements goes through the bureaucratic change control process.
+- Developers complain when a change in requirements goes through the bureaucratic change control process.
 
- 4. **No Functionalities Shown to Users After Two Months**
+4.  **No Functionalities Shown to Users After Two Months**
 
- - You have been on the project for more than two months and the team has not yet shown any useful functionality to users.
+- You have been on the project for more than two months and the team has not yet shown any useful functionality to users.
 
- 5. **Documentação is More Important than Communication**
+5.  **Documentação is More Important than Communication**
 
- - The project leader considers that documentation is more important than communication.
+- The project leader considers that documentation is more important than communication.
 
- 6. **Constantly Trying to Get Users to Sign Off on Requirements**
+6.  **Constantly Trying to Get Users to Sign Off on Requirements**
 
- - The analyst constantly tries to get users to sign the requirements document.
+- The analyst constantly tries to get users to sign the requirements document.
 
- 7. **Programmers and Testers are at the Bottom of the Food Chain**
+7.  **Programmers and Testers are at the Bottom of the Food Chain**
 
- - Programmers and testers are at the bottom level of the food chain.
+- Programmers and testers are at the bottom level of the food chain.
 
- 8. **Tests and Quality Verification are Not Integral Parts of the Process**
+8.  **Tests and Quality Verification are Not Integral Parts of the Process**
 
- - Tests and quality verification are not integral and respectable parts of the process.
+- Tests and quality verification are not integral and respectable parts of the process.
 
- 9. _Artigo sobre _ By recognizing these common challenges, teams can take steps to overcome them and adopt a more Agile approach that fosters collaboration, communication, and continuous improvement.
+9.  _Artigo sobre _ By recognizing these common challenges, teams can take steps to overcome them and adopt a more Agile approach that fosters collaboration, communication, and continuous improvement.

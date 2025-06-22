@@ -1,23 +1,23 @@
 ---
-title: 'Agile Day 2010 – Parte 1: Klaus Wuestefeld sobre Qualidade vs. Velocidade'
+title: "Agile Day 2010 – Parte 1: Klaus Wuestefeld sobre Qualidade vs. Velocidade"
 author: helio
 layout: post
 date: 2010-11-25 01:41:25+00:00
 categories:
-- Agile
+  - Agile
 series: Agile Day 2010
 tags:
-- 2010
-- adpoa10
-- AGILE
-- agileday
-- Eventos
-- guma
-- Kent Beck
-- Klaus Wuestefeld
-- poa
-- pucrs
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - 2010
+  - adpoa10
+  - AGILE
+  - agileday
+  - Eventos
+  - guma
+  - Kent Beck
+  - Klaus Wuestefeld
+  - poa
+  - pucrs
+subtitle: Desafie tudo que você pensa saber sobre Scrum—descubra os insights radicais de Klaus Wuestefeld sobre por que frameworks rígidos falham e como verdadeira agilidade emerge de princípios, não processos
 ---
 
 <figure id="attachment_215" style="width: 417px" class="wp-caption aligncenter">

@@ -1,30 +1,31 @@
 ---
-title: 'Running the Scrum Cycle: From Planning to Working Software'
+title: "Running the Scrum Cycle: From Planning to Working Software"
 author: helio
 layout: post
 date: 2010-04-11 23:09:21+00:00
-description: Reflections on the seventh Software Engineering lecture, exploring the
+description:
+  Reflections on the seventh Software Engineering lecture, exploring the
   Scrum operational cycle, roles, ceremonies, and how teams self-organize around value
   delivery.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- Software Engineering
-- Scrum
-- Sprint Planning
-- Daily Scrum
-- Sprint Review
-- Sprint Retrospective
-- Sprint Goal
-- Self-Organization
-- UnP
-- Teaching
-- software-engineering-series
+  - Software Engineering
+  - Scrum
+  - Sprint Planning
+  - Daily Scrum
+  - Sprint Review
+  - Sprint Retrospective
+  - Sprint Goal
+  - Self-Organization
+  - UnP
+  - Teaching
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Agile practices and development methodologies
+subtitle: Master the heartbeat of agile delivery—discover how sprint planning, daily standups, reviews, and retrospectives create predictable cycles that turn chaos into sustainable team rhythm
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 7 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

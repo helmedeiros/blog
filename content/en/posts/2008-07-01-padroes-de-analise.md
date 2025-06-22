@@ -4,9 +4,9 @@ author: helio
 layout: post
 date: 2008-07-01 03:27:57+00:00
 categories:
-- Architecture
+  - Architecture
 series: Design Patterns and Analysis
-subtitle: Design patterns for software development
+subtitle: Discover the hidden patterns that make great software tick—explore Martin Fowler's analysis patterns that capture recurring business logic and domain knowledge into reusable, battle-tested solutions
 ---
 
 > **Series: Design Patterns and Analysis** | **Introduction** > _Developed during Master's in Web Systems Projects_

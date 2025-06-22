@@ -1,12 +1,12 @@
 ---
-title: 'From Models to Code: RUP and Layered Architectures'
+title: "From Models to Code: RUP and Layered Architectures"
 author: helio
 layout: post
 date: 2008-07-25 08:00:00+00:00
 categories:
-- Architecture
-- Technology
-subtitle: Software development concepts and practices
+  - Architecture
+  - Technology
+subtitle: Bridge the gap between models and working code—discover how RUP's model-to-code transformation process turns abstract UML diagrams into concrete, maintainable software architecture
 ---
 
 Most modeling efforts fail because they get stuck in abstraction.

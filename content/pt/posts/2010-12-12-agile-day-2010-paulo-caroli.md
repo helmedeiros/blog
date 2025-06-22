@@ -1,31 +1,31 @@
 ---
-title: 'Agile Day 2010 – Parte 3: Paulo Caroli sobre Linha de Montagem de Software'
+title: "Agile Day 2010 – Parte 3: Paulo Caroli sobre Linha de Montagem de Software"
 author: helio
 layout: post
 date: 2010-12-12 12:21:35+00:00
 idptt_tweeted:
-- 1
+  - 1
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 series: Agile Day 2010
 tags:
-- 2010
-- adpoa10
-- AGILE
-- agileday
-- card wall
-- guma
-- kanban
-- paulo caroli
-- pucrs
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - 2010
+  - adpoa10
+  - AGILE
+  - agileday
+  - card wall
+  - guma
+  - kanban
+  - paulo caroli
+  - pucrs
+subtitle: Domine a arte da facilitação ágil—aprenda as técnicas comprovadas de Paulo Caroli para conduzir workshops que geram insights reais, impulsionam decisões e transformam dinâmicas de equipe através de design colaborativo
 ---
 
 No último dia 29 de novembro tivemos durante a tarde do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010 Porto Alegre</a> uma excelente transferência de experiências conduzida pelo <a title="@paulocaroli" href="http://twitter.com/paulocaroli" target="_blank">Paulo Caroli</a> da <a title="Thoughtworks" href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.

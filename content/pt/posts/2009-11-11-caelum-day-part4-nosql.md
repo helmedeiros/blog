@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 4: NoSQL com Nico Steppat"
 date: 2009-11-11T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Descobrindo o mundo dos bancos de dados Not Only SQL"
+subtitle: "Desafie tudo que você sabe sobre armazenamento de dados—explore o movimento revolucionário NoSQL que abandona garantias ACID por escala massiva, flexibilidade e performance na era emergente de big data"
 tags:
   [
     "Caelum Day",

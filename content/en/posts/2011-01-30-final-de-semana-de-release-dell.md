@@ -1,17 +1,17 @@
 ---
 title: Release Weekend, Automation, and the Value of Real Leadership
 categories:
-- Leadership
-- Technology
+  - Leadership
+  - Technology
 date: 2011-01-30
 series: Life in Porto Alegre
 tags:
-- Dell
-- Leadership
-- Automation
-- Deploy
-- Culture
-subtitle: Leadership strategies and team management
+  - Dell
+  - Leadership
+  - Automation
+  - Deploy
+  - Culture
+subtitle: Experience deployment excellence through automation and trust—discover how great leadership, digital war rooms, and cultural investment create confident releases without stress
 ---
 
 _This is Part 3 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._

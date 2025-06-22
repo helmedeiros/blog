@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Parte 2: VRaptor 3 com Guilherme Silveira e Filipe
 date: 2009-11-09T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Um salto de produtividade e simplicidade para desenvolvimento web em Java"
+subtitle: "Descubra a resposta brasileira ao Ruby on Rails—explore como a filosofia convenção-sobre-configuração do VRaptor 3 e abordagem dirigida por anotações fazem o desenvolvimento web Java parecer surpreendentemente elegante e produtivo"
 tags:
   [
     "Caelum Day",

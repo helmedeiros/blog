@@ -1,21 +1,21 @@
 ---
-title: 'Dotfiles 2025: Inicialização Rápida e Adaptação Inteligente'
+title: "Dotfiles 2025: Inicialização Rápida e Adaptação Inteligente"
 author: helio
 layout: post
 date: 2025-05-27 10:00:00+00:00
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 tags:
-- dotfiles
-- portability
-- multi-host
-- adaptation
-- profile-zsh
-- defensive-scripting
-- secrets-management
-- system-integration
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - dotfiles
+  - portability
+  - multi-host
+  - adaptation
+  - profile-zsh
+  - defensive-scripting
+  - secrets-management
+  - system-integration
+subtitle: Aprenda a estruturar dotfiles que funcionam perfeitamente no Mac, WSL, containers e CI—com camadas inteligentes e scripting defensivo
 ---
 
 ## Novos Contextos, Mesma Filosofia

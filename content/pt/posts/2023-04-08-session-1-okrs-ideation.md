@@ -1,16 +1,17 @@
 ---
-title: 'OKRA Sessão #1: Cultivando OKRs de Equipe a Partir do Solo da Estratégia'
+title: "OKRA Sessão #1: Cultivando OKRs de Equipe a Partir do Solo da Estratégia"
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 date: 2023-04-08
-description: O terceiro post da série OKRA, guiando equipes pelo processo de rascunho
+description:
+  O terceiro post da série OKRA, guiando equipes pelo processo de rascunho
   de OKRs de equipe a partir da estratégia da empresa, com dicas práticas de facilitação
   e padrões reais.
 series:
-- okra
+  - okra
 series_order: 3
-subtitle: Estratégias de liderança e gestão de equipes
+subtitle: Transforme OKRs da empresa em objetivos com senso de pertencimento do time através de ideação colaborativa, formação de hipóteses e mapeamento fundamentado de restrições
 ---
 
 ## 1. Quando os OKRs da Empresa Estão Claros, É Hora de Rascunhar os OKRs da Equipe

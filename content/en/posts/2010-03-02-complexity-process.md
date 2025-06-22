@@ -1,24 +1,25 @@
 ---
-title: 'Taming Complexity: When Process Helps and When It Hurts'
+title: "Taming Complexity: When Process Helps and When It Hurts"
 author: helio
 layout: post
 date: 2010-03-03 01:21:54+00:00
-description: Reflections on the second Software Engineering lecture, focusing on process,
+description:
+  Reflections on the second Software Engineering lecture, focusing on process,
   models, and purpose in software development.
 idptt_tweeted:
-- 1
+  - 1
 categories:
-- Leadership
+  - Leadership
 tags:
-- Software Engineering
-- Process
-- Models
-- UnP
-- Teaching
-- Software Crisis
-- software-engineering-series
+  - Software Engineering
+  - Process
+  - Models
+  - UnP
+  - Teaching
+  - Software Crisis
+  - software-engineering-series
 series: Software Engineering Fundamentals
-subtitle: Reflections on leadership and people development
+subtitle: Tame software complexity through systematic processes—discover how structured approaches, clear documentation, and collaborative practices transform overwhelming projects into manageable, sustainable development
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 2 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

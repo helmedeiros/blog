@@ -7,16 +7,16 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- '#AgileBR'
-- AGILE
-- agile brazil
-- agilebrazil2012
-- Caelum
-- Cecilia Fernandes
-subtitle: Leadership strategies and team management
+  - "#AgileBR"
+  - AGILE
+  - agile brazil
+  - agilebrazil2012
+  - Caelum
+  - Cecilia Fernandes
+subtitle: Break free from team inertia with newcomers—learn how Caelum identified "because yes" patterns, rescued agility through knowledge sharing, and turned mistakes into learning opportunities
 ---
 
 <figure id="attachment_606" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-606" src="/uploads/2012/09/corraDaInerciaCecilia.jpg" alt="Evitando mudanças" width="470" height="249" srcset="/uploads/2012/09/corraDaInerciaCecilia.jpg 470w, /uploads/2012/09/corraDaInerciaCecilia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]<figcaption class="wp-caption-text">Avoiding Changes</figcaption></figure> Started talking about [inércia][2], explaining that inertia doesn't mean being stationary, but it can be...
@@ -47,7 +47,7 @@ At this point, we stopped to do two practices first: "How to identify inertia" a
 
 Listed on the photo screen below, we see identifiers of inertia such as many "because yes" in your team!! &nbsp;<figure id="attachment_607" style="width: 470px" class="wp-caption aligncenter"> [<img class="size-full wp-image-607" src="/uploads/2012/09/identificandoInercia.jpg" alt="Identificando Inércia" width="470" height="249" srcset="/uploads/2012/09/identificandoInercia.jpg 470w, /uploads/2012/09/identificandoInercia-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">Identifying Inertia</figcaption></figure> <figure id="attachment_608" style="width: 470px" class="wp-caption aligncenter">[<img class="size-full wp-image-608" src="/uploads/2012/09/resgatandoAgilidade.jpg" alt="Resgatando Agilidade" width="470" height="249" srcset="/uploads/2012/09/resgatandoAgilidade.jpg 470w, /uploads/2012/09/resgatandoAgilidade-300x158.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />][4]<figcaption class="wp-caption-text">Rescuing Agility</figcaption></figure> At Caelum, this problem occurred, and inertia could have ended something very important to them
 
- - agility, and as something good and important, there was an internal change shared with various initiatives made!
+- agility, and as something good and important, there was an internal change shared with various initiatives made!
 
 First, many ways were created for sharing knowledge within the entire team, through events like "brown bags" and incentives/calls to participate in company events.
 
@@ -60,9 +60,6 @@ If nothing resolves... let everyone make mistakes, this way it may be possible t
 See the presentation video at infoq: <a title="Novatos no time Ágil" href="http://www.infoq.com/br/presentations/novatos-time-agil" target="_blank">http://www.infoq.com/br/presentations/novatos-time-agil</a> &nbsp;
 
 [2]: http://pt.wikipedia.org/wiki/In%C3%A9rcia "inércia"
-
 [4]: /uploads/2012/09/resgatandoAgilidade.jpg
-
 [3]: /uploads/2012/09/identificandoInercia.jpg
-
 [1]: /uploads/2012/09/corraDaInerciaCecilia.jpg

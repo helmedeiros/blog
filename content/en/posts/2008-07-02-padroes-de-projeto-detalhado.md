@@ -1,13 +1,13 @@
 ---
-title: 'Design Patterns: Proven Solutions for Implementation Challenges'
+title: "Design Patterns: Proven Solutions for Implementation Challenges"
 author: helio
 layout: post
 date: 2008-07-02 03:27:57+00:00
 categories:
-- Architecture
-- Technology
+  - Architecture
+  - Technology
 series: Design Patterns and Analysis
-subtitle: Design patterns for software development
+subtitle: Unlock the secret language of expert programmers—master the Gang of Four design patterns that transform chaotic code into elegant, maintainable systems through proven object-oriented solutions
 ---
 
 > **Series: Design Patterns and Analysis** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_

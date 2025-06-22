@@ -4,21 +4,21 @@ author: helio
 layout: post
 date: 2023-06-20 10:00:00+00:00
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- growth-mindset
-- empathy
-- coaching
-- psychological-safety
-subtitle: Práticas ágeis e metodologias de desenvolvimento
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - growth-mindset
+  - empathy
+  - coaching
+  - psychological-safety
+subtitle: Promova mentalidade de crescimento no seu time através de coaching estruturado, segurança psicológica e comportamentos de liderança que celebram esforço sobre resultados
 ---
 
 ## O Poder de Reforçar o que Importa

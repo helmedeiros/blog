@@ -2,7 +2,7 @@
 title: "Princípios SOLID no Mundo dos Microsserviços"
 date: 2018-05-01T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Reinterpretando princípios clássicos de design para sistemas distribuídos"
+subtitle: Aplique princípios SOLID à arquitetura de microsserviços—identificando cheiros de sistema e projetando sistemas distribuídos coesos e sustentáveis com limites claros e contratos estáveis
 tags:
   [
     "princípios solid",

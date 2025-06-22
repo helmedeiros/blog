@@ -1,21 +1,21 @@
 ---
-title: 'Check-Updates: Mantendo Minha Máquina Honesta'
+title: "Check-Updates: Mantendo Minha Máquina Honesta"
 author: helio
 layout: post
 date: 2025-03-10 12:00:00+00:00
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 tags:
-- dotfiles
-- maintenance
-- automation
-- homebrew
-- developer-hygiene
-- shell-scripts
-- updates
-- environment-management
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - dotfiles
+  - maintenance
+  - automation
+  - homebrew
+  - developer-hygiene
+  - shell-scripts
+  - updates
+  - environment-management
+subtitle: Construa um script simples que te dá visibilidade diária do que precisa ser atualizado—sem as surpresas de atualizações automáticas
 ---
 
 ## Uma Máquina Saudável é uma Máquina Produtiva

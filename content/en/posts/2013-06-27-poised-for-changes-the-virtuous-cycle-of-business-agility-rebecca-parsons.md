@@ -7,9 +7,9 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Technology
-- Leadership
-subtitle: Software development concepts and practices
+  - Technology
+  - Leadership
+subtitle: Build truly agile businesses through evolutionary architecture, continuous delivery, and data-driven decisions—discover the 6 pillars that create sustainable competitive advantage
 ---
 
 What is agility in business?

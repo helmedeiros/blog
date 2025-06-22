@@ -7,16 +7,16 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- agilebrazil2011
-- generationy
-- knowledge-retention
-- learning
-- brownbags
-- employee-engagement
-subtitle: Experiences and learnings from technology events
+  - agilebrazil2011
+  - generationy
+  - knowledge-retention
+  - learning
+  - brownbags
+  - employee-engagement
+subtitle: Solve the knowledge retention paradox in high-turnover environments—discover strategies for capturing, transferring, and preserving institutional knowledge when teams constantly change
 ---
 
 ## The Question That Opened the Talk

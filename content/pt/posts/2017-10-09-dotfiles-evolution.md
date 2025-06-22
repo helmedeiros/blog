@@ -1,20 +1,20 @@
 ---
-title: 'Dotfiles 2017: Cortando Ainda Mais Fundo'
+title: "Dotfiles 2017: Cortando Ainda Mais Fundo"
 author: helio
 layout: post
 date: 2017-10-09 10:00:00+00:00
 categories:
-- Technology
+  - Technology
 tags:
-- dotfiles
-- shell
-- zsh
-- minimalismo
-- refatoração
-- aliases
-- simplificação
-- pruning
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - dotfiles
+  - shell
+  - zsh
+  - minimalismo
+  - refatoração
+  - aliases
+  - simplificação
+  - pruning
+subtitle: Alcance clareza no terminal através de poda implacável—eliminando loaders mágicos, scripts não utilizados e complexidade de plataforma para criar um ambiente de desenvolvimento rápido, honesto e sustentável
 ---
 
 ## Um Ano Depois: Hora de Podar

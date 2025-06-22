@@ -1,26 +1,27 @@
 ---
-title: 'Story Mapping: o desafio de selecionar a primeira fatia do produto'
+title: "Story Mapping: o desafio de selecionar a primeira fatia do produto"
 author: helio
 layout: post
 date: 2013-06-26 15:58:21+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 dsq_thread_id:
-- 4969966687
+  - 4969966687
 categories:
-- Agile
-- Leadership
+  - Agile
+  - Leadership
 tags:
-- '#AgileBR'
-- agile brazil
-- agilebrazil
-- Henrique Imbertti
-subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
+  - "#AgileBR"
+  - agile brazil
+  - agilebrazil
+  - Henrique Imbertti
+subtitle: Domine a arte do fatiamento de produto—aprenda como a Baby.com.br usou story mapping para construir produtos em camadas, priorizar funcionalidades e deixar o feedback do cliente guiar as decisões de desenvolvimento
 ---
+
 [<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1]
 
 O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
@@ -43,4 +44,4 @@ Deployment triggers, as funcionalidades eram puxadas! A mãe diz oque precisa. O
 
 As restrições inspiram a criatividade, valor pela ótica do cliente e busque validar suas suposições!
 
- [1]: /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png
+[1]: /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png

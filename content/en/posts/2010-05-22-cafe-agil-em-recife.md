@@ -5,25 +5,26 @@ layout: post
 date: 2010-05-22 21:39:56+00:00
 slug: cafe-agil-em-recife
 categories:
-- Agile
-- Events
-- Methodologies
+  - Agile
+  - Events
+  - Methodologies
 tags:
-- Agile cafe
-- Thoughtworks
-- XP
-- TDD
-- Design
-description: Reflections on XP, TDD, and design from the Agile Café in Recife, featuring
+  - Agile cafe
+  - Thoughtworks
+  - XP
+  - TDD
+  - Design
+description:
+  Reflections on XP, TDD, and design from the Agile Café in Recife, featuring
   Paulo Caroli and Luiz Borba discussing agile practices and development culture.
 keywords:
-- agile cafe recife
-- xp extreme programming
-- tdd test driven development
-- paulo caroli
-- thoughtworks
-- agile development
-subtitle: Agile practices and development methodologies
+  - agile cafe recife
+  - xp extreme programming
+  - tdd test driven development
+  - paulo caroli
+  - thoughtworks
+  - agile development
+subtitle: Join Brazil's growing agile community movement—discover how Café Ágil Recife creates space for sharing experiences, learning from failures, and building connections beyond formal conferences
 ---
 
 [<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]

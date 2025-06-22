@@ -1,12 +1,12 @@
 ---
-title: 'Making RUP Agile: Modeling with Just Enough Discipline'
+title: "Making RUP Agile: Modeling with Just Enough Discipline"
 author: helio
 layout: post
 date: 2008-07-20 08:00:00+00:00
 categories:
-- Architecture
-- Agile
-subtitle: Agile practices and development methodologies
+  - Architecture
+  - Agile
+subtitle: Transform heavyweight process into agile excellence—discover how to extract RUP's valuable modeling discipline while embracing agile's responsiveness, creating a refined approach that serves real projects
 ---
 
 When you mention RUP in an Agile room, someone will roll their eyes.

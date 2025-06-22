@@ -1,21 +1,22 @@
 ---
 title: Recebendo Alguém Novo—Sem Mudar o que Funcionava
 categories:
-- Leadership
-- Technology
+  - Leadership
+  - Technology
 date: 2022-12-10 10:00:00-03:00
-description: Como estruturamos o onboarding de novos colegas mantendo nossa cultura
+description:
+  Como estruturamos o onboarding de novos colegas mantendo nossa cultura
   remote-first, com rituais claros e experiências conectadas que funcionam tanto presencial
   quanto digitalmente.
 tags:
-- remote-first
-- onboarding
-- assíncrono
-- crescimento-de-time
-- rituais
+  - remote-first
+  - onboarding
+  - assíncrono
+  - crescimento-de-time
+  - rituais
 series: Remote-First Work
 series_order: 4
-subtitle: Conceitos e práticas de desenvolvimento de software
+subtitle: Escale sua equipe preservando a cultura—mantendo práticas de onboarding remote-first que criam conexão, clareza e confiança para novos contratados
 ---
 
 ## Crescendo sem Reescrever as Regras

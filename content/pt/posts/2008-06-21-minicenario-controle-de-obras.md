@@ -1,15 +1,15 @@
 ---
-title: 'Minicenário: CONTROLE DE OBRAS'
+title: "Minicenário: CONTROLE DE OBRAS"
 author: helio
 layout: post
 date: 2008-06-21 09:24:08+00:00
 categories:
-- Events
-- Architecture
+  - Events
+  - Architecture
 tags:
-- mini-scenarios
-- uml-series
-subtitle: Controle de obras e materiais através de modelagem UML
+  - mini-scenarios
+  - uml-series
+subtitle: "Transforme gestão caótica de construção em controle sistemático—explore modelagem UML para rastrear materiais, comparar preços de fornecedores, gerenciar estoque e garantir transparência do projeto do planejamento à conclusão"
 ---
 
 > **Série: Mini-cenários UML** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_

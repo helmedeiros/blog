@@ -5,33 +5,34 @@ layout: post
 date: 2010-12-16 18:00:00+00:00
 slug: migracao-foco-pomodoro-dell
 categories:
-- Events
-- Leadership
+  - Events
+  - Leadership
 tags:
-- Dell
-- Stefanini
-- Pomodoro
-- Migração
-- TDD
-- Mentoria
-- Eduardo Mathias
-- Carlos Eduardo Maciel
-- OSB
-- BPEL
-- ESB
-description: Como usar a Técnica Pomodoro e commits pequenos para migrar serviços
+  - Dell
+  - Stefanini
+  - Pomodoro
+  - Migração
+  - TDD
+  - Mentoria
+  - Eduardo Mathias
+  - Carlos Eduardo Maciel
+  - OSB
+  - BPEL
+  - ESB
+description:
+  Como usar a Técnica Pomodoro e commits pequenos para migrar serviços
   legados com confiança na Dell, com apoio de mentoria técnica.
 keywords:
-- tecnica pomodoro
-- migracao servicos legados
-- dell stefanini
-- commits pequenos
-- mentoria tecnica
-- eduardo mathias
-- carlos eduardo maciel
-- tdd java
+  - tecnica pomodoro
+  - migracao servicos legados
+  - dell stefanini
+  - commits pequenos
+  - mentoria tecnica
+  - eduardo mathias
+  - carlos eduardo maciel
+  - tdd java
 series: Vida em Porto Alegre
-subtitle: Experiências e aprendizados em eventos de tecnologia
+subtitle: Domine migrações complexas através de execução focada—descubra como técnica Pomodoro, commits pequenos e ótima mentoria transformam trabalho legado avassalador em progresso incremental confiante
 ---
 
 > **Série: Vida em Porto Alegre** | **Parte 2 de 7** > _Descobrindo uma nova cidade e uma nova carreira_

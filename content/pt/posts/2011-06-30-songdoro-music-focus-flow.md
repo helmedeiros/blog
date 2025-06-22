@@ -1,5 +1,5 @@
 ---
-title: 'Songdoro: Música, Foco e Flow'
+title: "Songdoro: Música, Foco e Flow"
 author: helio
 layout: post
 date: 2011-06-30 15:49:35+00:00
@@ -7,15 +7,15 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 tags:
-- agilebrazil2011
-- pomodoro
-- produtividade
-- songdoro
-- foco
-subtitle: Experiências e aprendizados em eventos de tecnologia
+  - agilebrazil2011
+  - pomodoro
+  - produtividade
+  - songdoro
+  - foco
+subtitle: Revolucione foco com produtividade musical—descubra como Songdoro transforma ciclos Pomodoro em playlists energizantes que criam ritmos compartilhados e estados de flow imparáveis
 ---
 
 Logo após minha primeira lightning talk no Agile Brazil 2011, voltei ao palco com **Daniel Wildt** para apresentar uma ideia que vínhamos explorando: como transformar foco em algo prazeroso e energizante. Assim nasceu o **SONGDORO**.

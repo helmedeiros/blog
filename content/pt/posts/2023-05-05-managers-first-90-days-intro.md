@@ -4,20 +4,20 @@ author: helio
 layout: post
 date: 2023-05-05 10:00:00+00:00
 categories:
-- Leadership
-- Agile
+  - Leadership
+  - Agile
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- first-90-days
-- people-partners
-- performance-management
-subtitle: Reflexões sobre liderança e desenvolvimento de pessoas
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - first-90-days
+  - people-partners
+  - performance-management
+subtitle: Revisite fundamentos de gestão com olhos frescos—de estruturas de 1:1 e documentação de performance até construir confiança na sua abordagem de liderança
 ---
 
 ## Revisitando os Fundamentos com Novo Olhar

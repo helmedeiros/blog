@@ -1,21 +1,21 @@
 ---
-title: 'Dotfiles 2025: Boot Fast, Adapt Smarter'
+title: "Dotfiles 2025: Boot Fast, Adapt Smarter"
 author: helio
 layout: post
 date: 2025-05-27 10:00:00+00:00
 categories:
-- Technology
-- Agile
+  - Technology
+  - Agile
 tags:
-- dotfiles
-- portability
-- multi-host
-- adaptation
-- profile-zsh
-- defensive-scripting
-- secrets-management
-- system-integration
-subtitle: Software development concepts and practices
+  - dotfiles
+  - portability
+  - multi-host
+  - adaptation
+  - profile-zsh
+  - defensive-scripting
+  - secrets-management
+  - system-integration
+subtitle: Learn how to structure dotfiles that work seamlessly across Mac, WSL, containers, and CI—with smart layering and defensive scripting
 ---
 
 ## New Contexts, Same Philosophy

@@ -1,28 +1,28 @@
 ---
-title: 'Liderança Responsiva – Parte 2: Coaching, Confiança e Resiliência em Equipe'
+title: "Liderança Responsiva – Parte 2: Coaching, Confiança e Resiliência em Equipe"
 author: helio
 layout: post
 date: 2023-07-06 10:00:00+00:00
 categories:
-- Leadership
-- Events
+  - Leadership
+  - Events
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- responsive-leadership
-- coaching
-- trust
-- psychological-safety
-- grow-model
-- star-model
-- team-resilience
-- five-dysfunctions
-subtitle: Estratégias de liderança e gestão de equipes
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - responsive-leadership
+  - coaching
+  - trust
+  - psychological-safety
+  - grow-model
+  - star-model
+  - team-resilience
+  - five-dysfunctions
+subtitle: Construa cultura de coaching e segurança psicológica usando modelo GROW, frameworks de confiança e técnicas estruturadas de feedback que transformam dinâmicas de equipe
 ---
 
 ## Criando uma Cultura de Coaching

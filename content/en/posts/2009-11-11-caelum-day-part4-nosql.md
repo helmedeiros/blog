@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Part 4: NoSQL with Nico Steppat"
 date: 2009-11-11T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "First encounter with databases that break all the rules"
+subtitle: "Challenge everything you know about data storage—explore the revolutionary NoSQL movement that abandons ACID guarantees for massive scale, flexibility, and performance in the emerging big data era"
 tags:
   [
     "Caelum Day",

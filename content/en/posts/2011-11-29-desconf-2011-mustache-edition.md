@@ -7,13 +7,13 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Events
+  - Events
 tags:
-- 2011
-- desconf
-- Faculdade Dom Bosco
-- poa
-subtitle: Experiences and learnings from technology events
+  - 2011
+  - desconf
+  - Faculdade Dom Bosco
+  - poa
+subtitle: Experience the magic of unconventional learning—discover how Desconf's mustache edition mixed open spaces, lightning talks, and freedom of expression to create collaborative knowledge exchange
 ---
 
 [<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1] On the last Saturday, November 29th, 2011, I had the pleasure of exchanging many ideas during the second edition of a new type of event that brings innovation in its name DESCONF!
@@ -28,13 +28,13 @@ Near 10h we had the first intervention organized by DESCONF, invited by Bandeira
 
 We defined the rules below and started the [lightning talks][3].
 
- - We shouldn't leave the camera's field of view so that ideas could reach more than the 80 participants;
+- We shouldn't leave the camera's field of view so that ideas could reach more than the 80 participants;
 
- - Each presentation shouldn't exceed 5min;
+- Each presentation shouldn't exceed 5min;
 
- - Everyone should applaud after these 5min;
+- Everyone should applaud after these 5min;
 
- - And whoever spoke the fastest would be next.
+- And whoever spoke the fastest would be next.
 
 The starting gun was given in a quick and relaxed presentation of facts, history, and photos about the event's theme.
 
@@ -60,7 +60,8 @@ Do only the most experienced need to be heard, and the phrase of [Christian Heil
 
 THANK YOU VERY MUCH TO DESCONF!
 
-Let's hope for the 2012 edition. 
+Let's hope for the 2012 edition.
+
 <p style="text-align: center">
  <div style="margin-bottom: 20px;">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/ePHVpNd1rPPUEh" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
@@ -68,37 +69,22 @@ Let's hope for the 2012 edition.
 <div style="margin-bottom:5px">
     <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
 </div>
-</div> 
+</div>
 </p>
 
 [8]: http://www.slideshare.net/dwildt/mantra-das-possibilidades "Mantra de Possibilidade - Daniel Wildt"
-
 [1]: /uploads/2011/11/desconf2011.png
-
 [14]: http://www.slideshare.net/pedrobel/thoughts-on-user-experience "thoughts-on-user-experience - Pedro Belleza"
-
 [10]: http://t.co/NXJON9jH "Ecologias Criativas - Carlos Villela"
-
 [15]: http://twitter.com/#!/codepo8
-
 [13]: http://t.co/9Vu1FoVx "Lado Negro das Startups - Flavio Steffens"
-
 [11]: http://t.co/VS8MZkNs "Negociação - Guilherm Motta"
-
 [2]: www.faculdadedombosco.edu.br/ "Faculdade Dom Bosco"
-
 [3]: http://pt.wikipedia.org/wiki/Lightning_Talk "Lightning Talk"
-
 [5]: http://twitter.com/#!/nataliarsand "Natalia Arsand"
-
 [12]: http://blog.lfzawacki.com/hackerspace-na-desconf/ "Hackerspace - Lucas Fialho"
-
 [6]: /2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/ "Desconf 2011 - Livro de Possibilidades"
-
 [4]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
-
 [9]: http://www.slideshare.net/deborawx/despertando-o-uau "Despertando o UAU - Deb Xavier"
-
 [16]: http://www.slideshare.net/cheilmann/be-a-kickass-speaker-mozcamp-2011
-
 [7]: twitter.com/ericries "Eric Ries"

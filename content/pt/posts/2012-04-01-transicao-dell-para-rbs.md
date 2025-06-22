@@ -1,20 +1,20 @@
 ---
-title: 'Gratidão e Transição: Deixando a Dell para a RBS'
+title: "Gratidão e Transição: Deixando a Dell para a RBS"
 categories:
-- Technology
-- Events
+  - Technology
+  - Events
 date: 2012-04-01
 series: Vida em Porto Alegre
 tags:
-- Dell
-- RBS
-- Transição
-- Carreira
-- Gratidão
-- Eduardo Mathias
-- Carlos Eduardo Maciel
-- Mídia Digital
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Dell
+  - RBS
+  - Transição
+  - Carreira
+  - Gratidão
+  - Eduardo Mathias
+  - Carlos Eduardo Maciel
+  - Mídia Digital
+subtitle: Navegue transições de carreira com gratidão e propósito—descubra como ambientes de trabalho significativos nos moldam, e por que sair bem é tão importante quanto chegar forte
 ---
 
 _Esta é a Parte 7 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._

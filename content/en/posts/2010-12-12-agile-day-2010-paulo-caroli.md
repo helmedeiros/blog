@@ -1,5 +1,5 @@
 ---
-title: 'Agile Day 2010 – Part 3: Paulo Caroli on Software Production Line'
+title: "Agile Day 2010 – Part 3: Paulo Caroli on Software Production Line"
 author: helio
 layout: post
 date: 2010-12-12 12:21:35+00:00
@@ -8,20 +8,20 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Agile
-- Events
+  - Agile
+  - Events
 series: Agile Day 2010
 tags:
-- 2010
-- adpoa10
-- AGILE
-- agileday
-- card wall
-- guma
-- kanban
-- paulo caroli
-- pucrs
-subtitle: Agile practices and development methodologies
+  - 2010
+  - adpoa10
+  - AGILE
+  - agileday
+  - card wall
+  - guma
+  - kanban
+  - paulo caroli
+  - pucrs
+subtitle: Master the art of agile facilitation—learn Paulo Caroli's proven techniques for running workshops that generate real insights, drive decisions, and transform team dynamics through collaborative design
 ---
 
 On November 29th afternoon, during <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010 Porto Alegre</a>, we had an excellent experience transfer conducted by <a title="@paulocaroli" href="http://twitter.com/paulocaroli" target="_blank">Paulo Caroli</a> from <a title="Thoughtworks" href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a>, with his presentation "SOFTWARE PRODUCTION LINE represented as cards on the wall."

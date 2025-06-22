@@ -2,7 +2,7 @@
 title: "Team Building: Software Depende de Relacionamentos"
 date: 2018-07-13T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Palestra apresentada no Agile Brazil 2018, em Campinas – 3 a 5 de Outubro"
+subtitle: Construa equipes de alta performance através de construção intencional de relacionamentos—atividades práticas para visão de equipe, alinhamento de expectativas e conexão que transformam colaboração e confiança
 tags:
   [
     "team building",

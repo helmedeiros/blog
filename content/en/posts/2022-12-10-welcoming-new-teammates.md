@@ -1,21 +1,22 @@
 ---
 title: Welcoming Someone New—Without Changing What Worked
 categories:
-- Technology
-- Leadership
+  - Technology
+  - Leadership
 date: 2022-12-10 10:00:00-03:00
-description: How we structured onboarding for new teammates while maintaining our
+description:
+  How we structured onboarding for new teammates while maintaining our
   remote-first culture, with clear rituals and connected experiences that work both
   in-person and digitally.
 tags:
-- remote-first
-- onboarding
-- async
-- team-growth
-- rituals
+  - remote-first
+  - onboarding
+  - async
+  - team-growth
+  - rituals
 series: Remote-First Work
 series_order: 4
-subtitle: Software development concepts and practices
+subtitle: Scale your team while preserving culture—maintaining remote-first onboarding practices that create connection, clarity, and confidence for new hires
 ---
 
 ## Growing the Team Without Rewriting the Rules

@@ -1,17 +1,17 @@
 ---
 title: Building Trust, One Game at a Time
 categories:
-- Leadership
-- Architecture
+  - Leadership
+  - Architecture
 date: 2018-12-30 10:00:00-03:00
 author: Helio Medeiros
 tags:
-- team building
-- thoughtworks
-- workshop
-- collaboration
-- culture
-subtitle: Software development concepts and practices
+  - team building
+  - thoughtworks
+  - workshop
+  - collaboration
+  - culture
+subtitle: Design meaningful team connections through structured games and activities—proven workshop format that builds trust, psychological safety, and lasting relationships across distributed teams
 ---
 
 While working at Thoughtworks, I had the opportunity to design and facilitate a team-building workshop that brought together 60 consultants across five project teams. The goal wasn’t simply to _improve collaboration_—we wanted to go deeper: to build meaningful relationships that would ripple into how people designed software together.

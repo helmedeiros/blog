@@ -3,7 +3,7 @@ title: "Caelum Day in Rio – Part 6: Java Persistence with Paulo Silveira"
 date: 2009-11-13T14:00:00+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "JPA 2.0 might finally make Java persistence bearable"
+subtitle: "Escape object-relational mapping hell—discover how JPA 2.0's criteria API, metamodel, and enhanced annotations finally make Java persistence elegant, type-safe, and actually enjoyable to use"
 tags:
   [
     "Caelum Day",

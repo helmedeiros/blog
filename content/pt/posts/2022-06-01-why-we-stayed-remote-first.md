@@ -1,20 +1,21 @@
 ---
 title: Por que Continuamos Remote-First—Mesmo com o Escritório Reaberto
 categories:
-- Events
+  - Events
 date: 2022-06-01
-description: A decisão consciente de manter práticas remote-first quando o escritório
+description:
+  A decisão consciente de manter práticas remote-first quando o escritório
   reabriu, evitando a armadilha do híbrido e preservando o que funcionava.
 tags:
-- remote-first
-- híbrido
-- pós-pandemia
-- assíncrono
-- práticas-de-time
+  - remote-first
+  - híbrido
+  - pós-pandemia
+  - assíncrono
+  - práticas-de-time
 series:
-- Remote-First Work
+  - Remote-First Work
 series_order: 3
-subtitle: Estratégias para trabalho remoto e equipes distribuídas
+subtitle: Navegue a armadilha híbrida e preserve o que funciona—criando sistemas para colaboração distribuída mesmo quando o escritório reabre
 ---
 
 ## As Luzes do Escritório se Acenderam

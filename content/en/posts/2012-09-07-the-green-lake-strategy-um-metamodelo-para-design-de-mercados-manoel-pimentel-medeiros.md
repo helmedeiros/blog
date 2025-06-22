@@ -7,18 +7,18 @@ embed: null
 seo_follow: null
 seo_noindex: null
 categories:
-- Leadership
-- Agile
+  - Leadership
+  - Agile
 tags:
-- '#AgileBR'
-- agile brazil
-- Blue Ocean Strategy
-- design de mercado
-- manoel pimentel
-- manoelep
-- metamodelo
-- The Green Lake Strategy
-subtitle: Reflections on leadership and people development
+  - "#AgileBR"
+  - agile brazil
+  - Blue Ocean Strategy
+  - design de mercado
+  - manoel pimentel
+  - manoelep
+  - metamodelo
+  - The Green Lake Strategy
+subtitle: Create sustainable market ecosystems beyond Blue Ocean Strategy—learn how to design green lakes within red oceans, build meta-products, and grow through strategic franchising
 ---
 
 The strategy of [oceano azul][1], is a book that teaches how to create and work with markets, and it goes from finding the red ocean full of competition, where the entry into this market is usually based on leveraging and differentiating at low cost.
@@ -63,24 +63,20 @@ First, we need to create a meta-product, then we create the ecosystem, capture, 
 
 There are no correct paths and this realization does not depend on supernatural donations.
 
-The tip is that it's easier to create a lake than an ocean! 
+The tip is that it's easier to create a lake than an ocean!
+
 <div style="margin-bottom:5px">
  <strong> <a href="http://www.slideshare.net/manoelp/the-green-lake-strategy-um-metamodelo-para-design-de-mercados" title="The Green Lake Strategy
 
- - Um metamodelo para design de mercados" target="_blank">The Green Lake Strategy &#8211; Um metamodelo para design de mercados</a> </strong> from <strong><a href="http://www.slideshare.net/manoelp" target="_blank">Manoel Pimentel Medeiros</a></strong> 
+- Um metamodelo para design de mercados" target="\_blank">The Green Lake Strategy &#8211; Um metamodelo para design de mercados</a> </strong> from <strong><a href="http://www.slideshare.net/manoelp" target="_blank">Manoel Pimentel Medeiros</a></strong>
 </div>
  Note:
 
 I kept all the text exactly as written, as per your request.
 
 [2]: /uploads/2012/09/nirvanaManoel.png
-
 [3]: /uploads/2012/09/whatThesePortfoliosAreMissing1.png
-
 [1]: http://en.wikipedia.org/wiki/Blue_Ocean_Strategy "Blue Ocean Strategy"
-
 [5]: http://en.wikipedia.org/wiki/VRIO "VRIO"
-
 [4]: http://xisgaucho.com.br/ "xis-gaucho"
-
 [6]: http://www.slideshare.net/manoelp/tae-teoria-da-alavancagem-estrelar-manoel-pimentel "TAE"

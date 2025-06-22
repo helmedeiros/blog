@@ -4,18 +4,19 @@ author: helio
 layout: post
 date: 2013-06-26 18:56:30+00:00
 embed:
-- This is the default text
+  - This is the default text
 seo_follow:
-- 'false'
+  - "false"
 seo_noindex:
-- 'false'
+  - "false"
 dsq_thread_id:
-- 4969967005
+  - 4969967005
 categories:
-- Technology
-- Leadership
-subtitle: Conceitos e práticas de desenvolvimento de software
+  - Technology
+  - Leadership
+subtitle: Pare de adivinhar e comece a medir—aprenda como usar métricas de código, análise de coesão e ferramentas de visualização como CodeCity para tomar decisões baseadas em dados sobre sua base de código
 ---
+
 Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.
 
 Qual parte do código deve ser iniciada a cobertura ou os testes, a classe mais fácil, a mais conhecida, a que possui mais dependentes. O Aniche defende que assim como decisões de negócio são apoiadas por mineração de dados devemos fazer o mesmo com os nossos dados sobre código.
@@ -40,4 +41,4 @@ Quem e quando gerou mais bugs? Podemos descobrir quem corrigiu algo, que dia foi
 
 Uma imagem vale mais que mil palavras! Descubra oque está por baixo do teu capô, e faça isso com gráficos, podemos analisar rapidamente e entender oque acontece. Olhe o [CodeCity][1], use DSM, Matrix Pyramid, veja o Kiviat, JDpendend, JavaNCSS, Eclipse Metrics! Nem tudo é perfeito mas vale testar!!
 
- [1]: http://www.inf.usi.ch/phd/wettel/codecity.html "code city"
+[1]: http://www.inf.usi.ch/phd/wettel/codecity.html "code city"

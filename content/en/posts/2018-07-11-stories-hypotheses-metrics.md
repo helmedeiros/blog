@@ -2,7 +2,7 @@
 title: "Stories, Hypotheses, and Metrics: Learning Every Day"
 date: 2018-07-11T14:00:00-03:00
 author: Helio Medeiros
-subtitle: "Presented at BA Brazil 2018 – São Paulo"
+subtitle: Transform user stories into systematic learning experiments—using hypotheses, metrics, and structured funnels to validate assumptions and build products that grow with understanding
 tags:
   [
     "product discovery",

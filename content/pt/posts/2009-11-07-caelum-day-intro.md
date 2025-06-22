@@ -3,7 +3,7 @@ title: "Caelum Day no Rio – Impressões do Sábado na Estácio"
 date: 2009-11-07T23:27:21+00:00
 draft: false
 author: Helio Medeiros
-subtitle: "Introduzindo uma série sobre as palestras que marcaram este evento"
+subtitle: "Mergulhe na cena tech brasileira de ponta—junte-se a um sábado inesquecível explorando computação em nuvem, REST, NoSQL e o futuro do desenvolvimento Java com pioneiros da indústria"
 tags:
   [
     "Caelum",

@@ -1,36 +1,37 @@
 ---
-title: 'New City, New Code, New Language: My First Week at Dell in Porto Alegre'
+title: "New City, New Code, New Language: My First Week at Dell in Porto Alegre"
 author: helio
 layout: post
 date: 2010-11-15 18:00:00+00:00
 slug: primeira-semana-dell-porto-alegre
 categories:
-- Events
-- Technology
+  - Events
+  - Technology
 tags:
-- Dell
-- Stefanini
-- Porto Alegre
-- Java
-- TDD
-- OSB
-- ESB
-- BPEL
-- English
-- Multinational
-description: Account of my first week working at Stefanini/Dell in Porto Alegre -
+  - Dell
+  - Stefanini
+  - Porto Alegre
+  - Java
+  - TDD
+  - OSB
+  - ESB
+  - BPEL
+  - English
+  - Multinational
+description:
+  Account of my first week working at Stefanini/Dell in Porto Alegre -
   new city, multinational environment, enterprise technologies and professional English
   challenges.
 keywords:
-- dell porto alegre
-- stefanini
-- first week work
-- java enterprise
-- osb oracle service bus
-- multinational development
-- professional english
+  - dell porto alegre
+  - stefanini
+  - first week work
+  - java enterprise
+  - osb oracle service bus
+  - multinational development
+  - professional english
 series: Life in Porto Alegre
-subtitle: Software development concepts and practices
+subtitle: Navigate the excitement of multinational environments—discover how moving cities, learning enterprise technologies like OSB/ESB/BPEL, and working in English daily creates exponential professional growth
 ---
 
 ![Dell Campus in Porto Alegre](/uploads/2010/11/dell_5084527975_o.jpg)

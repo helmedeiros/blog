@@ -4,27 +4,27 @@ author: helio
 layout: post
 date: 2023-11-08 10:00:00+00:00
 categories:
-- Leadership
-- Management
-- Professional Development
-- Training
-- Teams
+  - Leadership
+  - Management
+  - Professional Development
+  - Training
+  - Teams
 tags:
-- leadership
-- management
-- training
-- professional-development
-- team-leadership
-- omio
-- management-series
-- change-management
-- kubler-ross
-- emotional-intelligence
-- change-curve
-- empathy
-- adaptation
-- communication
-subtitle: Reflections on leadership and people development
+  - leadership
+  - management
+  - training
+  - professional-development
+  - team-leadership
+  - omio
+  - management-series
+  - change-management
+  - kubler-ross
+  - emotional-intelligence
+  - change-curve
+  - empathy
+  - adaptation
+  - communication
+subtitle: Navigate organizational change with empathy using the change curve, emotional vs logical frameworks, and coping strategies that support human adaptation
 ---
 
 ## Change vs Competition
