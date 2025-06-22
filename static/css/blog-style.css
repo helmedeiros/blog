@@ -1,5 +1,5 @@
 /* =========================================
-   RESEARCH-STYLE BLOG LAYOUT - OpenAI Match
+   BLOG LAYOUT STYLES
    ========================================= */
 
 /* Import modern fonts */
@@ -502,7 +502,7 @@
   color: #000;
 }
 
-/* Posts Counter - Hidden like OpenAI */
+/* Posts Counter - Hidden for clean design */
 .posts-counter {
   display: none;
 }
@@ -552,7 +552,7 @@
   margin-top: 0;
 }
 
-/* Post Card Styling - Match OpenAI exactly */
+/* Post Card Styling - Clean minimal design */
 .post-card {
   background: white;
   border: none;
@@ -643,7 +643,7 @@
 }
 
 .post-card-tags {
-  display: none; /* Hide tags to match OpenAI design */
+  display: none; /* Hide tags for cleaner layout */
 }
 
 /* Load More Section */
@@ -795,7 +795,7 @@
   }
 }
 
-/* Category styling - uniform gray like OpenAI */
+/* Category styling - uniform gray design */
 .post-card-category {
   background: #f3f4f6 !important;
   color: #374151 !important;
