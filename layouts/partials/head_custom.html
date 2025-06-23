@@ -28,6 +28,20 @@
 <!-- Preload critical CSS -->
 <link rel="preload" href="{{ "css/main.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
+<!-- Custom CSS with cache busting - loaded after theme CSS for proper override -->
+{{ $customLayout := resources.Get "css/custom-layout.css" }}
+{{ $blogStyle := resources.Get "css/blog-style.css" }}
+{{ if $customLayout }}
+  <link rel="stylesheet" href="{{ $customLayout.RelPermalink }}?v={{ now.Unix }}" media="all">
+{{ else }}
+  <link rel="stylesheet" href="{{ "css/custom-layout.css" | absURL }}?v={{ now.Unix }}" media="all">
+{{ end }}
+{{ if $blogStyle }}
+  <link rel="stylesheet" href="{{ $blogStyle.RelPermalink }}?v={{ now.Unix }}" media="all">
+{{ else }}
+  <link rel="stylesheet" href="{{ "css/blog-style.css" | absURL }}?v={{ now.Unix }}" media="all">
+{{ end }}
+
 <!-- Critical CSS for above-the-fold content -->
 <style>
 /* Critical CSS - Inline for faster first paint */
@@ -41,6 +55,47 @@ body{padding-top:70px}
 .post-preview .post-title{font-size:30px;margin-top:0;color:#404040}
 .post-preview .post-meta{color:#808080;font-size:18px;margin:0 0 10px}
 @media(min-width:768px){.post-preview{padding:35px 0}.post-preview .post-title{font-size:36px}.intro-header{margin-top:130px}.page-heading h1{font-size:80px}}
+
+/* Force table styles to load immediately - prevents FOUC */
+.article-content table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 2rem 0 !important;
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid #e2e8f0 !important;
+}
+.article-content table thead {
+    background: linear-gradient(135deg, #1f2937 0%, #111827 100%) !important;
+}
+.article-content table thead th {
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    font-size: 0.875rem !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.1em !important;
+    padding: 1.25rem 1.5rem !important;
+    text-align: left !important;
+    border: none !important;
+}
+.article-content table tbody tr {
+    background-color: #ffffff !important;
+    transition: all 0.2s ease !important;
+}
+.article-content table tbody tr:nth-child(even) {
+    background-color: #f1f5f9 !important;
+}
+.article-content table tbody td {
+    padding: 1.25rem 1.5rem !important;
+    border: none !important;
+    border-bottom: 1px solid #e2e8f0 !important;
+    color: #1e293b !important;
+    font-size: 0.95rem !important;
+    line-height: 1.6 !important;
+    font-weight: 500 !important;
+}
 </style>
 
 <!-- Optimized font loading with font-display: swap -->
