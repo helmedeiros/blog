@@ -11,6 +11,28 @@ const STATIC_CACHE_URLS = [
   '/favicon.svg'
 ];
 
+// Helper function to check if request should be cached
+function shouldCache(request) {
+  // Only cache HTTP/HTTPS requests
+  if (!request.url.startsWith('http://') && !request.url.startsWith('https://')) {
+    return false;
+  }
+
+  // Don't cache chrome-extension or other unsupported schemes
+  if (request.url.startsWith('chrome-extension://') ||
+      request.url.startsWith('moz-extension://') ||
+      request.url.startsWith('safari-extension://')) {
+    return false;
+  }
+
+  // Only cache GET requests
+  if (request.method !== 'GET') {
+    return false;
+  }
+
+  return true;
+}
+
 // Install event
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -43,8 +65,8 @@ self.addEventListener('activate', (event) => {
 
 // Fetch event
 self.addEventListener('fetch', (event) => {
-  // Only handle GET requests
-  if (event.request.method !== 'GET') {
+  // Filter out unsupported requests early
+  if (!shouldCache(event.request)) {
     return;
   }
 
@@ -70,7 +92,10 @@ self.addEventListener('fetch', (event) => {
               const responseToCache = response.clone();
               caches.open(CACHE_NAME)
                 .then((cache) => {
-                  cache.put(event.request, responseToCache);
+                  cache.put(event.request, responseToCache)
+                    .catch((error) => {
+                      console.log('Cache put failed:', error);
+                    });
                 });
 
               return response;
@@ -80,14 +105,17 @@ self.addEventListener('fetch', (event) => {
   }
 
   // Handle HTML pages with network-first strategy
-  else if (event.request.headers.get('accept').includes('text/html')) {
+  else if (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html')) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
           const responseToCache = response.clone();
           caches.open(CACHE_NAME)
             .then((cache) => {
-              cache.put(event.request, responseToCache);
+              cache.put(event.request, responseToCache)
+                .catch((error) => {
+                  console.log('Cache put failed:', error);
+                });
             });
           return response;
         })
