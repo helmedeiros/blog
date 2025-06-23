@@ -14,18 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
     return link;
   }
 
-  // Load non-critical CSS
-  const nonCriticalCSS = [
-    '/css/photoswipe.min.css',
-    '/css/photoswipe.default-skin.min.css'
-  ];
-
-  nonCriticalCSS.forEach(css => {
-    const link = document.querySelector(`link[href="${css}"]`);
-    if (!link) {
-      loadCSS(css);
-    }
-  });
+  // PhotoSwipe CSS is handled by the theme when needed
+  // Removed non-critical CSS loading to prevent 404 errors
 
   // Preload next page resources on hover
   let prefetchedPages = new Set();
