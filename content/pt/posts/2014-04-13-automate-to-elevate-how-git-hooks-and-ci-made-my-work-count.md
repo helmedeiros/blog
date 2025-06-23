@@ -1,6 +1,6 @@
 ---
 title: "Automatizar Para Evoluir: Como Git Hooks e CI Deram Valor ao Meu Trabalho"
-date: 2015-04-13T10:00:00-03:00
+date: 2014-04-13T10:00:00-03:00
 author: Helio Medeiros
 subtitle: Descubra como Git hooks e Jenkins CI transformaram o desenvolvimento Java corporativo caótico em um fluxo automatizado e disciplinado que detecta erros cedo e constrói confiança no time
 tags:
@@ -20,7 +20,7 @@ categories: ["Development"]
 
 ## Não É Só Sobre Escrever Código
 
-Em 2015, na RBS, trabalhávamos 100% com Java. Era JPA, EJB e Maven do começo ao fim. Mas os ciclos de feedback não acompanhavam essa complexidade. A gente implementava uma nova feature, fazia commit, e torcia pra não quebrar outro módulo escondido no sistema.
+Desde de 2012, na RBS, trabalhávamos 100% com Java. Era JPA, EJB e Maven do começo ao fim. Mas os ciclos de feedback não acompanhavam essa complexidade. A gente implementava uma nova feature, fazia commit, e torcia pra não quebrar outro módulo escondido no sistema.
 
 O Jenkins existia, mas sem disciplina. Uns rodavam teste. Outros não. Cada dev com um ambiente diferente. O CI era quase uma aposta.
 

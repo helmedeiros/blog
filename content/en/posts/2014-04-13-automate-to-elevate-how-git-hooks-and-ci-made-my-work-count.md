@@ -1,6 +1,6 @@
 ---
 title: "Automate to Elevate: How Git Hooks and CI Made My Work Count"
-date: 2015-04-13T10:00:00-03:00
+date: 2014-04-13T10:00:00-03:00
 author: Helio Medeiros
 subtitle: Discover how Git hooks and Jenkins CI transformed chaotic Java enterprise development into a disciplined, automated workflow that caught errors early and built team confidence
 tags:
