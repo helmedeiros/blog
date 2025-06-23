@@ -25,22 +25,9 @@
 <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
 
-<!-- Preload critical CSS -->
-<link rel="preload" href="{{ "css/main.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-<!-- Custom CSS with cache busting - loaded after theme CSS for proper override -->
-{{ $customLayout := resources.Get "css/custom-layout.css" }}
-{{ $blogStyle := resources.Get "css/blog-style.css" }}
-{{ if $customLayout }}
-  <link rel="stylesheet" href="{{ $customLayout.RelPermalink }}?v={{ now.Unix }}" media="all">
-{{ else }}
-  <link rel="stylesheet" href="{{ "css/custom-layout.css" | absURL }}?v={{ now.Unix }}" media="all">
-{{ end }}
-{{ if $blogStyle }}
-  <link rel="stylesheet" href="{{ $blogStyle.RelPermalink }}?v={{ now.Unix }}" media="all">
-{{ else }}
-  <link rel="stylesheet" href="{{ "css/blog-style.css" | absURL }}?v={{ now.Unix }}" media="all">
-{{ end }}
+<!-- Custom CSS - loaded after theme CSS with cache busting -->
+<link rel="stylesheet" href="{{ "css/custom-layout.css" | absURL }}?v={{ now.Format "20060102150405" }}" media="all">
+<link rel="stylesheet" href="{{ "css/blog-style.css" | absURL }}?v={{ now.Format "20060102150405" }}" media="all">
 
 <!-- Critical CSS for above-the-fold content -->
 <style>
