@@ -50,8 +50,3 @@ theme = "beautifulhugo"
     noClasses = false
     codeFences = true
     guessSyntax = true
-
-# Analytics Configuration for Blog Only
-[services]
-  [services.googleAnalytics]
-    id = "G-GL0Q1PNV4W"
