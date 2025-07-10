@@ -40,12 +40,7 @@ Essa sessão tem um fluxo — e cada passo tem seu papel:
 4. **Defina métricas**: As duplas listam sinais mensuráveis que indicariam se o objetivo está sendo alcançado.
 5. **Valide com hipóteses**: Cada dupla escreve o que deve ser verdade para que este OKR funcione. Essas são hipóteses testáveis.
 
-```markdown
-Objetivo: Melhorar a confiabilidade das partidas em áreas urbanas
-KR1: 80% das partidas criadas têm pelo menos 6 jogadores confirmados 12h antes
-KR2: 95% das partidas enviam lembrete automático 24h antes do início
-Hipótese: Se usuários receberem lembretes no tempo certo, confirmarão com antecedência e comparecerão com mais frequência.
-```
+{{< carousel images="2023/04/okra-session1-empty-company-goals.jpg,2023/04/okra-session1-empty-team-initiatives.jpg,2023/04/okra-session1-empty-objective-brainstorm.jpg" titles="Canvas Objetivos da Empresa,Canvas Iniciativas da Equipe,Canvas Brainstorm de Objetivos" alts="OKRA Sessão #1 Canvas Objetivos da Empresa - Um template estruturado para mapear OKRs da empresa para o entendimento da equipe,OKRA Sessão #1 Canvas Iniciativas da Equipe - Um framework para organizar iniciativas da equipe e hipóteses,OKRA Sessão #1 Canvas Brainstorm de Objetivos - Um espaço colaborativo para gerar e agrupar ideias de contribuição da equipe" basepath="/uploads" >}}
 
 ## 3. Padrões que Ajudam ou Atrapalham
 
@@ -79,6 +74,8 @@ Essa é uma sessão que se beneficia de estrutura. Aqui está um caminho testado
 3. **Leitura e agrupamento** — Leitura em voz alta e agrupamento de ideias semelhantes.
 4. **Check de bloqueios** — Cada pessoa aponta riscos ou dependências da sua contribuição.
 5. **Duplas para valor e hipótese** — Em duplas, escrevem dor/ganho do cliente, métricas e hipóteses.
+
+{{< carousel images="2023/04/okra-session1-company-goals.jpg,2023/04/okra-session1-team-initiatives.jpg,2023/04/okra-session1-objective-brainstorm.jpg" titles="Canvas Objetivos da Empresa,Canvas Iniciativas da Equipe,Canvas Brainstorm de Objetivos" alts="OKRA Sessão #1 Canvas Objetivos da Empresa - Um template estruturado para mapear OKRs da empresa para o entendimento da equipe,OKRA Sessão #1 Canvas Iniciativas da Equipe - Um framework para organizar iniciativas da equipe e hipóteses em OKRs acionáveis,OKRA Sessão #1 Canvas Brainstorm de Objetivos - Um espaço colaborativo para gerar e agrupar ideias de contribuição da equipe" basepath="/uploads" >}}
 
 ```bash
 # Sugestão de estrutura para os arquivos da sessão

@@ -40,12 +40,7 @@ This session has a flow—and every step plays a part:
 4. **Define Metrics**: Pairs also list what measurable signals will show if the objective is being achieved.
 5. **Validate with Hypotheses**: Each pair writes what must be true for this goal to work. These are testable assumptions.
 
-```markdown
-Objective: Improve match reliability in urban areas
-KR1: 80% of matches created have at least 6 confirmed players 12h before start
-KR2: 95% of matches send an automatic reminder 24h before kickoff
-Hypothesis: If users receive timely reminders, they will confirm earlier and attend more reliably.
-```
+{{< carousel images="2023/04/okra-session1-empty-company-goals.jpg,2023/04/okra-session1-empty-team-initiatives.jpg,2023/04/okra-session1-empty-objective-brainstorm.jpg" titles="Company Goals Canvas,Team Initiatives Canvas,Objective Brainstorm Canvas" alts="OKRA Session #1 Company Goals Canvas - A structured template for mapping company OKRs to team understanding,OKRA Session #1 Team Initiatives Canvas - A framework for organizing team initiatives and hypotheses,OKRA Session #1 Objective Brainstorm Canvas - A collaborative space for generating and clustering team contribution ideas" basepath="/uploads" >}}
 
 ## 3. Patterns We've Seen That Help or Hurt
 
@@ -79,6 +74,8 @@ This is a session that benefits from structure. Here's a proven path:
 3. **Read & Cluster** — Go around reading notes aloud and grouping overlapping ideas.
 4. **Blocker Check** — Ask each person to name any risk or dependency tied to their contribution.
 5. **Value & Hypothesis Pairs** — Break into pairs and write customer pain/gain, metrics, and hypotheses.
+
+{{< carousel images="2023/04/okra-session1-company-goals.jpg,2023/04/okra-session1-team-initiatives.jpg,2023/04/okra-session1-objective-brainstorm.jpg" titles="Company Goals Canvas,Team Initiatives Canvas,Objective Brainstorm Canvas" alts="OKRA Session #1 Company Goals Canvas - A structured template for mapping company OKRs to team understanding,OKRA Session #1 Team Initiatives Canvas - A framework for organizing team initiatives and hypotheses into actionable OKRs,OKRA Session #1 Objective Brainstorm Canvas - A collaborative space for generating and clustering team contribution ideas" basepath="/uploads" >}}
 
 ```bash
 # Session layout suggestion
