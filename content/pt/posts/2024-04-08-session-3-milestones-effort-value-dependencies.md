@@ -53,7 +53,7 @@ Ela não é uma planilha. É um quadro colaborativo em construção. A estrutura
 
 1. **Revisar Marco** – Um membro apresenta o contexto da ideia.
 2. **Estimar Esforço** – O grupo atribui S/M/L, baseado em experiência prévia.
-3. **Valor de Negócio e UX** – Avaliam-se impacto de negócio ($/$$/$$$) e valor de experiência (♥/♥♥/♥♥♥).
+3. **Valor de Negócio e UX** – Avaliam-se impacto de negócio (`$/$$/$$$`) e valor de experiência (`♥/♥♥/♥♥♥`).
 4. **Dependências** – Chamam-se bloqueios ou colaborações necessárias (ex: Plataforma, BI, DS).
 5. **Habilidades Necessárias** – Em duplas, definem-se as competências chave para entregar (Design, Frontend, Backend, etc).
 
@@ -77,13 +77,13 @@ Evite perder tempo debatendo se algo é M ou L. O objetivo é entendimento compa
 - Sequenciar com base em valor ou restrições técnicas
 - Evitar prometer mais do que conseguimos entregar
 
-| Atributo      | Escala       | Serve Para...                                |
-| ------------- | ------------ | -------------------------------------------- |
-| Esforço       | S / M / L    | Estimar complexidade de entrega              |
-| Valor Negócio | $ / $$ / $$$ | Prever retorno estratégico ou financeiro     |
-| Valor UX      | ♥ / ♥♥ / ♥♥♥ | Refletir impacto na experiência do usuário   |
-| Dependências  | Texto livre  | Revelar riscos e necessidades de coordenação |
-| Habilidades   | Texto livre  | Definir recursos necessários para execução   |
+| Atributo      | Escala         | Serve Para...                                |
+| ------------- | -------------- | -------------------------------------------- |
+| Esforço       | S / M / L      | Estimar complexidade de entrega              |
+| Valor Negócio | `$ / $$ / $$$` | Prever retorno estratégico ou financeiro     |
+| Valor UX      | `♥ / ♥♥ / ♥♥♥` | Refletir impacto na experiência do usuário   |
+| Dependências  | Texto livre    | Revelar riscos e necessidades de coordenação |
+| Habilidades   | Texto livre    | Definir recursos necessários para execução   |
 
 Usar emojis ou cores ajuda a destacar padrões.
 
