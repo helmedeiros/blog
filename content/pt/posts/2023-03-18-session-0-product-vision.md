@@ -36,6 +36,8 @@ Criamos um canvas estruturado para ajudar as equipes a mapear e priorizar o que 
 
 Cada área contém post-its onde os membros da equipe adicionam fatos, feedbacks, sinais ou bloqueios conhecidos. A ideia não é fazer um brainstorm aleatório—mas reunir o que já entendemos a partir de pesquisas, analytics, entrevistas, retrospectivas e incidentes.
 
+{{< figure src="/uploads/2023/03/okra-session0-empty.jpg" title="Template Canvas Vazio OKRA Sessão #0" alt="Template Canvas Vazio OKRA Sessão #0 - Canvas estruturado com cinco áreas: Dores Conhecidas dos Clientes, Ganhos Conhecidos dos Clientes, Oportunidades de Negócio, Expectativas de Stakeholders e Forças e Restrições da Plataforma" >}}
+
 ```bash
 # Estrutura de pastas recomendada
 okra/
@@ -78,6 +80,8 @@ O formato que usamos para facilitar a Sessão #0 geralmente segue esses passos:
 ```markdown
 Visão: Permitir que jogadores organizem e participem de partidas com confiança, lançando funcionalidades que reduzam fricção, aumentem a confiança e promovam crescimento pela comunidade.
 ```
+
+{{< figure src="/uploads/2023/03/okra-session0-footbal-app.jpg" title="Exemplo App Futebol OKRA Sessão #0" alt="Exemplo App Futebol OKRA Sessão #0 - Canvas completo mostrando a visão do app de futebol com dores dos clientes, ganhos, oportunidades de negócio, expectativas de stakeholders e restrições da plataforma preenchidos" >}}
 
 Não se trata de escrever uma frase perfeita—mas de resumir, juntos, o que mais importa.
 

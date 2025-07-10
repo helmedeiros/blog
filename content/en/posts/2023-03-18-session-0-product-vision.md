@@ -36,6 +36,8 @@ We created a structured canvas to help teams map and prioritize what they alread
 
 Each area contains sticky notes where team members add facts, feedback, signals, or known blockers. The idea is not to brainstorm blindly—but to gather what we already understand from user research, analytics, interviews, retrospectives, and incidents.
 
+{{< figure src="/uploads/2023/03/okra-session0-empty.jpg" title="OKRA Session #0 Empty Canvas Template" alt="OKRA Session #0 Empty Canvas Template - A structured canvas with five areas: Customer Known Pains, Customer Known Gains, Business Opportunities, Stakeholder Expectations, and Platform Known Constraints and Strengths" >}}
+
 ```bash
 # Recommended folder structure
 okra/
@@ -78,6 +80,8 @@ The way we facilitate Session #0 often looks like this:
 ```markdown
 Vision: Empower players to reliably organize and join football matches with confidence, by launching core features that reduce friction, increase trust, and build community-driven growth.
 ```
+
+{{< figure src="/uploads/2023/03/okra-session0-footbal-app.jpg" title="OKRA Session #0 Football App Example" alt="OKRA Session #0 Football App Example - Completed canvas showing the football app vision with customer pains, gains, business opportunities, stakeholder expectations, and platform constraints filled in" >}}
 
 It's not about writing a perfect sentence—it's about summarizing what matters most, together.
 
