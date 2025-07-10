@@ -36,6 +36,8 @@ The structure we follow is collaborative and layered:
 4. **Read & Cluster** — Share ideas, group duplicates, and refine overlaps.
 5. **Milestone Validation** — For each grouped milestone, identify its link to the hypothesis, what type of work it is (epic, spike, etc.), and whether it unlocks or validates anything.
 
+{{< carousel images="okra-session2-empty-objectives-milestones.jpg, okra-session2-empty-team-initiatives.jpg,okra-session2-empty-vote-milestones.jpg" titles="Objectives to Milestones Canvas,Team Initiatives Canvas,Milestone Voting Canvas" alts="Empty canvas for mapping objectives to milestones,Empty team initiatives mapping canvas,Empty canvas for voting on milestone priorities" basepath="/uploads/2023/04/" >}}
+
 ```bash
 # Folder example
 okra/
@@ -94,6 +96,8 @@ This session will not give you a Gantt chart. It gives you a strategic inventory
 - A validated list of Objectives, refined from Session #1
 - Clusters of milestones mapped to hypotheses and outcomes
 - A prioritized view of where the team should focus to learn the most
+
+{{< carousel images="okra-session2-objectives.jpg,okra-session1-team-initiatives.jpg,okra-session2-features.jpg,okra-session2-milestones-spikes-inceptions.jpg,okra-session2-priority.jpg" titles="Session Objectives Canvas,Team Initiatives Mapping,Feature Breakdown Canvas,Milestones & Spikes Classification,Priority Voting Results" alts="Completed objectives canvas for OKRA session 2,Team initiatives mapped from session 1,Feature breakdown and categorization canvas,Canvas showing milestones, spikes, and inception classification,Final priority voting results for milestone selection" basepath="/uploads/2023/04/" >}}
 
 ```markdown
 Objective: Drive growth through social sharing
