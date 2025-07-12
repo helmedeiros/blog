@@ -41,12 +41,25 @@ By Session #3, your team has drafted OKRs and brainstormed candidate milestones.
 
 Every milestone is a bet—but not all bets are equal. Some require coordination. Others are low-hanging fruit. Some have high UX payoff but unclear technical feasibility. Session #3 gives us the shared language and structured time to turn that ambiguity into alignment.
 
-| When to Run           | Purpose                                                    |
-| --------------------- | ---------------------------------------------------------- |
-| After Session #2      | Milestones exist but haven't been sized, scoped, or tested |
-| Before Planning Phase | Ensures we're sequencing based on real constraints         |
+This session should be run after Session #2 when milestones exist but haven't been sized, scoped, or tested, and before the Planning Phase to ensure we're sequencing based on real constraints.
 
 This session isn't where you plan your quarter. It's where you learn what's actually possible.
+
+## Session Overview
+
+**Total Duration:** 90 minutes
+**Participants:** 4-8 team members (cross-functional)
+**Materials:** Collaboration board (Miro/Figma), milestone cards from Session #2, scoring templates
+
+| Activity            | Duration | Purpose                                            |
+| ------------------- | -------- | -------------------------------------------------- |
+| Milestone Review    | 30 min   | Present each milestone with context and discussion |
+| Effort Estimation   | 20 min   | Collaboratively size milestones using S/M/L scale  |
+| Business & UX Value | 20 min   | Score business impact and user experience value    |
+| Dependencies        | 10 min   | Identify blocking coordination and external needs  |
+| Skills Needed       | 10 min   | Map required competencies for each milestone       |
+
+**📋 Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ## 2. What the Session Looks Like
 

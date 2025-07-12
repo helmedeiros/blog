@@ -21,10 +21,22 @@ After defining our OKRs, shaping milestones, and evaluating effort and dependenc
 
 This isn't a Gantt chart. This is a conversation canvas. It allows teams to align, anticipate, and adjust. It gives everyone—from engineers to PMs to designers to stakeholders—a shared artifact to reference and challenge as the quarter progresses.
 
-| When to Run        | Why It Matters                                    |
-| ------------------ | ------------------------------------------------- |
-| After Session #3   | You now understand what's possible and needed     |
-| Before sprint prep | This sets up a planning process rooted in context |
+This session should be run after Session #3 when you now understand what's possible and needed, and before sprint prep to set up a planning process rooted in context.
+
+## Session Overview
+
+**Total Duration:** 75 minutes
+**Participants:** 4-8 team members (cross-functional)
+**Materials:** Collaboration board (Miro/Figma), milestone cards with scoring, timeline template
+
+| Activity                          | Duration | Purpose                                                |
+| --------------------------------- | -------- | ------------------------------------------------------ |
+| Milestone Selection & Positioning | 30 min   | Each member proposes timeline placement for milestones |
+| Annotation                        | 20 min   | Add effort, dependencies, and skills to timeline       |
+| Group Discussion                  | 20 min   | Review overlaps, risks, and capacity constraints       |
+| Final Sequencing                  | 5 min    | Adjust milestone order and flag key dependencies       |
+
+**📋 Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ## 1. Building a Living Plan
 

@@ -21,10 +21,22 @@ Depois de definir nossos OKRs, desenhar marcos e avaliar esforço e dependência
 
 Não é um gráfico de Gantt. É um canvas de conversa. Permite que os times se alinhem, antecipem e ajustem. Dá a todos — de engenheiros a PMs, designers e stakeholders — um artefato compartilhado para consultar e questionar conforme o trimestre avança.
 
-| Quando Rodar             | Por Que Importa                                |
-| ------------------------ | ---------------------------------------------- |
-| Após a Sessão #3         | Agora entendemos o que é possível e necessário |
-| Antes do Sprint Planning | Prepara o planejamento com contexto real       |
+Esta sessão deve ser executada após a Sessão #3 quando agora entendemos o que é possível e necessário, e antes do Sprint Planning para preparar o planejamento com contexto real.
+
+## Visão Geral da Sessão
+
+**Duração Total:** 75 minutos
+**Participantes:** 4-8 membros da equipe (multifuncional)
+**Materiais:** Quadro colaborativo (Miro/Figma), cartões de marcos com pontuação, template de linha do tempo
+
+| Atividade                          | Duração | Propósito                                                      |
+| ---------------------------------- | ------- | -------------------------------------------------------------- |
+| Seleção & Posicionamento de Marcos | 30 min  | Cada membro propõe posicionamento na linha do tempo            |
+| Anotação                           | 20 min  | Adicionar esforço, dependências e habilidades à linha do tempo |
+| Discussão em Grupo                 | 20 min  | Revisar sobreposições, riscos e restrições de capacidade       |
+| Sequenciamento Final               | 5 min   | Ajustar ordem dos marcos e sinalizar dependências principais   |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ## 1. Construindo um Plano Vivo
 

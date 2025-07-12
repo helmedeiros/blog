@@ -19,12 +19,26 @@ Após a Sessão #1, a equipe sai com Objetivos rascunhados, Resultados-Chave e u
 
 Essa sessão não é sobre travar prazos. É sobre identificar o trabalho essencial para validar nossas suposições e nos aproximar dos objetivos. É onde equipes empoderadas, conectadas à visão da liderança, usam sua visão de produto, cliente e tecnologia para responder: "O que precisamos entregar, testar ou aprender?"
 
-| Quando Executar       | Por que Importa                                      |
-| --------------------- | ---------------------------------------------------- |
-| Após a Sessão #1      | Transforma hipóteses de OKRs em trabalho estruturado |
-| Antes do planejamento | Permite estimativas e sequenciamento precisos        |
+Esta sessão deve ser executada após a Sessão #1 para transformar hipóteses de OKRs em trabalho estruturado, e antes do planejamento para permitir estimativas e sequenciamento precisos.
 
 É assim que times de produto evitam o teatro do roadmap — ancorando cada compromisso em aprendizado, não em desejos.
+
+## Visão Geral da Sessão
+
+**Duração Total:** 75 minutos
+**Participantes:** 4-8 membros da equipe + 1 facilitador
+**Materiais:** Quadro colaborativo (Miro/Figma), post-its coloridos, salas de breakout para duplas
+
+| Atividade              | Duração | Propósito                                                       |
+| ---------------------- | ------- | --------------------------------------------------------------- |
+| Começar com o Contexto | 10 min  | Revisar objetivos e hipóteses da Sessão #1                      |
+| Mapeamento da Equipe   | 15 min  | Identificar funcionalidades próprias da equipe ligadas aos OKRs |
+| Ideação Silenciosa     | 15 min  | Brainstorming individual de marcos por hipótese                 |
+| Leitura & Agrupamento  | 15 min  | Compartilhar ideias e agrupar conceitos de marcos similares     |
+| Validação dos Marcos   | 15 min  | Categorizar por tipo e validar vínculos com hipóteses           |
+| Priorização            | 5 min   | Votar nos marcos mais críticos para foco                        |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ## 2. Fluxo do Workshop: De Objetivos a Candidatos a Marcos
 
