@@ -40,12 +40,25 @@ Na Sessão #3, a equipe já tem OKRs rascunhados e possíveis marcos definidos. 
 
 Todo marco é uma aposta—mas nem todas têm o mesmo peso. Algumas dependem de outras equipes. Outras são baratas e rápidas. Algumas têm grande valor de UX, mas são tecnicamente incertas. A Sessão #3 oferece a linguagem e a estrutura para transformar essa ambiguidade em alinhamento.
 
-| Quando Rodar          | Propósito                                          |
-| --------------------- | -------------------------------------------------- |
-| Após a Sessão #2      | Marcos existem, mas ainda não foram avaliados      |
-| Antes do Planejamento | Permite sequenciamento baseado em restrições reais |
+Esta sessão deve ser executada após a Sessão #2 quando marcos existem, mas ainda não foram avaliados, e antes do Planejamento para permitir sequenciamento baseado em restrições reais.
 
 Esta não é a sessão de planejamento. É a sessão onde aprendemos o que é realmente viável.
+
+## Visão Geral da Sessão
+
+**Duração Total:** 90 minutos
+**Participantes:** 4-8 membros da equipe (multifuncional)
+**Materiais:** Quadro colaborativo (Miro/Figma), cartões de marcos da Sessão #2, templates de pontuação
+
+| Atividade               | Duração | Propósito                                                    |
+| ----------------------- | ------- | ------------------------------------------------------------ |
+| Revisão dos Marcos      | 30 min  | Apresentar cada marco com contexto e discussão               |
+| Estimativa de Esforço   | 20 min  | Dimensionar colaborativamente marcos usando escala S/M/L     |
+| Valor de Negócio & UX   | 20 min  | Pontuar impacto no negócio e valor da experiência do usuário |
+| Dependências            | 10 min  | Identificar coordenações bloqueantes e necessidades externas |
+| Habilidades Necessárias | 10 min  | Mapear competências necessárias para cada marco              |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ## 2. Como Funciona a Sessão
 

@@ -22,13 +22,25 @@ Nós não enxergamos OKRs como artefatos burocráticos ou teatro de roadmap. Tra
 
 OKRs não começam com metas. Eles começam com restrições, dores dos clientes e capacidade limitada. A partir disso, moldamos o impacto que é realista, mensurável e estrategicamente alinhado.
 
-| Entrada                     | Saída                                    |
-| --------------------------- | ---------------------------------------- |
-| OKRs da empresa             | Entendimento compartilhado da estratégia |
-| Áreas de produto da equipe  | Contribuições mapeadas por objetivo      |
-| Dores e ganhos dos clientes | Resultados-chave relevantes e claros     |
+Esta sessão transforma OKRs da empresa em entendimento compartilhado da estratégia, converte áreas de produto da equipe em contribuições mapeadas por objetivo, e traduz dores e ganhos dos clientes em Resultados-chave relevantes e claros.
 
 Se você pula essa sessão, acaba criando OKRs bonitos no papel, mas sem base concreta. É aqui que a gente corrige isso.
+
+## Visão Geral da Sessão
+
+**Duração Total:** 60 minutos
+**Participantes:** 4-8 membros da equipe + 1 stakeholder
+**Materiais:** Quadro colaborativo (Miro/Figma), post-its, salas de breakout para duplas
+
+| Atividade                         | Duração | Propósito                                               |
+| --------------------------------- | ------- | ------------------------------------------------------- |
+| Apresentação OKRs da Empresa      | 10 min  | Stakeholder compartilha direção e contexto do trimestre |
+| Rodada de Contribuição Silenciosa | 10 min  | Ideação individual sobre como a equipe pode contribuir  |
+| Leitura & Agrupamento             | 15 min  | Compartilhar ideias e agrupar conceitos semelhantes     |
+| Check de Bloqueios                | 10 min  | Identificar riscos e dependências cedo                  |
+| Duplas Valor & Hipótese           | 15 min  | Definir valor para cliente e hipóteses testáveis        |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ## 2. O Fluxo da Ideação: De Contribuição a Hipótese
 

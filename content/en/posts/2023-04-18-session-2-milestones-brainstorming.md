@@ -19,12 +19,26 @@ After Session #1, the team walks away with draft Objectives, Key Results, and a 
 
 This session is not about locking timelines. It's about identifying the essential work that will validate our assumptions and move us closer to our goals. It's where empowered teams, connected to the leadership vision, use their product, customer, and tech insight to answer: "What do we need to ship, test, or build confidence in?"
 
-| When to Execute  | Why It Matters                            |
-| ---------------- | ----------------------------------------- |
-| After Session #1 | Turns OKR hypotheses into structured work |
-| Before planning  | Enables accurate estimation & sequencing  |
+This session should be executed after Session #1 to turn OKR hypotheses into structured work, and before planning to enable accurate estimation & sequencing.
 
 This is how product teams avoid roadmap theatre—by grounding every commitment in learning, not wishful thinking.
+
+## Session Overview
+
+**Total Duration:** 75 minutes
+**Participants:** 4-8 team members + 1 facilitator
+**Materials:** Collaboration board (Miro/Figma), colored sticky notes, breakout rooms for pairs
+
+| Activity             | Duration | Purpose                                           |
+| -------------------- | -------- | ------------------------------------------------- |
+| Start With Context   | 10 min   | Review objectives and hypotheses from Session #1  |
+| Team Mapping         | 15 min   | Identify team-owned features connecting to OKRs   |
+| Silent Ideation      | 15 min   | Individual milestone brainstorming per hypothesis |
+| Read & Cluster       | 15 min   | Share ideas and group similar milestone concepts  |
+| Milestone Validation | 15 min   | Categorize by type and validate hypothesis links  |
+| Prioritization       | 5 min    | Vote on most critical milestones for focus        |
+
+**📋 Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ## 2. Workshop Flow: From Objectives to Milestone Candidates
 

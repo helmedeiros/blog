@@ -22,13 +22,25 @@ We don't see OKRs as compliance artifacts or roadmap theatre. We treat this mome
 
 OKRs don't start with goals. They start with constraints, customer pain, and limited capacity. And from there, we shape what impact is realistic, measurable, and strategically aligned.
 
-| Input                  | Output                                  |
-| ---------------------- | --------------------------------------- |
-| Company OKRs           | Shared understanding of strategy        |
-| Team product areas     | Draft contributions mapped to each goal |
-| Customer pains & gains | Relevant Key Results with clear intent  |
+This session transforms company OKRs into a shared understanding of strategy, converts team product areas into draft contributions mapped to each goal, and translates customer pains & gains into relevant Key Results with clear intent.
 
 If you skip this session, you often end up writing OKRs that sound nice but lack grounding. This is where we fix that.
+
+## Session Overview
+
+**Total Duration:** 60 minutes
+**Participants:** 4-8 team members + 1 stakeholder
+**Materials:** Collaboration board (Miro/Figma), sticky notes, breakout rooms for pairs
+
+| Activity                  | Duration | Purpose                                          |
+| ------------------------- | -------- | ------------------------------------------------ |
+| Company OKRs Presentation | 10 min   | Stakeholder shares quarter direction and context |
+| Silent Contribution Round | 10 min   | Individual ideation on how team can contribute   |
+| Read & Cluster            | 15 min   | Share ideas aloud and group overlapping concepts |
+| Blocker Check             | 10 min   | Surface risks and dependencies early             |
+| Value & Hypothesis Pairs  | 15 min   | Define customer value and testable assumptions   |
+
+**📋 Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ## 2. The Ideation Flow: From Contribution to Hypothesis
 
