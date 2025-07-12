@@ -16,13 +16,23 @@ Session #0 isn't a replacement for company strategy—it's a mechanism for align
 
 The outcome is not a backlog. It's not a roadmap. It's clarity—a single vision statement that captures what matters most for the next 90 days.
 
-| Context             | Typical Risk Without Session #0              |
-| ------------------- | -------------------------------------------- |
-| Strategy is delayed | Team starts with unaligned or made-up goals  |
-| Strategy is vague   | Ideas compete instead of coalescing          |
-| Strategy is unknown | Execution starts with friction and confusion |
+Without Session #0, teams often face predictable risks: when strategy is delayed, they start with unaligned or made-up goals; when strategy is vague, ideas compete instead of coalescing; and when strategy is unknown, execution starts with friction and confusion.
 
 This session helped us stop spinning in circles and instead start from shared insight.
+
+## Session Overview
+
+**Total Duration:** 30 minutes
+**Participants:** 4-8 team members
+**Materials:** Collaboration board (Miro/Figma), sticky notes, voting dots
+
+| Activity                | Duration | Purpose                                                             |
+| ----------------------- | -------- | ------------------------------------------------------------------- |
+| Share Known Inputs      | 15 min   | Gather stakeholder insights and team pain points to form foundation |
+| Group & Vote            | 5 min    | Prioritize the most impactful ideas for the quarter                 |
+| Define Vision Statement | 10 min   | Collaboratively create shared vision for the quarter                |
+
+**📋 Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ## 2. The Vision Template: Five Angles of Exploration
 

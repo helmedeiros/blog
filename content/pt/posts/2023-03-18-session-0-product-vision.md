@@ -16,13 +16,23 @@ A Sessão #0 não substitui a estratégia da empresa—ela é um mecanismo de al
 
 O resultado não é um backlog. Não é um roadmap. É clareza—uma declaração de visão que captura o que mais importa para os próximos 90 dias.
 
-| Contexto                | Risco Típico Sem a Sessão #0                       |
-| ----------------------- | -------------------------------------------------- |
-| Estratégia atrasada     | Equipe começa com metas desalinhadas ou inventadas |
-| Estratégia vaga         | Ideias competem em vez de se complementarem        |
-| Estratégia desconhecida | Execução começa com fricção e confusão             |
+Sem a Sessão #0, as equipes frequentemente enfrentam riscos previsíveis: quando a estratégia está atrasada, começam com metas desalinhadas ou inventadas; quando a estratégia é vaga, as ideias competem em vez de se complementarem; e quando a estratégia é desconhecida, a execução começa com fricção e confusão.
 
 Essa sessão nos ajudou a parar de rodar em círculos e começar com insights reais.
+
+## Visão Geral da Sessão
+
+**Duração Total:** 30 minutos
+**Participantes:** 4-8 membros da equipe
+**Materiais:** Quadro colaborativo (Miro/Figma), post-its, pontos de votação
+
+| Atividade                      | Duração | Propósito                                                          |
+| ------------------------------ | ------- | ------------------------------------------------------------------ |
+| Compartilhar Inputs Conhecidos | 15 min  | Reunir insights de stakeholders e dores da equipe para formar base |
+| Agrupar & Votar                | 5 min   | Priorizar as ideias mais impactantes para o trimestre              |
+| Definir Declaração de Visão    | 10 min  | Criar colaborativamente visão compartilhada para o trimestre       |
+
+**📋 Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ## 2. O Template de Visão: Cinco Ângulos de Exploração
 
