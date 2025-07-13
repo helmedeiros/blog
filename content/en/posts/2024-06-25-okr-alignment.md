@@ -115,21 +115,3 @@ By involving everyone early, we create clarity, commitment, and context.
 - Trade-offs are less painful because the team helped make them.
 
 This framework also builds trust. When your vision includes engineers' input and your metrics reflect real constraints, people step up. You stop hearing "Why are we doing this?" and start hearing "When can we start?"
-
----
-
-## What's Next?
-
-In the next article, I'll walk you through how to **facilitate each session**—down to the prompts, visuals, and common pitfalls. You'll get:
-
-- Facilitator checklists
-- Screenshot-ready templates
-- Troubleshooting tips when momentum drops
-
-This isn't a process to sell. It's a process to adopt, adapt, and improve with your team.
-
-Until then, here's your call to action:
-
-- Invite your team to reflect on last quarter's OKRs.
-- Run Session #0 or #1 before the next sprint kickoff.
-- Share your outcomes. We'd love to see how you make it your own.
