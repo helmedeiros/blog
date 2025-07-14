@@ -115,4 +115,4 @@ Every time I run into a bug caused by a dependency mismatch, I remember why I bu
 
 It's not glamorous. But it's one of the most practical pieces of automation I've ever written.
 
-→ [See the script on GitHub](https://github.com/helmedeiros/dotfiles/blob/aefe0371e7b4f1e87008d6c593930b0d3c18532c/bin/check-updates)
+→ [See the script on GitHub](https://github.com/helmedeiros/dotfiles/blob/aefe0371e7b4f1e87008d6c593930b0d3c18532c/bin/check-updates){target="\_blank"}

@@ -102,7 +102,7 @@ Não é só boas-vindas—é um compromisso real.
 
 ## Ferramentas e Templates
 
-- [Template Figjam - Connecting Onboard](https://www.figma.com/community/file/1517925221825604738)
+- [Template Figjam - Connecting Onboard](https://www.figma.com/community/file/1517925221825604738){target="\_blank"}
 - Funciona com qualquer quadro digital (Figjam, Miro) ou fisicamente com marcadores e post-its
 
 ## Por que Funciona

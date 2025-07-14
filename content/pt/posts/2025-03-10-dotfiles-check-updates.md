@@ -115,4 +115,4 @@ Toda vez que enfrento um bug causado por dependência desatualizada, lembro por 
 
 Não é glamouroso. Mas é uma das automações mais úteis que já fiz.
 
-→ [Veja o script no GitHub](https://github.com/helmedeiros/dotfiles/blob/aefe0371e7b4f1e87008d6c593930b0d3c18532c/bin/check-updates)
+→ [Veja o script no GitHub](https://github.com/helmedeiros/dotfiles/blob/aefe0371e7b4f1e87008d6c593930b0d3c18532c/bin/check-updates){target="\_blank"}
