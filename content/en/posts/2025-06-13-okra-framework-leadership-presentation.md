@@ -14,7 +14,7 @@ tags:
 subtitle: How two years of iterative framework development culminated in a leadership presentation that demonstrated the power of collaborative strategy execution
 ---
 
-On June 13, 2025, Pernelle and I presented our experience with the OKRA framework, a method we’ve used over the past two years to improve how we connect strategy with execution. What began as a simple way to make OKR planning more collaborative gradually became a consistent part of how our teams work and deliver results.
+On June 13, 2025, Pernelle and I presented our experience with the OKRA framework, a framework we created and have been iterating on over the past two years to improve how we connect strategy with execution. What began as a simple way to make OKR planning more collaborative gradually became a consistent part of how our teams work and deliver results.
 
 We were invited by Omio’s OKR shepherds to share these learnings with product leaders across the company. This followed a period where our teams maintained strong performance while demonstrating clear ownership of their goals. It wasn’t about doing more work—it was about aligning better on what mattered.
 
@@ -24,11 +24,11 @@ Our outcomes were solid, but what stood out most was a change in mindset. Teams 
 
 Since adopting OKRA in Q3 2022, our teams have maintained an impressive delivery record that goes beyond simple completion rates. The framework has enabled us to achieve over 85% completion of all key results and milestones across 8 quarters, with the last 6 months showing 94% completion rates.
 
-The OKRA framework had become our answer to three persistent challenges that plague most product teams: unclear strategy translation, surface-level team alignment, and planning processes that create compliance rather than commitment. We had developed a systematic approach to turning company-level objectives into team-owned plans that people actually believed in.
+The OKRA framework had become our answer to three persistent challenges that plague most product teams: unclear strategy translation, surface-level team alignment, and planning processes that create compliance rather than commitment. We had created and developed a systematic approach to turning company-level objectives into team-owned plans that people actually believed in.
 
 ## Understanding OKRA: Beyond the Acronym
 
-OKRA represents a fundamental shift in how we approach collaborative strategy development. The acronym stands for Objectives and Key Results Agreements, but the real power lies in the facilitation methodology that brings these elements together.
+The OKRA framework originated from our team's need to bridge the gap between strategic vision and tactical execution. OKRA represents a fundamental shift in how we approach collaborative strategy development. The acronym stands for Objectives and Key Results Agreements, but the real power lies in the facilitation methodology that brings these elements together.
 
 Unlike traditional OKR cascading, where objectives flow down from leadership with minimal team input, OKRA creates space for teams to contribute their expertise, surface constraints, and build hypotheses about what will actually work. The framework operates on the principle that the people closest to the customer and the technology have insights that are essential for effective strategy execution.
 
@@ -100,7 +100,7 @@ This is not rigid project planning but collaborative scenario development. The v
 
 ## Implementation Insights from the Leadership Presentation
 
-Presenting OKRA to leadership required distilling two years of iterative development into actionable insights. The most important message was that OKRA works because it solves fundamental problems in how teams translate strategy into action.
+Presenting OKRA to leadership required distilling two years of framework creation and iterative development into actionable insights. The most important message was that OKRA works because it solves fundamental problems in how teams translate strategy into action.
 
 The first key insight is that strategy communication improves dramatically when it becomes collaborative rather than broadcast. Traditional strategy cascading assumes that clarity emerges from detailed documentation and persuasive presentations. OKRA demonstrates that clarity actually emerges from collaborative sense-making where teams contribute their expertise to strategic problem-solving.
 
@@ -132,15 +132,15 @@ The long-term organizational benefit is not just improved OKR completion rates b
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/8da9b9a0f09842dfa3db4a3ee37d8e49" title="From Strategy to Commitment: How We Shaped Better OKRs with the OKRA Framework" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
-## Resources and Further Learning
+## Resources and Additional Learning
 
-Teams interested in implementing OKRA can access our complete facilitation templates and detailed session guides through the resources we have developed over two years of framework evolution.
+Teams interested in implementing OKRA can access our complete facilitation templates and detailed session guides through the resources we've developed over two years of framework evolution.
 
 ### Official OKRA Resources
 
-**Templates:** [Get the complete Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases
+**Templates:** [Access the complete Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases
 
-**Complete Framework Guide:** [OKRA Alignment Guide](/posts/2024-06-25-okr-alignment/) covers the complete five-session process and timing considerations
+**Complete Framework Guide:** [OKRA Alignment Guide](/posts/2024-06-25-okr-alignment/) covers the full five-session process and timing considerations
 
 ### Individual Session Guides
 
