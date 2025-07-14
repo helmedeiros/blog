@@ -14,23 +14,21 @@ tags:
 subtitle: Como dois anos de desenvolvimento iterativo de framework culminaram em uma apresentação à liderança que demonstrou o poder da execução estratégica colaborativa
 ---
 
-No dia 13 de junho de 2025, Pernelle e eu tivemos a oportunidade de apresentar um tema que vem transformando silenciosamente a abordagem da nossa equipe à execução estratégica há mais de dois anos: o **framework OKRA**. O que começou como um experimento interno em desenvolvimento colaborativo de OKRs havia evoluído para uma abordagem sistemática que consistentemente entregava resultados e construía compromisso genuíno da equipe.
+No dia 13 de junho de 2025, Pernelle e eu apresentamos nossa experiência com o framework OKRA, um método que usamos nos últimos dois anos para melhorar como conectamos estratégia com execução. O que começou como uma forma simples de tornar o planejamento de OKRs mais colaborativo acabou se tornando uma parte consistente da maneira como nossas equipes trabalham e entregam resultados.
 
-Fomos convidados pelos guardiões de OKRs da Omio para compartilhar nossos aprendizados com 34 líderes da organização. O convite veio depois que nossas equipes demonstraram algo notável: alta performance sustentada com verdadeiro senso de pertencimento da equipe. Isso não se tratava de pressionar mais ou trabalhar mais horas. Era sobre criar alinhamento que realmente funcionava.
+Fomos convidados pelos OKR shepherds da Omio para compartilhar esses aprendizados com líderes de produto de toda a empresa. Isso veio após um período em que nossas equipes mantiveram um desempenho sólido, ao mesmo tempo em que demonstraram uma clara responsabilidade sobre suas metas. Não se tratava de fazer mais trabalho — e sim de alinhar melhor o que realmente importava.
 
-Os números falavam por si, mas mais importante, as equipes falavam diferente. Em vez de perguntar "Por que estamos fazendo isso?" elas perguntavam "Quando podemos começar?" Essa mudança no engajamento foi o que chamou a atenção da liderança.
+Nossos resultados foram consistentes, mas o que mais se destacou foi a mudança de mentalidade. As equipes estavam mais focadas, e as conversas deixaram de questionar o propósito para antecipar a ação. Esse nível de engajamento fez uma diferença real.
 
 ## O Histórico Que Nos Rendeu a Plataforma
 
-Desde a adoção do OKRA no Q3 de 2022, nossas equipes mantiveram um histórico impressionante de entrega que vai além de simples taxas de conclusão. O framework nos permitiu alcançar mais de 85% de conclusão de todos os resultados-chave e marcos ao longo de 8 trimestres, com os últimos 6 meses mostrando taxas de conclusão de 94%.
-
-No entanto, esses números contam apenas parte da história. O que fez a liderança prestar atenção não foi apenas a consistência da entrega, mas a qualidade do engajamento da equipe e a coerência estratégica de nossas iniciativas. As equipes não estavam apenas atingindo metas; estavam construindo produtos que importavam, resolvendo problemas de clientes que moviam métricas de negócio, e fazendo isso com notável alinhamento entre funções de engenharia, produto e design.
+Desde a adoção do OKRA no Q3 de 2022, nossas equipes mantiveram um histórico impressionante de entrega que vai além de simples taxas de conclusão. O framework nos permitiu alcançar mais de 85% de conclusão de todos os resultados-chave(KRs) e marcos(Milestones) ao longo de 6 trimestres, com os últimos 6 meses mostrando taxas de conclusão de 94%.
 
 O framework OKRA havia se tornado nossa resposta a três desafios persistentes que afligem a maioria das equipes de produto: tradução de estratégia pouco clara, alinhamento superficial da equipe, e processos de planejamento que criam conformidade em vez de compromisso. Havíamos desenvolvido uma abordagem sistemática para transformar objetivos em nível da empresa em planos com senso de pertencimento da equipe nos quais as pessoas realmente acreditavam.
 
 ## Entendendo o OKRA: Além do Acrônimo
 
-O OKRA representa uma mudança fundamental em como abordamos o desenvolvimento estratégico colaborativo. O acrônimo significa Objetivos, Key Results (Resultados-Chave), Riscos e Ações (ou Assunções, dependendo do contexto), mas o verdadeiro poder está na metodologia de facilitação que une esses elementos.
+O OKRA representa uma mudança fundamental em como abordamos o desenvolvimento estratégico colaborativo. O acrônimo significa acordos (Agreement) para Objetivos e Key Results (Resultados-Chave), mas o verdadeiro poder está na metodologia de facilitação que une esses elementos.
 
 Diferente do cascateamento tradicional de OKRs, onde objetivos fluem da liderança com mínima participação da equipe, o OKRA cria espaço para equipes contribuírem com sua expertise, exporem restrições e construírem hipóteses sobre o que realmente funcionará. O framework opera no princípio de que as pessoas mais próximas do cliente e da tecnologia têm insights essenciais para a execução estratégica efetiva.
 
