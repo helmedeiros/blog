@@ -48,7 +48,7 @@ A metodologia OKRA consiste em cinco sessões colaborativas distintas, cada uma 
 | Sessão 3 | Esforço e Dependências    | Estimativas de esforço e mapeamento de dependências   | 90 minutos     | Após marcos serem definidos                                 | [Ler Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
 | Sessão 4 | Planejamento do Trimestre | Timeline visual com avaliação de riscos               | 75 minutos     | Antes da execução começar                                   | [Ler Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
 
-**Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685){target="\_blank"} com todos os templates e canvas das sessões.
+**Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
 ### Sessão 0: Construindo Contexto Compartilhado
 
@@ -138,7 +138,7 @@ Equipes interessadas em implementar o OKRA podem acessar nossos templates comple
 
 ### Recursos Oficiais OKRA
 
-**Templates:** [Acesse o quadro Figma completo](https://www.figma.com/community/file/1517917639512258685){target="\_blank"} com todos os templates e canvas das sessões
+**Templates:** [Acesse o quadro Figma completo](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões
 
 **Guia Completo do Framework:** [Guia de Alinhamento OKRA](/pt/posts/2024-06-25-okr-alignment/) cobre o processo completo de cinco sessões e considerações de timing
 

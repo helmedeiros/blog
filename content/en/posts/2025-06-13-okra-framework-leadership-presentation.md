@@ -48,7 +48,7 @@ The OKRA methodology consists of five distinct collaborative sessions, each desi
 | Session 3 | Effort & Dependencies | Effort estimates and dependency mapping    | 90 minutes       | After milestones are defined              | [Read Session 3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
 | Session 4 | Quarter Planning      | Visual timeline with risk assessment       | 75 minutes       | Before execution begins                   | [Read Session 4](/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
 
-**Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685){target="\_blank"} with all session templates and canvases.
+**Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ### Session 0: Building Shared Context
 
@@ -138,7 +138,7 @@ Teams interested in implementing OKRA can access our complete facilitation templ
 
 ### Official OKRA Resources
 
-**Templates:** [Get the complete Figma board](https://www.figma.com/community/file/1517917639512258685){target="\_blank"} with all session templates and canvases
+**Templates:** [Get the complete Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases
 
 **Complete Framework Guide:** [OKRA Alignment Guide](/posts/2024-06-25-okr-alignment/) covers the complete five-session process and timing considerations
 

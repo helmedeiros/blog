@@ -94,7 +94,7 @@ It's not just a warm welcome—it's a real commitment.
 
 ## Tools & Templates
 
-- [Connecting Onboard Figjam Template](https://www.figma.com/community/file/1517925221825604738){target="\_blank"}
+- [Connecting Onboard Figjam Template](https://www.figma.com/community/file/1517925221825604738)
 - Use with any digital whiteboard tool (Figjam, Miro) or physically with markers and post-its
 
 ## Why It Works
