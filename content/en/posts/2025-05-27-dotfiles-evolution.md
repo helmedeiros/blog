@@ -130,4 +130,4 @@ It was:
 
 And it means I can spin up a new terminal and trust it'll be fast, sane, and mine.
 
-→ [Compare the diff on GitHub](https://github.com/helmedeiros/dotfiles/compare/97d0e1ba1555acefca52bfdc3a0c9fec2a95282d...aefe0371e7b4f1e87008d6c593930b0d3c18532c)
+→ [Compare the diff on GitHub](https://github.com/helmedeiros/dotfiles/compare/97d0e1ba1555acefca52bfdc3a0c9fec2a95282d...aefe0371e7b4f1e87008d6c593930b0d3c18532c){target="\_blank"}
