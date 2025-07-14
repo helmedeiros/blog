@@ -40,13 +40,15 @@ What distinguishes OKRA from other OKR approaches is its emphasis on surfacing a
 
 The OKRA methodology consists of five distinct collaborative sessions, each designed to produce specific outputs while building on the insights generated in previous sessions. This progression from vision to execution plan creates both clarity and commitment.
 
-| Session   | Primary Focus         | Key Output                                 | Typical Duration | When to Use                               |
-| --------- | --------------------- | ------------------------------------------ | ---------------- | ----------------------------------------- |
-| Session 0 | Product Vision        | Shared context and vision statement        | 30 minutes       | When group strategy is unclear or missing |
-| Session 1 | OKR Ideation          | Draft objectives and key result candidates | 60 minutes       | When company OKRs are available           |
-| Session 2 | Milestones Planning   | Actionable milestones mapped to hypotheses | 75 minutes       | After team OKRs are drafted               |
-| Session 3 | Effort & Dependencies | Effort estimates and dependency mapping    | 90 minutes       | After milestones are defined              |
-| Session 4 | Quarter Planning      | Visual timeline with risk assessment       | 75 minutes       | Before execution begins                   |
+| Session   | Primary Focus         | Key Output                                 | Typical Duration | When to Use                               | Learn More                                                                          |
+| --------- | --------------------- | ------------------------------------------ | ---------------- | ----------------------------------------- | ----------------------------------------------------------------------------------- |
+| Session 0 | Product Vision        | Shared context and vision statement        | 30 minutes       | When group strategy is unclear or missing | [Read Session 0](/posts/2023-03-18-session-0-product-vision/)                       |
+| Session 1 | OKR Ideation          | Draft objectives and key result candidates | 60 minutes       | When company OKRs are available           | [Read Session 1](/posts/2023-04-08-session-1-okrs-ideation/)                        |
+| Session 2 | Milestones Planning   | Actionable milestones mapped to hypotheses | 75 minutes       | After team OKRs are drafted               | [Read Session 2](/posts/2023-04-18-session-2-milestones-brainstorming/)             |
+| Session 3 | Effort & Dependencies | Effort estimates and dependency mapping    | 90 minutes       | After milestones are defined              | [Read Session 3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
+| Session 4 | Quarter Planning      | Visual timeline with risk assessment       | 75 minutes       | Before execution begins                   | [Read Session 4](/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+
+**Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
 ### Session 0: Building Shared Context
 
@@ -56,6 +58,8 @@ The session follows a structured format where participants contribute insights a
 
 This approach prevents teams from starting with misaligned assumptions or invented priorities. Instead, they begin with a grounded understanding of the context they are operating within, which serves as the foundation for all subsequent planning decisions.
 
+**Learn more:** [Session 0 detailed guide](/posts/2023-03-18-session-0-product-vision/)
+
 ### Session 1: Translating Strategy into Team Objectives
 
 Session 1 is where company-level objectives are translated into team-specific contributions. This is not a simple cascading exercise but a creative process where teams explore how their unique capabilities can contribute to broader organizational goals.
@@ -63,6 +67,8 @@ Session 1 is where company-level objectives are translated into team-specific co
 The session uses techniques like silent ideation, clustering, and pairing to ensure all perspectives are heard. Teams work through the connections between customer problems, business objectives, and technical possibilities, developing hypotheses about what initiatives will create the most impact.
 
 The output is a set of draft objectives and key results that are both inspiring and grounded in reality. These are not final commitments but working hypotheses that will be refined through subsequent sessions.
+
+**Learn more:** [Session 1 detailed guide](/posts/2023-04-08-session-1-okrs-ideation/)
 
 ### Session 2: From Hypotheses to Action
 
@@ -72,6 +78,8 @@ The collaborative approach ensures that all team members contribute to identifyi
 
 The result is a comprehensive map of the initiatives, experiments, and validation work needed to achieve the team's objectives, with clear connections between each milestone and the underlying hypotheses it is designed to test.
 
+**Learn more:** [Session 2 detailed guide](/posts/2023-04-18-session-2-milestones-brainstorming/)
+
 ### Session 3: Reality-Checking the Plan
 
 Session 3 is where teams confront the practical realities of their ambitious plans. Each milestone is evaluated for technical effort, business value, user experience impact, and resource requirements. Dependencies on other teams and external factors are identified and documented.
@@ -80,11 +88,15 @@ This session prevents the common problem of overcommitment by forcing explicit c
 
 The scoring approach is designed to facilitate conversation rather than achieve mathematical precision. The goal is alignment on relative priorities and realistic sequencing, not perfect estimation.
 
+**Learn more:** [Session 3 detailed guide](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+
 ### Session 4: Creating the Execution Map
 
 The final session brings all previous work together in a visual timeline that makes dependencies, risks, and learning opportunities explicit. Teams sequence their milestones, identify potential bottlenecks, and create shared understanding of how the quarter might unfold.
 
 This is not rigid project planning but collaborative scenario development. The visual approach makes it easy to discuss trade-offs, adjust sequencing, and identify points where the team will need to make strategic decisions based on what they learn.
+
+**Learn more:** [Session 4 detailed guide](/posts/2024-05-10-session-4-quarter-draft-plan/)
 
 ## Implementation Insights from the Leadership Presentation
 
@@ -122,8 +134,24 @@ The long-term organizational benefit is not just improved OKR completion rates b
 
 ## Resources and Further Learning
 
-Teams interested in implementing OKRA can access our complete facilitation templates and detailed session guides through the resources we have developed over two years of framework evolution. The materials include facilitation scripts, canvas templates, and common troubleshooting guidance for the challenges teams typically encounter during initial implementation.
+Teams interested in implementing OKRA can access our complete facilitation templates and detailed session guides through the resources we have developed over two years of framework evolution.
 
-The OKRA blog series provides comprehensive guides for each session type, including detailed facilitation instructions, timing recommendations, and examples from real team implementations. These resources complement the framework overview with practical guidance for facilitators and team leaders.
+### Official OKRA Resources
 
-For organizations considering broader OKRA adoption, we recommend starting with the alignment guide that covers the complete five-session process and timing considerations between sessions. This provides the strategic context needed for leadership teams to understand how OKRA fits within their existing planning and strategy development processes.
+**Templates:** [Get the complete Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases
+
+**Complete Framework Guide:** [OKRA Alignment Guide](/posts/2024-06-25-okr-alignment/) covers the complete five-session process and timing considerations
+
+### Individual Session Guides
+
+Each session has detailed facilitation instructions, timing recommendations, and examples from real team implementations:
+
+- **Session 0:** Product Vision - [Read Session 0](/posts/2023-03-18-session-0-product-vision/)
+- **Session 1:** OKR Ideation - [Read Session 1](/posts/2023-04-08-session-1-okrs-ideation/)
+- **Session 2:** Milestones Planning - [Read Session 2](/posts/2023-04-18-session-2-milestones-brainstorming/)
+- **Session 3:** Effort & Dependencies - [Read Session 3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+- **Session 4:** Quarter Planning - [Read Session 4](/posts/2024-05-10-session-4-quarter-draft-plan/)
+
+### Series Overview
+
+**OKRA Series:** [Introduction to OKRA](/posts/2023-03-01-intro-to-okra/) • [Revisiting OKRA](/posts/2024-03-20-revisiting-okra-series/)
