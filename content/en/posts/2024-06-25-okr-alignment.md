@@ -1,7 +1,5 @@
 ---
-title:
-  "From Strategy to Commitment: How Pernelle and I Run OKR Alignment with Our
-  Teams"
+title: "The Complete OKRA Framework: 5 Sessions to Transform Strategy into Team-Owned OKRs"
 categories:
   - Leadership
   - Agile
