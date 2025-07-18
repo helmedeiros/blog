@@ -5,8 +5,6 @@ tags: [ai-coding, git, quality-gates, hooks, vibe-coding, agentic-development]
 description: "Why code quality gates and git hooks still matter in AI-driven development workflows"
 ---
 
-# Quality Gates in the Age of Agentic Coding
-
 Over the past year, I've vibecoded prototypes, supervised AI-generated systems, and co-created with agents in ways I never imagined possible. It's fast, fluid, and often feels like cheating—until it's not. In the middle of this wave of automation and agentic coding, I've also been repeatedly saved by some good, old-fashioned engineering practices.
 
 Hooks. Gates. Failing fast. Preventing bad commits. Those practices have bailed me out more times than I'd like to admit. And I've come to believe: they're not just relevant—they're more critical than ever.
@@ -15,15 +13,11 @@ As development workflows shift from manual control to AI-assisted flows, the spe
 
 But behind the scenes, **quality gates** are what keep this new velocity from turning into chaos. Let's explore why.
 
----
-
 ## What Are Quality Gates?
 
 **Quality gates** are predefined checks that must be passed before a change can move forward in the development lifecycle. They act as safeguards to maintain a consistent standard for code quality, reliability, and maintainability.
 
 These gates may be enforced during development, build time, code reviews, or even after deployment. Regardless of where they sit in the pipeline, their goal is the same: prevent bad code from entering production.
-
----
 
 ## Common Project Quality Gates
 
@@ -40,8 +34,6 @@ Most engineering teams define a set of rules as their quality gates. Here are so
 | Commit message rules | Enforces structure for commit messages (e.g., Conventional Commits) |
 
 These are not just bureaucracy—they're the baseline that lets teams move fast without breaking things.
-
----
 
 ## GenAI Prompts for Individual Quality Gates
 
@@ -92,15 +84,11 @@ Set up static code analysis for [TECHNOLOGY] to catch:
 - Integration with git hooks and IDE
 ```
 
----
-
 ## The Agentic Coding Flow
 
 With the rise of AI agents, coding is becoming increasingly automated. You prompt vaguely, the agent plans and codes, you approve, it writes the commit message, and you push. In `auto-accept` mode or with tools like Copilot Workspace and Cursor, this process is even faster—often skipping intermediate checks.
 
 It feels magical, but this automation hides critical blind spots.
-
----
 
 ## The Risks of Relying Only on Context and IDE Configs
 
@@ -111,8 +99,6 @@ They may introduce dependencies, miss subtle bugs, or repeat patterns that look 
 A retry mechanism may be syntactically correct and pass tests—but was it idempotent? Did it respect timeouts or introduce a performance bottleneck? These are not questions AI answers unless explicitly instructed.
 
 Multiply this by ten engineers using agents in parallel, and you can lose quality faster than you gain speed.
-
----
 
 ## What It Means to Commit and Push in Git/GitHub
 
@@ -131,8 +117,6 @@ $ git push origin main
 
 In GitHub and other platforms, this usually triggers CI/CD pipelines, PR automations, and deployments. Committing and pushing are not just technical steps. They are a declaration of intent, of code being ready for wider use.
 
----
-
 ## What Are Git Hooks?
 
 **Git hooks** are scripts that run automatically at specific points in your git workflow. They allow teams to enforce certain behaviors locally before changes leave a developer's machine.
@@ -140,8 +124,6 @@ In GitHub and other platforms, this usually triggers CI/CD pipelines, PR automat
 For example, `pre-commit` hooks can validate linting and formatting. `commit-msg` hooks ensure messages follow a required format. `pre-push` hooks can run the full test suite before allowing code to reach a remote.
 
 These checks are simple to configure. Place a script inside `.git/hooks`, make it executable, and it runs automatically when triggered by the matching Git lifecycle event.
-
----
 
 ## How to Configure Git Hooks
 
@@ -177,8 +159,6 @@ chmod +x pre-commit
 5. Now every time you try to commit, this script will run. If any command exits with a non-zero status, the commit will be aborted.
 
 You can apply this pattern to any other hook like `commit-msg` or `pre-push`. For more robust workflows, teams often migrate to tools like [Husky](https://typicode.github.io/husky) to manage hooks declaratively via `package.json`.
-
----
 
 ## GenAI Prompt for Project-Aware Hook Configuration
 
@@ -224,8 +204,6 @@ Please analyze the project first, then provide the complete implementation with 
 
 This prompt ensures AI assistants understand your existing setup and can build upon it rather than starting from scratch.
 
----
-
 ## Hooks + Quality Gates = Safer, Faster Development
 
 Hooks move quality gates to the developer's local environment, catching issues early. CI/CD systems reinforce those checks during integration.
@@ -233,8 +211,6 @@ Hooks move quality gates to the developer's local environment, catching issues e
 Together, they offer a two-layer defense. Hooks guard the front door. Pipelines watch the perimeter. They're not replacements for thinking—but they're great backups when AI agents are writing the code.
 
 If you're going to scale agentic development, don't rely on context alone. Use hooks. Use gates. And never assume that just because something compiles, it's ready.
-
----
 
 ## Final Thoughts
 
@@ -245,13 +221,9 @@ Use quality gates to ship better.
 
 And when in doubt, let your git hooks do the yelling.
 
----
-
 ## Presentation Slides
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b936c26902174d2997732bfa952a8d6d" title="Quality Gates in the Age of Agentic Coding" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-
----
 
 ## Prompt to Try
 
