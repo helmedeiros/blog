@@ -259,6 +259,12 @@ E quando tiver dúvidas, deixe o hook gritar por você.
 
 ---
 
+## Slides da Apresentação
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b936c26902174d2997732bfa952a8d6d" title="Quality Gates in the Age of Agentic Coding" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+---
+
 ## Prompt para Testar
 
 Aqui vai um prompt útil para passar ao seu par IA:
