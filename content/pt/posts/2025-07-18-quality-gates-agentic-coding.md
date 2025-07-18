@@ -1,6 +1,10 @@
 ---
 title: "Portões de Qualidade na Era da Codificação com Agentes"
 date: 2025-07-18
+categories:
+  - AI
+  - Engineering
+  - Development
 tags:
   [
     codigo-ai,
