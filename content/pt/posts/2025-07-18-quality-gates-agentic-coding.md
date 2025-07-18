@@ -13,8 +13,6 @@ tags:
 description: "Por que portões de qualidade e hooks do Git continuam sendo essenciais no desenvolvimento orientado por IA"
 ---
 
-# Portões de Qualidade na Era da Codificação com Agentes
-
 No último ano, eu experimentei o vibecoding para protótipos, supervisionando sistemas gerados por IA e co-criando com agentes de formas que nunca imaginei possíveis. É rápido, fluido e muitas vezes parece até trapaça — até que não é. Em meio a essa onda de automação e codificação orientada por agentes, fui salvo repetidamente por boas e antigas práticas de engenharia.
 
 Hooks. Portões. Falhas rápidas. Prevenção de commits ruins. Essas práticas me salvaram mais vezes do que eu gostaria de admitir. E acredito firmemente: elas não apenas continuam relevantes — são mais críticas do que nunca.
@@ -23,15 +21,11 @@ Com os fluxos de desenvolvimento mudando do controle manual para assistentes de 
 
 Mas por trás das cortinas, são os **portões de qualidade** que impedem essa nova velocidade de virar caos. Vamos entender por quê.
 
----
-
 ## O que são Portões de Qualidade?
 
 **Portões de qualidade** são checagens predefinidas que precisam ser aprovadas antes de uma alteração progredir no ciclo de vida do desenvolvimento. Eles atuam como salvaguardas para manter padrões consistentes de qualidade, confiabilidade e manutenibilidade do código.
 
 Eles podem ser aplicados durante o desenvolvimento, na compilação, em revisões de código ou até após o deploy. Onde quer que estejam, o objetivo é o mesmo: impedir que código ruim chegue à produção.
-
----
 
 ## Portões de Qualidade Comuns em Projetos
 
@@ -48,8 +42,6 @@ A maioria dos times define regras que atuam como seus portões de qualidade. Exe
 | Padrão de commit          | Exige mensagens no padrão definido (ex: Conventional Commits)      |
 
 Esses portões não são burocracia — são a base que permite a evolução rápida sem quebrar tudo.
-
----
 
 ## Prompts GenAI para Portões de Qualidade Individuais
 
@@ -100,8 +92,6 @@ Configure análise estática de código para [TECNOLOGIA] para detectar:
 - Integração com git hooks e IDE
 ```
 
----
-
 ## O Fluxo da Codificação com Agentes
 
 Com agentes de IA, a codificação se torna cada vez mais automatizada. Você escreve um prompt vago, o agente gera um plano e implementa o código. Você aprova ou ajusta, ele escreve a mensagem de commit, e você faz push.
@@ -109,8 +99,6 @@ Com agentes de IA, a codificação se torna cada vez mais automatizada. Você es
 Em modos como `auto-accept`, ou com ferramentas como Copilot Workspace e Cursor, esse processo pode pular etapas intermediárias.
 
 Parece mágica, mas essa automação esconde armadilhas importantes.
-
----
 
 ## Os Riscos de Confiar Apenas no Contexto e na IDE
 
@@ -121,8 +109,6 @@ Elas podem adicionar dependências, ignorar bugs sutis ou repetir padrões que p
 Um mecanismo de retry pode parecer correto e passar nos testes. Mas: é idempotente? Respeita timeout? Introduz gargalos? Sem portões de qualidade, essas perguntas ficam sem resposta.
 
 Multiplique isso por vários devs usando agentes, e a qualidade vai se deteriorar mais rápido do que a produtividade aumenta.
-
----
 
 ## O Significado de Commitar e Fazer Push com Git/GitHub
 
@@ -143,8 +129,6 @@ Em plataformas como GitHub, isso normalmente aciona pipelines de CI/CD, automaç
 
 Fazer commit e push não são apenas comandos técnicos. São declarações de que o código está pronto para ser utilizado.
 
----
-
 ## O que são Git Hooks?
 
 **Git hooks** são scripts executados automaticamente em pontos específicos do fluxo de trabalho com Git. Eles permitem impor comportamentos localmente, antes que alterações saiam da sua máquina.
@@ -152,8 +136,6 @@ Fazer commit e push não são apenas comandos técnicos. São declarações de q
 Por exemplo, o `pre-commit` pode validar o lint e testes. `commit-msg` verifica o formato da mensagem. `pre-push` roda toda a suíte de testes.
 
 Basta colocar um script no diretório `.git/hooks`, torná-lo executável, e ele será acionado no momento apropriado.
-
----
 
 ## Como Configurar Hooks no Git
 
@@ -189,8 +171,6 @@ chmod +x pre-commit
 Agora, antes de cada commit, o script será executado. Se algo falhar, o commit será bloqueado.
 
 Você pode aplicar o mesmo padrão para outros hooks, como `commit-msg` e `pre-push`. Para fluxos mais robustos, ferramentas como [Husky](https://typicode.github.io/husky) podem gerenciar os hooks via `package.json`.
-
----
 
 ## Prompt GenAI para Configuração de Hook Consciente do Projeto
 
@@ -236,8 +216,6 @@ Por favor, analise o projeto primeiro, depois forneça a implementação complet
 
 Este prompt garante que assistentes de IA entendam seu setup existente e possam construir sobre ele ao invés de começar do zero.
 
----
-
 ## Hooks + Portões de Qualidade = Segurança com Velocidade
 
 Hooks trazem os portões para perto do dev. Pipelines garantem a segurança no ciclo maior.
@@ -245,8 +223,6 @@ Hooks trazem os portões para perto do dev. Pipelines garantem a segurança no c
 Essa combinação oferece uma defesa em duas camadas. Hooks protegem na origem. Pipelines validam na integração.
 
 Se você vai escalar desenvolvimento com IA, não dependa só do contexto. Use hooks. Use portões. E nunca ache que só porque compilou, está pronto.
-
----
 
 ## Considerações Finais
 
@@ -257,13 +233,9 @@ Use portões para entregar melhor.
 
 E quando tiver dúvidas, deixe o hook gritar por você.
 
----
-
 ## Slides da Apresentação
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b936c26902174d2997732bfa952a8d6d" title="Quality Gates in the Age of Agentic Coding" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-
----
 
 ## Prompt para Testar
 
