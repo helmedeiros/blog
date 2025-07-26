@@ -16,8 +16,6 @@ slug: session-3-milestones-effort-value-dependencies
 subtitle: Learn to collaboratively reality-check your milestones by sizing effort, scoring value, and identifying dependencies—before committing to your quarter
 ---
 
-## A Year Later: Why We Built This Session
-
 Almost a year has passed since we shared our experience running Session #2. Back then, we were excited about ideating milestones and shaping bets collaboratively. But over the following quarters, we hit a common wall—**we had great ideas, but not enough shared clarity around how complex they were, what they unlocked, or what they required**.
 
 We've always believed in collaborative planning. We care about building a product culture where **autonomy, creativity, and accountability** thrive. And yet, we felt something was missing between ideation and execution.

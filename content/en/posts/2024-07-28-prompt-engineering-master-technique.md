@@ -16,10 +16,6 @@ description: "A deep dive into structured prompt engineering using the MASTER te
 subtitle: "Time flies when you're learning something cool - discovering how prompt engineering is design thinking, not magic, through the MASTER framework."
 ---
 
-# Eighteen Days Later: Prompt Engineering & the MASTER Technique
-
-## Time flies when you're learning something cool
-
 It's been 18 days since I started this journey, and I have to say—time _really_ flies when you're learning something that feels both powerful and limitless.
 
 The more I explore, the more impressed I am by the sheer volume and quality of available content—whether you're a beginner, a developer, or a team lead. Resources come in all forms: books, blog posts, courses, and tons of brilliant YouTube creators. And the best part? They approach the topic with depth at every level.

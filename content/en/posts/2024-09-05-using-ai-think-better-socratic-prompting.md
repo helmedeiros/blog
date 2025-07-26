@@ -16,10 +16,6 @@ description: "Discover how to transform AI from a fast answer machine into a thi
 subtitle: "Stop outsourcing your thinking - learn to use AI as a sparring partner that makes you think better, not just faster, through disciplined questioning."
 ---
 
-# Using AI to Think Better (Not Just Faster)
-
-## Stop outsourcing your thinking
-
 Most people still treat AI like a turbocharged Google. You give it a question. It gives you an answer. Maybe it's right. Maybe it's helpful. Maybe it saves you a few minutes.
 
 But that's not the point.

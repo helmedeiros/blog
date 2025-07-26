@@ -16,10 +16,6 @@ description: "Descubra como transformar a IA de uma máquina de respostas rápid
 subtitle: "Pare de terceirizar seu pensamento - aprenda a usar IA como parceiro de debate que te faz pensar melhor, não só mais rápido, através de questionamentos estruturados."
 ---
 
-# Usando IA para Pensar Melhor (Não Apenas Mais Rápido)
-
-## Pare de terceirizar seu pensamento
-
 A maioria das pessoas ainda trata a IA como um Google turbinado. Você faz uma pergunta. Ela dá uma resposta. Às vezes está certa. Às vezes ajuda. Às vezes economiza tempo.
 
 Mas esse não é o ponto.
