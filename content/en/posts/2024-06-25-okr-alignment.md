@@ -13,8 +13,6 @@ series_order: 6
 subtitle: Master the complete 5-session OKRA framework that transforms abstract company goals into team-owned OKRs with full buy-in and clear execution plans
 ---
 
-## Why We Created the OKRA Framework
-
 Our team is driven by empathy, customer centricity, efficiency, data-driven decisions, collaboration, and a remote-first mindset. We believe that when teams have true clarity—of purpose, priorities, and outcomes—performance naturally rises. The OKRA (OKR Agreement) framework is our way of making that clarity real, so everyone can focus on what matters most: delivering meaningful results for our customers, together.
 
 Since Q3 of 2022, Pernelle and I have been on a mission to help teams move beyond confusion and misalignment. We saw that when everyone understands the 'why' and 'how' behind our goals, we not only move faster, but we also discover better solutions and build better products. OKRA is about empowering every team member to contribute, learn, and grow—so we can achieve more, together, with purpose and accountability.

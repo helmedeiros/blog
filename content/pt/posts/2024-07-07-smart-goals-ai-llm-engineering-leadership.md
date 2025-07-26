@@ -16,8 +16,6 @@ description: "Por que líderes de engenharia devem definir metas SMART sobre Gen
 subtitle: Um guia prático para dar o primeiro passo na alfabetização em GenAI como líder de engenharia, definindo metas mensuráveis de aprendizado e construindo apoio organizacional para adoção de IA.
 ---
 
-# Dando o Primeiro Passo: Estabelecendo Metas SMART para Aprendizado em IA e LLM na Liderança de Engenharia
-
 Hoje é 7 de julho de 2024. Acabei de tomar uma decisão que venho adiando há um tempo: não vou mais assistir à revolução do GenAI de longe. Estou dando o primeiro passo.
 
 Um dos primeiros livros que li quando entrei na gestão foi The Making of a Manager, da Julie Zhuo. Ele ficou comigo — não só pelos conselhos práticos, mas por uma frase que acabou virando um tipo de lema pessoal: “Seu trabalho, como gestor, é obter melhores resultados de um grupo de pessoas trabalhando juntas.” Sempre que tudo parece estar indo bem demais, de forma confortável demais, eu volto a essa frase. Ela me lembra que melhorar não vem da estagnação, mas do movimento, da curiosidade e da vontade de liderar o próximo passo. Zhuo também escreve: “Os melhores resultados vêm de inspirar pessoas à ação, não de dizer a elas o que fazer” — e é exatamente isso que estou tentando fazer aqui.

@@ -17,8 +17,6 @@ tags:
 subtitle: Learn how to structure dotfiles that work seamlessly across Mac, WSL, containers, and CI—with smart layering and defensive scripting
 ---
 
-## New Contexts, Same Philosophy
-
 This year I'm not trying to reinvent my shell. I'm preparing it to work _anywhere_.
 
 With multiple machines, containers, and WSL in rotation, I needed a setup that stayed fast, stayed clean, and stayed consistent — regardless of the context.

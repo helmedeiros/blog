@@ -17,8 +17,6 @@ tags:
 subtitle: Construa um script simples que te dá visibilidade diária do que precisa ser atualizado—sem as surpresas de atualizações automáticas
 ---
 
-## Uma Máquina Saudável é uma Máquina Produtiva
-
 Manter um ambiente de desenvolvimento atualizado não é só instalar o patch mais recente do sistema — é evitar fricção.
 
 Fricções como:

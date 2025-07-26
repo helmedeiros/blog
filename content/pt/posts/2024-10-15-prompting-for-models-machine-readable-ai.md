@@ -16,10 +16,6 @@ description: "Aprenda a escrever prompts estruturados e reutilizáveis que máqu
 subtitle: "Por que precisamos aprender a escrever para máquinas - criando prompts inequívocos, modulares e portáveis entre sistemas e ferramentas de IA."
 ---
 
-# Promptando para Modelos, Não Apenas para Humanos
-
-## Por Que Precisamos Aprender a Escrever Para Máquinas
-
 A IA generativa já mudou a forma como redigimos, criamos e nos comunicamos. Mas uma das habilidades mais subestimadas é também uma das mais essenciais: **escrever prompts que as máquinas entendam—e que outras máquinas possam reproduzir.**
 
 Este post não é sobre escrever mais rápido. É sobre escrever _com clareza_ e _estrutura_, para que sua intenção possa ser seguida de forma confiável por LLMs—hoje e no futuro.

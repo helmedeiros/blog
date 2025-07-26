@@ -17,8 +17,6 @@ tags:
 subtitle: Aprenda a estruturar dotfiles que funcionam perfeitamente no Mac, WSL, containers e CI—com camadas inteligentes e scripting defensivo
 ---
 
-## Novos Contextos, Mesma Filosofia
-
 Esse ano não estou tentando reinventar meu shell. Estou preparando para que ele funcione _em qualquer lugar_.
 
 Com múltiplas máquinas, containers e WSL em rotação, eu precisava de um setup rápido, limpo e consistente — independente do contexto.

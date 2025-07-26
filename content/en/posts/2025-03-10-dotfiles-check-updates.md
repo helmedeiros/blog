@@ -17,8 +17,6 @@ tags:
 subtitle: Build a simple script that gives you daily visibility into what needs updating—without the surprises of auto-updates
 ---
 
-## A Healthy Machine is a Productive One
-
 Keeping a dev machine updated isn't just about installing the latest OS patch — it's about avoiding friction.
 
 Friction like:

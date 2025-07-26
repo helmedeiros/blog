@@ -16,10 +16,6 @@ description: "Um mergulho profundo na engenharia estruturada de prompts usando a
 subtitle: "O tempo voa quando você está aprendendo algo incrível - descobrindo como engenharia de prompts é design thinking, não mágica, através do framework MASTER."
 ---
 
-# Dezoito Dias Depois: Engenharia de Prompts e a Técnica MASTER
-
-## O tempo voa quando você está aprendendo algo incrível
-
 Já se passaram 18 dias desde que comecei essa jornada, e tenho que dizer—o tempo _realmente_ voa quando você está aprendendo algo tão poderoso e cheio de possibilidades.
 
 Quanto mais eu exploro, mais fico impressionado com a quantidade e a qualidade de conteúdo disponível—para iniciantes, desenvolvedores e líderes de equipe. Os recursos vêm de todos os lados: livros, blogs, cursos e vários criadores brilhantes no YouTube. E o melhor? Com profundidade em todos os níveis.

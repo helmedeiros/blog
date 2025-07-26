@@ -7,8 +7,6 @@ description: "How to build teams that learn faster than competition through conc
 tags: ["learning", "culture", "teams", "product", "engineering", "leadership"]
 ---
 
-## What Is a Learning Organization? (Inspired by _The Fifth Discipline_)
-
 In 1990, Peter Senge introduced a powerful vision in his book _The Fifth Discipline: The Art & Practice of the Learning Organization_. At its core, the book presents a compelling argument: in an increasingly complex world, only those organizations that are able to **learn faster than the competition** will thrive.
 
 A _Learning Organization_ is defined not by its training budget, but by its **capacity to continuously transform itself**. That transformation is driven by five key disciplines:
