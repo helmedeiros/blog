@@ -16,10 +16,6 @@ description: "Discover how to supercharge your AI interactions using macOS Text 
 subtitle: "When productivity meets creativity - transforming how you interact with AI through automated smart prompts and native macOS features."
 ---
 
-# Automate Prompting with Smart Text Replacements on macOS
-
-## When productivity meets creativity
-
 A month has flown by since the last post, and I've been deep into exploring not just _what_ prompts to use, but _how to use them faster and more effectively_. One of the most unexpectedly powerful discoveries in this journey has been leveraging **Text Replacements** on macOS to speed up how I work with AI tools like ChatGPT.
 
 Let's unpack what this means, why it matters, and how you can apply it right now.

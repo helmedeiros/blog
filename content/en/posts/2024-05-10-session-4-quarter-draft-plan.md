@@ -15,8 +15,6 @@ slug: session-4-quarter-draft-plan
 subtitle: Build a visual, collaborative quarter plan that creates shared alignment without rigid timelines—turning intentions into executable roadmaps
 ---
 
-## From Alignment to Visualization
-
 After defining our OKRs, shaping milestones, and evaluating effort and dependencies, it's time to zoom out. Session #4 is where we bring it all together. But not by locking a roadmap. Instead, we build a **visual draft**—one that reflects how we believe the quarter might unfold based on what we know today.
 
 This isn't a Gantt chart. This is a conversation canvas. It allows teams to align, anticipate, and adjust. It gives everyone—from engineers to PMs to designers to stakeholders—a shared artifact to reference and challenge as the quarter progresses.

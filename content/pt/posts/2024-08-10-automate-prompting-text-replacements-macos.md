@@ -16,10 +16,6 @@ description: "Descubra como turbinar suas interações com IA usando Substituiç
 subtitle: "Quando produtividade encontra criatividade - transformando como você interage com IA através de prompts inteligentes automatizados e recursos nativos do macOS."
 ---
 
-# Automatize Prompts com Substituições de Texto no macOS
-
-## Quando produtividade encontra criatividade
-
 Já se passou um mês desde a última postagem, e mergulhei em uma nova dimensão: não só _quais_ prompts usar, mas _como usá-los com mais velocidade e eficiência_. Uma das descobertas mais poderosas (e simples!) foi usar as **Substituições de Texto** do macOS para agilizar minha interação com ferramentas como o ChatGPT.
 
 Vamos entender o que isso significa, por que é útil e como aplicar agora mesmo.

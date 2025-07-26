@@ -16,10 +16,6 @@ description: "Learn to write structured, reusable prompts that machines understa
 subtitle: "Why we must learn to write for machines - creating prompts that are unambiguous, modular, and portable across AI systems and tools."
 ---
 
-# Prompting for Models, Not Just Humans
-
-## Why We Must Learn to Write for Machines
-
 Generative AI has already changed how we draft, create, and communicate. But one of the most overlooked skills is also one of the most foundational: **writing prompts that machines understand—and other machines can replicate.**
 
 This post isn't about writing faster. It's about writing _clearly_ and _structurally_, so that your intent can be reliably followed by LLMs—today and in future iterations.

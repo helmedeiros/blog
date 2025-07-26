@@ -16,8 +16,6 @@ description: "Why engineering managers should set SMART performance goals around
 subtitle: A practical guide to taking the first step in GenAI literacy as an engineering leader, defining measurable learning goals, and building organizational support for AI adoption.
 ---
 
-# Stepping Forward: Setting SMART Goals for AI & LLM Literacy in Engineering Leadership
-
 Today is July 7, 2024. I’ve just made a decision I’ve been circling for a while: I’m no longer watching GenAI from the sidelines. I’m stepping forward.
 
 One of the first books I read when I moved into management was The Making of a Manager by Julie Zhuo. It stuck with me—not just for its advice, but for a single line that became a kind of motto: “Your job, as a manager, is to get better outcomes from a group of people working together.” Every time things feel too smooth, too comfortable, I return to that sentence. It reminds me that improvement doesn’t come from standing still. It comes from movement, from curiosity, and from leading the next step forward. Zhuo also writes, “The best outcomes come from inspiring people to action, not telling them what to do”—and that’s exactly what I’m trying to do here.
