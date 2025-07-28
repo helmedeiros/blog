@@ -171,7 +171,7 @@ A interface fornece prompts iniciais úteis para cenários comuns—desde escrev
 
 ### Nossa Jornada: De Horas para Minutos
 
-Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), aqui está como nossa criação de user stories evoluiu:
+Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Cesar Vortmann, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), aqui está como nossa criação de user stories evoluiu:
 
 **Junho 2022**: Líderes de milestone da equipe criando histórias → **3-4 horas**, qualidade inconsistente, dependente das habilidades individuais do engenheiro
 
