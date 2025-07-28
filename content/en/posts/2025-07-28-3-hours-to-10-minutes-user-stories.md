@@ -103,8 +103,6 @@ Tell a small story about the problem being faced...
 4. Are translations ready?
 ```
 
-{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Step 1: Starting a new user story with the User Storyteller GPT,Step 2: GPT generates structured story format with background and acceptance criteria,Step 3: Detailed acceptance criteria scenarios with Given-When-Then format,Step 4: Complete story with Definition of Ready checklist included" >}}
-
 **For Technical Debt:**
 
 ```
@@ -119,6 +117,8 @@ Tell a small story about the problem being faced...
 ```
 
 These structured formats ensure consistency and completeness across all team documentation, regardless of who creates the initial draft.
+
+{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Step 1: Starting a new user story with the User Storyteller GPT,Step 2: GPT generates structured story format with background and acceptance criteria,Step 3: Detailed acceptance criteria scenarios with Given-When-Then format,Step 4: Complete story with Definition of Ready checklist included" >}}
 
 ## Adding Context For Even More Impact
 
