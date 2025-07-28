@@ -171,9 +171,9 @@ The interface provides helpful starter prompts for common scenarios—from writi
 
 ### Our Journey: From Hours to Minutes
 
-After implementing this approach across our Pricing/Premium team (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), here's how our user story creation evolved:
+After implementing this approach across our Pricing/Premium team (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Cesar Vortmann, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), here's how our user story creation evolved:
 
-**June 2022**: Team milestone leaders creating stories → \*_3-4 hours_, inconsistent quality, dependent on individual engineer skills
+**June 2022**: Team milestone leaders creating stories → **3-4 hours**, inconsistent quality, dependent on individual engineer skills
 
 **January 2023**: EM facilitating OKRA sessions, creating epics with user stories → **1-2 hours**, improved structure
 
