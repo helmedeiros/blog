@@ -4,7 +4,7 @@ categories:
   - AI
   - Agile
   - Engineering Management
-date: 2025-01-10
+date: 2025-07-28
 tags:
   - historias-usuario
   - coaching-agil
@@ -62,6 +62,9 @@ Criar nosso User Storyteller GPT não foi um único prompt—foram múltiplas se
 
 O processo começou simples: "Ajude a escrever user stories." Mas essa solicitação genérica produziu saídas genéricas. Através de vários ciclos de refinamento, desenvolvemos instruções abrangentes que incorporam as práticas específicas, formatos e padrões de qualidade da nossa equipe.
 
+![Interface do User Storyteller GPT](/uploads/2025/01/storyteller-step1.png)
+_A interface do User Storyteller GPT mostrando prompts iniciais e um exemplo de interação para criar user stories_
+
 Aqui está o prompt central que evoluiu através de nossas sessões de ajuste:
 
 > Este GPT é uma combinação de um gerente de produto e um engenheiro. Deve ser capaz de escrever user stories, documentar débito técnico e identificar e descrever bugs. Deve fornecer informações claras, concisas e acionáveis, considerando tanto perspectivas de negócio quanto técnicas. As respostas devem ser estruturadas, detalhadas e escritas em um tom amigável, técnico e profissional. Sempre escreva como se você fosse parte da equipe resolvendo os problemas. Quando esclarecimentos forem necessários, peça mais detalhes, mas faça suposições educadas quando o nível de confiança for de até 50%.
@@ -99,6 +102,8 @@ Conte uma pequena história sobre o problema sendo enfrentado...
 3. O copy está pronto?
 4. As traduções estão prontas?
 ```
+
+{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Passo 1: Iniciando uma nova user story com o User Storyteller GPT,Passo 2: GPT gera formato estruturado de história com background e critérios de aceitação,Passo 3: Cenários detalhados de critérios de aceitação com formato Dado-Quando-Então,Passo 4: História completa com checklist de Definição de Pronto incluído" >}}
 
 **Para Débito Técnico:**
 
@@ -179,6 +184,19 @@ Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros
 **Janeiro 2025**: GPT Storyteller introduzido → **10-20 minutos**, conteúdo e formato consistentes, adoção proativa
 
 **O Impacto**: Passamos de gastar 2-3 horas com resultados inconsistentes para 10-20 minutos com saídas consistentes e de alta qualidade—uma **redução de 90% no tempo** enquanto melhoramos dramaticamente qualidade e adoção da equipe.
+
+### Compartilhando O Que Aprendemos
+
+Tem sido encorajador ver o User Storyteller GPT se espalhar organicamente dentro da Omio, com mais de 100 conversas acontecendo em diferentes equipes além do nosso grupo original Pricing/Premium.
+
+![Uso do User Storyteller GPT](/uploads/2025/01/storyteller-being-used.png)
+_Adoção interna na Omio mostrando 100+ conversas entre equipes_
+
+Uma das principais razões pelas quais estou compartilhando nossa experiência abertamente é que acredito que outras equipes podem se beneficiar aprendendo como articular melhor o valor do cliente e os caminhos para alcançá-lo. A criação de user stories, em sua essência, é sobre entender o que os clientes realmente precisam e como podemos entregar esse valor de forma eficaz.
+
+O processo de criar boas user stories força as equipes a pensar profundamente sobre problemas dos clientes, não apenas soluções técnicas. Quando usamos ferramentas como nosso GPT para acelerar as partes mecânicas da escrita de histórias, na verdade liberamos mais tempo para as conversas valiosas sobre impacto no cliente, valor de negócio e viabilidade técnica.
+
+Se nossa abordagem ajudar mesmo algumas equipes a ter melhores conversas sobre valor do cliente e decisões de produto mais intencionais, então compartilhar nossos aprendizados terá valido a pena. A ferramenta em si é apenas um meio para um fim—o valor real está na disciplina de pensamento centrado no cliente que as boas user stories encorajam.
 
 ### Quando o GPT Precisa de Orientação Humana
 
