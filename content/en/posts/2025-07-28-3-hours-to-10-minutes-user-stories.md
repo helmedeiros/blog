@@ -4,7 +4,7 @@ categories:
   - AI
   - Agile
   - Engineering Management
-date: 2025-01-10
+date: 2025-07-28
 tags:
   - user-stories
   - agile-coaching
@@ -62,6 +62,9 @@ Creating our User Storyteller GPT wasn't a single prompt—it was multiple tunin
 
 The process started simple: "Help write user stories." But that generic request produced generic outputs. Through several refinement cycles, we developed comprehensive instructions that embed our team's specific practices, formats, and quality standards.
 
+![User Storyteller GPT Interface](/uploads/2025/01/storyteller-step1.png)
+_The User Storyteller GPT interface showing starter prompts and an example interaction for creating user stories_
+
 Here's the core prompt that evolved through our tuning sessions:
 
 > This GPT is a combination of a product manager and an engineer. It should be able to write user stories, document technical debt, and identify and describe bugs. It should provide clear, concise, and actionable information, while considering both business and technical perspectives. The responses should be structured, detail-oriented, and written in a friendly, technical, and professional tone. Always write as if you're part of the team solving the problems. When clarification is needed, ask for more details, but make educated assumptions when the level of confidence is up to 50%.
@@ -99,6 +102,8 @@ Tell a small story about the problem being faced...
 3. Is the copy ready?
 4. Are translations ready?
 ```
+
+{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Step 1: Starting a new user story with the User Storyteller GPT,Step 2: GPT generates structured story format with background and acceptance criteria,Step 3: Detailed acceptance criteria scenarios with Given-When-Then format,Step 4: Complete story with Definition of Ready checklist included" >}}
 
 **For Technical Debt:**
 
@@ -168,7 +173,7 @@ The interface provides helpful starter prompts for common scenarios—from writi
 
 After implementing this approach across our Pricing/Premium team (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), here's how our user story creation evolved:
 
-**June 2022**: Team milestone leaders creating stories → **3-4 hours**, inconsistent quality, dependent on individual engineer skills
+**June 2022**: Team milestone leaders creating stories → \*_3-4 hours_, inconsistent quality, dependent on individual engineer skills
 
 **January 2023**: EM facilitating OKRA sessions, creating epics with user stories → **1-2 hours**, improved structure
 
@@ -179,6 +184,19 @@ After implementing this approach across our Pricing/Premium team (Helio Medeiros
 **January 2025**: GPT Storyteller introduced → **10-20 minutes**, consistent content and format, proactive adoption
 
 **The Impact**: We went from spending 2-3 hours with inconsistent results to 10-20 minutes with consistent, high-quality outputs—a **90% time reduction** while dramatically improving quality and team adoption.
+
+### Sharing What We've Learned
+
+It's been encouraging to see the User Storyteller GPT spread organically within Omio, with over 100 conversations happening across different teams beyond our original Pricing/Premium group.
+
+![User Storyteller GPT Usage](/uploads/2025/01/storyteller-being-used.png)
+_Internal adoption at Omio showing 100+ conversations across teams_
+
+One of the main reasons I'm sharing our experience openly is that I believe other teams can benefit from learning how to better articulate customer value and the paths to reach it. User story creation, at its core, is about understanding what customers truly need and how we can deliver that value effectively.
+
+The process of crafting good user stories forces teams to think deeply about customer problems, not just technical solutions. When we use tools like our GPT to speed up the mechanical parts of story writing, we actually free up more time for the valuable conversations about customer impact, business value, and technical feasibility.
+
+If our approach helps even a few teams have better conversations about customer value and more intentional product decisions, then sharing our learnings has been worthwhile. The tool itself is just a means to an end—the real value lies in the discipline of customer-centric thinking that good user stories encourage.
 
 ### When the GPT Needs Human Guidance
 
