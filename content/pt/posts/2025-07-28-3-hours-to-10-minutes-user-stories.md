@@ -103,8 +103,6 @@ Conte uma pequena história sobre o problema sendo enfrentado...
 4. As traduções estão prontas?
 ```
 
-{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Passo 1: Iniciando uma nova user story com o User Storyteller GPT,Passo 2: GPT gera formato estruturado de história com background e critérios de aceitação,Passo 3: Cenários detalhados de critérios de aceitação com formato Dado-Quando-Então,Passo 4: História completa com checklist de Definição de Pronto incluído" >}}
-
 **Para Débito Técnico:**
 
 ```
@@ -119,6 +117,8 @@ Conte uma pequena história sobre o problema sendo enfrentado...
 ```
 
 Esses formatos estruturados garantem consistência e completude em toda documentação da equipe, independentemente de quem cria o rascunho inicial.
+
+{{< carousel basepath="/uploads/2025/01" images="storyteller-step2.png,storyteller-step2-1.png,storyteller-step2-2.png,storyteller-step2-3.png" titles="Passo 1: Iniciando uma nova user story com o User Storyteller GPT,Passo 2: GPT gera formato estruturado de história com background e critérios de aceitação,Passo 3: Cenários detalhados de critérios de aceitação com formato Dado-Quando-Então,Passo 4: História completa com checklist de Definição de Pronto incluído" >}}
 
 ## Adicionando Context Para Conseguir Ainda Mais Impacto
 
