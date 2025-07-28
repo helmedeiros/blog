@@ -168,17 +168,17 @@ A interface fornece prompts iniciais úteis para cenários comuns—desde escrev
 
 Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), aqui está como nossa criação de user stories evoluiu:
 
-**Junho 2022**: Líderes de milestone da equipe criando histórias → **2-3 horas cada**, qualidade inconsistente, dependente das habilidades individuais do engenheiro
+**Junho 2022**: Líderes de milestone da equipe criando histórias → **3-4 horas**, qualidade inconsistente, dependente das habilidades individuais do engenheiro
 
-**Janeiro 2023**: EM facilitando sessões OKRA, criando épicos com user stories → **1-2 horas cada**, estrutura melhorada
+**Janeiro 2023**: EM facilitando sessões OKRA, criando épicos com user stories → **1-2 horas**, estrutura melhorada
 
-**Junho 2023**: Equipe treinada em melhores práticas de user stories, nova cadência Scrum → **2-3 horas cada**, conteúdo e formato consistentes
+**Junho 2023**: Equipe treinada em melhores práticas de user stories, nova cadência Scrum → **2-3 horas**, conteúdo e formato consistentes
 
-**Junho 2024**: Após novos membros se juntarem → **2-3 horas cada**, volta a conteúdo inconsistente, nem todos contribuindo proativamente
+**Junho 2024**: Após novos membros se juntarem → **2-3 horas**, volta a conteúdo inconsistente, nem todos contribuindo proativamente
 
-**Janeiro 2025**: GPT Storyteller introduzido → **10-20 minutos cada**, conteúdo e formato consistentes, adoção proativa
+**Janeiro 2025**: GPT Storyteller introduzido → **10-20 minutos**, conteúdo e formato consistentes, adoção proativa
 
-**O Impacto**: Passamos de gastar 2-3 horas por história com resultados inconsistentes para 10-20 minutos com saídas consistentes e de alta qualidade—uma **redução de 90% no tempo** enquanto melhoramos dramaticamente qualidade e adoção da equipe.
+**O Impacto**: Passamos de gastar 2-3 horas com resultados inconsistentes para 10-20 minutos com saídas consistentes e de alta qualidade—uma **redução de 90% no tempo** enquanto melhoramos dramaticamente qualidade e adoção da equipe.
 
 ### Quando o GPT Precisa de Orientação Humana
 
