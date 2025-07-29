@@ -71,7 +71,7 @@ Here's the core prompt that evolved through our tuning sessions:
 
 We then added specific markdown formats for each document type—user stories, technical debt, and bugs—complete with our Definition of Ready checklists. We embedded the INVEST principles (Independent, Negotiable, Valuable, Estimable, Small, Testable) and referenced the Agile manifesto to ensure outputs aligned with our development philosophy.
 
-The key insight: **AI tools become powerful when they're tunned on your team's specific practices, not generic templates**. Each tuning session made the GPT better at understanding our context, our standards, and our way of working.
+The key insight: **AI tools become powerful when they're trained on your team's specific practices, not generic templates**. Each tuning session made the GPT better at understanding our context, our standards, and our way of working.
 
 This iterative approach meant that by the time we deployed it, the GPT was already producing outputs that felt like they came from an experienced team member who understood our processes deeply.
 
@@ -153,7 +153,7 @@ After seeing the power of domain-specific knowledge, we kept feeding our GPT mor
 
 **Quality Standards**: Our Definition of Done checklists, testing frameworks, and architectural decision records became part of the GPT's knowledge. It now suggests acceptance criteria that align with our engineering practices and reminds us about performance benchmarks or accessibility requirements.
 
-## The Evolution: Generic → Contextual → Predictive
+### The Evolution: Generic → Contextual → Predictive
 
 1. **Generic**: "Write a user story about search functionality"
 2. **Contextual**: "Write a user story about multi-city search that considers our booking flow, includes mobile-specific acceptance criteria, and addresses performance requirements for our European markets"
@@ -169,7 +169,7 @@ We designed this GPT to combine product thinking with engineering clarity, makin
 
 The interface provides helpful starter prompts for common scenarios—from writing user stories for new features to documenting technical debt and describing bugs. Each interaction leverages the domain knowledge and formatting standards we've embedded through our iterative tuning process.
 
-## Our Journey: From Hours to Minutes
+### Our Journey: From Hours to Minutes
 
 After implementing this approach across our Pricing/Premium team (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Cesar Vortmann, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), here's how our user story creation evolved:
 
@@ -185,7 +185,7 @@ After implementing this approach across our Pricing/Premium team (Helio Medeiros
 
 **The Impact**: We went from spending 2-3 hours with inconsistent results to 10-20 minutes with consistent, high-quality outputs—a **90% time reduction** while dramatically improving quality and team adoption.
 
-## Sharing What We've Learned
+### Sharing What We've Learned
 
 It's been encouraging to see the User Storyteller GPT spread organically within Omio, with over 100 conversations happening across different teams beyond our original Pricing/Premium group.
 
@@ -198,7 +198,7 @@ The process of crafting good user stories forces teams to think deeply about cus
 
 If our approach helps even a few teams have better conversations about customer value and more intentional product decisions, then sharing our learnings has been worthwhile. The tool itself is just a means to an end—the real value lies in the discipline of customer-centric thinking that good user stories encourage.
 
-## When the GPT Needs Human Guidance
+### When the GPT Needs Human Guidance
 
 While our User Storyteller GPT has dramatically improved our workflow, it's not magic. All user stories still require validation and review. The GPT particularly struggles with:
 
@@ -231,7 +231,7 @@ The GPT struggles with the complex interaction between declared customer residen
 
 **The Reality**: Even with these limitations, the changes and refinements we need to make are typically **4x smaller** compared to our pre-GPT stories. Instead of rewriting entire sections, we're usually just tweaking specific acceptance criteria or adding edge cases the GPT missed.
 
-## How to Get Started
+### How to Get Started
 
 1. **Access the GPT** – Open the tool via the custom GPT link above
 2. **Select a Starter Prompt** – Choose a template or describe your idea

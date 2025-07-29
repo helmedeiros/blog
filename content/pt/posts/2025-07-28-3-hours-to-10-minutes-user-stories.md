@@ -71,7 +71,7 @@ Aqui está o prompt central que evoluiu através de nossas sessões de ajuste:
 
 Então adicionamos formatos markdown específicos para cada tipo de documento—user stories, débito técnico e bugs—completos com nossas listas de verificação de Definição de Pronto. Incorporamos os princípios INVEST (Independente, Negociável, Valioso, Estimável, Pequeno, Testável) e referenciamos o manifesto Ágil para garantir que as saídas se alinhassem com nossa filosofia de desenvolvimento.
 
-O insight chave: **ferramentas de IA se tornam poderosas quando são refinadas nas práticas específicas da sua equipe, não em templates genéricos**. Cada sessão de ajuste fez o GPT melhor em entender nosso contexto, nossos padrões e nossa forma de trabalhar.
+O insight chave: **ferramentas de IA se tornam poderosas quando são treinadas nas práticas específicas da sua equipe, não em templates genéricos**. Cada sessão de ajuste fez o GPT melhor em entender nosso contexto, nossos padrões e nossa forma de trabalhar.
 
 Essa abordagem iterativa significou que, quando o implementamos, o GPT já estava produzindo saídas que pareciam vir de um membro experiente da equipe que entendia nossos processos profundamente.
 
@@ -169,7 +169,7 @@ Projetamos este GPT para combinar pensamento de produto com clareza de engenhari
 
 A interface fornece prompts iniciais úteis para cenários comuns—desde escrever user stories para novas funcionalidades até documentar débito técnico e descrever bugs. Cada interação aproveita o conhecimento de domínio e padrões de formatação que incorporamos através do nosso processo de ajuste iterativo.
 
-## Nossa Jornada: De Horas para Minutos
+### Nossa Jornada: De Horas para Minutos
 
 Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros, Ahmed Naser, Brijesh Prasad, Cesar Vortmann, Georgii Maltsev, Pernelle Naidoo, Santhosh Balakrishnan, Talita Roberti), aqui está como nossa criação de user stories evoluiu:
 
@@ -185,7 +185,7 @@ Após implementar esta abordagem em nossa equipe Pricing/Premium (Helio Medeiros
 
 **O Impacto**: Passamos de gastar 2-3 horas com resultados inconsistentes para 10-20 minutos com saídas consistentes e de alta qualidade—uma **redução de 90% no tempo** enquanto melhoramos dramaticamente qualidade e adoção da equipe.
 
-## Compartilhando O Que Aprendemos
+### Compartilhando O Que Aprendemos
 
 Tem sido encorajador ver o User Storyteller GPT se espalhar organicamente dentro da Omio, com mais de 100 conversas acontecendo em diferentes equipes além do nosso grupo original Pricing/Premium.
 
@@ -198,7 +198,7 @@ O processo de criar boas user stories força as equipes a pensar profundamente s
 
 Se nossa abordagem ajudar mesmo algumas equipes a ter melhores conversas sobre valor do cliente e decisões de produto mais intencionais, então compartilhar nossos aprendizados terá valido a pena. A ferramenta em si é apenas um meio para um fim—o valor real está na disciplina de pensamento centrado no cliente que as boas user stories encorajam.
 
-## Quando o GPT Precisa de Orientação Humana
+### Quando o GPT Precisa de Orientação Humana
 
 Embora nosso User Storyteller GPT tenha melhorado dramaticamente nosso fluxo de trabalho, não é mágica. Todas as user stories ainda requerem validação e revisão. O GPT tem dificuldades particulares com:
 
@@ -231,7 +231,7 @@ O GPT tem dificuldades com a interação complexa entre residência declarada do
 
 **A Realidade**: Mesmo com essas limitações, as mudanças e refinamentos que precisamos fazer são tipicamente **4x menores** comparado às nossas histórias pré-GPT. Em vez de reescrever seções inteiras, geralmente estamos apenas ajustando critérios de aceitação específicos ou adicionando casos extremos que o GPT perdeu.
 
-## Como Começar
+### Como Começar
 
 1. **Acesse o GPT** – Abra a ferramenta via o link GPT customizado acima
 2. **Selecione um Prompt Inicial** – Escolha um template ou descreva sua ideia
