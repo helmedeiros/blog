@@ -18,6 +18,10 @@ subtitle: "When the brain feels like a browser with 30 tabs open, mind mapping h
 
 At Omio, our Monetization tribe operates in a world of complexity. Pricing strategies, service fees, insurances, campaigns—all intertwined. In one of our recent workshops, we explored a practice to regain clarity before rushing into execution: **Mind Mapping**.
 
+## Workshop Slides
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/212bd725081d4bc692a73d7f28b8b33c" title="Mind Mapping" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 396;" data-ratio="1.4141414141414141"></iframe>
+
 ## What is a Mind Map?
 
 A **mind map** is a visual thinking tool. At its core, it helps you capture and connect ideas the way your brain naturally works: in a network, not a list.
@@ -61,7 +65,7 @@ We don't need mind maps every day. But we need them on days when the brain feels
 Here's how you can get started:
 
 - Take any topic where you feel unclear and open a blank page (physical or digital)
-- Write that topic in the center 
+- Write that topic in the center
 - Set a timer for 10 minutes and let your thoughts branch outward
 - Don't edit or filter—just let ideas flow
 - Stop, read, and reflect on what you've created

@@ -18,6 +18,10 @@ subtitle: "Quando a cabeça parece um navegador com 30 abas abertas, mapas menta
 
 Na Omio, nosso time de Monetização opera em um ambiente de alta complexidade. Estratégias de preços, taxas de serviço, seguros, campanhas—tudo conectado. Em um dos nossos workshops recentes, exploramos uma prática que nos ajuda a recuperar clareza antes de partir para a execução: o **Mapa Mental**.
 
+## Slides do Workshop
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/212bd725081d4bc692a73d7f28b8b33c" title="Mind Mapping" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 396;" data-ratio="1.4141414141414141"></iframe>
+
 ## O que é um Mapa Mental?
 
 Um **mapa mental** é uma ferramenta visual de pensamento. Ele ajuda a capturar e conectar ideias do jeito que o cérebro humano naturalmente funciona: em rede, não em listas.
