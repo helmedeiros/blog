@@ -1,5 +1,9 @@
 ---
 title: "Quality Gates in the Age of Agentic Coding"
+categories:
+  - AI
+  - Engineering
+  - Development
 date: 2025-07-18
 tags: [ai-coding, git, quality-gates, hooks, vibe-coding, agentic-development]
 description: "Why code quality gates and git hooks still matter in AI-driven development workflows"
