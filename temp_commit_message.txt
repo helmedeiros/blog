@@ -1,0 +1,27 @@
+feat: add Co-Intelligence AI chapter presentation post in both languages
+
+Add bilingual Hugo post for "Co-Intelligence: Living, Working, and Rubber Ducking with AI" 
+presentation delivered at Omio Engineering AI Chapter on March 4, 2025.
+
+### What was added:
+- English version: content/en/posts/2025-03-04-co-intelligence-ai-chapter.md
+- Portuguese version: content/pt/posts/2025-03-04-co-intelligence-ai-chapter.md
+- Both files use identical filenames for proper Hugo i18n linking
+- Proper frontmatter with AI/productivity/engineering-management categories
+- Embedded SpeakerDeck iframe for presentation slides
+- Complete content covering co-intelligence workflows, rubber ducking with AI, 
+  and cultural shifts in engineering teams
+
+### Why this was done:
+- Shares insights from AI engineering presentation with blog audience
+- Demonstrates practical AI integration workflows beyond basic automation
+- Provides bilingual accessibility for broader technical community
+- Preserves presentation content in searchable blog format
+- Supports ongoing documentation of AI adoption in engineering practices
+
+### Technical details:
+- Hugo build successful: 1370 EN pages, 1440 PT pages
+- Both language versions properly accessible via localhost testing
+- Follows existing blog frontmatter and content structure patterns
+- Uses same categories/tags system as other AI-related posts
+- Responsive SpeakerDeck iframe embedded with proper styling
