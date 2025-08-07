@@ -114,6 +114,7 @@ Hexagonal architecture changes the work surface.
 Instead of asking "which layer should this go in," you ask "is this domain behavior, or is it an adapter concern?"
 
 The design tends to look like:
+
 - **Domain (pure):** entities, value objects, policies, use cases
 - **Ports (interfaces):** what the domain needs from the outside world
 - **Adapters (impure):** web handlers, persistence, messaging, external APIs
@@ -241,6 +242,7 @@ I used to worry this was redundant. It is not. It is the difference between "age
 Agent-friendly repos are not just about structure. They are about making verification cheap.
 
 A repo is hostile to agents when:
+
 - tests are slow and flaky
 - lint and formatting are inconsistent
 - local setup is fragile
@@ -271,11 +273,13 @@ After repeating these experiments, I now define an agent-friendly codebase like 
 A codebase is agent-friendly when it gives an AI agent enough structure and feedback to make correct changes without constant human interpretation.
 
 Structure means:
+
 - clear boundaries where logic belongs
 - minimal valid entrypoints for changes
 - a small number of standard commands
 
 Feedback means:
+
 - fast tests for domain behavior
 - predictable lint and type checks
 - CI parity with local runs
@@ -307,6 +311,70 @@ Do not add business rules in controllers or repositories. Keep them in the servi
 ```
 
 The prompt helps, but the repo still has to deserve the agent.
+
+### CLAUDE.md: putting the agent contract where the agent actually reads it
+
+Everything I described above — golden commands, architectural boundaries, change rules, forbidden actions — can live in a single file that Claude Code reads at the start of every session: `CLAUDE.md`.
+
+If you use Claude Code (the CLI or the IDE agent), this file is how you turn a prompt-dependent workflow into a repo-driven one. You place it in the project root, commit it to source control, and every team member and every Claude session gets the same instructions. No copy-pasting prompts. No tribal knowledge drifting across chat windows.
+
+The mapping from the concepts in this post to sections in a `CLAUDE.md` is almost 1:1:
+
+```md
+# CLAUDE.md
+
+## Project overview
+
+Asset capitalization tracker. Go, hexagonal architecture.
+Domain and application layers must not depend on adapters.
+
+## Common commands
+
+- `make bootstrap` — install dependencies and set up local environment
+- `make test` — run all tests (domain unit tests + integration)
+- `make lint` — run linter and format check
+- `make run` — start the application locally
+
+## Architecture
+
+- Business rules live in `/internal/domain` and `/internal/app`.
+- Ports (interfaces) are defined in `/internal/app/ports.go`.
+- Adapters in `/internal/adapters` must stay thin.
+- The composition root is `/cmd/assetcap/main.go`.
+
+## Change workflow
+
+1. Identify the use case in `/internal/app`.
+2. Implement domain/app changes first, with unit tests.
+3. Only then update adapters and wiring.
+4. Run `make test` and `make lint` before finishing.
+
+## Testing rules
+
+- Domain changes require unit tests in `/internal/domain`.
+- Use-case changes require tests in `/internal/app`.
+- Adapter changes require integration tests only when necessary.
+
+## Forbidden
+
+- Do not commit secrets or `.env` files.
+- Do not add dependencies to `/internal/domain` on any adapter package.
+- Do not modify production infrastructure without explicit instruction.
+```
+
+Notice what this does: the agent contract is no longer a README that humans may or may not read. It is loaded into context before the agent writes a single line of code. The golden commands are right there. The architectural constraint — domain must not import adapters — is explicit. The change workflow mirrors the prompt I keep reusing, but now it is part of the repo, not part of a chat message.
+
+Claude Code supports a hierarchy of `CLAUDE.md` files that maps well to different levels of concern:
+
+- **Project** (`./CLAUDE.md`): shared with the team, committed to git. This is where the agent contract lives.
+- **Local** (`./CLAUDE.local.md`): personal preferences, not in git. Your sandbox URLs, preferred test data, experimental flags.
+- **User** (`~/.claude/CLAUDE.md`): personal preferences across all projects. Code style, tooling shortcuts.
+
+The key insight is the same one from this entire post: the agent does not need a smarter prompt. It needs a repo that carries its own instructions. `CLAUDE.md` is the mechanism that makes that practical for Claude Code — it turns the agent contract from a nice idea into a file the agent reads on every session.
+
+## Presentation Slides
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/af6f7f080fa44fc78ad6f45c4e321775" title="It's Time for an Agent-Friendly Codebase" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 ### Closing thought
 
