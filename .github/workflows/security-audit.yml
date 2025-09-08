@@ -146,7 +146,7 @@ jobs:
 
       - name: Create issue for high security risk
         if: steps.hugo-security.outputs.security_risk == 'high' || steps.theme-security.outputs.theme_risk == 'high'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const fs = require('fs');
