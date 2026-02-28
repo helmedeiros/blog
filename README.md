@@ -1,115 +1,75 @@
-# Helio Medeiros - Technology Blog
+# Helio Medeiros — Blog
 
-This is a bilingual technology blog covering agile development, software engineering, and technology insights spanning from 2008-2014.
+Bilingual technology blog at [blog.heliomedeiros.com](https://blog.heliomedeiros.com).
+Notes on software engineering, leadership, pricing systems, agile practice,
+and working with AI agents — written in **English** and **Brazilian
+Portuguese (PT-BR)**.
 
-## 🌍 Languages
+- Browse in English: [blog.heliomedeiros.com](https://blog.heliomedeiros.com)
+- Ler em português: [blog.heliomedeiros.com/pt](https://blog.heliomedeiros.com/pt)
 
-- **Portuguese** (original): Available at `/pt/posts/`
-- **English** (translated): Available at `/posts/`
+## What's in here
 
-## 🚀 Translation Project
+The repo holds the full Hugo source for the site — content, layouts,
+theme, and the GitHub Actions pipeline that deploys to GitHub Pages.
 
-This blog was successfully translated from Brazilian Portuguese to English using **local LLM technology** (ollama/llama3) in May 2025.
+- **`content/en/`** and **`content/pt/`** — bilingual post and series content.
+- **`layouts/`** — custom Hugo templates and shortcodes.
+- **`themes/beautifulhugo/`** — base theme (pinned submodule).
+- **`static/`** — images, CSS, uploads.
+- **`scripts/`** — Python helpers for occasional content maintenance.
+- **`docs/`** — operational notes.
 
-### Translation Results
+## Voice & style
 
-- ✅ **67 blog posts** fully translated
-- ✅ **Authentic tone preserved** from original Portuguese
-- ✅ **Technical accuracy maintained**
-- ✅ **All metadata updated** (SEO, social sharing, structured data)
-- ✅ **Site structure intact** (navigation, styling, features)
+Two style guides describe how the blog is written. New posts and edits
+should follow them.
 
-### How It Was Done
+- **[`STYLE_GUIDE.md`](STYLE_GUIDE.md)** — English voice and writing patterns.
+- **[`STYLE_GUIDE_PT_BR.md`](STYLE_GUIDE_PT_BR.md)** — Brazilian Portuguese
+  voice (PT-BR only, never PT-PT). Identity and natural phrasing rather
+  than translation rules.
 
-The translation was accomplished using a sophisticated workflow with local AI:
+## Series
 
-1. **Content Extraction**: HTML posts converted to clean markdown
-2. **AI Translation**: Local llama3 model via ollama for authentic translations
-3. **Quality Control**: Automated cleanup of translation artifacts
-4. **Seamless Integration**: Content replaced while preserving all site functionality
+Related posts are grouped into series — conference notes, technical
+deep-dives, and longer-form reflections. A post joins a series by
+declaring `series:` and `series_order:` in its front matter. The
+current list lives at [`/series/`](https://blog.heliomedeiros.com/series/);
+the wiring convention is documented in
+[`docs/SERIES_CONVENTION.md`](docs/SERIES_CONVENTION.md).
 
-For technical details and scripts used, see [`scripts/README.md`](scripts/README.md).
+## Stack
 
-## 📁 Project Structure
+- **Hugo** static site generator with the Beautiful Hugo theme.
+- **Bilingual** content under language directories (`en/`, `pt/`).
+- **GitHub Actions** builds on every push to `master` and deploys to
+  GitHub Pages.
+- **Custom domain**: `blog.heliomedeiros.com`.
 
-```
-blog/
-├── docs/           # 📚 Project documentation
-├── scripts/        # 🔧 Python automation scripts
-├── layouts/        # 🎨 Custom Hugo layouts
-├── static/         # 📁 Static assets (images, CSS)
-├── content/        # 📝 Blog content (EN/PT)
-└── themes/         # 🎭 Hugo theme files
-```
-
-### Key Directories
-
-- **[`docs/`](docs/)** - All project documentation and reports
-- **[`scripts/`](scripts/)** - Python scripts for blog restoration and automation
-- **[`layouts/`](layouts/)** - Custom Hugo templates for enhanced design
-- **[`static/css/`](static/css/)** - Custom CSS for white background and modern styling
-
-## 📚 Content Topics
-
-The blog covers various technology topics including:
-
-- **Agile Methodologies** (SCRUM, XP, Kanban)
-- **Software Development** practices and patterns
-- **Project Management** experiences
-- **Technology Events** and conference reports
-- **Programming Languages** and tools
-- **Data Science** and Big Data
-
-## 🏗 Technical Setup
-
-This is a Hugo-generated static site with:
-
-- **Hugo Static Site Generator** with Beautiful Hugo theme
-- **Bilingual Support**: English and Portuguese content
-- **GitHub Actions**: Automated build and deployment
-- **Custom Domain**: `blog.heliomedeiros.com`
-- **Responsive design** with SEO optimization
-- **Social sharing integration**
-
-## 🚀 Deployment
-
-The site is automatically deployed using GitHub Actions:
-
-1. **Source files** are stored in this repository
-2. **GitHub Actions** builds the Hugo site on every push to `main`/`master`
-3. **Generated static files** are deployed to GitHub Pages
-4. **Custom domain** `blog.heliomedeiros.com` serves the content
-
-### Local Development
+## Local development
 
 ```bash
-# Install Hugo (macOS)
 brew install hugo
-
-# Clone the repository
-git clone [repository-url]
+git clone --recurse-submodules <repository-url>
 cd blog
 
-# Start local development server
+# Live-reload dev server
 hugo server -D
 
-# Build for production
+# Production build
 hugo --minify
 ```
 
-### Manual Deployment
+If you cloned without `--recurse-submodules`, fetch the theme:
 
-If needed, you can manually trigger deployment:
+```bash
+git submodule update --init --recursive
+```
 
-1. Go to the **Actions** tab in GitHub
-2. Select **Deploy Hugo site to Pages**
-3. Click **Run workflow**
+## Deployment
 
-## 📖 Reading
-
-- **Browse in English**: [blog.heliomedeiros.com](https://blog.heliomedeiros.com)
-- **Ler em Português**: [blog.heliomedeiros.com/pt](https://blog.heliomedeiros.com/pt)
-
----
-
-_This bilingual blog represents years of technology insights made accessible to both Portuguese and English-speaking audiences through the power of local AI translation._
+Pushes to `master` trigger the **Deploy Hugo site to Pages** workflow,
+which builds with the pinned Hugo version and publishes to GitHub
+Pages. To deploy manually: **Actions → Deploy Hugo site to Pages →
+Run workflow**.

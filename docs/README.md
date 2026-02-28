@@ -22,6 +22,11 @@ This Hugo-based bilingual blog (English/Portuguese) was migrated from WordPress 
 - **[translation_output.log](translation_output.log)** - Log file from the translation link fixing process
 - **[commit_message.txt](commit_message.txt)** - Detailed commit message documenting all changes made
 
+### Voice and Style
+
+- **[../STYLE_GUIDE.md](../STYLE_GUIDE.md)** - English voice and writing patterns across all 174 posts
+- **[../STYLE_GUIDE_PT_BR.md](../STYLE_GUIDE_PT_BR.md)** - Brazilian Portuguese (PT-BR) voice — Natal/RN background, shaped by years in Porto Alegre and abroad. The blog is PT-BR only, not PT-PT.
+
 ## Project Statistics
 
 - **Pages**: 474 English + 476 Portuguese = 950 total pages

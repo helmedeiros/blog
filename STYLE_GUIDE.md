@@ -2,6 +2,8 @@
 
 This guide captures the tone, voice, and writing patterns of this blog, drawn from reading all 174 English posts spanning 2008-2025. Use it as a reference for writing new posts or for any AI assistant generating content for this blog.
 
+> **Writing in Brazilian Portuguese (PT-BR)?** See the companion guide [`STYLE_GUIDE_PT_BR.md`](STYLE_GUIDE_PT_BR.md) for the PT-BR voice (Natal/RN background, with the shape of years in Porto Alegre and abroad). Note: this blog is written in PT-BR, not PT-PT.
+
 ---
 
 # Part 1: Quick Reference
