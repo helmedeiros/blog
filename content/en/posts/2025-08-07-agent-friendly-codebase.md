@@ -19,7 +19,7 @@ subtitle: "Stop rewriting prompts. Start fixing your repository."
 
 An "agent-friendly codebase" is not a codebase where an AI can write code. That part is already easy. The uncomfortable bit is whether an AI agent can do the job you actually want done: make a change that spans multiple files, run the right checks, interpret failures, iterate, and produce a diff that is small enough to review and safe enough to merge.
 
-After building a handful of small projects and pushing agents through the same workflows over and over, I stopped thinking in terms of "AI coding ability" and started thinking in terms of "repo usability." The agent is another contributor. A fast one, yes. But also a contributor that can get lost easily, and that will happily amplify whatever ambiguity you leave lying around.
+After building a handful of projects and pushing agents through the same workflows over and over, I stopped thinking in terms of "AI coding ability" and started thinking in terms of "repo usability." The agent is another contributor. A fast one, yes. But also a contributor that can get lost, and that will happily amplify whatever ambiguity you leave lying around.
 
 This post is what I wish someone had told me before I spent hours rewriting prompts instead of fixing the structure of the repository.
 

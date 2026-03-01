@@ -19,7 +19,7 @@ subtitle: "Pare de reescrever prompts. Comece a corrigir seu repositório."
 
 Um "codebase amigável para agentes" não é um repositório onde uma IA consegue escrever código. Essa parte já é fácil. A parte desconfortável é saber se um agente de IA consegue fazer o trabalho que você realmente quer que seja feito: realizar uma mudança que atravessa múltiplos arquivos, executar os checks corretos, interpretar falhas, iterar e produzir um diff pequeno o suficiente para revisão e seguro o suficiente para merge.
 
-Depois de construir alguns projetos pequenos e forçar agentes a percorrer os mesmos fluxos repetidamente, parei de pensar em termos de "capacidade de IA para escrever código" e comecei a pensar em "usabilidade do repositório". O agente é mais um colaborador. Um colaborador rápido, sim. Mas também um colaborador que se perde facilmente e que amplifica qualquer ambiguidade estrutural que você deixe espalhada pelo caminho.
+Depois de construir vários projetos e forçar agentes a percorrer os mesmos fluxos repetidamente, parei de pensar em termos de "capacidade de IA para escrever código" e comecei a pensar em "usabilidade do repositório". O agente é mais um colaborador. Um colaborador rápido, sim. Mas também um colaborador que se perde e que amplifica qualquer ambiguidade estrutural que você deixe espalhada pelo caminho.
 
 Este post é o que eu gostaria que alguém tivesse me dito antes de eu gastar horas reescrevendo prompts em vez de corrigir a estrutura do repositório.
 
