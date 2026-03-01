@@ -102,6 +102,7 @@ Controller -> Service -> Repository -> Database
 Em teoria, lógica de domínio pertence ao service. Na prática, vejo services virarem mistura de orquestração com regras aleatórias, repositories acumularem decisões e controllers receberem "só mais esse caso especial".
 
 Um agente que recebe a tarefa "adicionar funcionalidade X" normalmente:
+
 1. Começa pelo controller, porque é o ponto de entrada.
 2. Procura um método de service parecido.
 3. Se não encontrar algo com o formato exato, cria um novo método.
@@ -119,11 +120,13 @@ Arquitetura hexagonal muda a superfície de trabalho.
 Em vez de perguntar "em qual camada isso vai?", você pergunta "isso é comportamento de domínio ou preocupação de adaptador?".
 
 O desenho tende a ser:
+
 - **Domínio (puro):** entidades, value objects, políticas, casos de uso
 - **Portas (interfaces):** o que o domínio precisa do mundo externo
 - **Adaptadores (impuros):** handlers web, persistência, mensageria, APIs externas
 
 Em um repositório que realmente respeita essas fronteiras, um agente tende a:
+
 1. Encontrar o caso de uso responsável pelo comportamento.
 2. Modificar a lógica de domínio em poucos arquivos.
 3. Se precisar de I/O novo, definir uma porta.
@@ -249,6 +252,7 @@ Isso não é redundância. É o que separa "agente como colaborador" de "agente 
 Repositórios amigáveis para agentes não são só sobre estrutura. São sobre tornar a verificação barata.
 
 Um repositório é hostil para agentes quando:
+
 - testes são lentos e instáveis
 - lint e formatação são inconsistentes
 - o setup local é frágil
@@ -279,16 +283,108 @@ Depois de repetir esses experimentos, minha definição ficou simples:
 Um codebase é amigável para agentes quando oferece estrutura e feedback suficientes para que um agente faça mudanças corretas sem interpretação humana constante.
 
 Estrutura significa:
+
 - fronteiras claras
 - poucos pontos válidos de entrada para mudança
 - comandos padronizados
 
 Feedback significa:
+
 - testes rápidos de domínio
 - lint e type check previsíveis
 - paridade entre local e CI
 
 Arquitetura hexagonal ajuda porque transforma "onde isso deve ir?" em restrição, não em debate. E restrições são exatamente o que agentes precisam.
+
+### Prompts que eu reutilizo
+
+Quando quero que um agente funcione bem em um repositório hexagonal, uso prompts que são mais instruções de processo do que pedidos de funcionalidade. Não peço para ser esperto. Peço para respeitar o contrato.
+
+Um que reutilizo:
+
+```
+You are working in a repo that follows hexagonal architecture.
+Make the smallest diff possible.
+
+Steps:
+1) Identify the use case that owns this behavior.
+2) Implement domain/app changes first, with unit tests.
+3) Only then update adapters and wiring.
+4) Run the golden commands: make test, make lint.
+5) Summarize the diff and explain why each change belongs in its layer.
+```
+
+Em repositórios em camadas, adiciono uma frase extra:
+
+```
+Do not add business rules in controllers or repositories. Keep them in the service/domain layer and add unit tests.
+```
+
+O prompt ajuda, mas o repositório ainda precisa merecer o agente.
+
+### CLAUDE.md: colocando o contrato do agente onde o agente realmente lê
+
+Tudo o que descrevi acima — comandos dourados, fronteiras arquiteturais, regras de mudança, ações proibidas — pode morar em um único arquivo que o Claude Code lê no início de cada sessão: `CLAUDE.md`.
+
+Se você usa Claude Code (a CLI ou o agente no IDE), esse arquivo é como você transforma um fluxo dependente de prompt em um fluxo orientado pelo repositório. Você coloca na raiz do projeto, comita no controle de versão, e cada membro do time e cada sessão do Claude recebe as mesmas instruções. Sem copiar e colar prompts. Sem conhecimento tribal se dispersando entre janelas de chat.
+
+O mapeamento dos conceitos deste post para seções de um `CLAUDE.md` é quase 1:1:
+
+```md
+# CLAUDE.md
+
+## Project overview
+
+Rastreador de capitalização de ativos. Go, arquitetura hexagonal.
+Camadas de domínio e aplicação não devem depender de adaptadores.
+
+## Common commands
+
+- `make bootstrap` — instalar dependências e configurar ambiente local
+- `make test` — rodar todos os testes (unitários de domínio + integração)
+- `make lint` — rodar linter e verificação de formatação
+- `make run` — iniciar a aplicação localmente
+
+## Architecture
+
+- Regras de negócio vivem em `/internal/domain` e `/internal/app`.
+- Portas (interfaces) estão definidas em `/internal/app/ports.go`.
+- Adaptadores em `/internal/adapters` devem ser finos.
+- O composition root é `/cmd/assetcap/main.go`.
+
+## Change workflow
+
+1. Identificar o caso de uso em `/internal/app`.
+2. Implementar mudanças de domínio/app primeiro, com testes unitários.
+3. Só então atualizar adaptadores e wiring.
+4. Rodar `make test` e `make lint` antes de finalizar.
+
+## Testing rules
+
+- Mudanças de domínio exigem testes unitários em `/internal/domain`.
+- Mudanças de caso de uso exigem testes em `/internal/app`.
+- Mudanças de adaptadores exigem testes de integração apenas quando necessário.
+
+## Forbidden
+
+- Não comitar secrets ou arquivos `.env`.
+- Não adicionar dependências de `/internal/domain` em pacotes de adaptadores.
+- Não modificar infraestrutura de produção sem instrução explícita.
+```
+
+Perceba o que isso faz: o contrato do agente deixa de ser um README que humanos podem ou não ler. Ele é carregado no contexto antes do agente escrever uma única linha de código. Os comandos dourados estão ali. A restrição arquitetural — domínio não pode importar adaptadores — está explícita. O fluxo de mudança espelha o prompt que eu reutilizo, mas agora é parte do repositório, não de uma mensagem de chat.
+
+O Claude Code suporta uma hierarquia de arquivos `CLAUDE.md` que mapeia bem para diferentes níveis de preocupação:
+
+- **Projeto** (`./CLAUDE.md`): compartilhado com o time, comitado no git. É onde o contrato do agente vive.
+- **Local** (`./CLAUDE.local.md`): preferências pessoais, fora do git. Suas URLs de sandbox, dados de teste preferidos, flags experimentais.
+- **Usuário** (`~/.claude/CLAUDE.md`): preferências pessoais para todos os projetos. Estilo de código, atalhos de ferramentas.
+
+O insight central é o mesmo de todo este post: o agente não precisa de um prompt mais esperto. Ele precisa de um repositório que carregue suas próprias instruções. `CLAUDE.md` é o mecanismo que torna isso prático para o Claude Code — transforma o contrato do agente de uma boa ideia em um arquivo que o agente lê a cada sessão.
+
+## Slides da Apresentação
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/af6f7f080fa44fc78ad6f45c4e321775" title="It's Time for an Agent-Friendly Codebase" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 ### Pensamento final
 
