@@ -69,7 +69,7 @@ That is when I realized: architecture constrains _where_ changes happen. But som
 
 ## Skills as behavioral contracts
 
-In the beggining of this month, Claude Code introduces the concept of skills.
+In the beggining of this month, Claude Code introduces the concept of [skills](https://code.claude.com/docs/en/skills).
 
 A skill is not a feature request. It is not a prompt template. It is a reusable execution protocol that becomes part of the agent's operating context.
 
@@ -208,3 +208,5 @@ If architecture defines where logic belongs, skills define how change unfolds.
 The model did not become responsible.
 
 We made responsibility executable.
+
+{{< youtube CEvIs9y1uog >}}

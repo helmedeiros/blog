@@ -69,7 +69,7 @@ Foi nesse momento que ficou claro: arquitetura limita _onde_ a mudança acontece
 
 ## Skills como contratos comportamentais
 
-No começo deste mês, Claude Code introduz o conceito de skills.
+No começo deste mês, Claude Code introduz o conceito de [skills](https://code.claude.com/docs/en/skills).
 
 Uma skill não é uma feature. Não é um template de prompt. É um protocolo de execução reutilizável que passa a fazer parte do contexto operacional do agente.
 
@@ -208,3 +208,5 @@ Se arquitetura define onde a lógica pertence, skills definem como a mudança ac
 O modelo não ficou mais responsável.
 
 Nós tornamos a responsabilidade executável.
+
+{{< youtube CEvIs9y1uog >}}
