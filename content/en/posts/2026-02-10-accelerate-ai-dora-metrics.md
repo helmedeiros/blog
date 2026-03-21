@@ -5,6 +5,9 @@ categories:
   - Engineering
   - Leadership
 date: 2026-02-10
+series:
+  - engineering-with-ai
+series_order: 14
 tags:
   - ai
   - dora-metrics

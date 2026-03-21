@@ -5,6 +5,9 @@ categories:
   - Productivity
   - Engineering Management
 date: 2024-11-28
+series:
+  - engineering-with-ai
+series_order: 6
 tags:
   - automation
   - genai

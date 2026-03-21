@@ -5,6 +5,9 @@ categories:
   - Engineering
   - Development
 date: 2025-07-18
+series:
+  - engineering-with-ai
+series_order: 8
 tags: [ai-coding, git, quality-gates, hooks, vibe-coding, agentic-development]
 description: "Why code quality gates and git hooks still matter in AI-driven development workflows"
 ---

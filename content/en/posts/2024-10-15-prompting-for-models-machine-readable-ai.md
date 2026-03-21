@@ -5,6 +5,9 @@ categories:
   - Productivity
   - Software Engineering
 date: 2024-10-15
+series:
+  - engineering-with-ai
+series_order: 5
 tags:
   - meta-prompting
   - machine-readable-prompts

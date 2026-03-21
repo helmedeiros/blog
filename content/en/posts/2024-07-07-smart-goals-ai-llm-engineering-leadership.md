@@ -5,6 +5,9 @@ categories:
   - AI
   - Engineering Management
 date: 2024-07-07
+series:
+  - engineering-with-ai
+series_order: 1
 tags:
   - ai-leadership
   - llm

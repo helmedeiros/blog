@@ -5,6 +5,9 @@ categories:
   - Productivity
   - macOS
 date: 2024-08-10
+series:
+  - engineering-with-ai
+series_order: 3
 tags:
   - automacao-prompts
   - dicas-macos

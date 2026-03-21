@@ -5,6 +5,9 @@ categories:
   - Engineering
   - Software Architecture
 date: 2025-10-17
+series:
+  - engineering-with-ai
+series_order: 11
 tags:
   - ai
   - claude-code

@@ -5,6 +5,9 @@ categories:
   - Productivity
   - Engineering Management
 date: 2024-07-28
+series:
+  - engineering-with-ai
+series_order: 2
 tags:
   - engenharia-prompts
   - alfabetizacao-ia

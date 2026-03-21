@@ -5,6 +5,9 @@ categories:
   - Engineering
   - Software Architecture
 date: 2025-08-07
+series:
+  - engineering-with-ai
+series_order: 10
 tags:
   - ai
   - software-architecture

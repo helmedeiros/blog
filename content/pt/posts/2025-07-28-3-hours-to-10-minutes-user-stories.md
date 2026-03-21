@@ -5,6 +5,9 @@ categories:
   - Agile
   - Engineering Management
 date: 2025-07-28
+series:
+  - engineering-with-ai
+series_order: 9
 tags:
   - historias-usuario
   - coaching-agil

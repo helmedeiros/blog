@@ -5,6 +5,9 @@ categories:
   - Productivity
   - Engineering Management
 date: 2025-03-04
+series:
+  - engineering-with-ai
+series_order: 7
 tags:
   - ai
   - co-intelligence

@@ -5,6 +5,9 @@ categories:
   - Productivity
   - Critical Thinking
 date: 2024-09-05
+series:
+  - engineering-with-ai
+series_order: 4
 tags:
   - prompt-socratico
   - pensamento-critico

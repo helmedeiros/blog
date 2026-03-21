@@ -5,6 +5,9 @@ categories:
   - Engineering
   - Leadership
 date: 2026-03-21
+series:
+  - engineering-with-ai
+series_order: 15
 tags:
   - ia
   - lideranca-engenharia
