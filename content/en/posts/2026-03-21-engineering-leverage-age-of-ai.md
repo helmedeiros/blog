@@ -75,6 +75,8 @@ One of the easiest ways to misuse AI is to isolate it at the coding stage and th
 
 What made a difference for us was embedding AI across multiple stages of the execution lifecycle. Not everywhere blindly, but in the places where repetitive, predictable, or cognitively draining work was slowing us down.
 
+![AI embedded across the full loop — Hypothesis, Implementation, Measurement, Insight](/uploads/2026/03/ai-loop-hypothesis-implementation-insight-measurement.png)
+
 The pattern looked more like this:
 
 ```
@@ -88,12 +90,20 @@ Prompt: "Give me 5 alternative ways to reduce friction in this funnel step
         without changing pricing or adding a new screen."
 ```
 
+A concrete example: feeding our Value Proposition Canvas directly into the model and asking it to suggest the next experiments to run — with reasons, success metrics, and whether each addressed a customer pain or created a gain. It did not replace judgment, but it compressed hours of discussion into a sharp starting point.
+
+![Feeding the Value Proposition Canvas to AI to suggest the next experiments](/uploads/2026/03/ai-hypothesis-value-proposition-canvas.png)
+
 At the **specification** stage, AI helped turn rough ideas into draft user stories, acceptance criteria, and Jira tasks that the team could then refine together.
 
 ```
 Prompt: "Break this experiment into frontend, backend, analytics, and QA tasks
         with draft acceptance criteria."
 ```
+
+Dedicated GPTs shaped around our context — like a User Storyteller trained on our domain — made the first draft of a story fast and structured enough that the team could focus on refining rather than starting from scratch.
+
+![User Storyteller GPT generating a structured user story from experiment context](/uploads/2026/03/ai-specification-user-storyteller.png)
 
 At the **implementation** stage, coding agents helped with scaffolding, refactoring suggestions, and test expansion. The benefit was not that they "took over." The benefit was that they reduced the amount of blank-page work and some of the repetitive effort around first drafts.
 
@@ -158,24 +168,35 @@ And useful work, when repeated often enough, changes throughput.
 
 ## Building tooling while still leading
 
-At a certain point, faster experimentation exposed another problem. Debugging and validation were taking too long. We could design and launch experiments, but inspecting behavior and understanding outcomes still carried too much friction.
+At a certain point, faster experimentation exposed another problem. Debugging and validation were taking too long. We could design and launch experiments, but verifying that everything was wired correctly — targeting rules, segmentation logic, variant distribution — still carried too much friction.
 
 That left us with a familiar choice. Wait for a bigger platform investment. Ask for more people. Or build something narrower ourselves.
 
 We built.
 
-While still managing the team and supporting the broader flow of work, I started vibe coding a lightweight Go-based debugging tool to help with visibility and analysis. The point was not to create a polished platform. The point was to remove a bottleneck that was already costing us speed.
+While still managing the team and supporting the broader flow of work, I started vibe coding an internal UI that sits on top of our experimentation platform. The point was not to create a polished product. The point was to remove a bottleneck that was already costing us speed.
 
 This part matters to me because it sits at the intersection of leadership and making. I do not think management should mean drifting too far from the real shape of the work. Sometimes the highest-leverage thing a leader can do is remove a structural constraint directly.
 
-The tool helped us inspect flows faster, validate assumptions with less ceremony, and reduce some cross-team dependency when we needed quick answers. It also became something others could use later, which is often how small internal tools earn their place.
+The tool addressed some of the most repetitive and error-prone parts of running experiments. Starting with the setup itself — making experiment creation guided and consistent rather than something each person figured out on their own.
 
-```bash
-# Example of a lightweight debugging mindset
-odebug inspect --flow checkout --experiment EXP-142
-odebug trace --session 8f31a2
-odebug compare --before control --after variant-a
-```
+![Experiment creation templates](/uploads/2026/03/go-debug-new-experiment-template.png)
+
+From there, one of the sharpest pain points was targeting and segmentation. Getting those rules right before launch required a lot of back-and-forth and manual checking. The UI made that visual and immediate — you could see the segments, the distribution percentages, and the targeting rules in one place, and fix problems before they became launch-day incidents.
+
+![Targeting and segmentation configuration](/uploads/2026/03/go-debug-targeting-segmentation.png)
+
+After launch, the next question was always the same: is this experiment actually being tracked correctly? The diagnostics view answered that directly, surfacing health checks — events flowing, sample ratio balance, contamination signals — without anyone needing to write queries or dig through logs.
+
+![Experiment health check and diagnostics](/uploads/2026/03/go-debug-experiment-health-check.png)
+
+And once an experiment was running, the distribution view let the team confirm quickly that traffic was splitting as expected across variants — something that sounds simple but was previously a manual, error-prone task.
+
+![Daily checks by variant — balanced distribution](/uploads/2026/03/go-debug-daily-checks-by-variant.png)
+
+None of those tasks were glamorous. But doing them manually, every single time, was quietly draining the team.
+
+The UI made those checks fast, visual, and consistent. It also became something others could use without needing to know the platform internals, which is how small internal tools earn their place.
 
 I want to be careful here. This is not a story about heroics. It is not "look what one person built at night." That is not the lesson I care about.
 
@@ -252,6 +273,8 @@ AI support
 -> more confidence
 -> stronger next bets
 ```
+
+![What we avoided vs. what we gained](/uploads/2026/03/what-we-avoided-what-we-gained.png)
 
 I like this framing because it avoids hype. It does not claim AI solved everything. It simply shows how small reductions in friction can accumulate into meaningful operating leverage.
 

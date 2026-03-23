@@ -75,6 +75,8 @@ Uma das formas mais fáceis de usar IA mal é jogá-la só na parte de código e
 
 O que fez diferença pra gente foi colocar a IA em várias etapas do ciclo. Não em todo lugar de forma cega, mas nos pontos onde o trabalho repetitivo, previsível ou cansativo estava travando a gente.
 
+![IA distribuída ao longo de todo o ciclo — Hipótese, Implementação, Medição, Insight](/uploads/2026/03/ai-loop-hypothesis-implementation-insight-measurement.png)
+
 O padrão ficou mais ou menos assim:
 
 ```
@@ -88,12 +90,20 @@ Prompt: "Me dê 5 formas alternativas de reduzir fricção nesta etapa do funil
         sem mudar preço nem adicionar uma nova tela."
 ```
 
+Um exemplo concreto: alimentar o modelo com o nosso Value Proposition Canvas e pedir pra ele sugerir os próximos experimentos a rodar — com razões, métricas de sucesso e se cada um resolvia uma dor ou criava um ganho pro cliente. Não substituiu o julgamento, mas comprimiu horas de discussão em um ponto de partida bem delineado.
+
+![Alimentando o Value Proposition Canvas na IA para sugerir os próximos experimentos](/uploads/2026/03/ai-hypothesis-value-proposition-canvas.png)
+
 Na etapa de **especificação**, a IA ajudou a transformar ideias brutas em rascunhos de user stories, critérios de aceitação e tarefas de Jira que o time depois refinava junto.
 
 ```
 Prompt: "Quebre este experimento em tarefas de frontend, backend, analytics e QA
         com critérios de aceitação iniciais."
 ```
+
+GPTs dedicados e treinados no nosso contexto — como um User Storyteller modelado no nosso domínio — tornaram o primeiro rascunho de uma história rápido e estruturado o suficiente pra o time focar em refinar, e não em começar do zero.
+
+![GPT User Storyteller gerando uma user story estruturada a partir do contexto do experimento](/uploads/2026/03/ai-specification-user-storyteller.png)
 
 Na etapa de **implementação**, agentes de código ajudaram com a estrutura inicial, sugestões de refatoração e expansão de testes. O ganho não foi "assumir o volante". Foi tirar o peso da página em branco e de boa parte do trabalho repetitivo dos primeiros rascunhos.
 
@@ -158,24 +168,35 @@ E trabalho útil, quando se repete o suficiente, muda o ritmo de entrega do time
 
 ## Construindo ferramenta enquanto eu continuava liderando
 
-Em certo ponto, a agilidade nos experimentos expôs outro problema. Debug e validação estavam demorando demais. A gente conseguia desenhar e lançar experimentos, mas entender o comportamento e ler os resultados ainda tinha atrito demais.
+Em certo ponto, a agilidade nos experimentos expôs outro problema. Debug e validação estavam demorando demais. A gente conseguia desenhar e lançar experimentos, mas verificar se tudo estava configurado corretamente — regras de targeting, lógica de segmentação, distribuição entre variantes — ainda tinha atrito demais.
 
 Aí ficou a escolha clássica. Esperar um investimento maior de plataforma. Pedir mais gente. Ou construir algo menor a gente mesmo.
 
 A gente construiu.
 
-Enquanto eu seguia gerenciando o time e apoiando o fluxo geral do trabalho, comecei a fazer vibe coding de uma ferramenta leve em Go pra debug, focada em visibilidade e análise. O objetivo não era criar uma plataforma polida. Era remover um gargalo que já estava custando velocidade.
+Enquanto eu seguia gerenciando o time e apoiando o fluxo geral do trabalho, comecei a fazer vibe coding de uma UI interna que roda em cima da nossa plataforma de experimentação. O objetivo não era criar um produto polido. Era remover um gargalo que já estava custando velocidade.
 
 Essa parte importa pra mim porque fica na interseção entre liderança e construção. Não acho que gerir time deva significar se afastar demais de como o trabalho acontece na prática. Às vezes, a coisa de maior retorno que uma liderança pode fazer é remover diretamente uma trava estrutural.
 
-A ferramenta ajudou a inspecionar fluxos mais rápido, validar suposições com menos cerimônia e reduzir parte da dependência entre times quando precisávamos de respostas rápidas. Ela também virou algo que outras pessoas puderam usar depois, e é assim que muitas ferramentas internas pequenas acabam se justificando.
+A ferramenta atacou as partes mais repetitivas e propensas a erro de rodar experimentos. Começando pela criação em si — tornando o setup guiado e consistente, em vez de algo que cada pessoa resolvia do seu jeito.
 
-```bash
-# Exemplo de uma mentalidade de debug leve
-odebug inspect --flow checkout --experiment EXP-142
-odebug trace --session 8f31a2
-odebug compare --before control --after variant-a
-```
+![Templates de criação de experimento](/uploads/2026/03/go-debug-new-experiment-template.png)
+
+A partir daí, um dos pontos de dor mais agudos era o targeting e a segmentação. Acertar essas regras antes do lançamento exigia muito vai-e-vem e verificação manual. A UI tornou isso visual e imediato — dava pra ver os segmentos, os percentuais de distribuição e as regras de targeting num único lugar, e corrigir problemas antes que virassem incidentes no dia do lançamento.
+
+![Configuração de targeting e segmentação](/uploads/2026/03/go-debug-targeting-segmentation.png)
+
+Depois do lançamento, a pergunta seguinte era sempre a mesma: esse experimento está sendo rastreado corretamente? A visão de diagnóstico respondia isso diretamente, exibindo os health checks — eventos fluindo, equilíbrio do sample ratio, sinais de contaminação — sem que ninguém precisasse escrever queries ou vasculhar logs.
+
+![Health check e diagnóstico do experimento](/uploads/2026/03/go-debug-experiment-health-check.png)
+
+E com o experimento rodando, a visão de distribuição permitia confirmar rapidamente se o tráfego estava sendo dividido como esperado entre as variantes — algo que parece simples, mas que antes era uma tarefa manual e sujeita a erros.
+
+![Verificação diária por variante — distribuição equilibrada](/uploads/2026/03/go-debug-daily-checks-by-variant.png)
+
+Nenhuma dessas tarefas era glamourosa. Mas fazê-las manualmente, toda vez, estava drenando o time em silêncio.
+
+A UI deixou essas verificações rápidas, visuais e consistentes. Ela também virou algo que outras pessoas puderam usar sem precisar conhecer os detalhes internos da plataforma, e é assim que muitas ferramentas internas pequenas acabam se justificando.
 
 Quero deixar claro aqui. Isso não é história de heroísmo. Não é "olha o que uma pessoa construiu de madrugada". Essa não é a lição que me interessa.
 
@@ -252,6 +273,8 @@ IA apoiando o ciclo
 -> mais confiança
 -> próximas apostas mais fortes
 ```
+
+![O que evitamos vs. o que ganhamos](/uploads/2026/03/what-we-avoided-what-we-gained.png)
 
 Gosto dessa forma de ver porque evita o hype. Não diz que a IA resolveu tudo. Só mostra como pequenas reduções de atrito podem se acumular num ganho real de operação.
 
