@@ -112,15 +112,15 @@ function processDiagram(diagram) {
             showCodeFallbackForDiagram(diagram);
         };
 
-        // Trigger fallback if neither the rendered image nor a fallback block has appeared yet.
-        // The previous innerHTML equality check failed because Hugo template whitespace meant the
-        // string never matched, so the timeout was effectively dead.
+        // Safety-net fallback: only if neither the rendered image nor a fallback block has
+        // appeared after a generous window. Real failures fire imgElement.onerror immediately,
+        // so this timeout exists only for stalled loads (slow CDN, throttled networks).
         setTimeout(function() {
             if (!loadingDiv.querySelector('img') && !loadingDiv.querySelector('pre')) {
                 console.log('PlantUML loading timeout, showing fallback');
                 showCodeFallbackForDiagram(diagram);
             }
-        }, 8000);
+        }, 30000);
 
     } catch (error) {
         console.log('PlantUML rendering failed:', error);
@@ -157,15 +157,16 @@ if (!window.plantumlState.loaded && !window.plantumlState.loading) {
     // Already loaded, process immediately
     initializePlantUMLExternal();
 } else {
-    // Currently loading, wait briefly then check
-    setTimeout(function() {
+    // The encoder is already being loaded by another shortcode instance on the page.
+    // Poll until it is ready instead of bailing to fallback after 100ms — the script tag
+    // alone often takes longer than that to fetch from the CDN, especially on cold caches.
+    // The per-diagram safety timeout in processDiagram still catches genuine failures.
+    var pollInterval = setInterval(function() {
         if (window.plantumlState.loaded || !window.plantumlState.loading) {
+            clearInterval(pollInterval);
             initializePlantUMLExternal();
-        } else {
-            // Still loading after reasonable time, show fallback
-            showCodeFallback();
         }
-    }, 100); // Quick check after 100ms
+    }, 200);
 }
 
 function showCodeFallback() {
