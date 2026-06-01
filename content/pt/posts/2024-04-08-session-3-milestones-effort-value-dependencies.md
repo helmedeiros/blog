@@ -10,7 +10,6 @@ description:
 series:
   - okra
 series_order: 4
-lang: pt
 slug: session-3-milestones-effort-value-dependencies
 subtitle: Aprenda a fazer reality-check colaborativo dos seus marcos estimando esforço, pontuando valor e identificando dependências—antes de se comprometer com o trimestre
 ---

@@ -11,7 +11,6 @@ description:
 series:
   - okra
 series_order: 4
-lang: en
 slug: session-3-milestones-effort-value-dependencies
 subtitle: Learn to collaboratively reality-check your milestones by sizing effort, scoring value, and identifying dependencies—before committing to your quarter
 ---

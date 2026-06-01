@@ -10,7 +10,6 @@ description:
 series:
   - okra
 series_order: 5
-lang: pt
 slug: session-4-quarter-draft-plan
 subtitle: Construa um plano visual e colaborativo do trimestre que cria alinhamento compartilhado sem cronogramas rígidos—transformando intenções em roadmaps executáveis
 ---
