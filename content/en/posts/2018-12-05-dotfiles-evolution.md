@@ -14,6 +14,9 @@ tags:
   - goeuro
   - common-zsh
   - multi-language
+series:
+  - dotfiles
+series_order: 6
 subtitle: Evolve your personal development setup into team-friendly shared foundation—balancing individual craft with collaborative onboarding through common configurations and thoughtful documentation
 ---
 

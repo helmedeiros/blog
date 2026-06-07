@@ -15,6 +15,9 @@ tags:
   - simplification
   - loader
   - functions
+series:
+  - dotfiles
+series_order: 4
 subtitle: Transform your shell into a pluggable architecture—introducing loader patterns, focused functions, and a minimal prompt that gets out of your way while boosting productivity
 ---
 

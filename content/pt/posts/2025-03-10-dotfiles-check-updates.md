@@ -14,6 +14,9 @@ tags:
   - shell-scripts
   - updates
   - environment-management
+series:
+  - dotfiles
+series_order: 10
 subtitle: Construa um script simples que te dá visibilidade diária do que precisa ser atualizado—sem as surpresas de atualizações automáticas
 ---
 

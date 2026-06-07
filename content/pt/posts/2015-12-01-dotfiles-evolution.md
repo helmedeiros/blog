@@ -15,6 +15,9 @@ tags:
   - bash
   - mackup
   - homebrew
+series:
+  - dotfiles
+series_order: 3
 subtitle: Escale de craft pessoal para colaboração em equipe—construindo dotfiles modulares e baseados em tópicos com suporte shell-neutro, bootstrapping inteligente e ambientes reproduzíveis através de Mackup e Brewfile
 ---
 

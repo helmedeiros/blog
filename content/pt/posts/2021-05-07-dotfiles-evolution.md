@@ -14,6 +14,9 @@ tags:
   - simplification
   - repeatability
   - developer-experience
+series:
+  - dotfiles
+series_order: 8
 subtitle: Transforme seu ambiente de desenvolvimento pessoal em um sistema escalável e portável—com clareza de bootstrap, estrutura simplificada e compartilhamento sem atrito
 ---
 

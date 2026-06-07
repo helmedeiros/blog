@@ -15,6 +15,9 @@ tags:
   - git
   - mackup
   - configuração
+series:
+  - dotfiles
+series_order: 2
 subtitle: Construa seu primeiro repositório de dotfiles do zero—configurando controle de versão, criando configurações modulares e estabelecendo workflows de instalação que tornam o setup de ambiente repetível e compartilhável
 ---
 

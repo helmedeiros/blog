@@ -14,6 +14,9 @@ tags:
   - defensive-scripting
   - secrets-management
   - system-integration
+series:
+  - dotfiles
+series_order: 11
 subtitle: Aprenda a estruturar dotfiles que funcionam perfeitamente no Mac, WSL, containers e CI—com camadas inteligentes e scripting defensivo
 ---
 

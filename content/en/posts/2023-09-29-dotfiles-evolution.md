@@ -14,6 +14,9 @@ tags:
   - refinement
   - developer-tools
   - shell-configuration
+series:
+  - dotfiles
+series_order: 9
 subtitle: Software development concepts and practices
 ---
 
