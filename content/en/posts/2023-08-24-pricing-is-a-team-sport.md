@@ -216,7 +216,7 @@ The biggest lesson from my first years working on pricing systems is that pricin
 
 It lives in the intersection between both worlds — and the pricing team has to live there too, owning every step from understanding the business to learning from the result.
 
-Great pricing teams understand customers. They respond to opportunities. They drive direction. They build with care. They measure honestly. They learn out loud. None of those is optional. None of those belongs to someone else.
+We kept coming back to understanding our customers. We responded to opportunities. We drove direction. We built with care. We measured honestly. We learned out loud. None of those was optional. None of those belonged to someone else.
 
 ## Closing reflection
 

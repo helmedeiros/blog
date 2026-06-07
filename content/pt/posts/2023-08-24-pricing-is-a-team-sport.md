@@ -216,7 +216,7 @@ A maior lição dos meus primeiros anos trabalhando com sistemas de pricing é q
 
 Ele vive na interseção dos dois mundos — e o time de pricing precisa viver lá também, sendo dono de cada passo entre entender o negócio e aprender com o resultado.
 
-Bons times de pricing entendem clientes. Respondem a oportunidades. Conduzem direção. Constroem com cuidado. Medem com honestidade. Aprendem em voz alta. Nenhum desses passos é opcional. Nenhum pertence a outra pessoa.
+A gente continuava voltando a entender os nossos clientes. Respondíamos a oportunidades. Conduzíamos direção. Construíamos com cuidado. Medíamos com honestidade. Aprendíamos em voz alta. Nenhum desses passos era opcional. Nenhum pertencia a outra pessoa.
 
 ## Reflexão final
 

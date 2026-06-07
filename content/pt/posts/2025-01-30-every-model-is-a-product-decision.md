@@ -39,7 +39,7 @@ Por quê?
 
 Porque eles otimizam para resultados diferentes. O algoritmo pode ser idêntico. O objetivo, não.
 
-Eu vi isso acontecer mais de uma vez. Dois grupos de pricing dentro da mesma empresa faziam benchmark dos próprios modelos um contra o outro, entravam no detalhe sobre lógica e validação, e devagar percebiam que estavam discutindo problemas diferentes. Um time tinha recebido a missão de fazer receita crescer no trimestre. O outro tinha recebido a missão de proteger retenção até o fim do ano. Os dois tinham construído modelos honestos. Os dois estavam fazendo exatamente o que tinham sido pedidos. Ninguém tinha pedido que fizessem a mesma coisa.
+Eu vivi isso dentro do nosso próprio time mais de uma vez. O nosso product manager tinha recebido a missão de fazer receita crescer no trimestre. O nosso parceiro de finanças tinha recebido a missão de proteger retenção até o fim do ano. A gente tinha os mesmos dados, as mesmas recomendações na mesa, e uma noção silenciosamente diferente do que sucesso significava. Os dois lados eram honestos. Os dois estavam fazendo o que alguém na organização tinha pedido. Ninguém tinha pedido que a gente reconciliasse os dois antes de começar a construir.
 
 O trabalho interessante acontecia na sala acima do trabalho de modelagem — aquela em que alguém decidia o que sucesso deveria parecer. Quando o dado chegava no notebook, essa decisão já tinha sido tomada. O modelo só estava, com muita eficiência, executando ela.
 
@@ -111,7 +111,7 @@ Se ninguém consegue responder, a confiança começa a se desgastar.
 
 A parte mais difícil é que a resposta certa depende de quem está perguntando. Um agente de atendimento em uma ligação precisa do motivo, em uma frase, de um preço específico em uma compra específica. Um product manager revisando performance da semana precisa dos fatores dominantes movendo um segmento. Um líder de finanças revisando o trimestre precisa de garantia de que o modelo não está se afastando das metas com as quais ele se comprometeu. Nenhuma dessas necessidades é técnica. Todas elas precisam ser desenhadas.
 
-Os times que tratavam explicabilidade como algo para encaixar depois que o modelo já estava no ar perdiam a batalha da confiança de forma consistente. Quando a ligação do atendimento chegava, a resposta que conseguiam dar era ou vaga demais para ser útil, ou técnica demais para ser repetida. Da próxima vez que um preço parecesse estranho, a pergunta deixava de ir para o time. Passava a contornar.
+Sempre que tratávamos explicabilidade como algo para encaixar depois que o modelo já estava no ar, a gente perdia a batalha da confiança. Quando a ligação do atendimento chegava, a resposta que conseguíamos dar era ou vaga demais para ser útil, ou técnica demais para ser repetida. Da próxima vez que um preço parecesse estranho, a pergunta deixava de ir para a gente. Passava a contornar.
 
 Isso não significa que todo modelo precise ser simples. Significa que todo modelo precisa de uma estratégia de explicação, desenhada junto com o próprio modelo, com um público definido para cada nível de detalhe.
 
@@ -139,6 +139,6 @@ Essa distinção mudou como eu avalio modelos. Em vez de perguntar *"quão acura
 
 O perigo de "o modelo é objetivo" é que essa frase encerra a conversa que precisava acontecer. Quando uma recomendação chega embrulhada em matemática, ela deixa de ser questionada — e a escolha estratégica por baixo dela nunca é nomeada.
 
-Os times em que eu mais confiava em pricing não eram os com os modelos mais acurados. Eram os times que conseguiam dizer, em uma frase, o que o modelo estava otimizando, o que ele estava desprioritizando para fazer isso, e quem na organização tinha dito sim a essa troca. Quando essa frase ainda não existia, a coisa certa em geral era parar de construir e ir procurar por ela.
+O que mantinha o nosso modelo honesto, quando ele se mantinha honesto, era uma única frase. O que ele estava otimizando. O que ele estava desprioritizando para fazer isso. E quem na organização tinha dito sim a essa troca. Quando essa frase ainda não existia, a coisa certa em geral era parar de construir e ir procurar por ela.
 
 Um modelo sem essa frase não é objetivo. É só a preferência de alguém, automatizada.

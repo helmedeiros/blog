@@ -128,7 +128,7 @@ stop
 @enduml
 {{< /plantuml >}}
 
-The mistake most teams make is preserving only the last step. The code survives. The hypothesis is lost. The business decision becomes folklore.
+The mistake we kept making was preserving only the last step. The code survived. The hypothesis was lost. The business decision became folklore.
 
 One of the most important lessons I learned was that pricing teams should preserve more than the code. They should preserve the reasoning.
 
@@ -240,6 +240,6 @@ Eventually we stopped asking *how do we write pricing rules?* and started asking
 
 That question changed everything. It moved the conversation away from code and toward ownership, explainability, observability, governance, and the lifecycle of every rule the system carries.
 
-Every team I have worked with under-budgets the cost of a pricing rule at the moment it is added. The cost shows up later — in the engineer who has to explain a price during an incident, in the analyst who can't tell which experiment a rule belongs to, in the operations team that quietly works around a condition nobody is willing to remove. The bill arrives. It just arrives somewhere else.
+We under-budgeted the cost of a pricing rule at the moment we added it, basically every time. The cost showed up later — in the engineer who had to explain a price during an incident, in the analyst who couldn't tell which experiment a rule belonged to, in the operations partner who quietly worked around a condition nobody was willing to remove. The bill arrived. It just arrived somewhere else.
 
-A good test of a pricing system, then, isn't how fast you can add a rule. It is how confidently you can delete one.
+A good test of our pricing system, then, wasn't how fast we could add a rule. It was how confidently we could delete one.

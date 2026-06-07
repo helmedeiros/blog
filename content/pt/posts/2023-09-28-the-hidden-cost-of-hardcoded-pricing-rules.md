@@ -128,7 +128,7 @@ stop
 @enduml
 {{< /plantuml >}}
 
-O erro que a maioria dos times comete é preservar só o último passo. O código sobrevive. A hipótese se perde. A decisão de negócio vira folclore.
+O erro que a gente continuava cometendo era preservar só o último passo. O código sobrevivia. A hipótese se perdia. A decisão de negócio virava folclore.
 
 Uma das lições mais importantes que aprendi foi que times de pricing deveriam preservar mais do que o código. Deveriam preservar o raciocínio.
 
@@ -240,6 +240,6 @@ Eventualmente paramos de perguntar *como escrevemos regras de pricing?* e passam
 
 Essa pergunta mudou tudo. Tirou a conversa do código e levou para ownership, explicabilidade, observabilidade, governança e ciclo de vida de cada regra que o sistema carrega.
 
-Todo time com o qual trabalhei subdimensiona o custo de uma regra de pricing no momento em que ela é adicionada. O custo aparece depois — no engenheiro que precisa explicar um preço durante um incidente, no analista que não consegue dizer a qual experimento uma regra pertence, no time de operações que silenciosamente contorna uma condição que ninguém topa remover. A conta chega. Só chega em outro lugar.
+A gente subdimensionava o custo de uma regra de pricing no momento em que a adicionava, basicamente toda vez. O custo aparecia depois — no engenheiro que precisava explicar um preço durante um incidente, no analista que não conseguia dizer a qual experimento uma regra pertencia, no parceiro de operações que silenciosamente contornava uma condição que ninguém topava remover. A conta chegava. Só chegava em outro lugar.
 
-Um bom teste de um sistema de pricing, então, não é com que velocidade você consegue adicionar uma regra. É com que confiança você consegue apagar uma.
+Um bom teste do nosso sistema de pricing, então, não era com que velocidade conseguíamos adicionar uma regra. Era com que confiança conseguíamos apagar uma.

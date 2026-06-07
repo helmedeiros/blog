@@ -115,7 +115,7 @@ Depois aparece outra exceção. Depois outro experimento. Depois outro acordo co
 
 Isso não é má engenharia. É evolução de negócio expressa através de software.
 
-## As quatro conversas que todo time de pricing precisa ter
+## As quatro conversas que a gente vivia precisando ter
 
 As primeiras semanas me ensinaram que trabalho de pricing não é gargalado por código. É gargalado por alinhamento.
 
@@ -126,7 +126,7 @@ As primeiras semanas me ensinaram que trabalho de pricing não é gargalado por 
 | Engenheiro | Como podemos implementar isso com segurança? |
 | Stakeholder de negócio | Que resultado esperamos? |
 
-Bons times de pricing aprendem a fazer essas conversas acontecerem continuamente, não uma vez por mudança. A mudança que pula uma conversa é a mudança que aparece como incidente duas semanas depois.
+A gente aprendeu a fazer essas conversas acontecerem continuamente, não uma vez por mudança. A mudança que pulava uma delas era a mudança que aparecia como incidente duas semanas depois.
 
 ## Construir uma mudança de pricing com segurança
 

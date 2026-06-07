@@ -51,7 +51,7 @@ Esse foi um dos primeiros sinais de que nossos experimentos estavam nos ensinand
 
 ## Personas ajudaram a gente a pensar
 
-Como muitos times, frequentemente usávamos personas para falar de clientes.
+Frequentemente usávamos personas para falar de clientes.
 
 Personas são úteis. Elas criam linguagem compartilhada. Ajudam product managers, analistas, designers e engenheiros a falarem de necessidades de clientes sem cair direto nos dados.
 

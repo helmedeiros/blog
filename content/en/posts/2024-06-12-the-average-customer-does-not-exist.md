@@ -51,7 +51,7 @@ This was one of the first signs that our experiments were teaching us something 
 
 ## Personas helped us think
 
-Like many teams, we often used personas when discussing customers.
+We often used personas when discussing customers.
 
 Personas are useful. They create a shared language. They help product managers, analysts, designers, and engineers talk about customer needs without immediately diving into data.
 
