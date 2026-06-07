@@ -13,6 +13,9 @@ tags:
   - price-elasticity
   - monetization
   - product-discovery
+series:
+  - pricing-platform
+series_order: 6
 description: "The most valuable thing our pricing platform produced wasn't prices. It was learning."
 subtitle: "A pricing rule isn't a decision. It's a prediction. And predictions can be wrong."
 ---

@@ -13,6 +13,9 @@ tags:
   - business-rules-engine
   - monetization
   - platform-engineering
+series:
+  - pricing-platform
+series_order: 5
 description: "Why we built a Business Rules Engine on top of Drools instead of coupling our pricing platform directly to a rule engine implementation."
 subtitle: "Technologies change. Business capabilities survive much longer."
 ---

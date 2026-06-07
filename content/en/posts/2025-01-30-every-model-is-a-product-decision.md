@@ -13,6 +13,9 @@ tags:
   - decision-making
   - monetization
   - objective-functions
+series:
+  - pricing-platform
+series_order: 11
 description: "The most important part of a pricing model isn't the algorithm. It's the objective function."
 subtitle: "A pricing model is never neutral. Whatever it optimises for is a product decision dressed up as mathematics."
 ---

@@ -13,6 +13,9 @@ tags:
   - experimentation
   - platform-engineering
   - product-management
+series:
+  - pricing-platform
+series_order: 13
 description: "What my team had to learn about pricing rules after they shipped — ownership, expiration, deletion, and governance as answerability."
 subtitle: "A pricing platform isn't a collection of rules. It's the institutional memory of every decision the business has ever doubled down on or backed away from."
 ---

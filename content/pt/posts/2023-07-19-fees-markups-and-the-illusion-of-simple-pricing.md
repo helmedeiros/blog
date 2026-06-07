@@ -12,6 +12,9 @@ tags:
   - product-engineering
   - monetizacao
   - motor-de-regras
+series:
+  - pricing-platform
+series_order: 2
 description: "Por que um único markup nunca anda sozinho, e por que mudar um preço raramente é só mudar um número."
 subtitle: "Por que mudar um preço raramente é só mudar um número."
 ---

@@ -33,6 +33,9 @@
         {{ .Content }}
       </article>
 
+      <!-- Series Navigation (renders only if .Params.series is set) -->
+      {{ partial "series-nav.html" . }}
+
       <!-- Article Footer -->
       <footer class="article-footer">
         <!-- Article Meta Information -->

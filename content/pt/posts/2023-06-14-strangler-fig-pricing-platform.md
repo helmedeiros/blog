@@ -12,6 +12,9 @@ tags:
   - sistemas-legados
   - arquitetura-de-software
   - motor-de-regras
+series:
+  - pricing-platform
+series_order: 1
 description: "Por que o primeiro passo pra uma nova plataforma de pricing foi entender o presente, não substituir."
 subtitle: "Por que o primeiro passo pra uma nova plataforma de pricing foi entender o presente, não substituir."
 ---

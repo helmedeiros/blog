@@ -13,6 +13,9 @@ tags:
   - product-discovery
   - price-elasticity
   - monetization
+series:
+  - pricing-platform
+series_order: 7
 description: "Why personas helped us understand customers, but behavioral dimensions helped us understand pricing."
 subtitle: "The average customer doesn't exist. Optimising for one is optimising for nobody."
 ---
