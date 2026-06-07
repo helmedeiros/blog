@@ -14,6 +14,9 @@ tags:
   - development
   - git
   - zsh
+series:
+  - dotfiles
+series_order: 1
 subtitle: Discover why versioning your development environment matters—from losing terminal comfort to building team assets through shared configurations, onboarding automation, and collaborative workflows
 ---
 

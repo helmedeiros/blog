@@ -14,6 +14,9 @@ tags:
   - refinement
   - developer-tools
   - shell-configuration
+series:
+  - dotfiles
+series_order: 9
 subtitle: Evolua sua configuração de desenvolvimento com dotfiles inteligentes que se adaptam a diferentes ambientes—Mac, Linux, containers e CI/CD
 ---
 

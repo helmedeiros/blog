@@ -14,6 +14,9 @@ tags:
   - back-to-basics
   - individual-craft
   - personal-reset
+series:
+  - dotfiles
+series_order: 7
 subtitle: Reconquiste seu ambiente de desenvolvimento pessoal através de simplificação proposital—removendo recursos orientados a equipe para criar um setup de terminal rápido, focado e profundamente pessoal
 ---
 

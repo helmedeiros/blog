@@ -15,6 +15,9 @@ tags:
   - aliases
   - simplificação
   - pruning
+series:
+  - dotfiles
+series_order: 5
 subtitle: Alcance clareza no terminal através de poda implacável—eliminando loaders mágicos, scripts não utilizados e complexidade de plataforma para criar um ambiente de desenvolvimento rápido, honesto e sustentável
 ---
 

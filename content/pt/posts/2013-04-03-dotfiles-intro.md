@@ -14,6 +14,9 @@ tags:
   - desenvolvimento
   - git
   - zsh
+series:
+  - dotfiles
+series_order: 1
 subtitle: Descubra por que versionar seu ambiente de desenvolvimento importa—de perder conforto no terminal a construir ativos de equipe através de configurações compartilhadas, automação de onboarding e workflows colaborativos
 ---
 

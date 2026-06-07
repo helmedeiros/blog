@@ -15,6 +15,9 @@ tags:
   - aliases
   - simplification
   - pruning
+series:
+  - dotfiles
+series_order: 5
 subtitle: Achieve terminal clarity through ruthless pruning—eliminating magic loaders, unused scripts, and platform complexity to create a fast, honest, and maintainable development environment
 ---
 
