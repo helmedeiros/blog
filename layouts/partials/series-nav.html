@@ -2,8 +2,10 @@
 
   Renders an ordered list of every post that shares the current page's
   series, ordered by `series_order`, with the current post highlighted.
-  Only renders when the post has a `series` param and at least one other
-  post in the same series exists. Bilingual (EN/PT) based on .Language.Lang.
+  Pulls the series title from `content/{lang}/series/{slug}.md` when it
+  exists (matches the OKRA convention) so the heading reads naturally;
+  falls back to the humanised slug otherwise. Bilingual (EN/PT) via
+  `.Language.Lang`. Renders nothing on posts without a series.
 */}}
 
 {{- if .Params.series -}}
@@ -12,12 +14,26 @@
 {{- $seriesPages := where (where .Site.RegularPages "Section" "posts") "Params.series" "intersect" (slice $currentSeries) -}}
 {{- $seriesPages := $seriesPages.ByParam "series_order" -}}
 {{- if gt (len $seriesPages) 1 -}}
-{{- $isPT := eq .Language.Lang "pt" -}}
-{{- $title := cond $isPT "Outros posts dessa série" "More in this series" -}}
-{{- $hereLabel := cond $isPT "você está lendo este" "you're reading this one" -}}
 
-<aside class="series-nav">
-  <h4 class="series-nav-title"><i class="fas fa-stream"></i> {{ $title }}</h4>
+{{/* Try to find the series term page for a friendly title.
+     Hugo exposes taxonomy term pages on .Site.GetPage. */}}
+{{- $termPath := printf "/series/%s" $currentSeries -}}
+{{- $term := .Site.GetPage $termPath -}}
+{{- $seriesTitle := "" -}}
+{{- if $term }}{{ $seriesTitle = $term.Title }}{{ end -}}
+{{- if not $seriesTitle }}{{ $seriesTitle = humanize $currentSeries }}{{ end -}}
+
+{{- $isPT := eq .Language.Lang "pt" -}}
+{{- $eyebrow := cond $isPT "Parte da série" "Part of the series" -}}
+{{- $hereLabel := cond $isPT "você está lendo este" "you're reading this one" -}}
+{{- $viewAll := cond $isPT "Ver todos os posts da série →" "View all posts in this series →" -}}
+
+<aside class="series-nav" aria-label="{{ $seriesTitle }}">
+  <p class="series-nav-eyebrow">
+    <i class="fas fa-stream"></i>
+    {{ $eyebrow }}
+    <a class="series-nav-title-link" href="{{ $term.RelPermalink | default (print "/series/" $currentSeries "/") }}">{{ $seriesTitle }}</a>
+  </p>
   <ol class="series-nav-list">
   {{- range $seriesPages }}
     <li class="series-nav-item{{ if eq .Permalink $currentPermalink }} series-nav-current{{ end }}">
@@ -30,6 +46,9 @@
     </li>
   {{- end }}
   </ol>
+  <p class="series-nav-footer">
+    <a class="series-nav-all-link" href="{{ $term.RelPermalink | default (print "/series/" $currentSeries "/") }}">{{ $viewAll }}</a>
+  </p>
 </aside>
 
 <style>
@@ -40,20 +59,27 @@
   background: #f8fafc;
   border-radius: 8px;
 }
-.series-nav-title {
-  margin: 0 0 0.85rem;
+.series-nav-eyebrow {
+  margin: 0 0 1rem;
   font-size: 0.875rem;
-  font-weight: 700;
-  color: #1e293b;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  color: #475569;
+  line-height: 1.5;
 }
-.series-nav-title i {
+.series-nav-eyebrow i {
   margin-right: 0.4rem;
   color: #475569;
 }
+.series-nav-title-link {
+  color: #0f172a;
+  text-decoration: none;
+  font-weight: 700;
+  margin-left: 0.2rem;
+}
+.series-nav-title-link:hover {
+  text-decoration: underline;
+}
 .series-nav-list {
-  margin: 0;
+  margin: 0 0 1rem;
   padding-left: 1.5rem;
   list-style: decimal;
 }
@@ -79,6 +105,20 @@
   text-decoration: none;
 }
 .series-nav-link:hover {
+  text-decoration: underline;
+}
+.series-nav-footer {
+  margin: 0;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.875rem;
+}
+.series-nav-all-link {
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 600;
+}
+.series-nav-all-link:hover {
   text-decoration: underline;
 }
 </style>
