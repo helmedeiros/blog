@@ -13,55 +13,55 @@ tags:
   - monetizacao
   - tomada-de-decisao
   - estrategia-de-produto
-description: "Entender o comportamento do cliente não bastava. A gente precisava de uma forma de tomar decisões de pricing com consistência em escala."
-subtitle: "Um modelo não é mais esperto que o processo de aprendizado que o produziu. Ele só torna esse aprendizado mais fácil de aplicar repetidamente."
+description: "Entender o comportamento do cliente não bastava. A gente precisava de um jeito de tomar decisão de pricing com consistência em escala."
+subtitle: "Um modelo não é mais esperto que o processo de aprendizado que produziu ele. Só torna esse aprendizado mais fácil de aplicar repetidamente."
 ---
 
 Uma plataforma de pricing pode saber muito sobre os próprios clientes e ainda assim não conseguir agir sobre isso.
 
-Soa errado da primeira vez que você lê. Conhecimento, em tese, vira ação. Mas depois de alguns anos trabalhando em uma plataforma que decidia o que cobrar dos clientes e quando, a distância entre os dois ficava visível de dentro.
+Soa errado quando você lê pela primeira vez. Conhecimento, em tese, vira ação. Mas depois de alguns anos trabalhando numa plataforma que decidia o que cobrar do cliente e quando, a distância entre os dois ficava visível por dentro.
 
-Nessa altura, o sistema já tinha absorvido lições o bastante para se tornar perigoso. O "cliente médio" tinha deixado de ser um conceito útil. A resposta do cliente ao preço tinha deixado de parecer um número e passado a parecer uma curva. E toda mudança tinha deixado de soar como uma única decisão e passado a soar como uma pilha de trade-offs — receita contra conversão, confiança, retenção, simplicidade.
+Nessa altura, o sistema já tinha absorvido lição o bastante pra se tornar perigoso. O "cliente médio" tinha deixado de ser um conceito útil. A resposta do cliente ao preço tinha deixado de parecer um número e passado a parecer uma curva. E toda mudança tinha deixado de soar como uma decisão e passado a soar como uma pilha de trade-offs — receita contra conversão, confiança, retenção, simplicidade.
 
-O que o sistema não tinha era uma forma de aplicar nada disso de forma consistente.
+O que o sistema não tinha era um jeito de aplicar nada disso de forma consistente.
 
 Entender uma curva e agir sobre uma curva são duas coisas diferentes.
 
 ## O limite da tomada de decisão humana
 
-Imagine um mundo com um único tipo de cliente. Uma curva de resposta. Um objetivo. Uma decisão de pricing.
+Imagine um mundo com um tipo único de cliente. Uma curva de resposta. Um objetivo. Uma decisão de pricing.
 
-Humanos são notavelmente bons em raciocinar sobre esse tipo de problema.
+Humano é notavelmente bom em raciocinar sobre esse tipo de problema.
 
-Agora imagine centenas de contextos de cliente que importam. Comportamentos diferentes. Trade-offs diferentes. Respostas diferentes a valor.
+Agora imagine centenas de contextos de cliente que importam. Comportamento diferente. Trade-off diferente. Resposta diferente a valor.
 
 O desafio muda.
 
 O problema não é mais entender o cliente. O problema é aplicar o que a gente aprendeu de forma consistente.
 
-Foi nesse ponto que pricing parou de parecer um problema de regras e começou a parecer um problema de tomada de decisão.
+Foi nesse ponto que pricing parou de parecer problema de regras e começou a parecer problema de tomada de decisão.
 
-## Uma regra te diz o que fazer
+## Regra te diz o que fazer
 
-Regras são excelentes quando o mundo é razoavelmente previsível.
+Regra é excelente quando o mundo é razoavelmente previsível.
 
 > Se X, então Y.
 
 Essa estrutura é fácil de explicar. Fácil de testar. Fácil de governar.
 
-Mas regras têm limite. Conforme mais sinais ficam relevantes, o número de combinações cresce rápido.
+Mas regra tem limite. À medida que mais sinal vai ficando relevante, o número de combinações cresce rápido.
 
-Um sistema baseado em regras consegue *descrever* complexidade. Em algum momento ele tem dificuldade em *raciocinar* sobre ela.
+Um sistema baseado em regras consegue *descrever* complexidade. Em algum momento tem dificuldade de *raciocinar* sobre ela.
 
-O desafio já não era mais expressar decisões de negócio. Era escolher entre milhares de resultados possíveis.
+O desafio já não era mais expressar decisão de negócio. Era escolher entre milhares de resultados possíveis.
 
-## Um modelo te diz o que provavelmente vai acontecer
+## Modelo te diz o que provavelmente vai acontecer
 
-Foi aqui que modelos de pricing entraram na conversa.
+Foi aqui que modelo de pricing entrou na conversa.
 
 Não porque modelagem estava na moda. Não porque a organização queria mais tecnologia. Porque o sistema de aprendizado tinha acumulado mais conhecimento do que a camada de regras conseguia expressar à mão.
 
-Uma forma útil de pensar em um modelo é como uma compressão de tudo o que o time aprendeu até ali:
+Uma forma útil de pensar num modelo é como uma compressão de tudo o que o time aprendeu até ali:
 
 {{< plantuml title="Um modelo é uma compressão do que a organização aprendeu" >}}
 @startuml
@@ -83,17 +83,17 @@ M --> P
 @enduml
 {{< /plantuml >}}
 
-O modelo não substitui o aprendizado. O modelo é uma representação do aprendizado. Ele comprime milhares de observações em algo que ajuda a tomar uma decisão.
+O modelo não substitui o aprendizado. O modelo é uma representação do aprendizado. Comprime milhares de observações em algo que ajuda a tomar uma decisão.
 
-## Modelos não são mágica
+## Modelo não é mágica
 
-Uma ideia equivocada que eu encontrava repetidamente era a crença de que um modelo, de alguma forma, descobre a verdade.
+Uma ideia equivocada que eu encontrava direto era a crença de que o modelo, de algum jeito, descobre a verdade.
 
 A realidade é menos dramática.
 
-Um modelo só sabe o que a organização já aprendeu. Experimentos ruins criam dados ruins. Dados ruins criam modelos ruins. Modelos ruins criam decisões ruins.
+Modelo só sabe o que a organização já aprendeu. Experimento ruim cria dado ruim. Dado ruim cria modelo ruim. Modelo ruim cria decisão ruim.
 
-O modelo não é mais esperto que o processo de aprendizado que o produziu. Ele só torna esse aprendizado mais fácil de aplicar repetidamente.
+O modelo não é mais esperto que o processo de aprendizado que produziu ele. Só torna esse aprendizado mais fácil de aplicar repetidamente.
 
 Essa distinção importa porque mantém o foco na qualidade do ciclo de feedback, não na sofisticação do algoritmo.
 
@@ -103,58 +103,58 @@ Uma lição me surpreendeu.
 
 O maior benefício de um modelo de pricing não era inteligência. Era consistência.
 
-Humanos são inconsistentes. Pessoas diferentes interpretam a mesma informação de forma diferente. Prioridades mudam. Contexto é esquecido. Regras acumulam exceções.
+Humano é inconsistente. Pessoa diferente interpreta a mesma informação de forma diferente. Prioridade muda. Contexto é esquecido. Regra acumula exceção.
 
 Um modelo aplica o mesmo arcabouço de raciocínio toda vez. Isso não garante uma resposta perfeita. Mas cria um processo previsível.
 
-E processos previsíveis são mais fáceis de melhorar do que processos imprevisíveis.
+E processo previsível é mais fácil de melhorar do que processo imprevisível.
 
-## Todo modelo embute trade-offs
+## Todo modelo embute trade-off
 
-Trade-offs não desaparecem quando um modelo chega. Eles ficam codificados.
+Trade-off não desaparece quando o modelo chega. Ele fica codificado.
 
-Um modelo não consegue otimizar tudo ao mesmo tempo. Algum objetivo precisa ser escolhido — receita, conversão, valor do cliente, retenção, lucratividade — e o modelo simplesmente operacionaliza aquela prioridade.
+Modelo não consegue otimizar tudo ao mesmo tempo. Algum objetivo precisa ser escolhido — receita, conversão, valor do cliente, retenção, lucratividade — e o modelo simplesmente operacionaliza aquela prioridade.
 
-Isso significa que desacordos sobre pricing costumam ser desacordos sobre objetivos, não sobre algoritmos. A matemática normalmente vem depois. As escolhas estratégicas vêm antes.
+Isso significa que desacordo sobre pricing costuma ser desacordo sobre objetivo, não sobre algoritmo. A matemática normalmente vem depois. A escolha estratégica vem antes.
 
 ## O primeiro modelo raramente é o modelo final
 
-Outra lição que vale compartilhar é que o primeiro modelo bem-sucedido normalmente é simples.
+Outra lição que vale compartilhar é que o primeiro modelo que dá certo, normalmente, é simples.
 
-Isso é uma feature, não uma limitação.
+Isso é feature, não limitação.
 
-Modelos simples são mais fáceis de explicar. Mais fáceis de validar. Mais fáceis de questionar. Mais fáceis de confiar.
+Modelo simples é mais fácil de explicar. Mais fácil de validar. Mais fácil de questionar. Mais fácil de confiar.
 
-Muitos times pulam direto para sofisticação. A pergunta melhor, em geral, é:
+Muito time pula direto pra sofisticação. A pergunta melhor, em geral, é:
 
 > Qual é o modelo mais simples que melhora a qualidade da decisão?
 
 Complexidade é fácil de adicionar depois. Confiança é muito mais difícil de adicionar depois.
 
-## Modelos criam riscos novos
+## Modelo cria risco novo
 
-Modelos de pricing resolvem alguns problemas e introduzem outros.
+Modelo de pricing resolve alguns problemas e introduz outros.
 
-Um modelo desatualizado pode se descolar da realidade. Um modelo overfitted pode aprender padrões que não generalizam. Um modelo bem-sucedido pode influenciar o comportamento do cliente e, aos poucos, invalidar as próprias suposições.
+Modelo desatualizado pode se descolar da realidade. Modelo overfitted pode aprender padrão que não generaliza. Modelo que deu certo pode influenciar o comportamento do cliente e, aos poucos, invalidar as próprias suposições.
 
 O resultado é outra percepção importante.
 
-Modelos não são produtos. Modelos são sistemas vivos. Eles exigem monitoramento, validação, revisão, aposentadoria.
+Modelo não é produto. Modelo é sistema vivo. Exige monitoramento, validação, revisão, aposentadoria.
 
-O ciclo de vida nunca desaparece. Ele só se move para outra camada da plataforma.
+O ciclo de vida nunca desaparece. Só se move pra outra camada da plataforma.
 
 ## O que aprendi
 
-A coisa mais importante que os modelos de pricing nos deram não foi automação. Foi alavancagem.
+A coisa mais importante que o modelo de pricing deu pra gente não foi automação. Foi alavancagem.
 
-Um time só consegue discutir um certo número de decisões de pricing por trimestre. Um modelo é o que faz com que algumas opiniões honestas sobre valor, disposição a pagar e segmentação virem a base para milhares de decisões consistentes por dia. Bem feito, o modelo não substitui o julgamento humano. Ele carrega esse julgamento adiante em escala.
+Um time só consegue discutir um certo número de decisões de pricing por trimestre. Modelo é o que faz com que algumas opiniões honestas sobre valor, disposição a pagar e segmentação virem a base pra milhares de decisões consistentes por dia. Bem feito, o modelo não substitui julgamento humano. Carrega esse julgamento adiante em escala.
 
-Mal feito, ele carrega o julgamento errado adiante, na mesma escala. Modelos são alavancagem nas duas direções.
+Mal feito, carrega o julgamento errado adiante, na mesma escala. Modelo é alavancagem nas duas direções.
 
 ## Reflexão final
 
-Entender o comportamento do cliente foi difícil. Transformar esse entendimento em decisões consistentes foi mais difícil. Modelos de pricing ajudaram a fechar essa distância.
+Entender o comportamento do cliente foi difícil. Transformar esse entendimento em decisão consistente foi mais difícil ainda. Modelo de pricing ajudou a fechar essa distância.
 
-O alerta que eu daria a uma versão mais nova de mim é: seja honesto sobre quando um modelo está, de fato, ganho. Um time que ainda não teve a própria segmentação questionada, que ainda não foi forçado a escolher entre receita e retenção, que ainda não viu os próprios experimentos falharem de formas que doeram — esse time não tem nada para comprimir. Colocar um modelo em cima de um modelo mental que nunca foi testado não acelera decisões boas. Industrializa as suposições que por acaso estavam mais altas na sala.
+O alerta que eu daria a uma versão mais nova de mim é: seja honesto sobre quando o modelo já foi ganho. Um time que ainda não teve a própria segmentação questionada, que ainda não foi forçado a escolher entre receita e retenção, que ainda não viu os próprios experimentos falharem de formas que doeram — esse time não tem nada pra comprimir. Colocar um modelo em cima de um modelo mental que nunca foi testado não acelera decisão boa. Industrializa as suposições que por acaso estavam mais altas na sala.
 
-A pergunta interessante, então, não é quando um time está pronto para construir um modelo. É se o time já errou o suficiente para saber para *que* o modelo serve.
+A pergunta interessante, então, não é quando o time tá pronto pra construir um modelo. É se o time já errou o suficiente pra saber pra *que* o modelo serve.
