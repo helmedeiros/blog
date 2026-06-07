@@ -18,10 +18,10 @@
         <div class="blog-filters">
           <div class="filter-tabs">
             <button class="filter-tab active" data-filter="all">All</button>
-            <button class="filter-tab" data-filter="agile">Agile</button>
-            <button class="filter-tab" data-filter="development">Development</button>
+            <button class="filter-tab" data-filter="ai">AI</button>
             <button class="filter-tab" data-filter="leadership">Leadership</button>
             <button class="filter-tab" data-filter="architecture">Architecture</button>
+            <button class="filter-tab" data-filter="pricing">Monetization</button>
           </div>
 
           <div class="blog-controls">
@@ -40,14 +40,9 @@
                     <h3 class="filter-section-title">Category</h3>
                     <div class="filter-options">
                       <label class="filter-option">
-                        <input type="checkbox" value="agile" data-category="category">
+                        <input type="checkbox" value="ai" data-category="category">
                         <span class="checkmark"></span>
-                        Agile
-                      </label>
-                      <label class="filter-option">
-                        <input type="checkbox" value="development" data-category="category">
-                        <span class="checkmark"></span>
-                        Development
+                        AI
                       </label>
                       <label class="filter-option">
                         <input type="checkbox" value="leadership" data-category="category">
@@ -58,6 +53,21 @@
                         <input type="checkbox" value="architecture" data-category="category">
                         <span class="checkmark"></span>
                         Architecture
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="pricing" data-category="category">
+                        <span class="checkmark"></span>
+                        Monetization
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="agile" data-category="category">
+                        <span class="checkmark"></span>
+                        Agile
+                      </label>
+                      <label class="filter-option">
+                        <input type="checkbox" value="development" data-category="category">
+                        <span class="checkmark"></span>
+                        Development
                       </label>
                     </div>
                   </div>
@@ -418,10 +428,12 @@ document.addEventListener('DOMContentLoaded', function() {
     // Filter value to display name mapping
     const filterDisplayNames = {
       // Categories
-      'agile': 'Agile',
-      'development': 'Development',
+      'ai': 'AI',
       'leadership': 'Leadership',
       'architecture': 'Architecture',
+      'pricing': 'Monetization',
+      'agile': 'Agile',
+      'development': 'Development',
 
       // Topics
       'remote-first': 'Remote-First Work',
