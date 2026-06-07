@@ -1,0 +1,187 @@
+{{/* Series landing page.
+
+  Renders a content file under content/{lang}/series/{slug}.md as a
+  proper landing page: the series title and description from the
+  file's front matter, followed by an ordered list of every post in
+  the series sorted by `series_order`.
+
+  Posts surface their title, subtitle (when set), and date. The slug
+  is derived from the file's base name so this works for any series
+  that follows the same content/{lang}/series/{slug}.md convention.
+
+  Falls back to layouts/_default/single.html for everything else under
+  this section.
+*/}}
+
+{{ define "main" }}
+{{- $seriesSlug := .File.BaseFileName -}}
+{{- $seriesPages := where (where .Site.RegularPages "Section" "posts") "Params.series" "intersect" (slice $seriesSlug) -}}
+{{- $seriesPages = $seriesPages.ByParam "series_order" -}}
+{{- $isPT := eq .Language.Lang "pt" -}}
+{{- $heading := cond $isPT "Posts da série, em ordem" "Posts in this series, in order" -}}
+{{- $countLabel := cond $isPT (printf "%d posts no total" (len $seriesPages)) (printf "%d posts in total" (len $seriesPages)) -}}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <!-- Series landing header -->
+      <header class="series-landing-header">
+        <p class="series-landing-eyebrow"><i class="fas fa-stream"></i> {{ cond $isPT "Série" "Series" }}</p>
+        <h1 class="series-landing-title">{{ .Title }}</h1>
+        {{ with .Params.description }}
+          <p class="series-landing-description">{{ . }}</p>
+        {{ end }}
+        {{ if gt (len $seriesPages) 0 }}
+          <p class="series-landing-count">{{ $countLabel }}</p>
+        {{ end }}
+        {{ with .Content }}
+          <div class="series-landing-content">{{ . }}</div>
+        {{ end }}
+      </header>
+
+      <!-- Posts in this series, ordered by series_order -->
+      {{ if gt (len $seriesPages) 0 }}
+        <section class="series-landing-posts">
+          <h2 class="series-landing-posts-heading">{{ $heading }}</h2>
+          <ol class="series-landing-list">
+            {{- range $index, $post := $seriesPages }}
+              <li class="series-landing-item">
+                <a class="series-landing-post-link" href="{{ $post.RelPermalink }}">
+                  <span class="series-landing-post-meta">{{ $post.Date.Format "January 2, 2006" }}</span>
+                  <h3 class="series-landing-post-title">{{ $post.Title }}</h3>
+                  {{ with $post.Params.subtitle }}
+                    <p class="series-landing-post-subtitle">{{ . }}</p>
+                  {{ end }}
+                </a>
+              </li>
+            {{- end }}
+          </ol>
+        </section>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+
+<style>
+.series-landing-header {
+  margin: 2.5rem 0 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+.series-landing-eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #475569;
+  font-weight: 700;
+}
+.series-landing-eyebrow i {
+  margin-right: 0.35rem;
+}
+.series-landing-title {
+  margin: 0 0 0.75rem;
+  font-size: 2.5rem;
+  line-height: 1.15;
+  color: #0f172a;
+  font-weight: 800;
+}
+.series-landing-description {
+  margin: 0 0 0.75rem;
+  font-size: 1.125rem;
+  line-height: 1.55;
+  color: #334155;
+}
+.series-landing-count {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #64748b;
+  letter-spacing: 0.04em;
+}
+.series-landing-content {
+  margin-top: 1.5rem;
+  color: #1e293b;
+}
+.series-landing-posts {
+  margin: 0 0 3rem;
+}
+.series-landing-posts-heading {
+  margin: 0 0 1.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #1e293b;
+}
+.series-landing-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: series-counter;
+}
+.series-landing-item {
+  counter-increment: series-counter;
+  position: relative;
+  margin: 0 0 1rem;
+  padding: 1.25rem 1.5rem 1.25rem 4rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border-left: 4px solid #1f2937;
+  transition: background 0.15s ease;
+}
+.series-landing-item::before {
+  content: counter(series-counter);
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: #94a3b8;
+  width: 2rem;
+  text-align: center;
+  line-height: 1;
+}
+.series-landing-item:hover {
+  background: #f1f5f9;
+}
+.series-landing-post-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+.series-landing-post-link:hover {
+  text-decoration: none;
+}
+.series-landing-post-meta {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #64748b;
+  margin-bottom: 0.35rem;
+}
+.series-landing-post-title {
+  margin: 0 0 0.4rem;
+  font-size: 1.25rem;
+  line-height: 1.35;
+  color: #0f172a;
+  font-weight: 700;
+}
+.series-landing-post-link:hover .series-landing-post-title {
+  color: #1d4ed8;
+}
+.series-landing-post-subtitle {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #475569;
+}
+@media (max-width: 600px) {
+  .series-landing-title { font-size: 1.875rem; }
+  .series-landing-item { padding-left: 3.25rem; }
+  .series-landing-item::before { font-size: 1.25rem; left: 0.85rem; }
+}
+</style>
+{{ end }}
