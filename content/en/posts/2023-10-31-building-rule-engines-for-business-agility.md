@@ -275,6 +275,4 @@ That realization changed how we thought about ownership. It changed how we thoug
 
 Pricing was no longer behaving like a feature. It was behaving like a product.
 
-If you're about to introduce a rule engine into a working system, the question worth asking isn't *"which engine should we pick?"*. It's *"what business capability does our team need to keep owning twenty deploys from now, regardless of which engine sits underneath?"*
-
-The engine is replaceable. The capability is the boundary.
+Years later, I can't tell you whether Drools was the right pick. I can tell you that the layer we built on top of it is still doing its job — translating pricing decisions into a vocabulary the team owns, regardless of whatever sits beneath. That was the part that mattered. The engine was a detail. The boundary was the work.

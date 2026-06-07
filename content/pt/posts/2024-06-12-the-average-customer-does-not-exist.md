@@ -193,6 +193,6 @@ O cliente médio nunca existiu. E, quando paramos de otimizar por médias, come�
 
 O Business Rules Engine nos ensinou a expressar decisões de pricing. A experimentação nos ensinou a questioná-las. A segmentação nos ensinou que nem todo cliente experimenta valor da mesma forma.
 
-Se você está tentado a subir uma mudança de pricing com base no que o cliente *médio* quer, a pergunta que vale a pena fazer não é *"qual valor a gente deveria escolher?"*. É *"quem, especificamente, a gente está optando por não atender bem ao tratar todo mundo igual?"*
+Eu lembro do momento em que o time parou de chamar aquilo de segmentação e começou a chamar de "servir pessoas diferentes". A mudança de vocabulário parecia cosmética. Não era. Quando nomeamos quem a gente estava escolhendo *não* atender bem ao tratar todo mundo igual, o cliente médio não voltou mais. Todo gráfico que desenhamos depois tinha duas ou três linhas, porque todo gráfico em que acreditávamos tinha duas ou três linhas.
 
-A média é uma história sobre todos eles. Pricing tem que ser uma decisão sobre cada um deles.
+A média é um número que um sistema consegue produzir. Um cliente, não.

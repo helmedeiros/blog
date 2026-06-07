@@ -240,6 +240,6 @@ Eventually we stopped asking *how do we write pricing rules?* and started asking
 
 That question changed everything. It moved the conversation away from code and toward ownership, explainability, observability, governance, and the lifecycle of every rule the system carries.
 
-If you're staring at a pricing codebase today and feeling the urge to add another `if`, the question worth asking isn't *"is this rule correct?"*. It's *"if we add this, who will be able to find it, explain it, measure it, and eventually remove it?"*
+Every team I have worked with under-budgets the cost of a pricing rule at the moment it is added. The cost shows up later — in the engineer who has to explain a price during an incident, in the analyst who can't tell which experiment a rule belongs to, in the operations team that quietly works around a condition nobody is willing to remove. The bill arrives. It just arrives somewhere else.
 
-The rule isn't the cost. The system around the rule is.
+A good test of a pricing system, then, isn't how fast you can add a rule. It is how confidently you can delete one.

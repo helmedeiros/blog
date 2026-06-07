@@ -178,6 +178,6 @@ The more we learned about price sensitivity, the more visible the question under
 
 If different customer groups respond differently to price — and if those responses describe a shape, not a single point — then the pricing job isn't picking a value. It is picking a value *for a context*, and being honest about the curve underneath it.
 
-If you're tempted to ship a price increase because the average curve says it's safe, the question worth asking isn't *"how much can we raise this?"*. It's *"whose curve are we listening to, and whose curve are we ignoring?"*
+The teams I have seen ship the best pricing decisions did not have the most sophisticated curves. They had the most honest ones. They drew them small. They drew them often. They knew which segment each curve referred to. And they were willing to delete a curve that had stopped explaining anything.
 
-The number is the output. The curve is the work.
+That habit, more than any specific number, was the asset.
