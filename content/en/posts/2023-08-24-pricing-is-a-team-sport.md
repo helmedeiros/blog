@@ -12,6 +12,9 @@ tags:
   - engineering
   - experimentation
   - monetization
+series:
+  - pricing-platform
+series_order: 3
 description: "Why successful pricing decisions emerge from product, analytics, engineering, and business working together — not from any single discipline."
 subtitle: "Pricing lives in the intersection of product, analytics, engineering, and business."
 ---

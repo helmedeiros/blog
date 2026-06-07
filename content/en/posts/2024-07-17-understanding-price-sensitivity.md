@@ -13,6 +13,9 @@ tags:
   - monetization
   - customer-behavior
   - product-discovery
+series:
+  - pricing-platform
+series_order: 8
 description: "The goal was never finding the highest possible price. The goal was understanding how customer behaviour changes as price changes."
 subtitle: "Price sensitivity isn't a label. It's a relationship."
 ---

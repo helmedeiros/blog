@@ -12,6 +12,9 @@ tags:
   - product-engineering
   - monetization
   - rule-engines
+series:
+  - pricing-platform
+series_order: 2
 description: "Why a single markup never travels alone, and why changing a price is rarely just changing a number."
 subtitle: "Why changing a price is rarely just changing a number."
 ---

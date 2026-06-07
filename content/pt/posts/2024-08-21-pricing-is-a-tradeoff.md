@@ -13,6 +13,9 @@ tags:
   - monetizacao
   - experimentacao
   - estrategia-de-produto
+series:
+  - pricing-platform
+series_order: 9
 description: "Por que a pergunta mais difícil em pricing não é o que cobrar — é o que a gente tá disposto a sacrificar?"
 subtitle: "Pricing não é a arte de achar o maior preço. É a disciplina de escolher quais trade-offs importam."
 ---

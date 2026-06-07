@@ -13,6 +13,9 @@ tags:
   - elasticidade-de-preco
   - monetizacao
   - product-discovery
+series:
+  - pricing-platform
+series_order: 6
 description: "A coisa mais valiosa que a nossa plataforma de pricing produzia não eram preços. Era aprendizado."
 subtitle: "Uma regra de pricing não é decisão. É previsão. E previsão pode estar errada."
 ---

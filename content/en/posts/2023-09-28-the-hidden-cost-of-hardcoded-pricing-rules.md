@@ -11,6 +11,9 @@ tags:
   - technical-debt
   - monetization
   - software-architecture
+series:
+  - pricing-platform
+series_order: 4
 description: "Why hardcoded pricing rules feel responsible until they aren't, and what really pushes a team to ask for a rule engine."
 subtitle: "Hardcoded rules were never the real problem. They were a symptom."
 ---

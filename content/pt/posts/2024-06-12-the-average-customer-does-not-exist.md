@@ -13,6 +13,9 @@ tags:
   - product-discovery
   - elasticidade-de-preco
   - monetizacao
+series:
+  - pricing-platform
+series_order: 7
 description: "Por que persona ajudou a gente a entender cliente, mas dimensão de comportamento ajudou a entender pricing."
 subtitle: "O cliente médio não existe. Otimizar por ele é otimizar por ninguém."
 ---

@@ -13,6 +13,9 @@ tags:
   - monetizacao
   - tomada-de-decisao
   - estrategia-de-produto
+series:
+  - pricing-platform
+series_order: 10
 description: "Entender o comportamento do cliente não bastava. A gente precisava de um jeito de tomar decisão de pricing com consistência em escala."
 subtitle: "Um modelo não é mais esperto que o processo de aprendizado que produziu ele. Só torna esse aprendizado mais fácil de aplicar repetidamente."
 ---
