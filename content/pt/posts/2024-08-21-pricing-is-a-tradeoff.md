@@ -41,7 +41,7 @@ O que parece um problema de otimização vira rapidamente um malabarismo. O erro
 
 ## Receita versus conversão
 
-Esse é o primeiro trade-off que a maioria dos times de pricing encontra.
+Esse foi o primeiro trade-off com o qual a gente se deparou.
 
 Um preço mais alto frequentemente significa mais receita por transação. Ao mesmo tempo, pode reduzir conversão.
 
@@ -162,6 +162,6 @@ Essa percepção tornou a experimentação mais valiosa. Tornou a segmentação 
 
 Se você entrava em uma discussão de pricing esperando sair com um número, normalmente saía decepcionado. O número era a parte fácil. A parte difícil era nomear as restrições que tornavam aquele número defensável.
 
-Os times que lidavam melhor com trade-offs de pricing não eram os com os melhores modelos ou as opiniões mais fortes. Eram os times que tinham praticado a conversa. Que tinham tomado o mesmo tipo de decisão vezes o suficiente para conseguir discordar sobre ela sem levar para o lado pessoal. Que tinham uma noção compartilhada de quais sacrifícios a empresa de fato topava aceitar, e quais ela só fingia.
+O que a gente acabou ficando melhor em, quando ficou melhor em trade-offs de pricing, não era um modelo melhor nem uma opinião mais forte. Era prática. A gente tinha tomado o mesmo tipo de decisão vezes o suficiente para conseguir discordar sobre ela sem levar para o lado pessoal. A gente tinha uma noção compartilhada de quais sacrifícios a empresa de fato topava aceitar, e quais ela só fingia.
 
 Um trade-off que ninguém na sala consegue nomear não é uma decisão. É um desejo.

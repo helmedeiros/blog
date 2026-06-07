@@ -41,7 +41,7 @@ What looks like an optimisation problem quickly becomes a balancing act. The mis
 
 ## Revenue versus conversion
 
-This is the first tradeoff most pricing teams encounter.
+This was the first tradeoff we ran into.
 
 A higher price often means more revenue per transaction. At the same time, it may reduce conversion.
 
@@ -162,6 +162,6 @@ That realisation made experimentation more valuable. It made segmentation more u
 
 If you walked into a pricing discussion expecting to leave with a number, you usually left disappointed. The number was the easy part. The hard part was naming the constraints that made the number defensible.
 
-The teams that handled pricing tradeoffs best weren't the teams with the best models or the boldest opinions. They were the teams who had practised the conversation. Who had made the same kind of decision often enough that they could disagree about it without making it personal. Who had a shared sense of which sacrifices the company was actually willing to accept, and which ones it only pretended to.
+What we eventually got better at, when we got better at pricing tradeoffs, wasn't a better model or a bolder opinion. It was practice. We had made the same kind of decision often enough that we could disagree about it without making it personal. We had a shared sense of which sacrifices the company was actually willing to accept, and which ones it only pretended to.
 
 A tradeoff that nobody in the room can name isn't a decision. It's a wish.

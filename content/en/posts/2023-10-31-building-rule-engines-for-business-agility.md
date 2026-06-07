@@ -251,7 +251,7 @@ New engineers learned pricing concepts first. Not Drools internals first. The bo
 
 Every abstraction leaks eventually.
 
-Drools had powerful features. Sometimes teams wanted to use them directly. That created tension. Should the Business Rules Engine expose those capabilities, or should it remain independent?
+Drools had powerful features. Sometimes we wanted to reach for them directly. That created tension inside the team. Should the Business Rules Engine expose those capabilities, or should it remain independent?
 
 That struggle forced us to think carefully about which capabilities belonged to pricing and which belonged to Drools. The answer was usually unsatisfying in the moment and right in the long run: if a feature only made sense in Drools terms, it didn't belong on the BRE interface. If it expressed a business decision, it did.
 

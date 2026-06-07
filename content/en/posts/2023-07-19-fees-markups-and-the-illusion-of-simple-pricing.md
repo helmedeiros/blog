@@ -115,7 +115,7 @@ Then another exception appears. Then another experiment. Then another commercial
 
 This isn't bad engineering. It is business evolution expressed through software.
 
-## The four conversations every pricing team must have
+## The four conversations we kept needing to have
 
 The first weeks taught me that pricing work is not bottlenecked by code. It is bottlenecked by alignment.
 
@@ -126,7 +126,7 @@ The first weeks taught me that pricing work is not bottlenecked by code. It is b
 | Engineer | How can we implement this safely? |
 | Business stakeholder | What outcome are we expecting? |
 
-Good pricing teams learn to make these conversations happen continuously, not once per change. The change that skips a conversation is the change that surfaces as an incident two weeks later.
+We learned to make these conversations happen continuously, not once per change. The change that skipped one of them was the change that surfaced as an incident two weeks later.
 
 ## Building a pricing change safely
 

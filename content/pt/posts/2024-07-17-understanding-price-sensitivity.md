@@ -178,6 +178,6 @@ Quanto mais aprendíamos sobre sensibilidade a preço, mais visível ficava a pe
 
 Se grupos diferentes de clientes respondem a preço de forma diferente — e se essas respostas descrevem um formato, não um único ponto — então o trabalho de pricing não é escolher um valor. É escolher um valor *para um contexto*, e ser honesto sobre a curva por baixo dele.
 
-Os times que vi entregar as melhores decisões de pricing não tinham as curvas mais sofisticadas. Tinham as mais honestas. Desenhavam pequeno. Desenhavam com frequência. Sabiam a qual segmento cada curva se referia. E topavam apagar uma curva que tinha deixado de explicar alguma coisa.
+As melhores decisões de pricing que entregamos não vieram das curvas mais sofisticadas. Vieram das mais honestas. Desenhávamos pequeno. Desenhávamos com frequência. Sabíamos a qual segmento cada curva se referia. E topávamos apagar uma curva que tinha deixado de explicar alguma coisa.
 
 Esse hábito, mais do que qualquer número específico, era o ativo.

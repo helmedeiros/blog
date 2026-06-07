@@ -251,7 +251,7 @@ Engenheiros novos aprendiam conceitos de pricing primeiro. Não internals do Dro
 
 Toda abstração vaza eventualmente.
 
-Drools tinha features poderosas. Às vezes os times queriam usá-las diretamente. Isso criava tensão. O Business Rules Engine deveria expor essas capacidades, ou deveria permanecer independente?
+Drools tinha features poderosas. Às vezes a gente queria buscá-las direto. Isso criava tensão dentro do time. O Business Rules Engine deveria expor essas capacidades, ou deveria permanecer independente?
 
 Essa disputa nos forçou a pensar com cuidado sobre quais capacidades pertenciam a pricing e quais pertenciam ao Drools. A resposta normalmente era insatisfatória no momento e certa no longo prazo: se uma feature só fazia sentido em termos de Drools, ela não pertencia à interface da BRE. Se ela expressava uma decisão de negócio, pertencia.
 
