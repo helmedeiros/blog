@@ -13,81 +13,81 @@ tags:
   - business-rules-engine
   - monetizacao
   - platform-engineering
-description: "Por que construímos um Business Rules Engine sobre Drools em vez de acoplar a plataforma de pricing diretamente a uma implementação de motor de regras."
-subtitle: "Tecnologias mudam. Capacidades de negócio sobrevivem por muito mais tempo."
+description: "Por que a gente construiu um Business Rules Engine em cima do Drools em vez de acoplar a plataforma de pricing direto numa implementação de motor de regras."
+subtitle: "Tecnologia muda. Capacidade de negócio sobrevive por muito mais tempo."
 ---
 
-Quando começamos a discutir motores de regras, os sintomas já vinham aparecendo havia algum tempo.
+Quando a gente começou a discutir motor de regras, os sintomas já vinham aparecendo havia um tempo.
 
-Regras de pricing estavam se acumulando entre os serviços. Cada mercado precisava de uma exceção. Cada parceiro precisava de um ajuste. Cada experimento deixava para trás código que ninguém sabia ao certo como remover. A lógica de pricing virou o único lugar onde partes do negócio eram lembradas, e "explicar um preço" começava a exigir uma reunião.
+Regra de pricing estava se acumulando entre os serviços. Cada mercado precisava de uma exceção. Cada parceiro precisava de um ajuste. Cada experimento deixava pra trás código que ninguém sabia ao certo como remover. A lógica de pricing tinha virado o único lugar onde partes do negócio eram lembradas, e "explicar um preço" começava a exigir uma reunião.
 
-Um motor de regras era o próximo passo óbvio. Antes de chegar em qual escolhemos, vale desacelerar no que um motor de regras é de fato, onde times usam e o que ele entrega quando você coloca um em pé.
+Um motor de regras era o próximo passo óbvio. Antes de chegar em qual a gente escolheu, vale desacelerar pra olhar o que é um motor de regras, onde ele é usado e o que ele entrega quando você bota um em pé.
 
-## O que um motor de regras é, de fato
+## O que é um motor de regras, no fundo
 
-Um motor de regras é um software cujo único trabalho é avaliar decisões descritas como regras. As regras vivem separadas da aplicação que as usa. O motor recebe uma entrada — uma requisição, uma transação, uma sessão — roda as regras relevantes contra ela e devolve uma resposta.
+Um motor de regras é um software cujo único trabalho é avaliar decisões descritas como regras. As regras vivem separadas da aplicação que usa elas. O motor recebe uma entrada — uma requisição, uma transação, uma sessão — roda as regras relevantes contra ela e devolve uma resposta.
 
-O nome clássico dessa categoria é *business rules management system* (BRMS). O termo vem dos anos 90, quando empresas perceberam que as decisões de política enterradas dentro de aplicações enterprise mudavam mais rápido do que as próprias aplicações.
+O nome clássico dessa categoria é *business rules management system* (BRMS). O termo vem dos anos 90, quando empresas perceberam que as decisões de política enterradas dentro de aplicação enterprise mudavam mais rápido que a própria aplicação.
 
 Três propriedades definem um motor de regras, em qualquer época e em qualquer stack:
 
-- Regras são **declaradas**, não hardcoded.
-- Regras são **avaliadas por um runtime separado do código chamador**.
-- Regras podem ser **adicionadas, modificadas e removidas sem reescrever a aplicação**.
+- Regra é **declarada**, não hardcoded.
+- Regra é **avaliada por um runtime separado do código chamador**.
+- Regra pode ser **adicionada, modificada e removida sem reescrever a aplicação**.
 
-A última é a propriedade que importa. O resto é encanamento a serviço dela.
+A última é a que importa. O resto é encanamento a serviço dela.
 
-## Onde motores de regras aparecem
+## Onde motor de regras aparece
 
-Pricing não é caso especial. Onde quer que uma decisão precise evoluir mais rápido do que o software ao redor dela, aparece um motor de regras:
+Pricing não é caso especial. Onde quer que uma decisão precise mudar mais rápido que o software ao redor dela, aparece motor de regras:
 
-- **Detecção de fraude** — declarar o que conta como suspeito; ajustar limiares sem redeploy.
-- **Crédito e empréstimo** — codificar política de aprovação/recusa em um lugar auditável.
-- **Subscrição de seguros** — aplicar regras de risco em vários produtos sem copy-paste de código por produto.
-- **Compliance e regulação** — manter restrições estatutárias em um lugar que auditores conseguem ler.
-- **Moderação de conteúdo** — expressar políticas de moderação que mudam conforme normas e regulações mudam.
-- **Roteamento de workflow** — decidir para onde um caso, um ticket ou um documento vai a seguir.
-- **Personalização** — expressar regras de segmento ao lado de scoring baseado em modelo.
+- **Detecção de fraude** — declarar o que conta como suspeito; ajustar limiar sem redeploy.
+- **Crédito e empréstimo** — codificar política de aprovação/recusa num lugar auditável.
+- **Subscrição de seguros** — aplicar regra de risco em vários produtos sem copy-paste de código por produto.
+- **Compliance e regulação** — manter restrição estatutária num lugar que auditor consegue ler.
+- **Moderação de conteúdo** — expressar política de moderação que muda conforme norma e regulação mudam.
+- **Roteamento de workflow** — decidir pra onde um caso, ticket ou documento vai depois.
+- **Personalização** — expressar regra de segmento ao lado de scoring baseado em modelo.
 
-O padrão se repete. Uma política de negócio precisa mudar mais rápido do que o sistema ao redor permite com facilidade. Um motor de regras tira a política da aplicação e a coloca em um lugar que o negócio consegue alcançar de verdade.
+O padrão se repete. Uma política de negócio precisa mudar mais rápido do que o sistema ao redor permite com facilidade. Um motor de regras tira a política da aplicação e bota num lugar que o negócio consegue alcançar de verdade.
 
-## Por que um time recorre a um
+## Por que o time recorre a um
 
-Os motivos pelos quais times adotam um motor de regras raramente são teóricos. Eles aparecem como atrito no dia a dia:
+Os motivos pelos quais o time adota um motor de regras raramente são teóricos. Aparecem como atrito no dia a dia:
 
-- Stakeholders de negócio querem uma mudança que um engenheiro precisa fazer deploy.
+- Stakeholder de negócio quer uma mudança que o engenheiro precisa fazer deploy.
 - Ninguém consegue explicar por que uma decisão específica saiu do jeito que saiu.
 - Um experimento exige uma mudança de regra, mas mudar a regra significa rodar o pipeline de release do serviço inteiro.
 - Uma política expirou, mas ninguém sabe ao certo onde ela mora.
-- Dois times ficam se atropelando porque as regras deles tocam no mesmo código.
+- Dois times vivem se atropelando porque as regras deles tocam no mesmo código.
 
-Um motor de regras não faz esses problemas desaparecerem. Ele os move para um lugar onde o time consegue resolver sem passar pelo ciclo de release da aplicação.
+Motor de regras não faz esses problemas sumirem. Move pra um lugar onde o time consegue resolver sem passar pelo ciclo de release da aplicação.
 
 ## O que um bom motor de regras te entrega
 
-Quando está funcionando, um motor de regras entrega ao time algumas capacidades específicas:
+Quando tá funcionando, um motor de regras entrega ao time algumas capacidades específicas:
 
 | Capacidade | O que possibilita |
 | --- | --- |
 | Regras externalizadas | Mudar política sem redeploy do serviço consumidor |
-| Formato declarativo | Ler regras como política, não como fluxo de controle |
-| Resolução de conflito | Decidir prioridade e overrides entre regras de forma consistente |
+| Formato declarativo | Ler regra como política, não como fluxo de controle |
+| Resolução de conflito | Decidir prioridade e override entre regras de forma consistente |
 | Simulação | Rejogar tráfego histórico contra um conjunto de regras candidato |
 | Explicabilidade | Rastrear por que uma decisão específica saiu do jeito que saiu |
-| Ciclo de vida | Versionar, depreciar e aposentar regras de forma deliberada |
+| Ciclo de vida | Versionar, depreciar e aposentar regra de forma deliberada |
 | Trilha de auditoria | Mostrar quem mudou qual regra e quando |
 
-"Avaliação rápida" não está no topo da lista. Performance importa, mas raramente é o motivo pelo qual times adotam um motor de regras. Os motivos são governança e ritmo de mudança. O runtime é o meio, não o fim.
+"Avaliação rápida" não tá no topo da lista. Performance importa, mas raramente é o motivo pelo qual o time adota um motor de regras. Os motivos são governança e ritmo de mudança. O runtime é o meio, não o fim.
 
-## Por que um motor de regras era o próximo passo para a gente
+## Por que motor de regras era o próximo passo pra gente
 
-Os padrões acima não eram hipotéticos para nosso time. Eram nossos tickets abertos.
+Os padrões aí em cima não eram hipóteses pro nosso time. Eram nossos tickets abertos.
 
-Stakeholders esperando deploy. Experimentos travados atrás de pipelines de release. Ninguém conseguia responder rápido por que um markup específico tinha sido aplicado. Algumas regras tinham expirado mas continuavam no código, intocadas porque remover parecia mais arriscado do que manter. Dois times tinham começado a adicionar lógica de pricing em lugares que tocavam nos mesmos pedaços de código.
+Stakeholder esperando deploy. Experimento travado atrás de pipeline de release. Ninguém conseguia responder rápido por que um markup específico tinha sido aplicado. Algumas regras tinham expirado mas continuavam no código, intocadas porque remover parecia mais arriscado que manter. Dois times tinham começado a adicionar lógica de pricing em lugares que tocavam nos mesmos pedaços de código.
 
 Cada um desses era um problema de governança disfarçado de problema de engenharia.
 
-Teria sido fácil ler isso como "precisamos de um motor de regras" e parar por aí:
+Teria sido fácil ler isso como "a gente precisa de um motor de regras" e parar por aí:
 
 {{< plantuml title="A versão mais curta da história" >}}
 @startuml
@@ -99,7 +99,7 @@ stop
 @enduml
 {{< /plantuml >}}
 
-Essa leitura é incompleta. A cadeia real era mais parecida com isto:
+Essa leitura é incompleta. A cadeia real era mais parecida com isso aqui:
 
 {{< plantuml title="A cadeia real: avaliação de regras era só o último elo" >}}
 @startuml
@@ -115,22 +115,22 @@ stop
 @enduml
 {{< /plantuml >}}
 
-O negócio não pedia um motor de regras no abstrato. O negócio pedia velocidade. O motor de regras era o meio.
+O negócio não pedia motor de regras no abstrato. O negócio pedia velocidade. O motor de regras era o meio.
 
-Então, quando começamos a avaliar implementações, os critérios vinham da cadeia — não só "consegue rodar regras rápido?", mas "ele ajuda a gente a evoluir essas regras com honestidade?".
+Então, quando a gente começou a avaliar implementações, os critérios vinham da cadeia — não só "consegue rodar regra rápido?", mas "ele ajuda a gente a evoluir essas regras com honestidade?".
 
 ## Drools como nossa escolha de implementação
 
-Quando avaliamos opções, Drools se destacou rapidamente.
+Quando a gente avaliou as opções, Drools se destacou rapidamente.
 
 | Capacidade | Por que importava |
 | --- | --- |
 | Ecossistema maduro | Reduzia risco de implementação |
-| Avaliação complexa de regras | Suportava cenários reais de pricing |
-| Agenda management | Ajudava com resolução de conflitos entre regras |
-| Performance | Adequado para decisões em tempo de busca |
+| Avaliação complexa de regras | Suportava cenário real de pricing |
+| Agenda management | Ajudava com resolução de conflito entre regras |
+| Performance | Adequado pra decisão em tempo de busca |
 | Open source | Evitava lock-in comercial |
-| Expertise existente no mercado | Contratação e onboarding mais fáceis |
+| Expertise no mercado | Contratação e onboarding mais fáceis |
 
 Por um tempo, a arquitetura parecia direta.
 
@@ -146,19 +146,19 @@ P --> D
 @enduml
 {{< /plantuml >}}
 
-Quanto mais discutíamos, menos confortáveis ficávamos.
+Quanto mais a gente discutia, menos confortáveis a gente ficava.
 
 ## O risco de deixar Drools virar o próximo monólito
 
-Drools era uma escolha de tecnologia. Pricing era uma capacidade de negócio.
+Drools era escolha de tecnologia. Pricing era capacidade de negócio.
 
-Essas duas coisas têm tempos de vida muito diferentes. Tecnologias mudam. Capacidades de negócio tendem a sobreviver por muito mais tempo.
+Essas duas coisas têm tempos de vida bem diferentes. Tecnologia muda. Capacidade de negócio costuma sobreviver por muito mais tempo.
 
-Uma pergunta aparecia direto nas nossas revisões: *e se o motor de regras virar o próximo monólito?* Se a plataforma de pricing dependesse diretamente do Drools, toda decisão futura sobre pricing carregaria uma suposição sobre Drools. Todo teste precisaria de uma sessão do Drools. Todo onboarding começaria por conceitos do Drools. Toda migração seria uma reescrita acoplada.
+Uma pergunta aparecia direto nas nossas revisões: *e se o motor de regras virar o próximo monólito?* Se a plataforma de pricing dependesse direto do Drools, toda decisão futura sobre pricing ia carregar uma suposição sobre Drools. Todo teste ia precisar de uma sessão do Drools. Todo onboarding ia começar por conceito do Drools. Toda migração ia ser uma reescrita acoplada.
 
-Não estávamos preocupados com Drools falhar como produto. Estávamos preocupados com Drools dar certo como dependência.
+A gente não tava preocupado com Drools falhar como produto. Tava preocupado com Drools dar certo como dependência.
 
-A gente não tinha um contra-desenho pronto na época. Só sabíamos o suficiente para continuar fazendo a pergunta. A plataforma de pricing não deveria depender diretamente do Drools. Deveria depender de uma abstração que fosse nossa.
+A gente não tinha um contra-desenho pronto na época. Só sabia o suficiente pra continuar fazendo a pergunta. A plataforma de pricing não devia depender direto do Drools. Devia depender de uma abstração que fosse nossa.
 
 {{< plantuml title="A arquitetura que entregamos no lugar" >}}
 @startuml
@@ -178,9 +178,9 @@ Essa camada do meio é o que tornou o resto da história possível. Não era um 
 
 ## Apresentando o Business Rules Engine
 
-Em vez de expor Drools diretamente para o resto da plataforma de pricing, criamos uma camada interna que chamamos de Business Rules Engine.
+Em vez de expor Drools direto pro resto da plataforma de pricing, a gente criou uma camada interna que chamou de Business Rules Engine.
 
-O objetivo era simples. A plataforma de pricing deveria pedir decisões. Ela não deveria se importar com como aquelas decisões eram avaliadas.
+O objetivo era simples. A plataforma de pricing devia pedir decisão. Não devia se importar com como aquelas decisões eram avaliadas.
 
 ```java
 RuleRequest request =
@@ -195,13 +195,13 @@ RuleResult result =
     businessRulesEngine.evaluate(request);
 ```
 
-Repare no que está faltando. Nenhuma API do Drools. Nenhuma sessão do Drools. Nenhum conceito específico do Drools vazando para o código de pricing.
+Repara no que tá faltando. Nenhuma API do Drools. Nenhuma sessão do Drools. Nenhum conceito específico do Drools vazando pro código de pricing.
 
-A assinatura de `evaluate` é a assinatura da capacidade de negócio. O que quer que coloquemos por baixo precisa honrá-la.
+A assinatura de `evaluate` é a assinatura da capacidade de negócio. O que a gente colocar embaixo precisa honrar.
 
-## Regras viraram ativos de negócio
+## Regra virou ativo de negócio
 
-Uma consequência inesperada da abstração foi que as regras pararam de parecer código. Elas passaram a parecer ativos de negócio.
+Uma consequência inesperada da abstração foi que as regras pararam de parecer código. Passaram a parecer ativo de negócio.
 
 ```yaml
 id: short_lead_time_markup
@@ -212,19 +212,19 @@ status: experiment
 expires_at: 2024-01-31
 ```
 
-Em vez de perguntar onde estava o código, as pessoas começaram a perguntar quem era dono da regra e por que ela existia. Essa mudança de pergunta é justamente o propósito da fronteira.
+Em vez de perguntar onde tava o código, as pessoas começaram a perguntar quem era dono da regra e por que ela existia. Essa mudança de pergunta é justamente o propósito da fronteira.
 
 ## Os benefícios inesperados
 
-Quando a abstração se sustentou, quatro benefícios apareceram que não tínhamos desenhado.
+Quando a abstração se sustentou, quatro benefícios apareceram que a gente não tinha desenhado.
 
 ### Testes melhores
 
-A plataforma de pricing podia ser testada sem subir uma sessão do Drools. Os testes conversavam com a interface do Business Rules Engine e mocavam o motor por baixo. Testes unitários ficaram rápidos. Testes de integração ficaram honestos.
+A plataforma de pricing podia ser testada sem subir uma sessão do Drools. Os testes conversavam com a interface do Business Rules Engine e mocavam o motor por baixo. Teste unitário ficou rápido. Teste de integração ficou honesto.
 
 ### Simulações mais fáceis
 
-Como o motor aceitava requisições independentes de qualquer fluxo de produto, podíamos rejogar histórico através dele.
+Como o motor aceitava requisição independente de qualquer fluxo de produto, a gente podia rejogar histórico por ele.
 
 {{< plantuml title="Simulando impacto em receita sem fechar nenhuma compra" >}}
 @startuml
@@ -237,42 +237,42 @@ stop
 @enduml
 {{< /plantuml >}}
 
-Manda as buscas dos últimos 30 dias para a BRE com uma regra candidata ativa, compara as saídas contra o baseline, e você tem uma estimativa crível de impacto sem expor um único cliente.
+Manda as buscas dos últimos 30 dias pra BRE com uma regra candidata ativa, compara as saídas contra o baseline, e tá feita uma estimativa crível de impacto sem expor um único cliente.
 
 ### Mudanças futuras mais seguras
 
-Substituir o motor por baixo passou a ser possível. Não fácil. Mas possível. Só isso já valeria o custo da fronteira, porque todo motor que avaliamos tinha um roadmap que não controlávamos.
+Substituir o motor por baixo passou a ser possível. Não fácil. Mas possível. Só isso já valia o custo da fronteira, porque todo motor que a gente avaliou tinha um roadmap que a gente não controlava.
 
 ### Onboarding mais rápido
 
-Engenheiros novos aprendiam conceitos de pricing primeiro. Não internals do Drools primeiro. A fronteira era uma ferramenta pedagógica tanto quanto uma técnica.
+Engenheiro novo aprendia conceito de pricing primeiro. Não internals do Drools primeiro. A fronteira era ferramenta pedagógica tanto quanto técnica.
 
-## O vazamento de abstração contra o qual lutamos sempre
+## O vazamento de abstração contra o qual a gente lutou sempre
 
-Toda abstração vaza eventualmente.
+Toda abstração vaza com o tempo.
 
-Drools tinha features poderosas. Às vezes a gente queria buscá-las direto. Isso criava tensão dentro do time. O Business Rules Engine deveria expor essas capacidades, ou deveria permanecer independente?
+Drools tinha features poderosas. Às vezes a gente queria buscar elas direto. Isso criava tensão dentro do time. O Business Rules Engine devia expor essas capacidades, ou devia permanecer independente?
 
-Essa disputa nos forçou a pensar com cuidado sobre quais capacidades pertenciam a pricing e quais pertenciam ao Drools. A resposta normalmente era insatisfatória no momento e certa no longo prazo: se uma feature só fazia sentido em termos de Drools, ela não pertencia à interface da BRE. Se ela expressava uma decisão de negócio, pertencia.
+Essa disputa forçou a gente a pensar com cuidado sobre quais capacidades eram de pricing e quais eram do Drools. A resposta normalmente era insatisfatória no momento e certa no longo prazo: se uma feature só fazia sentido em termos de Drools, ela não pertencia à interface da BRE. Se ela expressava uma decisão de negócio, pertencia.
 
-A fronteira se sustentou porque continuamos defendendo.
+A fronteira se sustentou porque a gente continuou defendendo.
 
 ## O que aprendi
 
-Olhando para trás, Drools não foi a decisão que envelheceu melhor. A decisão que envelheceu melhor foi nos recusarmos a deixar a plataforma de pricing depender diretamente dele.
+Olhando pra trás, Drools não foi a decisão que envelheceu melhor. A decisão que envelheceu melhor foi a gente ter se recusado a deixar a plataforma de pricing depender direto dele.
 
-Tecnologias mudam. Capacidades de negócio sobrevivem por muito mais tempo.
+Tecnologia muda. Capacidade de negócio sobrevive por muito mais tempo.
 
-O Business Rules Engine nos permitiu focar em decisões de pricing em vez de detalhes de implementação. Ele criou uma fronteira estável. E fronteiras estáveis costumam ser mais valiosas do que tecnologias perfeitas.
+O Business Rules Engine deixou a gente focar em decisão de pricing em vez de detalhe de implementação. Criou uma fronteira estável. E fronteira estável costuma valer mais do que tecnologia perfeita.
 
 ## Reflexão final
 
-Eventualmente percebemos que não estávamos mais construindo features de pricing. Estávamos construindo capacidades de pricing.
+Em algum momento, a gente percebeu que não estava mais construindo feature de pricing. Tava construindo capacidade de pricing.
 
-Regras podiam ser criadas. Regras podiam ser simuladas. Regras podiam ser explicadas. Regras podiam ser medidas. Regras podiam ser aposentadas.
+Regra podia ser criada. Regra podia ser simulada. Regra podia ser explicada. Regra podia ser medida. Regra podia ser aposentada.
 
-Essa percepção mudou como pensávamos em ownership. Mudou como pensávamos em experimentação. E mudou como pensávamos sobre o próprio pricing.
+Essa percepção mudou como a gente pensava em ownership. Mudou como a gente pensava em experimentação. E mudou como a gente pensava sobre o próprio pricing.
 
-Pricing não estava mais se comportando como uma feature. Estava se comportando como um produto.
+Pricing já não tava se comportando como feature. Tava se comportando como produto.
 
-Anos depois, eu não consigo te dizer se Drools foi a escolha certa. Posso te dizer que a camada que construímos por cima dele continua fazendo o trabalho — traduzindo decisões de pricing para um vocabulário do qual o time é dono, independente do que estiver embaixo. Essa foi a parte que importou. O motor era um detalhe. A fronteira era o trabalho.
+Anos depois, eu não consigo te dizer se Drools foi a escolha certa. Posso te dizer que a camada que a gente construiu por cima dele continua fazendo o trabalho — traduzindo decisão de pricing pra um vocabulário do qual o time é dono, independente do que estiver embaixo. Essa foi a parte que importou. O motor era detalhe. A fronteira era o trabalho.
