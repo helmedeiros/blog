@@ -14,76 +14,76 @@ tags:
   - monetizacao
   - product-discovery
 description: "A coisa mais valiosa que a nossa plataforma de pricing produzia não eram preços. Era aprendizado."
-subtitle: "Uma regra de pricing não é uma decisão. É uma previsão. E previsões podem estar erradas."
+subtitle: "Uma regra de pricing não é decisão. É previsão. E previsão pode estar errada."
 ---
 
-O Business Rules Engine nos deu a capacidade de mudar pricing com segurança.
+O Business Rules Engine deu pra gente a capacidade de mudar pricing com segurança.
 
-Ele não respondia a pergunta com a qual mais nos importávamos.
+Não respondia a pergunta com a qual a gente mais se importava.
 
-*A mudança foi de fato boa?*
+*A mudança foi boa mesmo?*
 
-Por um tempo, tratávamos regras de pricing como decisões. Aumentar um markup. Ajustar uma fee. Introduzir uma nova condição. Subir. Seguir em frente.
+Por um tempo, a gente tratava regra de pricing como decisão. Aumentar um markup. Ajustar uma fee. Introduzir uma condição nova. Subir. Seguir adiante.
 
-Quanto mais tempo passávamos em pricing, mais percebíamos que esse jeito de pensar era incompleto.
+Quanto mais tempo passava em pricing, mais ia caindo a ficha de que esse jeito de pensar era incompleto.
 
-Uma regra de pricing não é uma decisão.
+Regra de pricing não é decisão.
 
-Uma regra de pricing é uma hipótese.
+Regra de pricing é hipótese.
 
-Essa distinção parece sutil. Acabou mudando como pensávamos sobre pricing, experimentação, analytics e desenvolvimento de produto.
+A diferença parece sutil. Mudou como a gente pensava sobre pricing, experimentação, analytics e desenvolvimento de produto.
 
 ## A ilusão de certeza
 
 Considere uma mudança simples de pricing.
 
-> Aumentar a service fee de 5% para 6%.
+> Aumentar a service fee de 5% pra 6%.
 
-À primeira vista, parece uma decisão. Mas escondida dentro daquela frase tem uma suposição:
+À primeira vista, parece decisão. Mas escondida dentro daquela frase tem uma suposição:
 
-> Acreditamos que aumentar a service fee de 5% para 6% vai aumentar a receita sem reduzir conversão de forma significativa.
+> A gente acredita que aumentar a service fee de 5% pra 6% vai aumentar a receita sem reduzir conversão de forma significativa.
 
-Isso não é uma decisão. É uma previsão. E previsões podem estar erradas.
+Isso não é decisão. É previsão. E previsão pode estar errada.
 
-Uma das lições mais úteis que aprendi em pricing é que sistemas de receita estão cheios de suposições disfarçadas de certeza. Supomos que o cliente vai tolerar uma fee. Supomos que um markup não vai afetar a demanda. Supomos que um mercado se comporta de forma parecida com outro. Supomos que clientes percebem algumas mudanças e ignoram outras.
+Uma das lições mais úteis que aprendi em pricing é que sistema de receita tá cheio de suposição disfarçada de certeza. A gente supõe que o cliente vai tolerar uma fee. Supõe que um markup não vai afetar a demanda. Supõe que um mercado se comporta parecido com outro. Supõe que cliente percebe algumas mudanças e ignora outras.
 
-Suposições só viram conhecimento quando a gente testa.
+Suposição só vira conhecimento quando a gente testa.
 
-## Paramos de discutir porcentagens
+## A gente parou de discutir porcentagem
 
-Conversas iniciais de pricing costumavam soar assim:
+Conversa inicial de pricing costumava soar assim:
 
-> Esse markup deveria ser 3% ou 4%?
+> Esse markup devia ser 3% ou 4%?
 >
-> Devemos aumentar o teto da service fee?
+> A gente devia aumentar o teto da service fee?
 
-Essas conversas estavam focadas em outputs. Com o tempo, começamos a fazer perguntas diferentes:
+Essas conversas estavam focadas em output. Com o tempo, a gente passou a fazer perguntas diferentes:
 
-> O que estamos tentando aprender?
+> O que a gente tá tentando aprender?
 >
-> Qual comportamento do cliente esperamos mudar?
+> Qual comportamento do cliente a gente espera mudar?
 >
-> O que nos faria acreditar que essa ideia está errada?
+> O que faria a gente acreditar que essa ideia tá errada?
 
-A conversa saiu de configuração para descoberta. Essa mudança de mentalidade acabou sendo mais importante do que qualquer modelo de pricing que construímos depois.
+A conversa saiu de configuração e foi pra descoberta. Essa mudança de mentalidade acabou sendo mais importante do que qualquer modelo de pricing que a gente construiu depois.
 
 ## Por que o Business Rules Engine não bastava
 
-O Business Rules Engine resolvia muitos problemas. Ele dava ownership. Dava explicabilidade. Dava uma forma de separar capacidades de pricing da implementação do motor de regras por baixo.
+O Business Rules Engine resolvia muita coisa. Dava ownership. Dava explicabilidade. Dava uma forma de separar capacidade de pricing da implementação do motor de regras por baixo.
 
-Mas ele não gerava aprendizado.
+Mas não gerava aprendizado.
 
-A BRE avaliava uma regra. Ela não dizia se a regra devia existir. Para isso, era preciso outra coisa. Era preciso experimentação.
+A BRE avaliava uma regra. Não dizia se a regra devia existir. Pra isso, era preciso outra coisa. Era preciso experimentação.
 
-Começamos a construir as capacidades ao redor para conseguir aprender com decisões de pricing — sistemas de atribuição, tracking de experimentos, coleta de dados de comportamento, pipelines analíticos.
+A gente começou a construir as capacidades ao redor pra conseguir aprender com decisão de pricing — sistema de atribuição, tracking de experimento, coleta de dado de comportamento, pipeline analítica.
 
-Não porque queríamos mais infraestrutura. Porque queríamos respostas melhores.
+Não porque a gente queria mais infraestrutura. Porque queria resposta melhor.
 
 ## A/B testing e elasticidade de preço são problemas diferentes
 
 Uma lição que me surpreendeu foi a frequência com que se usa *A/B testing* e *elasticidade de preço* como se fossem a mesma coisa.
 
-Elas são relacionadas. Respondem perguntas diferentes.
+São relacionadas. Respondem perguntas diferentes.
 
 | | A/B testing | Elasticidade de preço |
 | --- | --- | --- |
@@ -91,29 +91,29 @@ Elas são relacionadas. Respondem perguntas diferentes.
 | Setup | Dois variantes (ex.: 5% vs 6%) | Vários pontos (0%, 3%, 6%, 9%, …) |
 | Pergunta | Qual performa melhor? | Como o comportamento do cliente muda quando o preço muda? |
 | Resultado | Escolher um vencedor | Aprender o formato da curva de resposta |
-| Melhor para | Escolher | Entender |
+| Melhor pra | Escolher | Entender |
 
-Uma é sobre escolher. A outra é sobre entender. A distinção importa porque entender o comportamento do cliente costuma ser mais valioso do que escolher entre dois variantes.
+Uma é pra escolher. A outra é pra entender. A diferença importa porque entender comportamento do cliente costuma valer mais do que escolher entre dois variantes.
 
-## Paramos de testar vencedores e começamos a aprender curvas
+## A gente parou de testar vencedor e começou a aprender curva
 
 Essa foi uma das maiores transições da nossa jornada de pricing.
 
-Os nossos primeiros experimentos eram quase todos comparações: A versus B. Em algum momento, começamos a rodar experimentos desenhados para revelar a sensibilidade do cliente ao preço.
+Os primeiros experimentos eram quase todos comparação: A versus B. Em algum momento, a gente começou a rodar experimento desenhado pra revelar sensibilidade do cliente ao preço.
 
-Em vez de perguntar *"qual variante vence?"*, perguntávamos *"em que ponto o comportamento do cliente começa a mudar?"*
+Em vez de perguntar *"qual variante vence?"*, a gente perguntava *"em que ponto o comportamento do cliente começa a mudar?"*
 
-Essa pergunta abriu a porta para uma classe completamente diferente de insights. Descobrimos que nem todos os clientes reagem a mudanças de pricing da mesma forma. Alguns grupos eram altamente sensíveis. Outros mal reagiam. Mudanças que pareciam perigosas se revelavam com impacto quase nenhum. Outras que pareciam inofensivas produziam mudanças significativas de comportamento.
+Essa pergunta abriu a porta pra uma classe completamente diferente de insight. A gente descobriu que nem todo cliente reage a mudança de pricing da mesma forma. Alguns grupos eram muito sensíveis. Outros mal reagiam. Mudança que parecia perigosa se revelava com impacto quase nenhum. Outra que parecia inofensiva produzia mudança significativa de comportamento.
 
-Essas descobertas não viriam de um único A/B test. Elas exigiam experimentação desenhada para aprender, não para validar.
+Esses achados não viriam de um A/B test só. Exigiam experimentação desenhada pra aprender, não pra validar.
 
-## O problema de atribuição em experimentos
+## O problema de atribuição em experimento
 
-Quando regras de pricing viram hipóteses, outro desafio aparece.
+Quando regra de pricing vira hipótese, outro desafio aparece.
 
 *Quem deveria ver qual versão?*
 
-Todo experimento precisa de um mecanismo que atribua clientes de forma consistente:
+Todo experimento precisa de um mecanismo que atribua cliente de forma consistente:
 
 {{< plantuml title="Sem atribuição consistente, resultado de experimento é ruído" >}}
 @startuml
@@ -127,9 +127,9 @@ stop
 @enduml
 {{< /plantuml >}}
 
-Sem atribuição confiável, experimentos ficam impossíveis de interpretar. Se clientes pulam aleatoriamente entre variantes, a medição vira ruído. Se as atribuições têm viés, os resultados enganam.
+Sem atribuição confiável, experimento fica impossível de interpretar. Se cliente pula aleatoriamente entre variantes, a medição vira ruído. Se a atribuição tem viés, o resultado engana.
 
-O desafio técnico de atribuição raramente é discutido fora dos times de experimentação, mas é uma das fundações que torna o aprendizado possível.
+O desafio técnico de atribuição raramente é discutido fora do time de experimentação, mas é uma das fundações que torna o aprendizado possível.
 
 A regra em si é só metade do experimento. A estratégia de atribuição é a outra metade.
 
@@ -137,7 +137,7 @@ A regra em si é só metade do experimento. A estratégia de atribuição é a o
 
 Um dos erros mais fáceis em pricing é otimizar só por receita.
 
-Receita importa. Mas receita raramente conta a história toda. Uma mudança de pricing pode aumentar receita ao mesmo tempo em que prejudica conversão. Pode aumentar receita ao mesmo tempo em que reduz satisfação do cliente. Pode melhorar um mercado e prejudicar outro. Pode criar ganhos de curto prazo e perdas de longo prazo.
+Receita importa. Mas raramente conta a história toda. Uma mudança de pricing pode aumentar receita ao mesmo tempo em que prejudica conversão. Pode aumentar receita ao mesmo tempo em que reduz satisfação do cliente. Pode melhorar um mercado e prejudicar outro. Pode criar ganho de curto prazo e perda de longo prazo.
 
 É por isso que toda hipótese de pricing precisa de guardrails.
 
@@ -148,13 +148,13 @@ Receita importa. Mas receita raramente conta a história toda. Uma mudança de p
 | Margem | Satisfação do cliente |
 | Attach rate | Taxa de cancelamento |
 
-As decisões de pricing mais difíceis não são as em que uma métrica melhora. São as em que várias métricas se movem em direções diferentes.
+As decisões de pricing mais difíceis não são aquelas em que uma métrica melhora. São aquelas em que várias métricas se movem em direções diferentes.
 
-## A parte mais difícil não era rodar os experimentos
+## A parte mais difícil não era rodar o experimento
 
-A maior parte das pessoas imagina experimentação como um desafio técnico.
+A maioria das pessoas imagina experimentação como um desafio técnico.
 
-Na prática, rodar um experimento costumava ser a parte fácil. Entender os resultados era mais difícil.
+Na prática, rodar o experimento costumava ser a parte fácil. Entender o resultado era mais difícil.
 
 Imagine dois variantes:
 
@@ -163,29 +163,29 @@ Imagine dois variantes:
 
 Qual ganha?
 
-Essa não é uma pergunta de engenharia. É uma pergunta de negócio.
+Essa não é pergunta de engenharia. É pergunta de negócio.
 
-Experimentos não eliminam a tomada de decisão. Eles melhoram a qualidade da informação disponível para quem decide. O time ainda precisa decidir quais trade-offs importam.
+Experimento não elimina tomada de decisão. Melhora a qualidade da informação disponível pra quem decide. O time ainda precisa decidir quais trade-offs importam.
 
-## Os experimentos que mais nos ensinaram
+## Os experimentos que mais ensinaram a gente
 
-Olhando para trás, os experimentos mais valiosos não foram os bem-sucedidos. Foram os que derrubaram nossas suposições.
+Olhando pra trás, os experimentos mais valiosos não foram os que deram certo. Foram os que derrubaram nossas suposições.
 
-Os que mostraram um mercado se comportando diferente do esperado. Os que revelaram segmentos de clientes que tínhamos ignorado. Os que demonstraram que uma ideia aparentemente óbvia estava, na verdade, errada.
+Os que mostraram um mercado se comportando diferente do esperado. Os que revelaram segmento de cliente que a gente tinha ignorado. Os que demonstraram que uma ideia que parecia óbvia, na real, estava errada.
 
 Esses experimentos geraram o aprendizado mais valioso. E aprendizado compõe.
 
-Uma mudança bem-sucedida de pricing cria valor uma vez. Uma lição sobre comportamento de cliente pode criar valor por anos.
+Uma mudança de pricing que dá certo cria valor uma vez. Uma lição sobre comportamento do cliente pode criar valor por anos.
 
 ## O que aprendi
 
-A lição não era que clientes reagem a preço. Todo mundo já sabe disso.
+A lição não era que cliente reage a preço. Todo mundo já sabe disso.
 
-A lição era que clientes diferentes reagem de forma diferente.
+A lição era que cliente diferente reage diferente.
 
-Quando entendemos isso, regras individuais de pricing pararam de parecer respostas. Começaram a parecer perguntas. Perguntas sobre comportamento do cliente. Perguntas sobre valor. Perguntas sobre disposição a pagar. Perguntas sobre trade-offs.
+Quando isso caiu, regra individual de pricing parou de parecer resposta. Começou a parecer pergunta. Pergunta sobre comportamento do cliente. Pergunta sobre valor. Pergunta sobre disposição a pagar. Pergunta sobre trade-off.
 
-Esse enquadramento mudou também o trabalho do time. Não estávamos entregando mudanças de pricing. Estávamos rodando um ciclo de aprendizado:
+Esse enquadramento mudou também o trabalho do time. A gente não estava entregando mudança de pricing. Estava rodando um ciclo de aprendizado:
 
 {{< plantuml title="O time de pricing é dono de um ciclo de aprendizado, não de uma cadência de release" >}}
 @startuml
@@ -214,8 +214,8 @@ Era aprendizado.
 
 ## Reflexão final
 
-O motor de regras nos deu uma forma de expressar decisões. A experimentação nos deu uma forma de questioná-las. Juntos, criaram algo mais útil do que uma plataforma de pricing — um sistema de aprendizado.
+O motor de regras deu pra gente uma forma de expressar decisão. A experimentação deu uma forma de questionar essa decisão. Juntos, criaram algo mais útil do que uma plataforma de pricing — um sistema de aprendizado.
 
-O que a gente estava de fato aprendendo era que uma plataforma de pricing deixa de ser útil quando as pessoas que a operam param de ter curiosidade sobre o cliente por trás do preço. Ferramentas, regras, motores, dashboards — nada disso sobrevive a um time que decidiu que a resposta já é óbvia.
+O que a gente de fato estava aprendendo era que uma plataforma de pricing deixa de ser útil quando as pessoas que operam ela param de ter curiosidade sobre o cliente por trás do preço. Ferramenta, regra, motor, dashboard — nada disso sobrevive a um time que decidiu que a resposta já é óbvia.
 
-Tratar cada regra como uma hipótese era só uma forma de se recusar a ser esse time.
+Tratar cada regra como hipótese era só uma forma de se recusar a ser esse time.

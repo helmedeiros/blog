@@ -11,13 +11,13 @@ tags:
   - divida-tecnica
   - monetizacao
   - arquitetura-de-software
-description: "Por que regras de pricing hardcoded parecem responsáveis até deixarem de parecer, e o que de fato faz um time pedir um motor de regras."
-subtitle: "Regras hardcoded nunca foram o problema real. Eram um sintoma."
+description: "Por que regra hardcoded parece responsável até deixar de parecer, e o que de fato faz um time pedir um motor de regras."
+subtitle: "Regra hardcoded nunca foi o problema de verdade. Era sintoma."
 ---
 
 A primeira regra de pricing com a qual me lembro de me preocupar não parecia perigosa.
 
-Era pequena. Uma condição específica de mercado, um ajuste percentual e poucas linhas de código. Nada nela sugeria que viraria parte de um problema muito maior.
+Era pequena. Uma condição específica de mercado, um ajuste percentual e poucas linhas de código. Nada nela sugeria que ia virar parte de um problema bem maior.
 
 ```java
 if (market.equals("DE")) {
@@ -25,17 +25,17 @@ if (market.equals("DE")) {
 }
 ```
 
-Na época, parecia uma decisão de engenharia responsável. O negócio queria uma mudança. A implementação era direta. A regra tinha testes. O deploy era seguro.
+Na época, parecia uma decisão de engenharia responsável. O negócio queria uma mudança. A implementação era direta. A regra tinha teste. O deploy era seguro.
 
 É assim que a maioria das regras hardcoded de pricing começa.
 
-Elas não nascem como dívida técnica.
+Não nasce como dívida técnica.
 
-Elas nascem como entrega.
+Nasce como entrega.
 
 ## Toda regra de pricing começa pequena
 
-O problema é que sistemas de pricing raramente continuam pequenos.
+O problema é que sistema de pricing raramente continua pequeno.
 
 Uma regra simples de mercado vira uma regra específica de provedor.
 
@@ -66,28 +66,28 @@ if (market.equals("DE")
 }
 ```
 
-Individualmente, cada mudança faz sentido.
+Cada mudança, isolada, faz sentido.
 
-Coletivamente, elas criam um sistema cada vez mais difícil de explicar.
+Juntas, criam um sistema cada vez mais difícil de explicar.
 
-## Por que regras hardcoded parecem boas no início
+## Por que regra hardcoded parece boa no começo
 
-Regras hardcoded otimizam para velocidade.
+Regra hardcoded otimiza pra velocidade.
 
 | Benefício | Por que o time gosta | Custo futuro |
 | --- | --- | --- |
-| Implementação rápida | Valor de negócio imediato | Mudanças futuras mais lentas |
+| Implementação rápida | Valor de negócio imediato | Mudança futura mais lenta |
 | Teste fácil | Validação local | Comportamento global continua opaco |
 | Workflow familiar | Direcionado por pull request | Conhecimento de negócio fica escondido no código |
-| Deploy simples | Não precisa de plataforma adicional | Toda mudança exige envolvimento de engenharia |
+| Deploy simples | Não precisa de plataforma adicional | Toda mudança exige mão de engenharia |
 
-O problema não é que esses benefícios sejam falsos. O problema é que eles são reais.
+O problema não é esses benefícios serem falsos. O problema é que eles são reais.
 
-É por isso que times continuam adicionando regras muito depois do sistema ter ficado difícil de evoluir. Cada regra passa pela mesma barra que fez a anterior parecer razoável.
+É por isso que a gente continuava adicionando regra muito depois do sistema ter ficado difícil de evoluir. Cada regra passava pela mesma barra que tinha feito a anterior parecer razoável.
 
 ## O pesadelo do engenheiro de pricing
 
-Eventualmente alguém faz uma pergunta simples.
+Uma hora alguém faz uma pergunta simples.
 
 *Por que esse markup é 3,2%?*
 
@@ -95,25 +95,25 @@ Ou: *qual experimento introduziu essa regra?*
 
 Ou: *essa condição ainda importa?*
 
-O código normalmente consegue dizer o que acontece. Ele raramente diz por quê.
+O código normalmente consegue dizer o que acontece. Raramente diz por quê.
 
 > Pergunta: Por que o markup é 3,2%?  
 > Resposta do código: Porque essa condição bateu.  
 > Resposta do negócio: Ninguém tem certeza.
 
-É aqui que sistemas de pricing acumulam complexidade escondida. A regra sobrevive não porque alguém a defendeu, mas porque remover parece mais arriscado do que manter. Assimetria de risco preserva regras muito depois do motivo de existir delas ter expirado.
+É aqui que sistema de pricing acumula complexidade escondida. A regra sobrevive não porque alguém defendeu, mas porque remover parece mais arriscado que manter. Assimetria de risco preserva regra muito depois do motivo dela ter expirado.
 
-## Regras são decisões de negócio antes de serem código
+## Regra é decisão de negócio antes de ser código
 
-Uma regra de pricing normalmente começa como uma hipótese de negócio.
+Uma regra de pricing normalmente começa como hipótese de negócio.
 
-> Clientes que compram perto da partida podem tolerar markups maiores.
+> Cliente que compra perto da partida pode tolerar markup maior.
 
 Ou:
 
-> Esse provedor se comporta de forma diferente e precisa de uma estratégia dedicada.
+> Esse provedor se comporta diferente e precisa de uma estratégia dedicada.
 
-Só depois é que essa ideia vira lógica executável. O caminho da hipótese até produção se parece com isto:
+Só depois é que essa ideia vira lógica executável. O caminho da hipótese até produção parece com isso:
 
 {{< plantuml title="Uma regra de pricing é uma decisão de negócio muito antes de ser código" >}}
 @startuml
@@ -130,13 +130,13 @@ stop
 
 O erro que a gente continuava cometendo era preservar só o último passo. O código sobrevivia. A hipótese se perdia. A decisão de negócio virava folclore.
 
-Uma das lições mais importantes que aprendi foi que times de pricing deveriam preservar mais do que o código. Deveriam preservar o raciocínio.
+Uma das lições mais importantes que aprendi foi que time de pricing deveria preservar mais do que código. Deveria preservar o raciocínio.
 
 ## Lógica não é política
 
 Lógica de pricing explica como algo acontece. Política de pricing explica por que deveria acontecer.
 
-Uma plataforma de pricing madura torna as duas coisas visíveis.
+Uma plataforma de pricing madura deixa as duas coisas visíveis.
 
 ```yaml
 id: short_lead_time_markup
@@ -151,58 +151,58 @@ action:
   markup: 4.0
 ```
 
-O valor dessa estrutura não é o YAML. O valor é que ownership, intenção, métricas e condições ficam explícitos — e, portanto, revisáveis, discutíveis e removíveis.
+O valor dessa estrutura não é o YAML. O valor é que ownership, intenção, métrica e condição ficam explícitos — e, portanto, revisáveis, discutíveis e removíveis.
 
-Uma regra hardcoded responde à pergunta *o que isso faz?* Uma regra em formato de política responde *por que isso existe, e como saberíamos que deixou de ser uma boa ideia?*
+Uma regra hardcoded responde a pergunta *o que isso faz?* Uma regra em formato de política responde *por que isso existe, e como a gente saberia que deixou de ser uma boa ideia?*
 
 ## Interação entre regras é onde a complexidade se esconde
 
-A maior parte dos problemas de pricing não é causada por regras individuais. É causada pela interação entre regras.
+A maior parte dos problemas de pricing não vem de regra individual. Vem da interação entre regras.
 
-Imagine quatro regras empilhadas sobre a mesma compra:
+Imagine quatro regras empilhadas em cima da mesma compra:
 
 - Regra A: adiciona 3%
-- Regra B: remove 1%
+- Regra B: tira 1%
 - Regra C: adiciona 2%
 - Regra D: limita em 5%
 
 As perguntas aparecem rápido:
 
 - Qual regra executa primeiro?
-- Regras podem sobrescrever umas às outras?
+- Regra pode sobrescrever outra?
 - Várias regras podem se aplicar ao mesmo tempo?
-- Como explicamos o resultado final para um agente de atendimento olhando uma compra específica?
+- Como a gente explica o resultado final pra um agente de atendimento olhando uma compra específica?
 
-Sistemas de receita precisam de respostas para essas perguntas antes do incidente acontecer. Quando o incidente acontece, você descobre as respostas da pior forma possível.
+Sistema de receita precisa de resposta pra essas perguntas antes do incidente acontecer. Quando o incidente acontece, você descobre a resposta da pior forma possível.
 
-## Quando engenheiros começam a pedir um motor de regras
+## Quando o engenheiro começa a pedir um motor de regras
 
-Engenheiros raramente pedem um motor de regras porque querem um motor de regras.
+Engenheiro raramente pede um motor de regras porque quer um motor de regras.
 
-Pedem porque não conseguem mais responder perguntas operacionais básicas.
+Pede porque já não consegue mais responder pergunta operacional básica.
 
 - Quais regras estão ativas?
 - Quem é o dono delas?
 - Por que elas existem?
-- Conseguimos simular?
-- Conseguimos desativar sem deploy?
-- Conseguimos explicar um preço final?
+- A gente consegue simular?
+- A gente consegue desativar sem deploy?
+- A gente consegue explicar um preço final?
 
 Nesse ponto, o problema não é mais implementação. É governança.
 
-| Dor | Capacidade ausente |
+| Dor | Capacidade que tá faltando |
 | --- | --- |
-| Regras são difíceis de encontrar | Descoberta |
-| Regras são difíceis de explicar | Rastreabilidade |
-| Regras são arriscadas de mudar | Validação |
-| Regras exigem deploy | Controle em runtime |
-| Regras ficam para sempre | Gestão de ciclo de vida |
+| Regra é difícil de encontrar | Descoberta |
+| Regra é difícil de explicar | Rastreabilidade |
+| Regra é arriscada de mudar | Validação |
+| Regra exige deploy | Controle em runtime |
+| Regra fica pra sempre | Gestão de ciclo de vida |
 
-Isso não é um problema de ferramenta. É um problema de maturidade que a ferramenta está sendo chamada para tornar visível.
+Não é problema de ferramenta. É problema de maturidade que a ferramenta tá sendo chamada pra tornar visível.
 
 ## O ciclo de vida importa mais que a sintaxe
 
-Uma regra de pricing tem um ciclo de vida:
+Toda regra de pricing tem um ciclo de vida:
 
 {{< plantuml title="Uma regra de pricing tem ciclo de vida, não só data de criação" >}}
 @startuml
@@ -220,26 +220,26 @@ stop
 @enduml
 {{< /plantuml >}}
 
-A maioria dos sistemas hardcoded é otimizada para criação. Pouquíssimos são otimizados para aposentadoria.
+A maioria dos sistemas hardcoded é otimizada pra criação. Pouquíssimos são otimizados pra aposentadoria.
 
-Esse desequilíbrio vai ficando caro com o tempo. O custo não é pago pelo engenheiro que adicionou a regra. É pago pelo time que herda o sistema três anos depois e não consegue dizer quais das 600 regras podem ser removidas.
+Esse desequilíbrio vai ficando caro com o tempo. O custo não é pago pelo engenheiro que adicionou a regra. É pago pelo time que herda o sistema três anos depois e não consegue dizer quais das 600 regras dá pra remover.
 
 ## O que aprendi
 
-Regras hardcoded nunca foram o problema real.
+Regra hardcoded nunca foi o problema real.
 
-Elas eram um sintoma.
+Era sintoma.
 
-O desafio real era complexidade de negócio não gerenciada. Mercados evoluem. Experimentos acumulam. Acordos comerciais mudam. Comportamento do cliente muda. E, eventualmente, o código vira o único lugar onde a organização lembra como pricing funciona.
+O desafio real era complexidade de negócio não gerenciada. Mercado evolui. Experimento acumula. Acordo comercial muda. Comportamento do cliente muda. E, com o tempo, o código vira o único lugar onde a organização lembra como pricing funciona.
 
-É nesse momento que times começam a pensar em motores de regras — não porque motores de regras sejam interessantes, mas porque a complexidade do negócio finalmente fica impossível de ignorar.
+É nesse momento que o time começa a pensar em motor de regras — não porque motor de regras seja interessante, mas porque a complexidade do negócio finalmente fica impossível de ignorar.
 
 ## Reflexão final
 
-Eventualmente paramos de perguntar *como escrevemos regras de pricing?* e passamos a perguntar *como gerenciamos centenas delas com segurança?*
+Em algum momento, a gente parou de perguntar *como a gente escreve regra de pricing?* e passou a perguntar *como a gente gerencia centena delas com segurança?*
 
-Essa pergunta mudou tudo. Tirou a conversa do código e levou para ownership, explicabilidade, observabilidade, governança e ciclo de vida de cada regra que o sistema carrega.
+Essa pergunta mudou tudo. Tirou a conversa do código e levou pra ownership, explicabilidade, observabilidade, governança e ciclo de vida de cada regra que o sistema carrega.
 
 A gente subdimensionava o custo de uma regra de pricing no momento em que a adicionava, basicamente toda vez. O custo aparecia depois — no engenheiro que precisava explicar um preço durante um incidente, no analista que não conseguia dizer a qual experimento uma regra pertencia, no parceiro de operações que silenciosamente contornava uma condição que ninguém topava remover. A conta chegava. Só chegava em outro lugar.
 
-Um bom teste do nosso sistema de pricing, então, não era com que velocidade conseguíamos adicionar uma regra. Era com que confiança conseguíamos apagar uma.
+Um bom teste do nosso sistema de pricing, então, não era com que velocidade a gente conseguia adicionar uma regra. Era com que confiança a gente conseguia apagar uma.
