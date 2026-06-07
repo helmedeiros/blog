@@ -59,7 +59,7 @@ O desafio já não era mais expressar decisões de negócio. Era escolher entre 
 
 Foi aqui que modelos de pricing entraram na conversa.
 
-Não porque machine learning estava na moda. Não porque a organização queria mais tecnologia. Porque o sistema de aprendizado tinha acumulado mais conhecimento do que humanos conseguiam aplicar com facilidade.
+Não porque modelagem estava na moda. Não porque a organização queria mais tecnologia. Porque o sistema de aprendizado tinha acumulado mais conhecimento do que a camada de regras conseguia expressar à mão.
 
 Uma forma útil de pensar em um modelo é como uma compressão de tudo o que o time aprendeu até ali:
 
