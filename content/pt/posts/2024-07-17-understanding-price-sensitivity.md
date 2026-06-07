@@ -178,6 +178,6 @@ Quanto mais aprendíamos sobre sensibilidade a preço, mais visível ficava a pe
 
 Se grupos diferentes de clientes respondem a preço de forma diferente — e se essas respostas descrevem um formato, não um único ponto — então o trabalho de pricing não é escolher um valor. É escolher um valor *para um contexto*, e ser honesto sobre a curva por baixo dele.
 
-Se você está tentado a subir um aumento de preço porque a curva média diz que é seguro, a pergunta que vale a pena fazer não é *"quanto a gente consegue subir isso?"*. É *"a curva de quem a gente está ouvindo, e a curva de quem a gente está ignorando?"*
+Os times que vi entregar as melhores decisões de pricing não tinham as curvas mais sofisticadas. Tinham as mais honestas. Desenhavam pequeno. Desenhavam com frequência. Sabiam a qual segmento cada curva se referia. E topavam apagar uma curva que tinha deixado de explicar alguma coisa.
 
-O número é o output. A curva é o trabalho.
+Esse hábito, mais do que qualquer número específico, era o ativo.

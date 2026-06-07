@@ -216,6 +216,6 @@ It produced learning.
 
 The rule engine gave us a way to express decisions. Experimentation gave us a way to challenge them. Together they created something more useful than a pricing platform — a learning system.
 
-If you're staring at a pricing roadmap full of "change X to Y," the question worth asking isn't *"which value should we pick?"*. It's *"what do we believe about our customers, and what experiment would force us to change our mind?"*
+What we were really learning was that a pricing platform stops being useful when the people running it stop being curious about the customer behind the price. Tools, rules, engines, dashboards — none of them survives a team that has decided the answer is already obvious.
 
-The price is the output. The hypothesis is the work.
+Treating every rule as a hypothesis was just a way of refusing to be that team.

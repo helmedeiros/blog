@@ -269,6 +269,6 @@ A realidade normalmente é menos dramática. As transformações mais bem-sucedi
 
 O padrão Strangler Fig não é realmente sobre arquitetura de software. É sobre respeitar a complexidade. É sobre reconhecer que negócios não podem parar enquanto engenheiros redesenham sistemas. E é sobre reconhecer que o caminho mais seguro para o futuro é, frequentemente, um pequeno passo deliberado de cada vez.
 
-Se você está olhando para um sistema que funciona mas que você já não consegue evoluir, a pergunta que vale a pena fazer não é *"como substituímos isso?"*. É *"onde podemos colocar a primeira emenda, e o que precisaríamos ver antes de confiar no novo caminho com um por cento do tráfego?"*.
+A maior parte do Strangler Fig é trabalho sem glamour. Você não derruba nada. Você coloca uma emenda onde não havia, roteia uma cópia do tráfego por ela e depois passa alguns meses ganhando o direito de apagar um `if`. A emoção acaba na segunda semana.
 
-Responda isso, e a migração se escreve sozinha.
+O que sobra, depois que a emoção vai embora, é um sistema que o time consegue mudar sem prender a respiração. Esse é o prêmio inteiro. O padrão é só o meio.

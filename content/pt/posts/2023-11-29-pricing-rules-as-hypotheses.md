@@ -216,6 +216,6 @@ Era aprendizado.
 
 O motor de regras nos deu uma forma de expressar decisões. A experimentação nos deu uma forma de questioná-las. Juntos, criaram algo mais útil do que uma plataforma de pricing — um sistema de aprendizado.
 
-Se você está olhando para um roadmap de pricing cheio de "mudar X para Y", a pergunta que vale a pena fazer não é *"qual valor a gente deveria escolher?"*. É *"no que a gente acredita sobre os nossos clientes, e qual experimento nos forçaria a mudar de ideia?"*
+O que a gente estava de fato aprendendo era que uma plataforma de pricing deixa de ser útil quando as pessoas que a operam param de ter curiosidade sobre o cliente por trás do preço. Ferramentas, regras, motores, dashboards — nada disso sobrevive a um time que decidiu que a resposta já é óbvia.
 
-O preço é o output. A hipótese é o trabalho.
+Tratar cada regra como uma hipótese era só uma forma de se recusar a ser esse time.

@@ -240,6 +240,6 @@ Eventualmente paramos de perguntar *como escrevemos regras de pricing?* e passam
 
 Essa pergunta mudou tudo. Tirou a conversa do código e levou para ownership, explicabilidade, observabilidade, governança e ciclo de vida de cada regra que o sistema carrega.
 
-Se você está olhando para um código de pricing hoje e sentindo vontade de adicionar mais um `if`, a pergunta que vale a pena fazer não é *"essa regra está correta?"*. É *"se a gente adicionar isso, quem vai conseguir encontrar, explicar, medir e eventualmente remover?"*
+Todo time com o qual trabalhei subdimensiona o custo de uma regra de pricing no momento em que ela é adicionada. O custo aparece depois — no engenheiro que precisa explicar um preço durante um incidente, no analista que não consegue dizer a qual experimento uma regra pertence, no time de operações que silenciosamente contorna uma condição que ninguém topa remover. A conta chega. Só chega em outro lugar.
 
-A regra não é o custo. O sistema ao redor da regra é.
+Um bom teste de um sistema de pricing, então, não é com que velocidade você consegue adicionar uma regra. É com que confiança você consegue apagar uma.

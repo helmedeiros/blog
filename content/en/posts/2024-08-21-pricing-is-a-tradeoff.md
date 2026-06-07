@@ -162,6 +162,6 @@ That realisation made experimentation more valuable. It made segmentation more u
 
 If you walked into a pricing discussion expecting to leave with a number, you usually left disappointed. The number was the easy part. The hard part was naming the constraints that made the number defensible.
 
-If you're staring at a pricing decision today and feeling pulled toward the bigger number, the question worth asking isn't *"is this price right?"*. It's *"what am I willing to sacrifice to call it right?"*
+The teams that handled pricing tradeoffs best weren't the teams with the best models or the boldest opinions. They were the teams who had practised the conversation. Who had made the same kind of decision often enough that they could disagree about it without making it personal. Who had a shared sense of which sacrifices the company was actually willing to accept, and which ones it only pretended to.
 
-The number is the output. The tradeoff is the decision.
+A tradeoff that nobody in the room can name isn't a decision. It's a wish.

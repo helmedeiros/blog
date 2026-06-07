@@ -269,6 +269,6 @@ Reality is usually less dramatic. The most successful transformations I've seen 
 
 The Strangler Fig pattern isn't really about software architecture. It's about respecting complexity. It's about acknowledging that businesses cannot stop while engineers redesign systems. And it's about recognizing that the safest path to the future is often one small, deliberate step at a time.
 
-If you're staring at a system that works but you can no longer evolve, the question worth asking isn't *"how do we replace this?"* It's *"where can we put the first seam, and what would we need to see before we trusted the new path with one percent of traffic?"*
+Most of the Strangler Fig is unglamorous work. You don't get to demolish anything. You put a seam where there wasn't one, route a copy of the traffic through it, and then spend several months earning the right to delete an `if` statement. The thrill is gone by the second week.
 
-Answer that, and the migration writes itself.
+What remains, after the thrill goes, is a system the team can change without holding its breath. That is the whole prize. The pattern is just the means.

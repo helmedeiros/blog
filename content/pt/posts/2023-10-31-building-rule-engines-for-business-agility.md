@@ -275,6 +275,4 @@ Essa percepção mudou como pensávamos em ownership. Mudou como pensávamos em 
 
 Pricing não estava mais se comportando como uma feature. Estava se comportando como um produto.
 
-Se você está prestes a introduzir um motor de regras em um sistema que já funciona, a pergunta que vale a pena fazer não é *"qual motor devemos escolher?"*. É *"qual capacidade de negócio o nosso time precisa continuar sendo dono daqui a vinte deploys, independente do motor que estiver por baixo?"*
-
-O motor é substituível. A capacidade é a fronteira.
+Anos depois, eu não consigo te dizer se Drools foi a escolha certa. Posso te dizer que a camada que construímos por cima dele continua fazendo o trabalho — traduzindo decisões de pricing para um vocabulário do qual o time é dono, independente do que estiver embaixo. Essa foi a parte que importou. O motor era um detalhe. A fronteira era o trabalho.

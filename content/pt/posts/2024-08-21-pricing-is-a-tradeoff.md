@@ -162,6 +162,6 @@ Essa percepção tornou a experimentação mais valiosa. Tornou a segmentação 
 
 Se você entrava em uma discussão de pricing esperando sair com um número, normalmente saía decepcionado. O número era a parte fácil. A parte difícil era nomear as restrições que tornavam aquele número defensável.
 
-Se você está olhando para uma decisão de pricing hoje e se sentindo puxado para o número maior, a pergunta que vale a pena fazer não é *"esse preço está certo?"*. É *"o que eu estou disposto a sacrificar para chamar de certo?"*
+Os times que lidavam melhor com trade-offs de pricing não eram os com os melhores modelos ou as opiniões mais fortes. Eram os times que tinham praticado a conversa. Que tinham tomado o mesmo tipo de decisão vezes o suficiente para conseguir discordar sobre ela sem levar para o lado pessoal. Que tinham uma noção compartilhada de quais sacrifícios a empresa de fato topava aceitar, e quais ela só fingia.
 
-O número é o output. O trade-off é a decisão.
+Um trade-off que ninguém na sala consegue nomear não é uma decisão. É um desejo.

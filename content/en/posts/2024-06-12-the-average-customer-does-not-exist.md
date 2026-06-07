@@ -193,6 +193,6 @@ The average customer never existed. And once we stopped optimising for averages,
 
 The Business Rules Engine taught us how to express pricing decisions. Experimentation taught us how to challenge them. Segmentation taught us that not every customer experiences value in the same way.
 
-If you're tempted to ship a pricing change based on what the *average* customer wants, the question worth asking isn't *"what value should we pick?"*. It's *"who, specifically, are we choosing not to serve well by treating everyone the same?"*
+I remember the moment the team stopped calling it segmentation and started calling it "serving different people." The vocabulary change sounded cosmetic. It wasn't. Once we named who we were choosing *not* to serve well by treating everyone the same, the average customer never came back. Every chart we drew afterwards had two or three lines on it, because every chart we believed had two or three lines on it.
 
-The average is a story about all of them. Pricing has to be a decision about each of them.
+The mean is a number a system can produce. A customer is not.
