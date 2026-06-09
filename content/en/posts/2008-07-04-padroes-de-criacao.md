@@ -6,7 +6,9 @@ date: 2008-07-04 03:27:57+00:00
 categories:
   - Architecture
 
-series: Design Patterns and Analysis
+series:
+  - design-patterns-and-analysis
+series_order: 3
 subtitle: "Master the art of flexible object creation—discover how Factory, Builder, Singleton, and Prototype patterns solve the fundamental challenge of building objects that are decoupled, testable, and adaptable to change"
 ---
 

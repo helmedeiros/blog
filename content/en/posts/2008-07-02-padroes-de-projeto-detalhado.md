@@ -6,7 +6,9 @@ date: 2008-07-02 03:27:57+00:00
 categories:
   - Architecture
 
-series: Design Patterns and Analysis
+series:
+  - design-patterns-and-analysis
+series_order: 2
 subtitle: Unlock the secret language of expert programmers—master the Gang of Four design patterns that transform chaotic code into elegant, maintainable systems through proven object-oriented solutions
 ---
 

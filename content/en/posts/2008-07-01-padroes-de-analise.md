@@ -5,7 +5,9 @@ layout: post
 date: 2008-07-01 03:27:57+00:00
 categories:
   - Architecture
-series: Design Patterns and Analysis
+series:
+  - design-patterns-and-analysis
+series_order: 1
 subtitle: Discover the hidden patterns that make great software tick—explore Martin Fowler's analysis patterns that capture recurring business logic and domain knowledge into reusable, battle-tested solutions
 ---
 

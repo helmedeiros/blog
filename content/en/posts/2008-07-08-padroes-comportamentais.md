@@ -6,7 +6,9 @@ date: 2008-07-08 03:27:57+00:00
 categories:
   - Architecture
 
-series: Design Patterns and Analysis
+series:
+  - design-patterns-and-analysis
+series_order: 5
 subtitle: "Design intelligent object interactions and workflows—master Observer, Strategy, Command, and State patterns that transform rigid, coupled systems into flexible, event-driven architectures that adapt to changing business rules"
 ---
 
