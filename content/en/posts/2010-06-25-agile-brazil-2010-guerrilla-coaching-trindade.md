@@ -29,7 +29,9 @@ keywords:
   - organizational change
   - kaizen kaikaku
   - strategic influence
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 5
 subtitle: Master the art of stealth transformation—learn guerrilla coaching techniques that create lasting agile change through influence, trust-building, and strategic relationship navigation
 ---
 

@@ -28,7 +28,9 @@ keywords:
   - agile product management
   - user journey mapping
   - paper prototyping
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 2
 subtitle: Transform requirements into visual journey maps—discover how David Hussman's story mapping creates shared understanding, prioritizes features, and builds products that truly serve user workflows
 ---
 

@@ -25,7 +25,9 @@ keywords:
   - programacao em par
   - wip work in progress
   - lead time cycle time
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 1
 subtitle: Experimente XP através de construção prática de caixa eletrônico de papel—descubra como limites WIP, consciência de lead time e pair programming criam fluxo sustentável de equipe além de práticas de código
 ---
 

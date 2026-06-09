@@ -29,7 +29,9 @@ keywords:
   - throughput
   - latency
   - workflow visualization
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 4
 subtitle: Transform your task board from tracking tool to learning machine—discover how throughput, WIP limits, and visual design turn simple cards into powerful flow optimization instruments
 ---
 

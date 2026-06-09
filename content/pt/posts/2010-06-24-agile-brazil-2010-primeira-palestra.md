@@ -29,7 +29,9 @@ keywords:
   - comunidade agile
   - xp programacao extrema
   - metodologia scrum
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 3
 subtitle: Supere medos de primeira apresentação com apoio da comunidade—descubra como preparar sua palestra de estreia, enfrentar síndrome do impostor e conectar-se com a comunidade ágil cria crescimento além de apresentações
 ---
 

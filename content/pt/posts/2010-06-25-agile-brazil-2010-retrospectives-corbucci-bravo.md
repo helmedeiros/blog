@@ -26,7 +26,9 @@ keywords:
   - cinco fases retrospectiva
   - times ageis
   - reflexao aprendizado
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 6
 subtitle: Transforme boas equipes em equipes excelentes—domine o framework de retrospectiva em 5 fases que transforma reflexão em ação, reclamações em insights e reuniões em experiências significativas de crescimento
 ---
 

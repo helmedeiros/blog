@@ -26,7 +26,9 @@ keywords:
   - mudanca organizacional
   - kaizen kaikaku
   - influencia estrategica
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 5
 subtitle: Domine a arte da transformação furtiva—aprenda técnicas de coaching guerrilha que criam mudanças ágeis duradouras através de influência, construção de confiança e navegação estratégica de relacionamentos
 ---
 
