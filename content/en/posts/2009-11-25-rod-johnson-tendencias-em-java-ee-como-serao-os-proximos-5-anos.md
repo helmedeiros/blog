@@ -5,7 +5,9 @@ layout: post
 date: 2009-11-25 13:07:38+00:00
 idptt_tweeted: null
 dsq_thread_id: null
-series: TDC Rio 2009
+series:
+  - tdc-rio-2009
+series_order: 2
 categories:
   - Events
   - Architecture

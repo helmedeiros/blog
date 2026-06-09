@@ -5,7 +5,9 @@ layout: post
 date: 2009-11-20 14:22:51+00:00
 idptt_tweeted:
   - 1
-series: TDC Rio 2009
+series:
+  - tdc-rio-2009
+series_order: 1
 categories: ["Events", "Architecture"]
 
 tags:
