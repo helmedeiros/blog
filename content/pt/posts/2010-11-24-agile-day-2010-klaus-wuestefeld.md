@@ -4,7 +4,9 @@ author: helio
 layout: post
 date: 2010-11-25 01:41:25+00:00
 categories: ["Events", "Leadership", "Agile"]
-series: Agile Day 2010
+series:
+  - agile-day-2010
+series_order: 2
 tags:
   - 2010
   - adpoa10

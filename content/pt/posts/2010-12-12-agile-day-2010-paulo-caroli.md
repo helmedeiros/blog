@@ -12,7 +12,9 @@ seo_follow:
 seo_noindex:
   - "false"
 categories: ["Events", "Leadership", "Agile"]
-series: Agile Day 2010
+series:
+  - agile-day-2010
+series_order: 4
 tags:
   - 2010
   - adpoa10

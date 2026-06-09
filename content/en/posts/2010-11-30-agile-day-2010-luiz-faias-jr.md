@@ -12,7 +12,9 @@ categories:
   - Events
   - Leadership
   - Agile
-series: Agile Day 2010
+series:
+  - agile-day-2010
+series_order: 3
 tags:
   - 2010
   - adpoa10
