@@ -7,7 +7,9 @@ idptt_tweeted:
   - 1
 dsq_thread_id:
   - 4969845134
-series: TDC Rio 2009
+series:
+  - tdc-rio-2009
+series_order: 2
 categories: ["Events", "Architecture"]
 
 tags:
