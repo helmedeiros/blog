@@ -22,7 +22,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Leadership", "Agile"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 8
 ---
 
 > **Série: Caelum Day 2009** | **Parte Final (7 de 7)** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_

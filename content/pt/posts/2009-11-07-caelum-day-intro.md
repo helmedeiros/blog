@@ -19,7 +19,9 @@ tags:
     "Series",
   ]
 categories: ["Events"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 1
 ---
 
 > **Série: Caelum Day 2009** | **Introdução** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_

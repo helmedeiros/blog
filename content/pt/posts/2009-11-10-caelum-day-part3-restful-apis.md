@@ -21,7 +21,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Architecture"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 4
 ---
 
 Continuando a série de posts sobre o Caelum Day no Rio, hoje quero compartilhar minhas impressões sobre a palestra de **Sergio Junior e Luiz Costa** sobre **RESTful APIs**.

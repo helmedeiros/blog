@@ -21,7 +21,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Development"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 3
 ---
 
 > **Series: Caelum Day 2009** | **Part 2 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_

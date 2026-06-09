@@ -23,7 +23,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Architecture"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 5
 ---
 
 Dando continuidade à série de posts sobre o Caelum Day no Rio, hoje quero comentar sobre a palestra do **Nico Steppat**, que nos apresentou o mundo do **NoSQL** — um termo que, pra muitos ali na sala (inclusive eu), era algo completamente novo.

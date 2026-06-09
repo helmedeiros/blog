@@ -18,7 +18,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Architecture"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 2
 ---
 
 Ontem participei do Caelum Day aqui no Rio, e ainda estou empolgado com tudo que vi por lá. Começando essa série de registros com uma das palestras mais diferentes do dia: **a apresentação do Fábio Kung sobre computação em nuvem**.

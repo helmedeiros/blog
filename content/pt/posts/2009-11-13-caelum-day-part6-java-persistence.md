@@ -21,7 +21,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Architecture"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 7
 ---
 
 Chegamos ao último post da série sobre o Caelum Day no Rio de 2009! E encerramos com chave de ouro: a palestra do **Paulo Silveira**, que falou sobre **Persistência Java**, abordando tanto fundamentos quanto as mudanças que estavam surgindo com a **JPA 2.0**.
