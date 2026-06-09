@@ -5,7 +5,9 @@ categories:
 date: 2008-06-25 02:48:10+00:00
 dsq_thread_id: null
 layout: post
-series: UML Mini-scenarios
+series:
+  - uml-mini-scenarios
+series_order: 5
 subtitle: "Design a complete parking management solution—master UML use case modeling for ticket generation, space tracking, payment processing, and customer flow optimization in commercial parking facilities"
 tags:
   - mini-scenarios

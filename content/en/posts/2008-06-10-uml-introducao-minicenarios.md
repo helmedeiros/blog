@@ -5,7 +5,9 @@ author: helio
 layout: post
 date: 2008-06-10T10:00:00+00:00
 categories: ["Architecture"]
-series: "UML Mini-scenarios"
+series:
+  - uml-mini-scenarios
+series_order: 1
 tags:
   - mini-scenarios
   - uml-series
