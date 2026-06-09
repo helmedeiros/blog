@@ -3,7 +3,9 @@ title: "From Kanban to Scrum – Part 3: Coaching Engineers to Lead the Process"
 author: helio
 layout: post
 date: 2022-11-10 10:00:00+00:00
-series: Kanban to Scrum Transition
+series:
+  - kanban-to-scrum-transition
+series_order: 3
 categories:
   - Leadership
   - Agile

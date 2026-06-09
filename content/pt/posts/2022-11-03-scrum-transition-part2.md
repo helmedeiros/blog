@@ -3,7 +3,9 @@ title: "De Kanban para Scrum – Parte 2: Alinhando Metas, Métricas e Entendime
 author: helio
 layout: post
 date: 2022-11-03 10:00:00+00:00
-series: Transição de Kanban para Scrum
+series:
+  - kanban-to-scrum-transition
+series_order: 2
 categories:
   - Leadership
   - Agile
