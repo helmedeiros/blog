@@ -8,13 +8,14 @@
 {{- $patternIdx := mod $idx 6 -}}
 {{- $paletteIdx := mod (add $idx 2) 5 -}}
 
-{{- /* Five gradient palettes — indigo, sapphire, slate-violet, ocean, plum. */ -}}
+{{- /* Five grayscale palettes — pure black, charcoal, graphite, slate, soft black.
+       Subtle variation keeps cards visually distinct without colour. */ -}}
 {{- $palettes := slice
-    (dict "from" "#1e1b4b" "to" "#4338ca" "stroke" "#c7d2fe" "accent" "#a5b4fc")
-    (dict "from" "#0c1e3e" "to" "#1d4ed8" "stroke" "#bfdbfe" "accent" "#93c5fd")
-    (dict "from" "#1e293b" "to" "#6d28d9" "stroke" "#e9d5ff" "accent" "#c4b5fd")
-    (dict "from" "#0b1c2e" "to" "#0e7490" "stroke" "#cffafe" "accent" "#a5f3fc")
-    (dict "from" "#2a1338" "to" "#7c3aed" "stroke" "#f5d0fe" "accent" "#e9d5ff")
+    (dict "from" "#000000" "to" "#1a1a1a" "stroke" "#ffffff" "accent" "#e5e5e5")
+    (dict "from" "#0a0a0a" "to" "#2a2a2a" "stroke" "#f5f5f5" "accent" "#d4d4d4")
+    (dict "from" "#111111" "to" "#383838" "stroke" "#fafafa" "accent" "#a3a3a3")
+    (dict "from" "#1c1c1c" "to" "#2d2d2d" "stroke" "#e7e7e7" "accent" "#bfbfbf")
+    (dict "from" "#0e0e0e" "to" "#222222" "stroke" "#fafafa" "accent" "#cfcfcf")
 -}}
 {{- $p := index $palettes $paletteIdx -}}
 {{- $gid := printf "series-grad-%s" $slug -}}
