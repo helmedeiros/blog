@@ -3,7 +3,9 @@ title: "Gratidão e Transição: Deixando a Dell para a RBS"
 categories:
   - Leadership
 date: 2012-04-01
-series: Vida em Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 7
 tags:
   - Dell
   - RBS

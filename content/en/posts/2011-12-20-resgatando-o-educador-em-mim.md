@@ -4,7 +4,9 @@ categories:
   - Leadership
 
 date: 2011-12-20
-series: Life in Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 6
 tags:
   - Dell
   - Leadership

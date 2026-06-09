@@ -4,7 +4,9 @@ categories:
   - Leadership
   - Agile
 date: 2011-01-30
-series: Vida em Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 3
 tags:
   - Dell
   - Liderança
