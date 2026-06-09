@@ -10,7 +10,9 @@ seo_noindex: null
 categories:
   - Events
   - Agile
-series: Agile Day 2010
+series:
+  - agile-day-2010
+series_order: 1
 tags:
   - 2010
   - agileday
