@@ -20,7 +20,9 @@ tags:
   - Teaching
   - Critical Thinking
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 3
 subtitle: Understand waterfall's place in software history—discover when sequential development works, why it often fails, and how its lessons inform modern iterative approaches to complex projects
 ---
 

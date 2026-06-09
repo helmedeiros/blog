@@ -22,7 +22,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 10
 subtitle: Bridge the gap from XP theory to real-world implementation—discover practical strategies for introducing pair programming, TDD, and continuous integration in resistant environments
 ---
 

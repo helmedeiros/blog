@@ -20,7 +20,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 13
 subtitle: Master comprehensive testing strategies—discover how unit, integration, and system testing work together to create robust verification pyramids that catch bugs early and build user confidence
 ---
 

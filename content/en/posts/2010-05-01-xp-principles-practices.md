@@ -23,7 +23,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 9
 subtitle: Turn XP theory into daily practice—discover how 12 concrete principles and practices transform development teams from reactive to proactive, from fragile to antifragile
 ---
 

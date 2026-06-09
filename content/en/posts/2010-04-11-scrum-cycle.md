@@ -24,7 +24,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 7
 subtitle: Master the heartbeat of agile delivery—discover how sprint planning, daily standups, reviews, and retrospectives create predictable cycles that turn chaos into sustainable team rhythm
 ---
 

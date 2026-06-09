@@ -21,7 +21,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 12
 subtitle: Software development concepts and practices
 ---
 

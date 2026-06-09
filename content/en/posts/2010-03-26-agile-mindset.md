@@ -22,7 +22,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 5
 subtitle: Shift from process obsession to people-first thinking—discover how agile mindset values individuals, working software, customer collaboration, and responding to change over rigid adherence to plans
 ---
 
