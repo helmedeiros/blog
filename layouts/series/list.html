@@ -7,118 +7,133 @@
   {{- $slug := .File.BaseFileName -}}
   {{- $posts := where (where $.Site.RegularPages "Section" "posts") "Params.series" "intersect" (slice $slug) -}}
   {{- $first := (sort $posts "Date" "asc") | first 1 -}}
-  {{- $firstDate := "" -}}
+  {{- $firstDate := time.AsTime "1970-01-01" -}}
   {{- with index $first 0 }}{{ $firstDate = .Date }}{{ end -}}
   {{- $seriesData = $seriesData | append (dict "page" . "slug" $slug "count" (len $posts) "firstDate" $firstDate) -}}
 {{- end -}}
 {{- $seriesData = sort $seriesData "firstDate" "desc" -}}
 
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container series-index-container" role="main">
+  <div class="series-index-header">
+    <h1 class="series-index-page-title">{{ cond $isPT "Séries" "Series" }}</h1>
+    <p class="series-index-page-description">{{ cond $isPT "Coleções de posts pensadas pra serem lidas em ordem." "Curated collections of posts meant to be read in order." }}</p>
+  </div>
 
-      <div class="series-index-page">
-        <h1 class="page-title">{{ cond $isPT "Séries" "Series" }}</h1>
-        <p class="page-description">{{ cond $isPT "Coleções de posts pensadas pra serem lidas em ordem." "Curated collections of posts meant to be read in order." }}</p>
-
-        <ol class="series-index-list">
-          {{ range $seriesData }}
-            {{- $page := .page -}}
-            <li class="series-index-item">
-              <a class="series-index-link" href="{{ $page.RelPermalink }}">
-                <h3 class="series-index-title">{{ $page.Title }}</h3>
-                {{ with $page.Params.description }}<p class="series-index-description">{{ . }}</p>{{ end }}
-                <span class="series-index-count">{{ .count }} {{ if eq .count 1 }}{{ cond $isPT "post" "post" }}{{ else }}{{ cond $isPT "posts" "posts" }}{{ end }}</span>
-              </a>
-            </li>
-          {{ end }}
-        </ol>
-      </div>
-
-    </div>
+  <div class="series-index-grid">
+    {{ range $idx, $s := $seriesData }}
+      {{- $page := $s.page -}}
+      {{- $count := $s.count -}}
+      {{- $postLabel := cond (eq $count 1) (cond $isPT "post" "post") (cond $isPT "posts" "posts") -}}
+      <a class="series-card" href="{{ $page.RelPermalink }}">
+        <div class="series-card-art-wrap">
+          {{ partial "series-card-art.html" (dict "slug" $s.slug "idx" $idx) }}
+        </div>
+        <h2 class="series-card-title">{{ $page.Title }}</h2>
+        <div class="series-card-meta">
+          <span class="series-card-tag">{{ cond $isPT "Série" "Series" }}</span>
+          <span class="series-card-dot">·</span>
+          <span class="series-card-count">{{ $count }} {{ $postLabel }}</span>
+        </div>
+      </a>
+    {{- end }}
   </div>
 </div>
 
 <style>
-.series-index-page {
-  margin: 2.5rem 0 3rem;
+.series-index-container {
+  max-width: 1200px;
+  margin: 2.5rem auto 4rem;
+  padding: 0 1.5rem;
 }
-.series-index-page .page-title {
-  font-size: 2.5rem;
+.series-index-header {
+  margin-bottom: 2.5rem;
+}
+.series-index-page-title {
+  font-size: 2.75rem;
   margin: 0 0 0.5rem;
   color: #0f172a;
   font-weight: 800;
+  line-height: 1.1;
 }
-.series-index-page .page-description {
+.series-index-page-description {
   font-size: 1.125rem;
   color: #475569;
-  margin: 0 0 2rem;
-}
-.series-index-list {
-  list-style: none;
   margin: 0;
-  padding: 0;
-  counter-reset: series-index-counter;
+  max-width: 38rem;
 }
-.series-index-item {
-  counter-increment: series-index-counter;
-  position: relative;
-  margin: 0 0 1rem;
+.series-index-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem 1.75rem;
 }
-.series-index-link {
+.series-card {
   display: block;
-  padding: 1.25rem 1.5rem 1.25rem 4rem;
-  background: #f8fafc;
-  border-radius: 8px;
-  border-left: 4px solid #1f2937;
   color: inherit;
   text-decoration: none;
-  transition: background 0.15s ease;
 }
-.series-index-link:hover {
-  background: #f1f5f9;
+.series-card:hover,
+.series-card:focus {
   text-decoration: none;
+  color: inherit;
 }
-.series-index-link::before {
-  content: counter(series-index-counter);
-  position: absolute;
-  top: 1.25rem;
-  left: 1.25rem;
-  font-weight: 800;
-  font-size: 1.5rem;
-  color: #94a3b8;
-  width: 2rem;
-  text-align: center;
-  line-height: 1;
+.series-card-art-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #0f172a;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
-.series-index-title {
-  margin: 0 0 0.35rem;
-  font-size: 1.25rem;
+.series-card-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.series-card:hover .series-card-art-wrap,
+.series-card:focus .series-card-art-wrap {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px -16px rgba(15, 23, 42, 0.35);
+}
+.series-card-title {
+  margin: 1rem 0 0.35rem;
+  font-size: 1.125rem;
   line-height: 1.35;
-  color: #0f172a;
   font-weight: 700;
+  color: #0f172a;
 }
-.series-index-link:hover .series-index-title {
+.series-card:hover .series-card-title,
+.series-card:focus .series-card-title {
   color: #1d4ed8;
 }
-.series-index-description {
-  margin: 0 0 0.5rem;
-  font-size: 0.95rem;
-  line-height: 1.5;
+.series-card-meta {
+  font-size: 0.875rem;
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.series-card-tag {
+  font-weight: 600;
   color: #475569;
 }
-.series-index-count {
-  display: inline-block;
-  font-size: 0.75rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: #64748b;
-  font-weight: 600;
+.series-card-dot {
+  color: #94a3b8;
+}
+@media (max-width: 992px) {
+  .series-index-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.75rem 1.5rem;
+  }
 }
 @media (max-width: 600px) {
-  .series-index-page .page-title { font-size: 1.875rem; }
-  .series-index-link { padding-left: 3.25rem; }
-  .series-index-link::before { font-size: 1.25rem; left: 0.85rem; }
+  .series-index-page-title {
+    font-size: 2rem;
+  }
+  .series-index-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
 }
 </style>
 {{ end }}
