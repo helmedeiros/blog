@@ -9,7 +9,9 @@ tags:
   - colaboração
   - desenvolvimento
 categories: ["Development"]
-series: Aulas de Engenharia de Software
+series:
+  - software-engineering-lectures
+series_order: 2
 slug: controle-versao-fundacao-essencial
 summary:
   "Nesta aula, mergulhamos em um dos pilares do desenvolvimento profissional:
