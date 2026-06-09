@@ -4,7 +4,8 @@ categories: ["Leadership", "Agile"]
 date: 2023-03-18
 subtitle: Crie visão compartilhada do time quando a estratégia da empresa está indefinida—usando workshops colaborativos para alinhar dores do cliente, oportunidades de negócio e restrições da plataforma
 description: "O segundo post da série OKRA, apresentando a Sessão #0 como um workshop prático para equipes criarem visão e contexto compartilhados quando a estratégia da empresa está indefinida."
-series: ["okra"]
+series:
+  - okra
 series_order: 2
 ---
 

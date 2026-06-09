@@ -4,7 +4,8 @@ categories: ["Leadership", "Agile"]
 date: 2023-03-18
 subtitle: Create shared team vision when company strategy is unclear—using collaborative workshops to align on customer pains, business opportunities, and platform constraints
 description: "The second post in the OKRA series, introducing Session #0 as a practical workshop for teams to create shared vision and context when company strategy is unclear."
-series: ["okra"]
+series:
+  - okra
 series_order: 2
 ---
 

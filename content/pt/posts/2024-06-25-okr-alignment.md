@@ -8,7 +8,7 @@ description:
   Um guia prático para engajar seu time na construção conjunta de OKRs
   trimestrais com transparência e estrutura.
 series:
-  - OKRA
+  - okra
 series_order: 6
 subtitle: Domine o framework OKRA completo de 5 sessões que transforma metas abstratas da empresa em OKRs com senso de pertencimento do time e planos claros de execução
 ---
