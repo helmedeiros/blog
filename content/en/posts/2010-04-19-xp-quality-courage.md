@@ -23,7 +23,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 8
 subtitle: Transform fear into fearless development—discover how XP's quality practices like pair programming, TDD, and continuous integration give teams the courage to embrace change and deliver excellence
 ---
 

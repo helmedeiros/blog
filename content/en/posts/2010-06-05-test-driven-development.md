@@ -21,7 +21,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 14
 subtitle: Master the red-green-refactor cycle—discover how TDD transforms testing from afterthought to design tool, creating confidence, better architecture, and living documentation through disciplined practice
 ---
 

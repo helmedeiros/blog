@@ -20,7 +20,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 4
 subtitle: Embrace iterative development over rigid planning—discover how evolutionary models like spiral and incremental approaches handle uncertainty, reduce risk, and deliver value through continuous learning cycles
 ---
 

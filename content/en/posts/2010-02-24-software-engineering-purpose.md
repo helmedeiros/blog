@@ -14,7 +14,9 @@ tags:
   - Quality
   - Agile Methods
   - software-engineering-series
-series: "Software Engineering Fundamentals"
+series:
+  - software-engineering-fundamentals
+series_order: 1
 ---
 
 > **Series: Software Engineering Fundamentals** | **Part Part 1 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_

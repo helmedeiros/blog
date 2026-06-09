@@ -21,7 +21,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 15
 subtitle: Build confidence through disciplined unit testing—discover how JUnit, test structure, and systematic verification create safety nets that enable fearless refactoring and reliable code evolution
 ---
 

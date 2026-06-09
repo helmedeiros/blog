@@ -23,7 +23,9 @@ tags:
   - UnP
   - Teaching
   - software-engineering-series
-series: Software Engineering Fundamentals
+series:
+  - software-engineering-fundamentals
+series_order: 6
 subtitle: Unlock team productivity through Scrum framework—discover how sprints, ceremonies, and roles create sustainable delivery rhythms that balance speed with quality and people with process
 ---
 
