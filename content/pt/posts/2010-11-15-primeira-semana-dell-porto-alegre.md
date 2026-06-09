@@ -31,7 +31,9 @@ keywords:
   - osb oracle service bus
   - desenvolvimento multinacional
   - ingles profissional
-series: Vida em Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 1
 subtitle: Navegue a emoção de ambientes multinacionais—descubra como mudar de cidade, aprender tecnologias empresariais como OSB/ESB/BPEL e trabalhar em inglês diariamente cria crescimento profissional exponencial
 ---
 

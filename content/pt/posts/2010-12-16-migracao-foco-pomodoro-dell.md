@@ -29,7 +29,9 @@ keywords:
   - eduardo mathias
   - carlos eduardo maciel
   - tdd java
-series: Vida em Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 2
 subtitle: Domine migrações complexas através de execução focada—descubra como técnica Pomodoro, commits pequenos e ótima mentoria transformam trabalho legado avassalador em progresso incremental confiante
 ---
 

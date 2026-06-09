@@ -4,7 +4,9 @@ categories:
   - Leadership
   - Architecture
 date: 2011-12-20
-series: Vida em Porto Alegre
+series:
+  - life-in-porto-alegre
+series_order: 6
 tags:
   - Dell
   - Liderança
