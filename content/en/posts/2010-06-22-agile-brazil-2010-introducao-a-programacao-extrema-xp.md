@@ -30,7 +30,9 @@ keywords:
   - pair programming
   - wip work in progress
   - lead time cycle time
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 1
 subtitle: Experience XP through hands-on paper ATM building—discover how WIP limits, lead time awareness, and pair programming create sustainable team flow beyond just coding practices
 ---
 

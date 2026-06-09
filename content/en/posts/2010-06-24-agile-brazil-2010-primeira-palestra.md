@@ -29,7 +29,9 @@ keywords:
   - agile community
   - xp extreme programming
   - scrum methodology
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 3
 subtitle: Overcome first-time speaking fears with community support—discover how preparing your debut conference talk, facing impostor syndrome, and connecting with the agile community creates growth beyond presentations
 ---
 

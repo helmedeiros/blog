@@ -31,7 +31,9 @@ keywords:
   - five phase retrospective
   - agile teams
   - reflection learning
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 6
 subtitle: Transform good teams into great teams—master the 5-phase retrospective framework that turns reflection into action, complaints into insights, and meetings into meaningful growth experiences
 ---
 

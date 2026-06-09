@@ -26,7 +26,9 @@ keywords:
   - gestao produto agil
   - mapeamento jornada usuario
   - prototipagem papel
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 2
 subtitle: Transforme requisitos em mapas visuais de jornada—descubra como story mapping do David Hussman cria entendimento compartilhado, prioriza funcionalidades e constrói produtos que verdadeiramente servem workflows do usuário
 ---
 

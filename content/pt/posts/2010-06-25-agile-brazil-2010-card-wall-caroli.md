@@ -27,7 +27,9 @@ keywords:
   - throughput
   - latencia
   - visualizacao fluxo
-series: Agile Brazil 2010
+series:
+  - agile-brazil-2010
+series_order: 4
 subtitle: Transforme seu quadro de tarefas de ferramenta de rastreamento em máquina de aprendizado—descubra como throughput, limites WIP e design visual transformam cartões simples em poderosos instrumentos de otimização de fluxo
 ---
 
