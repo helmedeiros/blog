@@ -4,6 +4,9 @@ subtitle: Lead with presence and adaptability—mastering communication styles, 
 author: helio
 layout: post
 date: 2023-07-05T10:00:00+00:00
+series:
+  - responsive-leadership
+series_order: 1
 categories:
   - Leadership
   - Agile

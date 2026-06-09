@@ -3,6 +3,9 @@ title: "Responsive Leadership – Part 2: Coaching, Trust, and Team Resilience"
 author: helio
 layout: post
 date: 2023-07-06 10:00:00+00:00
+series:
+  - responsive-leadership
+series_order: 2
 categories:
   - Leadership
   - Agile
