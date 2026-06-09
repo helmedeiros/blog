@@ -5,7 +5,9 @@ layout: post
 date: 2008-06-21 09:24:08+00:00
 categories:
   - Architecture
-series: UML Mini-scenarios
+series:
+  - uml-mini-scenarios
+series_order: 4
 tags:
   - mini-scenarios
   - uml-series

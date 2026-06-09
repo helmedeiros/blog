@@ -4,7 +4,9 @@ author: helio
 layout: post
 date: 2008-06-17T02:14:52+00:00
 categories: ["Architecture"]
-series: "UML Mini-scenarios"
+series:
+  - uml-mini-scenarios
+series_order: 3
 subtitle: "Streamline group lottery management with smart automation—design a UML-modeled system that handles participant registration, payment tracking, prize distribution, and eliminates the chaos of manual pool coordination"
 tags:
   - mini-scenarios

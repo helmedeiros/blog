@@ -4,7 +4,9 @@ categories:
   - Architecture
 date: 2008-06-13 01:57:56+00:00
 layout: post
-series: UML Mini-scenarios
+series:
+  - uml-mini-scenarios
+series_order: 2
 subtitle: "Build a complete web classifieds platform from scratch—follow the UML modeling journey from user stories to class diagrams, creating a subscription-based system with featured ads, categories, and payment integration"
 tags:
   - mini-scenarios
