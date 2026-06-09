@@ -20,7 +20,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Development"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 3
 ---
 
 Seguindo com a série de posts sobre o Caelum Day no Rio, hoje é dia de falar sobre a apresentação do **Guilherme Silveira e do Filipe Sabella** sobre o **VRaptor 3**.

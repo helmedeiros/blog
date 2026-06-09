@@ -22,7 +22,9 @@ tags:
     "Rio de Janeiro",
   ]
 categories: ["Events", "Development"]
-series: "Caelum Day 2009"
+series:
+  - caelum-day-2009
+series_order: 6
 ---
 
 Dias após participar do Caelum Day no Rio em 2009, ainda estou digerindo as palestras incríveis. Neste post, quero comentar sobre a apresentação do **Rafael Martinelli da DClick**, que mostrou o poder do **Adobe Flex** para construir interfaces ricas na web.
