@@ -9,7 +9,7 @@ description:
   through transparent, structured facilitation.
 series:
   - okra
-series_order: 6
+series_order: 9
 subtitle: Master the complete 5-session OKRA framework that transforms abstract company goals into team-owned OKRs with full buy-in and clear execution plans
 ---
 

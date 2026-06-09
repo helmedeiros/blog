@@ -9,7 +9,7 @@ description:
   draft plan for the quarter, making alignment visible and actionable."
 series:
   - okra
-series_order: 5
+series_order: 8
 slug: session-4-quarter-draft-plan
 subtitle: Build a visual, collaborative quarter plan that creates shared alignment without rigid timelines—turning intentions into executable roadmaps
 ---
