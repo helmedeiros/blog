@@ -3,7 +3,9 @@ title: "From Kanban to Scrum – Part 2: Aligning Goals, Metrics, and Shared Und
 author: helio
 layout: post
 date: 2022-11-03 10:00:00+00:00
-series: Kanban to Scrum Transition
+series:
+  - kanban-to-scrum-transition
+series_order: 2
 categories:
   - Leadership
   - Agile

@@ -3,7 +3,9 @@ title: "De Kanban para Scrum – Parte 3: Desenvolvendo Engenheiros para Liderar
 author: helio
 layout: post
 date: 2022-11-10 10:00:00+00:00
-series: Transição de Kanban para Scrum
+series:
+  - kanban-to-scrum-transition
+series_order: 3
 categories:
   - Leadership
   - Agile

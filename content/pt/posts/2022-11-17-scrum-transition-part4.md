@@ -3,7 +3,9 @@ title: "De Kanban para Scrum – Parte 4: Nossos Rituais, Do Nosso Jeito"
 author: helio
 layout: post
 date: 2022-11-17 10:00:00+00:00
-series: Transição de Kanban para Scrum
+series:
+  - kanban-to-scrum-transition
+series_order: 4
 categories:
   - Leadership
   - Agile

@@ -3,7 +3,9 @@ title: From Kanban to Scrum – Recognizing the Need for Change
 author: helio
 layout: post
 date: 2022-10-27 10:00:00+00:00
-series: Kanban to Scrum Transition
+series:
+  - kanban-to-scrum-transition
+series_order: 1
 categories:
   - Leadership
   - Agile

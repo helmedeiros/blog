@@ -3,7 +3,9 @@ title: "From Kanban to Scrum – Part 4: Our Plays, Our Way"
 author: helio
 layout: post
 date: 2022-11-17 10:00:00+00:00
-series: Kanban to Scrum Transition
+series:
+  - kanban-to-scrum-transition
+series_order: 4
 categories:
   - Leadership
   - Agile
