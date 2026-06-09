@@ -12,7 +12,8 @@ tags:
     framework,
   ]
 categories: ["Leadership", "Agile"]
-series: ["Remote-First Work"]
+series:
+  - remote-first-work
 series_order: 5
 ---
 

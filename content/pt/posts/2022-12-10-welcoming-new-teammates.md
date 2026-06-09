@@ -15,7 +15,8 @@ tags:
   - assíncrono
   - crescimento-de-time
   - rituais
-series: Remote-First Work
+series:
+  - remote-first-work
 series_order: 4
 subtitle: Escale sua equipe preservando a cultura—mantendo práticas de onboarding remote-first que criam conexão, clareza e confiança para novos contratados
 ---

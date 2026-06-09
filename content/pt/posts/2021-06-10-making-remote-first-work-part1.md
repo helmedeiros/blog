@@ -12,7 +12,8 @@ tags:
     "assíncrono",
     "cultura-de-time",
   ]
-series: ["Remote-First Work"]
+series:
+  - remote-first-work
 series_order: 1
 ---
 
