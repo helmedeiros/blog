@@ -14,13 +14,13 @@
       <ul class="nav navbar-nav navbar-right">
         <!-- Custom hardcoded menu items -->
         <li>
+          <a title="Posts" href="{{ "" | relLangURL }}">POSTS</a>
+        </li>
+        <li>
           <a title="About" href="https://heliomedeiros.com/">About</a>
         </li>
         <li>
           <a title="{{ cond (eq .Language.Lang "pt") "Séries" "Series" }}" href="{{ "/series/" | relLangURL }}">{{ cond (eq .Language.Lang "pt") "SÉRIES" "SERIES" }}</a>
-        </li>
-        <li>
-          <a title="Posts" href="{{ "" | relLangURL }}">POSTS</a>
         </li>
 
         {{ if hugo.IsMultilingual }}
