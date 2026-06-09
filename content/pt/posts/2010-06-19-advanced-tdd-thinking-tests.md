@@ -10,7 +10,8 @@ tags:
   - desenvolvimento
 categories: ["Development", "Agile"]
 series:
-  - Aulas de Engenharia de Software
+  - software-engineering-lectures
+series_order: 1
 slug: tdd-avancado-pensando-com-testes
 summary:
   Nesta aula, aprofundamos o uso de Test-Driven Development (TDD), mostrando

@@ -10,7 +10,9 @@ tags:
   - development
 categories:
   - Development
-series: Software Engineering Lectures
+series:
+  - software-engineering-lectures
+series_order: 2
 slug: version-control-essential-foundation
 summary:
   "In this lecture, we turned to a topic that every developer ignores at their
