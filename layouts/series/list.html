@@ -1,0 +1,124 @@
+{{ define "header" }}<!-- series index page skips the theme hero -->{{ end }}
+{{ define "main" }}
+{{- $isPT := eq .Language.Lang "pt" -}}
+{{- $seriesPages := where .Site.RegularPages "Section" "series" -}}
+{{- $seriesData := slice -}}
+{{- range $seriesPages -}}
+  {{- $slug := .File.BaseFileName -}}
+  {{- $posts := where (where $.Site.RegularPages "Section" "posts") "Params.series" "intersect" (slice $slug) -}}
+  {{- $first := (sort $posts "Date" "asc") | first 1 -}}
+  {{- $firstDate := "" -}}
+  {{- with index $first 0 }}{{ $firstDate = .Date }}{{ end -}}
+  {{- $seriesData = $seriesData | append (dict "page" . "slug" $slug "count" (len $posts) "firstDate" $firstDate) -}}
+{{- end -}}
+{{- $seriesData = sort $seriesData "firstDate" "desc" -}}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <div class="series-index-page">
+        <h1 class="page-title">{{ cond $isPT "Séries" "Series" }}</h1>
+        <p class="page-description">{{ cond $isPT "Coleções de posts pensadas pra serem lidas em ordem." "Curated collections of posts meant to be read in order." }}</p>
+
+        <ol class="series-index-list">
+          {{ range $seriesData }}
+            {{- $page := .page -}}
+            <li class="series-index-item">
+              <a class="series-index-link" href="{{ $page.RelPermalink }}">
+                <h3 class="series-index-title">{{ $page.Title }}</h3>
+                {{ with $page.Params.description }}<p class="series-index-description">{{ . }}</p>{{ end }}
+                <span class="series-index-count">{{ .count }} {{ if eq .count 1 }}{{ cond $isPT "post" "post" }}{{ else }}{{ cond $isPT "posts" "posts" }}{{ end }}</span>
+              </a>
+            </li>
+          {{ end }}
+        </ol>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+.series-index-page {
+  margin: 2.5rem 0 3rem;
+}
+.series-index-page .page-title {
+  font-size: 2.5rem;
+  margin: 0 0 0.5rem;
+  color: #0f172a;
+  font-weight: 800;
+}
+.series-index-page .page-description {
+  font-size: 1.125rem;
+  color: #475569;
+  margin: 0 0 2rem;
+}
+.series-index-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: series-index-counter;
+}
+.series-index-item {
+  counter-increment: series-index-counter;
+  position: relative;
+  margin: 0 0 1rem;
+}
+.series-index-link {
+  display: block;
+  padding: 1.25rem 1.5rem 1.25rem 4rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border-left: 4px solid #1f2937;
+  color: inherit;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+.series-index-link:hover {
+  background: #f1f5f9;
+  text-decoration: none;
+}
+.series-index-link::before {
+  content: counter(series-index-counter);
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: #94a3b8;
+  width: 2rem;
+  text-align: center;
+  line-height: 1;
+}
+.series-index-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.25rem;
+  line-height: 1.35;
+  color: #0f172a;
+  font-weight: 700;
+}
+.series-index-link:hover .series-index-title {
+  color: #1d4ed8;
+}
+.series-index-description {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #475569;
+}
+.series-index-count {
+  display: inline-block;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #64748b;
+  font-weight: 600;
+}
+@media (max-width: 600px) {
+  .series-index-page .page-title { font-size: 1.875rem; }
+  .series-index-link { padding-left: 3.25rem; }
+  .series-index-link::before { font-size: 1.25rem; left: 0.85rem; }
+}
+</style>
+{{ end }}

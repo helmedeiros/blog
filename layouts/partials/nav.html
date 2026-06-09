@@ -17,6 +17,9 @@
           <a title="About" href="https://heliomedeiros.com/">About</a>
         </li>
         <li>
+          <a title="{{ cond (eq .Language.Lang "pt") "Séries" "Series" }}" href="{{ "/series/" | relLangURL }}">{{ cond (eq .Language.Lang "pt") "SÉRIES" "SERIES" }}</a>
+        </li>
+        <li>
           <a title="Posts" href="{{ "" | relLangURL }}">POSTS</a>
         </li>
 
