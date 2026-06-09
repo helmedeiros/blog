@@ -14,7 +14,7 @@ tags:
   - práticas-de-time
   - cultura-remota
 series:
-  - Remote-First Work
+  - remote-first-work
 series_order: 2
 subtitle: Transforme trabalho remoto emergencial em cultura officeless intencional—através de treinamento estruturado, liderança empática e experimentação coletiva que constrói confiança duradoura
 ---

@@ -14,7 +14,7 @@ tags:
   - async
   - team-practices
 series:
-  - Remote-First Work
+  - remote-first-work
 series_order: 3
 subtitle: Navigate the hybrid trap and preserve what works—designing systems for distributed-first collaboration even when the office reopens
 ---

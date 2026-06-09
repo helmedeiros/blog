@@ -4,7 +4,8 @@ subtitle: Create personalized onboarding experiences using collaborative worksho
 date: 2022-11-30
 tags: [remote-first, onboarding, team-culture, facilitation, async, framework]
 categories: ["Leadership", "Agile"]
-series: ["Remote-First Work"]
+series:
+  - remote-first-work
 series_order: 5
 ---
 

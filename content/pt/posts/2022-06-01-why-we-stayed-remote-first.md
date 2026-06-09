@@ -14,7 +14,7 @@ tags:
   - assíncrono
   - práticas-de-time
 series:
-  - Remote-First Work
+  - remote-first-work
 series_order: 3
 subtitle: Navegue a armadilha híbrida e preserve o que funciona—criando sistemas para colaboração distribuída mesmo quando o escritório reabre
 ---

@@ -14,7 +14,8 @@ tags:
   - async
   - team-growth
   - rituals
-series: Remote-First Work
+series:
+  - remote-first-work
 series_order: 4
 subtitle: Scale your team while preserving culture—maintaining remote-first onboarding practices that create connection, clarity, and confidence for new hires
 ---

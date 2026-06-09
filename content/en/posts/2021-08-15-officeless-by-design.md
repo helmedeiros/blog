@@ -14,7 +14,7 @@ tags:
   - team-practices
   - remote-culture
 series:
-  - Remote-First Work
+  - remote-first-work
 series_order: 2
 subtitle: Transform emergency remote work into intentional officeless culture—through structured training, empathetic leadership, and collective experimentation that builds lasting trust
 ---
