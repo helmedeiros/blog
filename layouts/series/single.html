@@ -1,18 +1,4 @@
-{{/* Series landing page.
-
-  Renders a content file under content/{lang}/series/{slug}.md as a
-  proper landing page: the series title and description from the
-  file's front matter, followed by an ordered list of every post in
-  the series sorted by `series_order`.
-
-  Posts surface their title, subtitle (when set), and date. The slug
-  is derived from the file's base name so this works for any series
-  that follows the same content/{lang}/series/{slug}.md convention.
-
-  Falls back to layouts/_default/single.html for everything else under
-  this section.
-*/}}
-
+{{ define "header" }}<!-- series landing pages skip the theme hero -->{{ end }}
 {{ define "main" }}
 {{- $seriesSlug := .File.BaseFileName -}}
 {{- $seriesPages := where (where .Site.RegularPages "Section" "posts") "Params.series" "intersect" (slice $seriesSlug) -}}
