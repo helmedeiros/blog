@@ -8,7 +8,7 @@ description:
   A practical guide to engaging your team in building quarterly OKRs together
   through transparent, structured facilitation.
 series:
-  - OKRA
+  - okra
 series_order: 6
 subtitle: Master the complete 5-session OKRA framework that transforms abstract company goals into team-owned OKRs with full buy-in and clear execution plans
 ---
