@@ -9,7 +9,7 @@ description:
   visual do plano do trimestre, tornando o alinhamento visível e acionável."
 series:
   - okra
-series_order: 5
+series_order: 8
 slug: session-4-quarter-draft-plan
 subtitle: Construa um plano visual e colaborativo do trimestre que cria alinhamento compartilhado sem cronogramas rígidos—transformando intenções em roadmaps executáveis
 ---

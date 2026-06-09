@@ -9,7 +9,7 @@ description:
   trimestrais com transparência e estrutura.
 series:
   - okra
-series_order: 6
+series_order: 9
 subtitle: Domine o framework OKRA completo de 5 sessões que transforma metas abstratas da empresa em OKRs com senso de pertencimento do time e planos claros de execução
 ---
 

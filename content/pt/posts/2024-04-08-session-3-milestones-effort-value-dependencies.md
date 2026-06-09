@@ -9,7 +9,7 @@ description:
   e dependências dos marcos, transformando ideias em planos acionáveis."
 series:
   - okra
-series_order: 4
+series_order: 7
 slug: session-3-milestones-effort-value-dependencies
 subtitle: Aprenda a fazer reality-check colaborativo dos seus marcos estimando esforço, pontuando valor e identificando dependências—antes de se comprometer com o trimestre
 ---

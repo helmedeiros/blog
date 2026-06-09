@@ -10,7 +10,7 @@ description:
   value, and dependencies for milestones, turning ideas into actionable plans."
 series:
   - okra
-series_order: 4
+series_order: 7
 slug: session-3-milestones-effort-value-dependencies
 subtitle: Learn to collaboratively reality-check your milestones by sizing effort, scoring value, and identifying dependencies—before committing to your quarter
 ---
