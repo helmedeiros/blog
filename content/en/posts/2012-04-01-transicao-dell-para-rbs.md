@@ -47,17 +47,3 @@ I'm excited. Nervous. Motivated. And most of all, grateful.
 To my teammates and friends at Dell: thank you for the intensity, the laughs, the code, and the care. It's been an honor.
 
 See you all around — in code, in conferences, in the next adventure.
-
----
-
-**Life in Porto Alegre Series:**
-
-- [Part 1: New City, New Code, New Language](/en/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Part 2: Total Focus, Pomodoro and Migration with Confidence](/en/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Part 3: Release Weekend, Automation, and the Value of Real Leadership](/en/posts/2011-01-30-final-de-semana-de-release-dell/)
-- [Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
-- [Part 5: Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
-- [Part 6: Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/)
-- **Part 7: Gratitude and Transition: From Dell to RBS** _(you are here)_
-
-**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

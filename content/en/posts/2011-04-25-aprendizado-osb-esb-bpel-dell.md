@@ -95,17 +95,3 @@ Learning OSB has reminded me of a key truth: **Tools change, but core software t
 I still love Java. But I'm embracing this new toolbox with open curiosity. And thanks to Cadu and the team, I've never felt more empowered to learn.
 
 More updates soon — this transformation is just getting started.
-
----
-
-**Life in Porto Alegre Series:**
-
-- [Part 1: New City, New Code, New Language](/en/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Part 2: Total Focus, Pomodoro and Migration with Confidence](/en/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Part 3: Release Weekend, Automation, and the Value of Real Leadership](/en/posts/2011-01-30-final-de-semana-de-release-dell/)
-- **Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell** _(you are here)_
-- **Next**: [Remote Work, Resilience, and the Power of Friendship](/en/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Part 5)
-- [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
-- [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)
-
-**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

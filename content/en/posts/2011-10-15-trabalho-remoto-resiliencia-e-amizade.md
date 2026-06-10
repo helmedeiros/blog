@@ -82,17 +82,3 @@ We're still on this journey. But I've never felt more certain: **remote work, do
 Thanks to everyone walking beside us.
 
 Until next update.
-
----
-
-**Life in Porto Alegre Series:**
-
-- [Part 1: New City, New Code, New Language](/en/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Part 2: Total Focus, Pomodoro and Migration with Confidence](/en/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Part 3: Release Weekend, Automation, and the Value of Real Leadership](/en/posts/2011-01-30-final-de-semana-de-release-dell/)
-- [Part 4: Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](/en/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
-- **Part 5: Remote Work, Resilience, and the Power of Friendship** _(you are here)_
-- **Next**: [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](/en/posts/2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
-- [Gratitude and Transition: From Dell to RBS](/en/posts/2012-04-01-transicao-dell-para-rbs/) (Part 7)
-
-**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

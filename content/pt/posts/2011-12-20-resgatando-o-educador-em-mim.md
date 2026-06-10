@@ -17,8 +17,6 @@ tags:
 subtitle: Redescubra seu educador interior através de liderança inspiradora—aprenda como grandes tech leads criam espaço para outros crescerem, e por que compartilhar suas dificuldades cria o aprendizado mais poderoso
 ---
 
-_Esta é a Parte 6 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
-
 Algumas pessoas nasceram para fazer mais do que escrever código ou entregar tarefas. Algumas pessoas são **formadoras de formadores**. Estão presentes em reuniões, pull requests e canais de Slack não apenas para cumprir o escopo — mas para **ajudar os outros a se tornarem sua melhor versão**. Marcelo Schmidt é uma dessas pessoas.
 
 Desde que entrei na Stefanini/Dell, tive o privilégio de ver o Schmidt **crescer enormemente como líder técnico**. Ele cria espaço — e depois _protege_ esse espaço — para que engenheiros tentem, errem, ensinem, reflitam e melhorem. Ele não palestra em eventos, mas **inspira as pessoas a acreditarem que podem**.
@@ -66,15 +64,3 @@ Schmidt, obrigado. Por criar o espaço. Por manter esse espaço seguro. Por most
 E pra quem está lendo: se você colocou seu lado educador em pausa, talvez esteja na hora de apertar o botão **retomar**. A próxima voz que alguém precisa ouvir pode ser a sua.
 
 Vamos continuar construindo.
-
----
-
-**Série Life in Porto Alegre:**
-
-- [Parte 1: Nova Cidade, Novo Código, Novo Idioma](/pt/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Parte 2: Foco Total, Pomodoro e Migração com Confiança](/pt/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Parte 3: Final de Semana de Release, Automação e o Valor da Liderança de Verdade](/pt/posts/2011-01-30-final-de-semana-de-release-dell/)
-- [Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](/pt/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
-- [Parte 5: Trabalho Remoto, Resiliência e o Poder da Amizade](/pt/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/)
-- **Parte 6: Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas** _(você está aqui)_
-- **Próximo**: [Gratidão e Transição: Deixando a Dell para a RBS](/pt/posts/2012-04-01-transicao-dell-para-rbs/) (Parte 7)

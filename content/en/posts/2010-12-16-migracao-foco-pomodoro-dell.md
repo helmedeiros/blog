@@ -37,8 +37,6 @@ series_order: 2
 subtitle: Master complex migrations through focused execution—discover how Pomodoro technique, small commits, and great mentorship transform overwhelming legacy work into confident, incremental progress
 ---
 
-> **Series: Life in Porto Alegre** | **Part 2 of 7** > _Discovering a new city and a new career_
-
 There's something quietly powerful about hitting a rhythm. That flow where your mind stops wandering, distractions fade away, and you're fully committed to one thing: delivering excellent work. That was my December at Dell.
 
 ### Pomodoro for Deep Work

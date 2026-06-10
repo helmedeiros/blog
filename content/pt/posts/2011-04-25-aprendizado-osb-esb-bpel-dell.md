@@ -17,8 +17,6 @@ tags:
 subtitle: Transicione de pensamento code-first para orquestração—aprenda como migrar de Java para OSB/BPEL muda sua mentalidade de lógica-como-código para lógica-como-configuração enquanto habilita equipes
 ---
 
-_Esta é a Parte 4 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
-
 Seis meses após minha chegada à Dell, estou no meio de uma das transições mais empolgantes da minha carreira. Nosso time está migrando lógicas que antes viviam em código Java tradicional para ferramentas de orquestração como **Oracle Service Bus (OSB)**. E não estou só assistindo — fui convidado a **liderar essa transformação**.
 
 ### Um Engenheiro Java em Território de Drag-and-Drop
@@ -95,15 +93,3 @@ Aprender OSB me lembrou de uma verdade essencial: **as ferramentas mudam, mas o 
 Ainda amo Java. Mas estou abraçando esse novo conjunto de ferramentas com curiosidade e energia. E graças ao Cadu e ao time, nunca me senti tão preparado para aprender.
 
 Mais em breve — essa jornada de transformação está só começando.
-
----
-
-**Série Life in Porto Alegre:**
-
-- [Parte 1: Nova Cidade, Novo Código, Novo Idioma](/pt/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Parte 2: Foco Total, Pomodoro e Migração com Confiança](/pt/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Parte 3: Final de Semana de Release, Automação e o Valor da Liderança de Verdade](/pt/posts/2011-01-30-final-de-semana-de-release-dell/)
-- **Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell** _(você está aqui)_
-- **Próximo**: [Trabalho Remoto, Resiliência e o Poder da Amizade](/pt/posts/2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Parte 5)
-- [Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas](/pt/posts/2011-12-20-resgatando-o-educador-em-mim/) (Parte 6)
-- [Gratidão e Transição: Deixando a Dell para a RBS](/pt/posts/2012-04-01-transicao-dell-para-rbs/) (Parte 7)

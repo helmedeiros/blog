@@ -39,8 +39,6 @@ subtitle: Navigate the excitement of multinational environments—discover how m
 
 ![Dell Campus in Porto Alegre](/uploads/2010/11/dell_5084527975_o.jpg)
 
-> **Series: Life in Porto Alegre** | **Part 1 of 7** > _Discovering a new city and a new career_
-
 I just wrapped up my first work week here at **Stefanini/Dell Computers in Porto Alegre**, and I'm writing this with a huge smile on my face, fueled by a mixture of excitement, adrenaline, and that pleasant kind of exhaustion that comes from facing something truly new.
 
 ## A Jump Into the Global Unknown

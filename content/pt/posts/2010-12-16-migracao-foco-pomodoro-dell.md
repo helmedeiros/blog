@@ -35,8 +35,6 @@ series_order: 2
 subtitle: Domine migrações complexas através de execução focada—descubra como técnica Pomodoro, commits pequenos e ótima mentoria transformam trabalho legado avassalador em progresso incremental confiante
 ---
 
-> **Série: Vida em Porto Alegre** | **Parte 2 de 7** > _Descobrindo uma nova cidade e uma nova carreira_
-
 Existe algo discretamente poderoso em entrar no ritmo certo. Aquele estado em que sua mente para de vagar, as distrações somem, e você está totalmente dedicado a uma coisa: entregar um trabalho excelente. Esse foi o meu dezembro na Dell.
 
 ### Pomodoro para Trabalho Profundo
@@ -76,17 +74,3 @@ Se você está enfrentando um projeto complexo, recomendo:
 - E, se tiver sorte como eu, aprenda com pessoas como Matias e Cadu.
 
 Vamos construir software que dure — e curtir o processo enquanto fazemos isso.
-
----
-
-**Navegação da Série Vida em Porto Alegre:**
-
-- [Nova Cidade, Novo Código, Novo Idioma](../2010-11-15-primeira-semana-dell-porto-alegre/) (Parte 1)
-- **Atual**: Parte 2 - Foco Total, Pomodoro e Migração com Confiança
-- **Próximo**: [Final de Semana de Release, Automação e o Valor da Liderança de Verdade](../2011-01-30-final-de-semana-de-release-dell/) (Parte 3)
-- [Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](../2011-04-25-aprendizado-osb-esb-bpel-dell/) (Parte 4)
-- [Trabalho Remoto, Resiliência e o Poder da Amizade](../2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Parte 5)
-- [Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas](../2011-12-20-resgatando-o-educador-em-mim/) (Parte 6)
-- [Gratidão e Transição: Deixando a Dell para a RBS](../2012-04-01-transicao-dell-para-rbs/) (Parte 7)
-
-**Esta série documenta minha mudança para Porto Alegre e os primeiros passos na Dell/Stefanini**, explorando os desafios de trabalhar em um ambiente multinacional, aprender novas tecnologias enterprise e adaptar-se a uma nova cidade.

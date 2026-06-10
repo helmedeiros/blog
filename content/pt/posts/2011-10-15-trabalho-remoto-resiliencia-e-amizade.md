@@ -16,8 +16,6 @@ tags:
 subtitle: Navegue trabalho remoto durante crise pessoal com elegância—descubra como confiança, supercomunicação e amizade genuína criam segurança psicológica que permite produtividade através da dor
 ---
 
-_Esta é a Parte 5 de 7 da série [Vida em Porto Alegre](/pt/series/vida-em-porto-alegre/)._
-
 Esse tem sido um dos períodos mais emocionalmente intensos da minha vida.
 
 Em julho, minha mãe sofreu um **AVC grave**. Passamos um mês inteiro ao lado dela na UTI. O AVC levou mais do que fala ou mobilidade — levou memórias, como o fato de que meu pai faleceu há muitos anos. Ver ela lutar contra a confusão, o silêncio e a dor é algo que nunca vou esquecer. Minha esposa e eu tivemos que decidir rápido: **voltar para Natal-RN** e apoiar sua recuperação enquanto eu continuava trabalhando remotamente.
@@ -82,15 +80,3 @@ Ainda estamos nessa jornada. Mas nunca estive tão certo: **trabalho remoto, qua
 Obrigado a todos que estão ao nosso lado.
 
 Até a próxima atualização.
-
----
-
-**Série Life in Porto Alegre:**
-
-- [Parte 1: Nova Cidade, Novo Código, Novo Idioma](/pt/posts/2010-11-15-primeira-semana-dell-porto-alegre/)
-- [Parte 2: Foco Total, Pomodoro e Migração com Confiança](/pt/posts/2010-12-16-migracao-foco-pomodoro-dell/)
-- [Parte 3: Final de Semana de Release, Automação e o Valor da Liderança de Verdade](/pt/posts/2011-01-30-final-de-semana-de-release-dell/)
-- [Parte 4: Além do Java: Aprendendo OSB, ESB e BPEL no Segundo Trimestre na Dell](/pt/posts/2011-04-25-aprendizado-osb-esb-bpel-dell/)
-- **Parte 5: Trabalho Remoto, Resiliência e o Poder da Amizade** _(você está aqui)_
-- **Próximo**: [Resgatando o Educador em Mim: Inspirado por um Tech Lead que Forma Pessoas](/pt/posts/2011-12-20-resgatando-o-educador-em-mim/) (Parte 6)
-- [Gratidão e Transição: Deixando a Dell para a RBS](/pt/posts/2012-04-01-transicao-dell-para-rbs/) (Parte 7)
