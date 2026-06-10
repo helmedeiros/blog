@@ -17,6 +17,8 @@ categories: ["Leadership", "Agile"]
 
 ## Rumo ao Desconhecido
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/210487326a404435a508b551dd9259bf" title="Histórias são suposições — um kanban de construir, medir &amp; aprender e o livro de possibilidades" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" spellcheck="false" data-ratio="1.3333333333333333"></iframe>
+
 Em julho de 2018, subi ao palco do BA Brazil em São Paulo com um desafio simples, mas poderoso: como podemos _realmente aprender_ durante o desenvolvimento de produto?
 
 Com frequência, os times escrevem user stories, entregam funcionalidades e seguem adiante—sem validar o valor entregue, o problema resolvido ou se o comportamento do usuário foi o que esperávamos. Nessa palestra, apresentei uma estrutura leve para aprendizado contínuo: combinar **histórias**, **hipóteses** e **métricas** para tomar decisões em ambientes de incerteza.

@@ -17,6 +17,8 @@ categories: ["Leadership", "Agile"]
 
 ## Into the Unknown
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/210487326a404435a508b551dd9259bf" title="Stories are assumptions a build,measure &amp; learn kanban and the book of possibilities" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" spellcheck="false" data-ratio="1.3333333333333333"></iframe>
+
 In July 2018, I took the BA Brazil stage in São Paulo with a simple but powerful challenge: how can we _actually learn_ during product development?
 
 Too often, teams write user stories, ship features, and move on—without validating the value delivered, the problem solved, or even if the user behavior matched what we imagined. In this keynote, I introduced a lightweight framework for continuous learning: combining **stories**, **hypotheses**, and **metrics** to make decisions in environments of uncertainty.
