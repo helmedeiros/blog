@@ -23,6 +23,8 @@ We often ask ourselves:
 
 In this keynote, I brought a simple but hard-earned truth: **software is not just code—it's built on relationships**.
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/d52fbce754184743a72d89e6e2e71014" title="Team Building: Software Depends on Relationships" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
+
 Too often, organizations obsess over data, information, and process automation. But what truly sustains software delivery is wisdom—and wisdom emerges from people connecting, understanding, and growing together.
 
 ## What I Saw, What I Lived

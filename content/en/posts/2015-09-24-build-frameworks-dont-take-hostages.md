@@ -17,6 +17,8 @@ categories: ["Events", "Architecture"]
 
 ## What This Talk Was Really About
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/0f2e9b2d6e1c4f678a1897d63404c91b" title="Make frameworks not hostages" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
+
 This wasn't a talk against frameworks. It was a wake-up call.
 
 Over the past decade, we've seen an explosion of frameworks across every language ecosystem. But with this explosion came a dangerous side effect: developers stopped asking why, and started following how. Frameworks became dogma. And worse, they became prisons.

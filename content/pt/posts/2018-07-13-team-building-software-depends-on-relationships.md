@@ -23,6 +23,8 @@ Muitas vezes nos perguntamos:
 
 Nessa keynote, trouxe uma verdade simples, mas difícil de construir: **software não é só código—ele se constrói em cima de relacionamentos**.
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/d52fbce754184743a72d89e6e2e71014" title="Team Building: Software Depende de Relacionamentos" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
+
 Com frequência, as organizações se perdem nos dados, na automação e nas regras. Mas o que realmente sustenta a entrega de software é sabedoria—e ela nasce da conexão entre as pessoas.
 
 ## O Que Eu Vi e Vivi

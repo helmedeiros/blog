@@ -19,9 +19,10 @@ tags:
 subtitle: Avoid vanity metrics that mislead your decisions—learn to use actionable, accessible, and auditable reports that reveal true cause-and-effect relationships in your business
 ---
 
-<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa
+![Success in the right measure – Vanity metrics](/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png)
+*Success in the right measure – Vanity metrics*
 
-- Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1] <figcaption class="wp-caption-text">Success in the right measure – Vanity metrics</figcaption></figure> Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
+Recently, I witnessed a development team presenting to their managers, defending quality as an agent of growth.
 
 They were presenting a graph that showed when they started focusing on quality, they saw a growth in the number of registrations.
 
@@ -95,16 +96,7 @@ And who knows when we do that, we put our strategy on paper like a rough map, wh
 
 Think always, act as if, and remove what's not aligned as soon as possible.
 
-<p style="text-align: center">
- <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ltp1NzAzENXGu8" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-</iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
-</div>
-</p>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00eec6d0217a0131fca9464dee30730c" title="Success in the right measure – Vanity metrics" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 710 / 399;" data-ratio="1.7794486215538847"></iframe>
 
 [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
 [3]: http://www.mit.edu/
-[1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png

@@ -22,7 +22,8 @@ tags:
 subtitle: Evite métricas de vaidade que enganam suas decisões—aprenda a usar relatórios acionáveis, acessíveis e auditáveis que revelam verdadeiras relações de causa-efeito no seu negócio
 ---
 
-<figure id="attachment_667" style="width: 467px" class="wp-caption aligncenter">[<img class=" wp-image-667 " alt="Sucesso na medida certa - Métricas de vaidade" src="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png" width="467" height="225" srcset="/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png 519w, /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM-300x144.png 300w" sizes="(max-width: 467px) 100vw, 467px" />][1]<figcaption class="wp-caption-text">Sucesso na medida certa &#8211; Métricas de vaidade</figcaption></figure>
+![Sucesso na medida certa – Métricas de vaidade](/uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png)
+*Sucesso na medida certa – Métricas de vaidade*
 
 Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?!? Talvez, ambos?
 
@@ -44,16 +45,7 @@ Mesmo assim ainda podem dizer que temos todos os dados estatísticos necessário
 
 Vamos lá, todos possuem ótimas idéias em algum ponto da vida. Então porque nós não as criamos? E quem sabe enquanto fazemos isso colocamos no papel a estratégia como um grande mapa rascunhado, no qual podemos a cada encruzilhada parar e pensar mas sem nunca perder o foco na meta final. Pensar sempre, fazer as vezes e remover o quanto antes o que não estiver alinhado.
 
-<p style="text-align: center">
-  <div style="margin-bottom: 20px;">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ltp1NzAzENXGu8" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-</iframe>
-<div style="margin-bottom:5px">
-    <strong><a href="//www.slideshare.net/heliomedeiros" target="_blank">View more presentations from Hélio Medeiros</a></strong>
-</div>
-</div>
-</p>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00eec6d0217a0131fca9464dee30730c" title="Sucesso na medida certa – Métricas de vaidade" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 710 / 399;" data-ratio="1.7794486215538847"></iframe>
 
-[1]: /uploads/2012/12/Screen-Shot-2012-12-18-at-12.39.38-AM.png
 [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
 [3]: http://www.mit.edu/
