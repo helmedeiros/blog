@@ -17,6 +17,8 @@ categories: [ "Architecture"]
 
 In the early days of our careers, most of us learn about SOLID principles as if they only apply to object-oriented programming and class design. But these principles go far beyond clean code inside a single repository. They help structure thinking in systems, especially when those systems scale into microservices.
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b5bcd7d0d3e00131c63f4637614a4234" title="One against 1 - The Journey of a developer with SOLID principles" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" spellcheck="false" data-ratio="1.7777777777777777"></iframe>
+
 Let's explore this with a practical analogy: a digital newspaper portal.
 
 ## The Portal as Microservices

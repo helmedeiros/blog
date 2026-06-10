@@ -17,6 +17,8 @@ categories: [ "Architecture"]
 
 No início da nossa carreira, aprendemos sobre os princípios SOLID como se fossem exclusivos da programação orientada a objetos. Mas esses princípios vão muito além do código limpo dentro de um único repositório. Eles ajudam a estruturar o pensamento em sistemas — especialmente quando esses sistemas escalam para microsserviços.
 
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b5bcd7d0d3e00131c63f4637614a4234" title="One against 1 - A jornada de um desenvolvedor com os princípios SOLID" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" spellcheck="false" data-ratio="1.7777777777777777"></iframe>
+
 Vamos explorar isso com uma analogia prática: um portal digital de notícias.
 
 ## O Portal como Microsserviços
