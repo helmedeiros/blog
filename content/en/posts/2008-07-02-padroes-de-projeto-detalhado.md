@@ -103,12 +103,3 @@ Design patterns are time-tested thinking tools. They help us go beyond just writ
 In upcoming posts, we'll go deeper into each category with concrete UML diagrams, when to use them, and examples that highlight trade-offs and variations.
 
 Stay tuned for real-world applications of Factory, Strategy, Observer, and more.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
-- **Current**: Part 1 - Design Patterns Overview
-- **Next**: [Part 2 - Creational Patterns](../2008-07-04-padroes-de-criacao/)
-- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Structural Patterns](../2008-07-06-padroes-estruturais/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)

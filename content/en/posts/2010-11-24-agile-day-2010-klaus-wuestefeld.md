@@ -68,12 +68,3 @@ Next, we discussed how many of the dirtiness in code is linked to the difficulty
 Finally, we should be concerned with standards and good technical practices instead of bickering over dilemmas like quality vs. deadline, for sure quality always so that deadlines are always more realistic and productivity is greater.
 
 Klaus ended his presentation with a quote from GO, "throw away your first 100 games as quickly as possible".
-
----
-
-### **Series Navigation**
-
-- **Previous**: [Announcement - Agile Day 2010 Preview](../2010-11-23-agile-day-2010-porto-alegre/)
-- **Current**: Part 1 - Klaus Wuestefeld on Quality vs. Speed
-- **Next**: [Part 2 - Luiz Faias Jr. on Building a Learning Culture](../2010-11-30-agile-day-2010-luiz-faias-jr/)
-- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)

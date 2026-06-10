@@ -65,12 +65,3 @@ Facilitators can adapt this exercise for teams looking to revisit or redesign th
 ---
 
 _Posted as part of the Software Engineering course journal. Today we learned that applying XP isn't about checklists — it's about crafting environments, rituals, and relationships that sustain responsible delivery._
-
----
-
-### **Series Navigation**
-
-- **Previous**: [Part 9 - XP Principles & Practices](../2010-05-01-xp-principles-practices/)
-- **Current**: Part 10 - XP in Practice
-- **Next**: [Part 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | XP in Practice | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/)

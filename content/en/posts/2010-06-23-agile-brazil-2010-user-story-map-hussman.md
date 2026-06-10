@@ -88,14 +88,4 @@ I walked back to the hotel drained, but thrilled. Not from process — but from 
 
 Thank you, David Hussman. Thank you, Agile Brazil. What a day.
 
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Previous**: [Part 1 - Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Current**: Part 2 - Story Mapping with David Hussman
-- **Next**: [Part 3 - My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Part 4**: [Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Final**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-
 [1]: /uploads/2010/06/david-hussman-story-mapping.jpg

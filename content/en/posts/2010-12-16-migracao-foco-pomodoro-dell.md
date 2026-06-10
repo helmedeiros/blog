@@ -78,19 +78,3 @@ If you're facing your own complex project, I highly recommend:
 - And if you're lucky like me, learn from people like Matias and Cadu.
 
 Let's build software that lasts — and enjoy the process while we do it.
-
----
-
-**Life in Porto Alegre Series Navigation:**
-
-- [New City, New Code, New Language](../2010-11-15-primeira-semana-dell-porto-alegre/) (Part 1)
-- **Current**: Part 2 - Laser Focus, Pomodoro, and Migrating with Confidence
-- **Next**: [Release Weekend, Automation, and the Value of Real Leadership](../2011-01-30-final-de-semana-de-release-dell/) (Part 3)
-- [Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](../2011-04-25-aprendizado-osb-esb-bpel-dell/) (Part 4)
-- [Remote Work, Resilience, and the Power of Friendship](../2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Part 5)
-- [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](../2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
-- [Gratitude and Transition: From Dell to RBS](../2012-04-01-transicao-dell-para-rbs/) (Part 7)
-
-**This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.
-
-**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

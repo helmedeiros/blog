@@ -132,13 +132,3 @@ TDD helps developers stay grounded: no big jumps, no wasted code. It's a loop of
 ---
 
 _Posted as part of the Software Engineering course journal. Today we learned that TDD isn't just about testing—it's about designing with confidence and building systems that evolve through deliberate, validated steps._
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
-- **Previous**: [Part 13 - Software Testing](../2010-05-29-software-testing/)
-- **Next**: [Part 15 - Unit Testing with JUnit](../2010-06-12-junit-unit-testing/)
-- **Current**: Part 14 - Test-Driven Development
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | [Software Testing](../2010-05-29-software-testing/) | Test-Driven Development | [Unit Testing with JUnit](../2010-06-12-junit-unit-testing/)

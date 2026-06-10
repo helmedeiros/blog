@@ -80,15 +80,3 @@ This talk wasn't flashy. No fancy slides. But the content? It was gold. Practica
 And thank you, Agile Brazil, for putting sessions like this on the map. What a day.
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/LadrqAnLIwKlEG?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/coaching-guerrilha/4633708" title="Coaching guerrilha" target="_blank">Coaching guerrilha</a> </strong> from <strong> <a href="https://www.slideshare.net/frankmt" target="_blank">frankmt</a> </strong></div>
-
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Part 1**: [Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Part 4**: [Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Current**: Part 5 - Guerrilla Coaching with Francisco Trindade (Final)
-
-**This series documents my experience at Agile Brazil 2010**, Brazil's first national agile conference. From hands-on XP to guerrilla coaching, it was a transformative event that shaped my understanding of agile practices and leadership.

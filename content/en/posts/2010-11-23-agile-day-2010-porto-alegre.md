@@ -36,12 +36,3 @@ We will have the <a title="Klaus" href="http://twitter.com/klauswuestefeld" targ
 Good speakers for a knowledge-filled day... the event starts at 08:30h and ends at 19:30!
 
 I hope to see you there!
-
----
-
-### **Series Navigation**
-
-- **Previous**: —
-- **Current**: Announcement - Agile Day 2010 Preview
-- **Next**: [Part 1 - Klaus Wuestefeld on Quality vs. Speed](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
-- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)

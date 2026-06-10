@@ -232,12 +232,3 @@ interface Visitor {
 Behavioral patterns provide the **rules of interaction** for objects in your system. They promote clarity, extensibility, and modularity in how logic is executed and coordinated.
 
 With all three categories explored — Creational, Structural, Behavioral — we now have a solid foundation for software design that balances flexibility, clarity, and evolution.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
-- **Previous**: [Part 3 - Structural Patterns](../2008-07-06-padroes-estruturais/)
-- **Current**: Part 4 - Behavioral Patterns (Final)
-- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Structural Patterns](../2008-07-06-padroes-estruturais/)

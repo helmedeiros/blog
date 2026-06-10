@@ -73,13 +73,3 @@ I'm definitely going to set up MongoDB or CouchDB on my laptop and try modeling 
 The examples Nico showed of document-based storage for content management systems were particularly compelling.
 
 **Next up in this series:** Rafael Martinelli's talk on Flex at DClick!
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Previous**: [Part 3 - RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/)
-- **Current**: Part 4 - NoSQL Databases
-- **Next**: [Part 5 - Flex Framework](../2009-11-12-caelum-day-part5-flex/)
-- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

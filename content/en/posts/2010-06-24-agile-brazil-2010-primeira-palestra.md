@@ -95,14 +95,4 @@ This post is my way of capturing the moment. Agile Brazil 2010 isn't just where 
 
 More soon.
 
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Part 1**: [Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Current**: Part 3 - My First Agile Talk
-- **Next**: [Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Final**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-
 [1]: /uploads/2010/06/agile-brazil-2010-team.jpg

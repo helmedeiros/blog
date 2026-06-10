@@ -70,12 +70,3 @@ There's a [YouTube video](https://www.youtube.com/watch?v=example) from one of F
 This feels like one of those moments where you're witnessing a fundamental shift in how technology works. I'm definitely inspired to start experimenting with some of these cloud services, even if it's just for personal projects. The potential for changing how we build and deploy applications seems enormous.
 
 **Next up in this series:** VRaptor 3 and how Brazilian developers are revolutionizing Java web development!
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Current**: Part 1 - Cloud Computing with Fábio Kung
-- **Next**: [Part 2 - VRaptor 3 Framework](../2009-11-09-caelum-day-part2-vraptor3/)
-- **Complete series**: [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

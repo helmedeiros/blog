@@ -62,13 +62,3 @@ This **UML Use Case Diagram** shows the main system functionalities from the per
 This third scenario illustrates how control systems can incorporate intelligence to support decisions. Unlike previous scenarios ([classifieds](../2008-06-13-minicenario-classificados-na-web/) and [betting pool](../2008-06-17-minicenario-controle-de-bolao/)), here the focus is on history and data comparison to optimize future purchases.
 
 UML modeling helps us organize these functionalities clearly, showing how historical data can be transformed into useful information.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
-- **Previous**: [Part 2 - Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/)
-- **Current**: Part 3 - Construction Control
-- **Next**: [Part 4 - Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
-- **Complete series**: [Web Classifieds](../2008-06-13-minicenario-classificados-na-web/) | [Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

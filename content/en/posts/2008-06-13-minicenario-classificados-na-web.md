@@ -69,12 +69,3 @@ This **Class Diagram** represents the system's structure using classes, their at
 ## Conclusion
 
 This first scenario demonstrates how an apparently simple system can involve multiple actors and complex relationships. UML modeling helps us capture both the interactions (use cases) and the data structure (classes) required.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
-- **Current**: Part 1 - Web Classifieds
-- **Next**: [Part 2 - Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/)
-- **Complete series**: [Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

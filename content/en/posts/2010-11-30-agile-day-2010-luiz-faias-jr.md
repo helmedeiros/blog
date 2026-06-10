@@ -82,12 +82,3 @@ Finally, Luiz concluded with a statement of concepts I strongly believe in: eith
 THANKS, LUIZ AND ANDRÉ... for another company that encourages good practices and the desire to grow in our market.
 
 <a title="Presentation" href="http://www.slideshare.net/bluesoftbr/construindo-uma-cultura-de-aprendizagem-5880225" target="_blank">Building a Learning Culture</a>
-
----
-
-### **Series Navigation**
-
-- **Previous**: [Part 1 - Klaus Wuestefeld on Quality vs. Speed](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
-- **Current**: Part 2 - Luiz Faias Jr. on Building a Learning Culture
-- **Next**: [Part 3 - Paulo Caroli on Software Production Line](../2010-12-12-agile-day-2010-paulo-caroli/)
-- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)

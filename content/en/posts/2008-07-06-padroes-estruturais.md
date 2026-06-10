@@ -186,13 +186,3 @@ class ImageProxy implements Image {
 Structural patterns help us **compose systems with elegance**, enabling adaptation, extension, and simplification of architecture without creating a domino effect of changes.
 
 Next up, we'll explore **Behavioral Patterns** — how to coordinate responsibilities and workflows flexibly.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
-- **Previous**: [Part 2 - Creational Patterns](../2008-07-04-padroes-de-criacao/)
-- **Current**: Part 3 - Structural Patterns
-- **Next**: [Part 4 - Behavioral Patterns](../2008-07-08-padroes-comportamentais/)
-- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Creational Patterns](../2008-07-04-padroes-de-criacao/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)

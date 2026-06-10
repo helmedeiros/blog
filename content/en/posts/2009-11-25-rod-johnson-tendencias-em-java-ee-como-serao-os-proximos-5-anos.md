@@ -89,11 +89,3 @@ Rod closed with a message to Brazilian developers:
 ---
 
 _Posted shortly after Rod Johnson's talk at TDC Rio 2009._
-
----
-
-### **Series Navigation**
-
-- **Previous**: [Part 1 - Mike Keith - Java EE 6: A Major Evolution](../2009-11-20-mike-keith-java-ee-6-uma-grande-evolucao/)
-- **Current**: Part 2 - Rod Johnson on Java EE Trends and the Next 5 Years (Final)
-- **Complete series**: [TDC Rio 2009 Series](/series/tdc-rio-2009/)

@@ -88,16 +88,3 @@ Here are 10 concepts from Caroli's talk, each one ready to be put into practice:
 At the end, I looked back at our team's current board and already saw five ways to improve it. Caroli's talk helped me notice what our board wasn't saying — and how much that slowed decisions, collaboration, and delivery.
 
 **Thank you, Paulo Caroli**, for showing us that putting cards on the wall is about more than transparency. It's about clarity, flow, and continuous improvement — with color, context, and care.
-
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Part 1**: [Hands-on XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Part 4**: [Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Part 5**: [Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-- **Current**: Part 6 - Put the Cards on the Wall with Paulo Caroli (Final)
-
-**This series documents my participation in Agile Brazil 2010**, Brazil's first national agile methods conference. From hands-on XP to effective card walls, it was a transformative event that shaped my understanding of agile practices and visual management.

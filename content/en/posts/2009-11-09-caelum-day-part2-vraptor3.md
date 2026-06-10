@@ -71,13 +71,3 @@ If VRaptor 3 delivers on its promises, it might prove that Java web development 
 I'm curious to see how this plays out. The Java community has been looking for something like this for a while.
 
 **Next in the series:** How Sergio Junior and Luiz Costa are making REST finally make sense!
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Previous**: [Part 1 - Cloud Computing with Fábio Kung](../2009-11-08-caelum-day-part1-cloud-fabio-kung/)
-- **Current**: Part 2 - VRaptor 3 Framework
-- **Next**: [Part 3 - RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/)
-- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

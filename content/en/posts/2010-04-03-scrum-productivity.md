@@ -84,13 +84,3 @@ As a final takeaway, I encouraged students to apply one thing they learned this 
 ---
 
 _Posted as part of the Software Engineering teaching journal. Scrum isn't about controlling work — it's about enabling teams to own it with rhythm and clarity._
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
-- **Previous**: [Part 5 - Agile Mindset](../2010-03-26-agile-mindset/)
-- **Current**: Part 6 - Scrum Productivity
-- **Next**: [Part 7 - Scrum Cycle](../2010-04-11-scrum-cycle/)
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | Scrum Productivity | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

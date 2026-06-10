@@ -90,13 +90,3 @@ As we closed, they pointed again to the book — Agile Retrospectives — and en
 I walked out not just thinking about how to run better retros, but about how to help others _want_ to participate. It's not about perfect formats. It's about care, attention, listening, and learning — as a group.
 
 Thank you Mariana. Thank you Hugo. What a powerful session.
-
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Part 1**: [Hands-On XP Workshop](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Part 2**: [Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Current**: Part 4 - Retrospectives with Hugo Corbucci and Mariana Bravo
-- **Next**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)

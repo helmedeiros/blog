@@ -69,13 +69,3 @@ For corporate applications that need **professional UIs, complex data visualizat
 After seeing Rafael's presentation, I'm definitely curious to try Flex on a real project. The combination of **creative possibilities** with **structured development** is appealing, especially for data-heavy applications that need to look good and perform well.
 
 **Coming up next:** Paulo Silveira's deep dive into Java Persistence and JPA 2.0!
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Previous**: [Part 4 - NoSQL Databases](../2009-11-11-caelum-day-part4-nosql/)
-- **Current**: Part 5 - Flex Framework
-- **Next**: [Part 6 - Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/)
-- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

@@ -68,12 +68,3 @@ This parking system concludes our UML mini-scenarios series, demonstrating how d
 4. **Parking System**: Real-time operations and automatic calculations
 
 Each scenario illustrates different aspects of UML modeling, from simple use cases to complex relationships between classes and actors. **UML use case modeling** clearly outlines system responsibilities and interactions, regardless of the domain.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
-- **Previous**: [Part 3 - Construction Control](../2008-06-21-minicenario-controle-de-obras/)
-- **Current**: Part 4 - Parking System (Final)
-- **Complete series**: [Web Classifieds](../2008-06-13-minicenario-classificados-na-web/) | [Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/)

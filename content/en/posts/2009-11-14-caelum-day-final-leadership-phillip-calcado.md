@@ -85,13 +85,3 @@ I left the keynote with a mental checklist of things to change in how I work:
 ---
 
 **And that's a wrap on Caelum Day Rio 2009!** From cloud computing to technical leadership, this event packed more learning into one day than I usually get in months. The Brazilian tech community is doing incredible work, and I can't wait to see what comes next.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Previous**: [Part 6 - Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/)
-- **Current**: Final - Technical Leadership Keynote
-- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/)
-- **Series summary**: From cloud computing to technical leadership - a comprehensive look at Brazil's premier Java event of 2009

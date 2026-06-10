@@ -86,10 +86,4 @@ Each will follow the same modeling approach: use case diagrams for behavior, and
 
 By starting with UML, we guarantee that anyone reading can follow the logic — even if they've never seen the project before.
 
-### **Series Navigation**
-
-- **Current**: Introduction - Why UML Still Matters
-- **Next**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)
-- **Complete series**: [Web Classifieds](../2008-06-13-minicenario-classificados-na-web/) | [Betting Pool Control](../2008-06-17-minicenario-controle-de-bolao/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
-
 Stay tuned.

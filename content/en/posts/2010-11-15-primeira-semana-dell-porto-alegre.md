@@ -78,19 +78,3 @@ To my new teammates: thank you for welcoming me. For answering my questions. For
 To those thinking about taking a leap into the unknown — new city, new tech, new role — I say: **do it**. You'll be amazed at how much you grow when you surround yourself with the right people and the right challenges.
 
 Here's to the next chapter. And to every line of code I'll write with curiosity, intention, and gratitude.
-
----
-
-**Life in Porto Alegre Series Navigation:**
-
-- **Current**: Part 1 - New City, New Code, New Language
-- **Next**: [Laser Focus, Pomodoro, and Migrating with Confidence](../2010-12-16-migracao-foco-pomodoro-dell/) (Part 2)
-- [Release Weekend, Automation, and the Value of Real Leadership](../2011-01-30-final-de-semana-de-release-dell/) (Part 3)
-- [Beyond Java: Learning OSB, ESB and BPEL in the Second Quarter at Dell](../2011-04-25-aprendizado-osb-esb-bpel-dell/) (Part 4)
-- [Remote Work, Resilience, and the Power of Friendship](../2011-10-15-trabalho-remoto-resiliencia-e-amizade/) (Part 5)
-- [Rescuing the Teacher in Me: Inspired by a Tech Lead Who Builds Others](../2011-12-20-resgatando-o-educador-em-mim/) (Part 6)
-- [Gratitude and Transition: From Dell to RBS](../2012-04-01-transicao-dell-para-rbs/) (Part 7)
-
-**This series documents my move to Porto Alegre and first steps at Dell/Stefanini**, exploring the challenges of working in a multinational environment, learning new enterprise technologies and adapting to a new city.
-
-**Complete series**: [Life in Porto Alegre Series](/series/life-in-porto-alegre/)

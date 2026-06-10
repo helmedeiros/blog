@@ -110,13 +110,3 @@ Facilitators can apply the same exercise in onboarding, retrospectives, or hacka
 ---
 
 _Posted as part of the Software Engineering course journal. Today we learned that testing isn't about proving perfection—it's about designing confidence and building systems that evolve gracefully._
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Part 1 - Why Software Engineering?](../2010-02-24-software-engineering-purpose/)
-- **Previous**: [Part 12 - Requirements & Testing](../2010-05-22-requirements-validation-tests/)
-- **Next**: [Part 14 - Test-Driven Development](../2010-06-05-test-driven-development/)
-- **Current**: Part 13 - Software Testing
-- **Complete series**: [Why Software Engineering?](../2010-02-24-software-engineering-purpose/) | [Taming Complexity](../2010-03-02-complexity-process/) | [Waterfall Model](../2010-03-10-waterfall-model/) | [Evolutionary Models](../2010-03-18-evolutionary-models/) | [Agile Mindset](../2010-03-26-agile-mindset/) | [Scrum Productivity](../2010-04-03-scrum-productivity/) | [Scrum Cycle](../2010-04-11-scrum-cycle/) | [XP Quality & Courage](../2010-04-19-xp-quality-courage/) | [XP Principles & Practices](../2010-05-01-xp-principles-practices/) | [XP in Practice](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requirements & Testing](../2010-05-22-requirements-validation-tests/) | Software Testing | [Test-Driven Development](../2010-06-05-test-driven-development/) | [Unit Testing with JUnit](../2010-06-12-junit-unit-testing/)

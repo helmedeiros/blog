@@ -61,13 +61,3 @@ This **UML Use Case Diagram** shows the available system actions from the perspe
 This second scenario illustrates how apparently simple systems can involve complex business rules. Compared to the [web classifieds system](../2008-06-13-minicenario-classificados-na-web/), here we have greater integration between functionalities and more rigorous financial controls.
 
 UML modeling helps us organize these complexities in a clear and understandable way.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Why UML Still Matters](../2008-06-10-uml-introduction-use-case-series/)
-- **Previous**: [Part 1 - Web Classifieds](../2008-06-13-minicenario-classificados-na-web/)
-- **Current**: Part 2 - Betting Pool Control
-- **Next**: [Part 3 - Construction Control](../2008-06-21-minicenario-controle-de-obras/)
-- **Complete series**: [Web Classifieds](../2008-06-13-minicenario-classificados-na-web/) | [Construction Control](../2008-06-21-minicenario-controle-de-obras/) | [Parking System](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

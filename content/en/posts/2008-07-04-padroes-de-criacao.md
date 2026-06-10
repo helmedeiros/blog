@@ -141,13 +141,3 @@ Creational patterns shape the **starting point** of any object in your system.
 They may look simple, but they determine how flexible, testable, and reusable your entire architecture will be.
 
 Next up, we'll explore **Structural Patterns** — and how to compose objects into larger systems cleanly.
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Analysis Patterns](../2008-07-01-padroes-de-analise/)
-- **Previous**: [Part 1 - Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/)
-- **Current**: Part 2 - Creational Patterns
-- **Next**: [Part 3 - Structural Patterns](../2008-07-06-padroes-estruturais/)
-- **Complete series**: [Analysis Patterns](../2008-07-01-padroes-de-analise/) | [Design Patterns Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Structural Patterns](../2008-07-06-padroes-estruturais/) | [Behavioral Patterns](../2008-07-08-padroes-comportamentais/)

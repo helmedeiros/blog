@@ -72,12 +72,3 @@ Another subdivision surrounding card walls that's reality in any software projec
 Paulo's presentation ended with a set of questions about which card wall refactoring was emphasized, adapting collectively during times in their team. Try to take advantage of the other dimensions of your board! Complement it with other technologies!
 
 <a title="Presentation" href="http://www.slideshare.net/paulocaroli/a-linha-de-montagem-de-sw" target="_blank">Software Production Line Slides</a>
-
----
-
-### **Series Navigation**
-
-- **Previous**: [Part 2 - Luiz Faias Jr. on Building a Learning Culture](../2010-11-30-agile-day-2010-luiz-faias-jr/)
-- **Current**: Part 3 - Paulo Caroli on Software Production Line
-- **Next**: —
-- **Complete series**: [Agile Day 2010 Series](/series/agile-day-2010/)

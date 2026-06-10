@@ -91,13 +91,3 @@ OKRA isn't static. We're learning from other teams about how they're adapting th
 The OKRA journey has taught us that successful OKR execution isn't about perfect planning—it's about creating the right conditions for teams to align, learn, and adapt together. As we continue to evolve the framework, we're committed to maintaining its core principles while making it more accessible and adaptable to different contexts.
 
 The future of OKRA lies not in rigid adherence to a process, but in understanding and applying its underlying principles: co-creation, structured collaboration, and continuous learning. These principles, more than any specific practice, are what make OKRA valuable for teams seeking to move from performative OKRs to meaningful execution.
-
----
-
-**Series Navigation:**
-
-- [From Strategy to Commitment: The Origins of OKRA](/en/posts/2023-02-20-intro-to-okra/)
-- [Session #0: Product Vision](/en/posts/2023-03-18-session-0-product-vision/)
-- [Session #1: OKRs Ideation](/en/posts/2023-04-08-session-1-okrs-ideation/)
-- [Session #2: Milestones Brainstorming](/en/posts/2023-04-18-session-2-milestones-brainstorming/)
-- [Building Product Culture Through OKRA and Product Management](/en/posts/2023-06-23-building-product-culture-okra/)

@@ -76,13 +76,3 @@ Paulo's presentation made persistence feel less like a necessary evil and more l
 ---
 
 Thanks to all the speakers at Caelum Day — this has been an incredible learning experience!
-
----
-
-### **Series Navigation**
-
-- **Introduction**: [Caelum Day Overview](../2009-11-07-caelum-day-intro/)
-- **Previous**: [Part 5 - Flex Framework](../2009-11-12-caelum-day-part5-flex/)
-- **Current**: Part 6 - Java Persistence
-- **Next**: [Final - Technical Leadership Keynote](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)
-- **Complete series**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Technical Leadership](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

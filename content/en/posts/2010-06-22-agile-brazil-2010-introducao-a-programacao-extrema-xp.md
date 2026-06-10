@@ -102,15 +102,5 @@ Back at the hotel, still wearing my backpack, I stood in silence for a moment. M
 
 To the facilitators: thank you. And to every teammate today: I hope we keep building things with clarity, respect, and courage. May we deliver more than code — may we deliver with purpose.
 
----
-
-**Agile Brazil 2010 Series Navigation:**
-
-- **Current**: Part 1 - Hands-On XP Workshop
-- **Next**: [Part 2 - Story Mapping with David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Part 3**: [My First Agile Talk](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Part 4**: [Retrospectives with Hugo Corbucci and Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Final**: [Part 5 - Guerrilla Coaching with Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-
 [1]: /uploads/2010/06/DSC04413.jpg
 [2]: /uploads/2010/06/DSC044221.jpg
