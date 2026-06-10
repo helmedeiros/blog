@@ -18,8 +18,6 @@ tags:
 subtitle: Navigate career transitions with gratitude and purpose—discover how meaningful work environments shape us, and why leaving well is as important as arriving strong
 ---
 
-_This is Part 7 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
-
 Today marks the end of an incredibly meaningful chapter in my career.
 
 My time at **Dell, through Stefanini**, was short in calendar months — but **intense, rich, and formative**. I leave with deep gratitude for everything I've learned and everyone I've worked with. This wasn't just a job. It was an environment where **empathy met high performance**, and where every line of code, every review, and every ceremony felt anchored in purpose.

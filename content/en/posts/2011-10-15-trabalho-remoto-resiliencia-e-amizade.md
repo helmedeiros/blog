@@ -16,8 +16,6 @@ tags:
 subtitle: Navigate remote work during personal crisis with grace—discover how trust, overcommunication, and genuine friendship create psychological safety that enables productivity through pain
 ---
 
-_This is Part 5 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
-
 This has been one of the most emotionally intense seasons of my life.
 
 In July, my mother suffered a **major stroke**. We spent a full month by her side in the ICU. The stroke took more than her speech or mobility — it took memories, like the fact that my father has passed away years ago. Watching her battle through confusion, silence, and pain was something I'll never forget. My wife and I had to decide quickly: **move back to Natal-RN** and support her recovery while continuing to work remotely.

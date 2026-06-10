@@ -17,8 +17,6 @@ tags:
 subtitle: Transition from code-first to orchestration thinking—learn how moving from Java to OSB/BPEL changes your mindset from logic-as-code to logic-as-config while enabling teams
 ---
 
-_This is Part 4 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
-
 It's been six months since I joined Dell, and I'm in the middle of one of the most exciting shifts in my engineering career. Our team is actively migrating logic from traditional Java codebases into orchestration tools like **Oracle Service Bus (OSB)**. And I'm not just watching — I've been asked to **champion this transformation**.
 
 ### A Java Engineer in Drag-and-Drop Land

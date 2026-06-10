@@ -16,8 +16,6 @@ tags:
 subtitle: Experience deployment excellence through automation and trust—discover how great leadership, digital war rooms, and cultural investment create confident releases without stress
 ---
 
-_This is Part 3 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
-
 Three months into my journey at Dell, I received an invitation that meant a lot: joining the **first shift of Dell's release weekend**. That might not sound like much to someone from outside our world — but it's usually a space reserved for seasoned teams. Being included was more than an honor. It was a learning experience like few others.
 
 ### Shipping Fast, With Confidence

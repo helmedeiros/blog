@@ -17,8 +17,6 @@ tags:
 subtitle: Rediscover your inner teacher through inspired leadership—learn how great tech leads create space for others to grow, and why sharing what you struggle with creates the most powerful learning
 ---
 
-_This is Part 6 of 7 in the [Life in Porto Alegre](/en/series/life-in-porto-alegre/) series._
-
 Some people are made to do more than just write code or manage deliverables. Some people are **builders of builders**. They show up in meetings, pull requests, and Slack threads not just to check tasks off a list — but to **help others become their best versions**. Marcelo Schmidt is one of those people.
 
 Since I joined Stefanini/Dell, I've had the privilege of watching Schmidt **grow tremendously as a technical leader**. He creates space — and then _protects_ that space — for engineers to try, fail, teach, reflect, and improve. He doesn't speak at conferences but he **inspires people to believe they can do it**.
