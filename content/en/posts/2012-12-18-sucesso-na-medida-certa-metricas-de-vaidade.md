@@ -96,7 +96,7 @@ And who knows when we do that, we put our strategy on paper like a rough map, wh
 
 Think always, act as if, and remove what's not aligned as soon as possible.
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c2d159acb0174943896e172f880f412f" title="Don't fool yourself - Vanity Metrics" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" spellcheck="false" data-ratio="1.7777777777777777"></iframe>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00eec6d0217a0131fca9464dee30730c" title="Success in its right proportion - Vanity Metrics" allowfullscreen="true" allow="web-share" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" spellcheck="false" data-ratio="1.7777777777777777"></iframe>
 
 [2]: http://en.wikipedia.org/wiki/Genchi_Genbutsu "Genchi Genbutsu"
 [3]: http://www.mit.edu/
