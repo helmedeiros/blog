@@ -21,8 +21,6 @@ tags:
 subtitle: Desenvolva liderança distribuída treinando engenheiros para facilitar cerimônias Scrum—com playbooks práticos e rotação gradual de responsabilidades
 ---
 
-> **Série: Transição de Kanban para Scrum** | **Parte 3 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_
-
 ## De Facilitação para Capacitação
 
 Depois de desenharmos nossas cerimônias e alinharmos como time, era hora de ganhar tração. No início, eu facilitava todas as sessões de Scrum — dailies, plannings, retros, reviews e refinamentos. Não era apenas sobre conduzir as reuniões. Era sobre **modelar** o tipo de espaço que queríamos: seguro, focado e com propósito.
@@ -77,16 +75,3 @@ Na Parte 4, vou mostrar como estruturamos cada um desses plays para o nosso cont
 # Diário de coaching
 echo "Quem posso apoiar para facilitar a próxima retro?" >> diario_crescimento.txt
 ```
-
----
-
-**Anterior na série:** [Parte 2 - Alinhando Metas, Métricas e Entendimento Compartilhado](/pt/posts/2022-11-03-scrum-transition-part2/)
-
-**Próximo na série:** [Parte 4 - Nossos Rituais, Do Nosso Jeito](/pt/posts/2022-11-17-scrum-transition-part4/)
-
-**Série Transição de Kanban para Scrum:**
-
-- Parte 1: Reconhecendo a Necessidade de Mudança (27 out, 2022)
-- Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado (3 nov, 2022)
-- **Parte 3: Desenvolvendo Engenheiros para Liderar o Processo** (Este post)
-- Parte 4: Nossos Rituais, Do Nosso Jeito (17 nov, 2022)

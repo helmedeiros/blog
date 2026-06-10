@@ -21,8 +21,6 @@ tags:
 subtitle: Recognize when your process isn't serving your goals—moving from reactive Kanban to structured Scrum through honest retrospective insights
 ---
 
-> **Series: Kanban to Scrum Transition** | **Part 1 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_
-
 ## Introduction
 
 By late 2022, our team had been using a well-structured **Kanban system** for over a year. We had weekly planning, defined WIP limits, a solid cumulative flow analysis practice, and well-managed pull-based delivery. It worked — until it didn't.
@@ -86,14 +84,3 @@ And that's exactly what Part 2 is about.
 # Retro Insight
 echo "Is our current process helping or blocking our goals?" >> retro_notes_oct2022.txt
 ```
-
----
-
-**Next in the series:** [Part 2 - Aligning Goals, Metrics, and Shared Understanding](/posts/2022-11-03-scrum-transition-part2/)
-
-**Kanban to Scrum Transition Series:**
-
-- **Part 1: Recognizing the Need for Change** (This post)
-- Part 2: Aligning Goals, Metrics, and Shared Understanding (Nov 3, 2022)
-- Part 3: Implementation and Early Challenges (Nov 10, 2022)
-- Part 4: Lessons Learned and Continuous Improvement (Nov 17, 2022)

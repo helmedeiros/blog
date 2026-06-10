@@ -21,8 +21,6 @@ tags:
 subtitle: Projete cerimônias Scrum customizadas para sua equipe—desde daily syncs remote-first até planejamento colaborativo, refinamento e práticas de Lean Inception
 ---
 
-> **Série: Transição de Kanban para Scrum** | **Parte 4 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_
-
 ## Introdução
 
 Neste último post da série, vou detalhar os **cinco principais rituais do Scrum** que aperfeiçoamos como um time remoto, autônomo e altamente colaborativo: Daily Sync, Planning, Refinamento, Retrospectiva e Lean Inception.
@@ -127,14 +125,3 @@ E porque construímos juntos, ela permanece.
 # Nota final da série
 echo "Cada processo que executamos foi desenhado, refletido e ajustado em conjunto." >> cultura.md
 ```
-
----
-
-**Anterior na série:** [Parte 3 - Desenvolvendo Engenheiros para Liderar o Processo](/pt/posts/2022-11-10-scrum-transition-part3/)
-
-**Série Transição de Kanban para Scrum:**
-
-- Parte 1: Reconhecendo a Necessidade de Mudança (27 out, 2022)
-- Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado (3 nov, 2022)
-- Parte 3: Desenvolvendo Engenheiros para Liderar o Processo (10 nov, 2022)
-- **Parte 4: Nossos Rituais, Do Nosso Jeito** (Este post)

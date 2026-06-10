@@ -21,8 +21,6 @@ tags:
 subtitle: Design custom Scrum ceremonies that fit your team—from remote-first daily syncs to collaborative planning, refinement, and Lean Inception practices
 ---
 
-> **Series: Kanban to Scrum Transition** | **Part 4 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_
-
 ## Introduction
 
 In this final post of the series, I'll walk through the **five core Scrum plays** we designed as a remote-first, autonomous, and highly collaborative team: Daily Sync, Planning, Refinement, Retrospective, and Lean Inception.
@@ -127,14 +125,3 @@ And because we made it ours, it sticks.
 # End of series note
 echo "Every process we run, we've designed, reflected on, and refined together." >> culture.md
 ```
-
----
-
-**Previous in the series:** [Part 3 - Coaching Engineers to Lead the Process](/posts/2022-11-10-scrum-transition-part3/)
-
-**Kanban to Scrum Transition Series:**
-
-- Part 1: Recognizing the Need for Change (Oct 27, 2022)
-- Part 2: Aligning Goals, Metrics, and Shared Understanding (Nov 3, 2022)
-- Part 3: Coaching Engineers to Lead the Process (Nov 10, 2022)
-- **Part 4: Our Plays, Our Way** (This post)

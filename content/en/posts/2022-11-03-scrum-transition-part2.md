@@ -21,8 +21,6 @@ tags:
 subtitle: Build shared understanding before changing process—co-creating team goals, success metrics, and Definition of Ready/Done through collaborative workshops
 ---
 
-> **Series: Kanban to Scrum Transition** | **Part 2 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_
-
 ## Establishing a Foundation for Change
 
 After identifying that our current process was not serving our goals, the next step was not to "install Scrum" but to **create shared understanding**. Change doesn't stick without meaning. So we opened a FigJam board, set time aside, and asked: _What do we want to achieve by moving to Scrum?_
@@ -90,16 +88,3 @@ And in Part 3, I'll share how that design turned into practice — by coaching e
 # Team agreement born from this session
 echo "Sprint ceremonies are owned by the team and facilitated on rotation." >> team-agreements.txt
 ```
-
----
-
-**Previous in the series:** [Part 1 - Recognizing the Need for Change](/posts/2022-10-27-scrum-transition-part1/)
-
-**Next in the series:** [Part 3 - Coaching Engineers to Lead the Process](/posts/2022-11-10-scrum-transition-part3/)
-
-**Kanban to Scrum Transition Series:**
-
-- Part 1: Recognizing the Need for Change (Oct 27, 2022)
-- **Part 2: Aligning Goals, Metrics, and Shared Understanding** (This post)
-- Part 3: Coaching Engineers to Lead the Process (Nov 10, 2022)
-- Part 4: Lessons Learned and Continuous Improvement (Nov 17, 2022)

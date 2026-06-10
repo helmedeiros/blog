@@ -21,8 +21,6 @@ tags:
 subtitle: Reconheça quando seu processo não está servindo seus objetivos—evoluindo de Kanban reativo para Scrum estruturado através de insights honestos de retrospectiva
 ---
 
-> **Série: Transição de Kanban para Scrum** | **Parte 1 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_
-
 ## Introdução
 
 No final de 2022, nossa equipe utilizava um sistema bem estruturado de **Kanban** há mais de um ano. Tínhamos planejamento semanal, limites de WIP definidos, análise contínua de fluxo acumulado e um processo bem gerenciado de entrega puxada. Isso funcionava — até que deixou de funcionar.
@@ -86,14 +84,3 @@ E é exatamente sobre isso que trata a Parte 2.
 # Reflexão de retro
 echo "Nosso processo atual está ajudando ou bloqueando nossos objetivos?" >> retro_outubro2022.txt
 ```
-
----
-
-**Próximo na série:** [Parte 2 - Alinhando Metas, Métricas e Entendimento Compartilhado](/pt/posts/2022-11-03-scrum-transition-part2/)
-
-**Série Transição de Kanban para Scrum:**
-
-- **Parte 1: Reconhecendo a Necessidade de Mudança** (Este post)
-- Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado (3 nov, 2022)
-- Parte 3: Implementação e Primeiros Desafios (10 nov, 2022)
-- Parte 4: Lições Aprendidas e Melhoria Contínua (17 nov, 2022)

@@ -21,8 +21,6 @@ tags:
 subtitle: Construa entendimento compartilhado antes de mudar processos—co-criando objetivos de equipe, métricas de sucesso e Definição de Pronto/Feito através de workshops colaborativos
 ---
 
-> **Série: Transição de Kanban para Scrum** | **Parte 2 de 4** | _Documentando a evolução estruturada do nosso time de Kanban para Scrum_
-
 ## Criando a Base para a Mudança
 
 Depois de percebermos que nosso processo atual não estava servindo nossos objetivos, o próximo passo não foi "implementar Scrum" — foi **construir entendimento comum**. Mudança não se sustenta sem significado. Então abrimos um quadro no FigJam, reservamos tempo, e perguntamos: _Por que queremos mudar para Scrum?_
@@ -90,16 +88,3 @@ E na Parte 3, conto como isso virou prática com o time assumindo, aos poucos, a
 # Acordo de time criado nessa sessão
 echo "As cerimônias Scrum são de responsabilidade do time e facilitadas em rodízio." >> acordos-time.txt
 ```
-
----
-
-**Anterior na série:** [Parte 1 - Reconhecendo a Necessidade de Mudança](/pt/posts/2022-10-27-scrum-transition-part1/)
-
-**Próximo na série:** [Parte 3 - Desenvolvendo Engenheiros para Liderar o Processo](/pt/posts/2022-11-10-scrum-transition-part3/)
-
-**Série Transição de Kanban para Scrum:**
-
-- Parte 1: Reconhecendo a Necessidade de Mudança (27 out, 2022)
-- **Parte 2: Alinhando Metas, Métricas e Entendimento Compartilhado** (Este post)
-- Parte 3: Desenvolvendo Engenheiros para Liderar o Processo (10 nov, 2022)
-- Parte 4: Lições Aprendidas e Melhoria Contínua (17 nov, 2022)

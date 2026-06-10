@@ -21,8 +21,6 @@ tags:
 subtitle: Develop distributed leadership by coaching engineers to facilitate Scrum ceremonies—with practical playbooks and gradual ownership rotation
 ---
 
-> **Series: Kanban to Scrum Transition** | **Part 3 of 4** | _Documenting our team's structured evolution from Kanban to Scrum_
-
 ## From Facilitation to Enablement
 
 After designing our ceremonies and aligning as a team, the process needed momentum. At first, I facilitated all Scrum sessions — daily syncs, planning, retros, reviews, and refinements. It wasn't just about running the meetings. It was about modeling how we wanted these spaces to feel: safe, focused, and purpose-driven.
@@ -77,16 +75,3 @@ In Part 4, I'll walk you through each of those plays and how they're adapted for
 # Coaching log idea
 echo "Who can I support to lead next week's retro?" >> team_growth_log.txt
 ```
-
----
-
-**Previous in the series:** [Part 2 - Aligning Goals, Metrics, and Shared Understanding](/posts/2022-11-03-scrum-transition-part2/)
-
-**Next in the series:** [Part 4 - Our Plays, Our Way](/posts/2022-11-17-scrum-transition-part4/)
-
-**Kanban to Scrum Transition Series:**
-
-- Part 1: Recognizing the Need for Change (Oct 27, 2022)
-- Part 2: Aligning Goals, Metrics, and Shared Understanding (Nov 3, 2022)
-- **Part 3: Coaching Engineers to Lead the Process** (This post)
-- Part 4: Our Plays, Our Way (Nov 17, 2022)
