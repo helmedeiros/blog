@@ -68,5 +68,3 @@ Restfulie is open source and you can explore the hypermedia library on GitHub:
 The talk really opened my eyes to the idea that building RESTful APIs is not just about mapping URLs to methods. It's about **designing an interface that guides the client through possible states**, making the application more intuitive and flexible.
 
 I left the room inspired to study REST further and to try out Restfulie in future projects.
-
-**Next in the series:** Nico Steppat's talk on NoSQL. See you soon!

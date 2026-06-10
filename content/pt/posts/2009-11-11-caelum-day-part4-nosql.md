@@ -62,5 +62,3 @@ A palestra foi mais provocativa do que técnica, e acho que essa era a intençã
 ## Quero Testar
 
 Quero pegar um projeto pessoal com muitos dados de leitura e tentar modelar algo em MongoDB ou CouchDB. Não para substituir tudo, mas para entender esse novo jeito de pensar.
-
-**No próximo post:** Flex com Rafael Martinelli da DClick!

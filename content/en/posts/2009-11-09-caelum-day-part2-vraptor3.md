@@ -69,5 +69,3 @@ VRaptor is open source and I'm definitely planning to check it out:
 If VRaptor 3 delivers on its promises, it might prove that Java web development doesn't have to be the painful, verbose experience we've accepted. Maybe we can have **Rails-like productivity** without giving up the Java ecosystem we know and love.
 
 I'm curious to see how this plays out. The Java community has been looking for something like this for a while.
-
-**Next in the series:** How Sergio Junior and Luiz Costa are making REST finally make sense!

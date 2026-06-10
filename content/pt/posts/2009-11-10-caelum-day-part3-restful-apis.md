@@ -66,5 +66,3 @@ O Restfulie é open source e você pode explorar a biblioteca de hipermídia no 
 A palestra foi esclarecedora e me fez perceber que construir APIs RESTful vai além de mapear URLs para métodos. Trata-se de **projetar uma interface que guia o cliente através dos estados possíveis**, tornando a aplicação mais intuitiva e flexível.
 
 Saí da sala motivado a estudar mais sobre REST e a experimentar o Restfulie em projetos futuros.
-
-**No próximo post:** falarei sobre a palestra do Nico Steppat sobre NoSQL. Até lá!

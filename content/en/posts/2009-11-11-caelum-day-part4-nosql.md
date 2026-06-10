@@ -71,5 +71,3 @@ The talk was more about opening minds than diving deep into implementation, whic
 I'm definitely going to set up MongoDB or CouchDB on my laptop and try modeling some data differently. Not to replace everything I know about SQL, but to understand when and how these tools might be useful.
 
 The examples Nico showed of document-based storage for content management systems were particularly compelling.
-
-**Next up in this series:** Rafael Martinelli's talk on Flex at DClick!

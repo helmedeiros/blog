@@ -49,5 +49,3 @@ Segundo o Rafael Flex á a solução mais completa para quem quer criar **interf
 - A fluidez com que Rafael criou uma UI cheia de recursos.
 - A separação entre **MXML (markup)** e a lógica em ActionScript.
 - A velocidade para montar protótipos com visual sofisticado — algo que, com HTML/CSS/JS na época, exigia muito mais esforço.
-
-**No próximo e último post da série, vamos relembrar a palestra do Paulo Silveira sobre Persistência Java!**

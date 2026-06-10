@@ -67,5 +67,3 @@ For corporate applications that need **professional UIs, complex data visualizat
 ## Worth Exploring
 
 After seeing Rafael's presentation, I'm definitely curious to try Flex on a real project. The combination of **creative possibilities** with **structured development** is appealing, especially for data-heavy applications that need to look good and perform well.
-
-**Coming up next:** Paulo Silveira's deep dive into Java Persistence and JPA 2.0!

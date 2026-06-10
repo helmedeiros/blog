@@ -68,5 +68,3 @@ There's a [YouTube video](https://www.youtube.com/watch?v=example) from one of F
 ## My Take
 
 This feels like one of those moments where you're witnessing a fundamental shift in how technology works. I'm definitely inspired to start experimenting with some of these cloud services, even if it's just for personal projects. The potential for changing how we build and deploy applications seems enormous.
-
-**Next up in this series:** VRaptor 3 and how Brazilian developers are revolutionizing Java web development!

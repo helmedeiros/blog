@@ -48,5 +48,3 @@ Nunca tinha parado para pensar que um dia eu poderia subir um sistema inteiro se
 ## Conclusão
 
 Se você, como eu, ainda vive mais no mundo do FTP e dos servidores compartilhados, recomendo fortemente.
-
-**Logo mais volto com o segundo post da série** — vamos falar sobre o novo VRaptor 3!

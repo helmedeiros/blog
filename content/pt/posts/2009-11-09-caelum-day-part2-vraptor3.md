@@ -63,5 +63,3 @@ O VRaptor é open source e você pode explorar o código no GitHub:
 ## Impressões
 
 O VRaptor 3 parece resolver muitas das dores que a gente tinha com frameworks mais antigos, sem inventar moda e respeitando o que já existe de bom no ecossistema Java. Vou experimentar em um projetinho pessoal para ver como funciona na prática.
-
-**No próximo post:** vamos falar sobre a palestra de Sergio Junior e Luiz Costa sobre RESTful APIs. Até já!
