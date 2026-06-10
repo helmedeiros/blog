@@ -13,7 +13,7 @@ tags:
   - software-architecture
   - rule-engines
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 1
 description: "Why our first move toward a new pricing platform was understanding the present, not replacing it."
 subtitle: "Why our first move toward a new pricing platform was understanding the present, not replacing it."

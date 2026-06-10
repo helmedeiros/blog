@@ -14,7 +14,7 @@ tags:
   - decision-making
   - platform-engineering
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 12
 description: "How my pricing team built simulation in three iterations — replay, shadow mode, and the habits we kept — and what each one taught us about trusting a recommendation before customers ever saw it."
 subtitle: "Simulation doesn't reduce uncertainty. It moves uncertainty somewhere the team can argue about it before customers do."

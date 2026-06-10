@@ -14,7 +14,7 @@ tags:
   - comportamento-do-cliente
   - product-discovery
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 8
 description: "O objetivo nunca foi achar o maior preço possível. Era entender como o comportamento do cliente muda quando o preço muda."
 subtitle: "Sensibilidade a preço não é rótulo. É relação."

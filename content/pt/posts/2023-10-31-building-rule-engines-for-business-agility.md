@@ -14,7 +14,7 @@ tags:
   - monetizacao
   - platform-engineering
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 5
 description: "Por que a gente construiu um Business Rules Engine em cima do Drools em vez de acoplar a plataforma de pricing direto numa implementação de motor de regras."
 subtitle: "Tecnologia muda. Capacidade de negócio sobrevive por muito mais tempo."

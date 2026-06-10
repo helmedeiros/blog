@@ -14,7 +14,7 @@ tags:
   - monetizacao
   - funcoes-objetivo
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 11
 description: "A parte mais importante de um modelo de pricing não é o algoritmo. É a função objetivo."
 subtitle: "Modelo de pricing nunca é neutro. O que ele otimiza é decisão de produto vestida de matemática."

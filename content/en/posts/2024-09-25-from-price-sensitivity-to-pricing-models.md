@@ -14,7 +14,7 @@ tags:
   - decision-making
   - product-strategy
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 10
 description: "Understanding customer behaviour wasn't enough. We needed a way to make pricing decisions consistently at scale."
 subtitle: "A model isn't smarter than the learning process that produced it. It just makes that learning easier to apply repeatedly."

@@ -14,7 +14,7 @@ tags:
   - experimentation
   - product-strategy
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 9
 description: "Why the hardest pricing question isn't what should we charge — it's what are we willing to sacrifice?"
 subtitle: "Pricing isn't the art of finding the highest price. It's the discipline of choosing which tradeoffs matter."

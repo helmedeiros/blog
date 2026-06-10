@@ -13,7 +13,7 @@ tags:
   - monetizacao
   - motor-de-regras
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 2
 description: "Por que um único markup nunca anda sozinho, e por que mudar um preço raramente é só mudar um número."
 subtitle: "Por que mudar um preço raramente é só mudar um número."

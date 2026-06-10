@@ -12,7 +12,7 @@ tags:
   - monetizacao
   - arquitetura-de-software
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 4
 description: "Por que regra hardcoded parece responsável até deixar de parecer, e o que de fato faz um time pedir um motor de regras."
 subtitle: "Regra hardcoded nunca foi o problema de verdade. Era sintoma."

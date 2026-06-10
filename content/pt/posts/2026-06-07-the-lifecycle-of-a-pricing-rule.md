@@ -14,7 +14,7 @@ tags:
   - platform-engineering
   - product-management
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 13
 description: "O que o meu time teve que aprender sobre regra de pricing depois que ela entra no ar — ownership, expiração, deleção e governança como respondibilidade."
 subtitle: "Uma plataforma de pricing não é uma coleção de regras. É a memória institucional de cada decisão em que o negócio apostou ou da qual recuou."

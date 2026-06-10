@@ -14,7 +14,7 @@ tags:
   - tomada-de-decisao
   - platform-engineering
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 12
 description: "Como o meu time de pricing construiu simulação em três iterações — replay, shadow mode e os hábitos que ficaram — e o que cada uma ensinou sobre confiar numa recomendação antes do cliente ver."
 subtitle: "Simulação não reduz a incerteza. Move a incerteza pra um lugar onde o time consegue discutir antes do cliente ver."

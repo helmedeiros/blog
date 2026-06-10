@@ -13,7 +13,7 @@ tags:
   - experimentacao
   - monetizacao
 series:
-  - pricing-platform
+  - lessons-from-a-pricing-platform
 series_order: 3
 description: "Por que decisão de pricing que dá certo nasce de produto, analytics, engenharia e negócio trabalhando juntos — e não de uma disciplina sozinha."
 subtitle: "Pricing vive na interseção entre produto, analytics, engenharia e negócio."
