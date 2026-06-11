@@ -10,6 +10,9 @@ tags:
   - mini-scenarios
   - uml-series
 title: "Minicenário: ESTACIONAMENTO"
+series:
+  - uml-mini-scenarios
+series_order: 5
 ---
 
 **Chegamos ao cenário final** desta série de mini-cenários UML desenvolvidos sob orientação do Professor Osmar Fernandes Jr. Após explorarmos [classificados web](../2008-06-13-minicenario-classificados-na-web/), [controle de bolão](../2008-06-17-minicenario-controle-de-bolao/) e [controle de obras](../2008-06-21-minicenario-controle-de-obras/), agora modelamos um sistema de estacionamento.

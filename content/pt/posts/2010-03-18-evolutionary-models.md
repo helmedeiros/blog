@@ -20,6 +20,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Abrace desenvolvimento iterativo sobre planejamento rígido—descubra como modelos evolutivos como espiral e abordagens incrementais lidam com incerteza, reduzem risco e entregam valor através de ciclos contínuos de aprendizado
+series:
+  - software-engineering-lectures
+series_order: 4
 ---
 
 **Na quarta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos modelos evolucionários e incrementais, focando em adaptação, exploração e reúso de software. O objetivo não era memorizar frameworks, mas entender como responder à mudança de forma inteligente.

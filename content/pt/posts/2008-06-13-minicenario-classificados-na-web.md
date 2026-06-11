@@ -8,6 +8,9 @@ tags:
   - mini-scenarios
   - uml-series
 title: "Minicenário: CLASSIFICADOS NA WEB"
+series:
+  - uml-mini-scenarios
+series_order: 2
 ---
 
 Como parte do meu Mestrado em Projetos de Sistemas Web, criei quatro mini-cenários sob orientação do Professor Osmar Fernandes Jr. Esta série explora diferentes domínios de negócio através da modelagem UML, demonstrando como casos de uso e diagramas de classes podem capturar requisitos do mundo real.

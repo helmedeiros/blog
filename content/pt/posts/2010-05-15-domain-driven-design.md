@@ -20,6 +20,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Conecte negócio e código—descubra como Domain-Driven Design cria linguagem compartilhada, modela regras complexas de negócio e constrói software que verdadeiramente reflete domínios do mundo real
+series:
+  - software-engineering-lectures
+series_order: 11
 ---
 
 **Na décima primeira aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), marcamos uma mudança de tom: não estávamos mais apenas modelando — estávamos enfrentando a complexidade dos sistemas reais de frente. Era hora de dar ao código uma espinha dorsal, uma linguagem comum e uma estratégia para evolução. É aí que o **Domain-Driven Design (DDD)** entra em cena.

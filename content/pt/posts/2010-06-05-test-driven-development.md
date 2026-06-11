@@ -20,6 +20,9 @@ tags:
   - Ensino
   - serie-engenharia-software
 subtitle: Domine o ciclo vermelho-verde-refatorar—descubra como TDD transforma teste de pensamento posterior em ferramenta de design, criando confiança, melhor arquitetura e documentação viva através de prática disciplinada
+series:
+  - software-engineering-lectures
+series_order: 14
 ---
 
 Nesta aula, exploramos o **Desenvolvimento Orientado a Testes (TDD)** para além das frases prontas. Focamos em seu impacto na qualidade do software, na evolução do código e na mentalidade de que testar não é uma fase, mas sim uma forma de projetar. Não foi uma aula sobre sintaxe, mas sobre **como pensar como alguém que projeta com propósito e validação**.

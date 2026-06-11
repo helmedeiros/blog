@@ -20,6 +20,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Construa a ponte entre teoria XP e implementação real—descubra estratégias práticas para introduzir programação em par, TDD e integração contínua em ambientes resistentes
+series:
+  - software-engineering-lectures
+series_order: 10
 ---
 
 **Na décima aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), focamos na aplicação concreta do **Extreme Programming (XP)**. Saímos da teoria e entramos no cotidiano das equipes: gestão, ambiente, planejamento, desenvolvimento, projeto e testes. Foi uma jornada densa, onde XP deixou de ser um conjunto de práticas e passou a ser uma estratégia de sobrevivência em projetos reais.

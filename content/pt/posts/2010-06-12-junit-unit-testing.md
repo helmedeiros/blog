@@ -20,6 +20,9 @@ tags:
   - Ensino
   - serie-engenharia-software
 subtitle: Construa confiança através de teste unitário disciplinado—descubra como JUnit, estrutura de teste e verificação sistemática criam redes de segurança que habilitam refatoração sem medo e evolução confiável de código
+series:
+  - software-engineering-lectures
+series_order: 15
 ---
 
 Nesta aula, expandimos nosso estudo sobre TDD com foco nos **testes unitários**, utilizando o JUnit para mostrar como a validação estruturada transforma lógica vaga em comportamento previsível. A proposta não era apenas testar, mas construir laços de feedback, melhorar o design e reduzir surpresas durante o desenvolvimento.

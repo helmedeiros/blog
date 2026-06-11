@@ -14,6 +14,9 @@ tags:
   - Qualidade
   - Métodos Ágeis
   - software-engineering-series
+series:
+  - software-engineering-lectures
+series_order: 1
 ---
 
 **Hoje ministrei a primeira aula de Engenharia de Software** na Universidade Potiguar (UnP), e foi uma experiência marcante. Desde que fui [convidado para preparar e liderar este curso](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), venho refletindo sobre como estruturar conteúdo que seja relevante para os estudantes — não apenas baseado no que aprendi durante minha graduação, mas também a partir de projetos reais e experiências na indústria.

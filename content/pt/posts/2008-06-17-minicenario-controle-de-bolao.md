@@ -8,6 +8,9 @@ tags:
   - mini-scenarios
   - uml-series
 title: "Minicenário: CONTROLE DE BOLÃO"
+series:
+  - uml-mini-scenarios
+series_order: 3
 ---
 
 **Dando continuidade à série**, este é o segundo mini-cenário desenvolvido sob orientação do Professor Osmar Fernandes Jr. Após explorarmos um sistema de classificados web, agora vamos modelar um domínio diferente: o controle de bolões de loteria.

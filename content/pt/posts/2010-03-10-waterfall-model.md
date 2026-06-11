@@ -20,6 +20,9 @@ tags:
 - Pensamento Crítico
 - software-engineering-series
 subtitle: Conceitos e práticas de desenvolvimento de software
+series:
+  - software-engineering-lectures
+series_order: 3
 ---
 
 **Na terceira aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), mergulhamos em abordagens de processo definido — com foco no conhecido modelo cascata. Mas mais do que memorizar estágios e sequências, esta aula foi sobre **contexto, reflexão e adaptabilidade**.

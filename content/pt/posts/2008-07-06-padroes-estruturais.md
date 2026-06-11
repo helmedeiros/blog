@@ -6,6 +6,9 @@ date: 2008-07-06 03:27:57+00:00
 categories: ["Architecture"]
 
 subtitle: "Construa arquiteturas de sistema elegantes através de composição—domine padrões Adapter, Bridge, Decorator e Facade que resolvem o desafio complexo de conectar componentes incompatíveis em sistemas coesos e mantíveis"
+series:
+  - design-patterns-and-analysis
+series_order: 4
 ---
 
 **Continuando nossa série**, depois de entender como criar objetos com flexibilidade usando os [Padrões de Criação](../2008-07-04-padroes-de-criacao/), é hora de estruturar esses objetos de forma colaborativa e escalável.

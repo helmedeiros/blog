@@ -20,6 +20,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Conceitos e práticas de desenvolvimento de software
+series:
+  - software-engineering-lectures
+series_order: 12
 ---
 
 Foi nessa aula que decidi unir dois temas que costumam ser ensinados separadamente no início da formação em engenharia de software: **engenharia de requisitos** e **testes de software**. Muitos estudantes os veem como trilhas diferentes, mas na prática, são dois lados do mesmo espelho. Não é possível escrever testes significativos sem requisitos claros, nem avaliar qualidade sem saber o que foi pedido.

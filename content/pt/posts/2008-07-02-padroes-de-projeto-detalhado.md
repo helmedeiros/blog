@@ -6,6 +6,9 @@ date: 2008-07-02 03:27:57+00:00
 categories: ["Architecture"]
 
 subtitle: Desbloqueie a linguagem secreta dos programadores experts—domine os padrões de design da Gang of Four que transformam código caótico em sistemas elegantes e mantíveis através de soluções orientadas a objetos comprovadas
+series:
+  - design-patterns-and-analysis
+series_order: 2
 ---
 
 Após entendermos os padrões de análise para modelar conceitos de negócio, agora avançamos para os **desafios estruturais da construção de software**. É nesse ponto que os **padrões de projeto** se destacam — ideias arquiteturais reutilizáveis que ajudam a escrever código mais limpo e fácil de manter.

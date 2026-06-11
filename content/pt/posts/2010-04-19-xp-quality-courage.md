@@ -23,6 +23,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Transforme medo em desenvolvimento destemido—descubra como práticas de qualidade do XP como programação em par, TDD e integração contínua dão às equipes coragem para abraçar mudanças e entregar excelência
+series:
+  - software-engineering-lectures
+series_order: 8
 ---
 
 **Na oitava aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), exploramos a Programação Extrema (XP) — uma abordagem que desafia a sabedoria convencional sobre qualidade de software, colaboração em equipe e ritmo sustentável de desenvolvimento.

@@ -20,6 +20,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Mude de obsessão por processo para pensamento people-first—descubra como mentalidade ágil valoriza indivíduos, software funcionando, colaboração do cliente e responder a mudanças sobre aderência rígida a planos
+series:
+  - software-engineering-lectures
+series_order: 5
 ---
 
 **Na quinta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos um dos tópicos mais transformadores no desenvolvimento moderno: abordagens ágeis. Fundamentado no Manifesto Ágil, focamos não apenas em práticas, mas em mentalidades que mudam como as equipes pensam, se organizam e entregam valor.

@@ -8,6 +8,9 @@ categories: ["Architecture"]
 tags:
   - mini-scenarios
   - uml-series
+series:
+  - uml-mini-scenarios
+series_order: 1
 ---
 
 Antes de mergulharmos na série com quatro minicenários — **Classificados Web**, **Controle de Bolão**, **Gestão de Estacionamento** e **Controle de Obras** — vale uma pausa para entender _como_ escolhemos representar esses sistemas.

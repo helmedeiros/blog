@@ -18,6 +18,9 @@ tags:
   - Crise do Software
   - software-engineering-series
 subtitle: Dome a complexidade do software através de processos sistemáticos—descubra como abordagens estruturadas, documentação clara e práticas colaborativas transformam projetos avassaladores em desenvolvimento gerenciável e sustentável
+series:
+  - software-engineering-lectures
+series_order: 2
 ---
 
 **Hoje foi a segunda aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), e focamos em um tema fundamental: **processo, modelos e propósito**. Desde o início, quis enquadrar a ideia de que o caos no desenvolvimento de software não é destino — é uma realidade que pode ser gerenciada com a mentalidade certa, colaboração e práticas bem pensadas.

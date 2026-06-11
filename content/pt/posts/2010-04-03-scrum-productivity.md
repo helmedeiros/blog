@@ -22,6 +22,9 @@ tags:
   - Ensino
   - software-engineering-series
 subtitle: Desbloqueie produtividade da equipe através do framework Scrum—descubra como sprints, cerimônias e papéis criam ritmos sustentáveis de entrega que equilibram velocidade com qualidade e pessoas com processo
+series:
+  - software-engineering-lectures
+series_order: 6
 ---
 
 **Esta sexta aula** na Universidade Potiguar (UnP) marcou uma transição importante dos princípios ágeis gerais para um framework concreto e amplamente adotado: Scrum. O objetivo foi passar de valores abstratos para práticas específicas que promovem previsibilidade, responsabilidade e entrega orientada pela equipe.

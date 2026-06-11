@@ -5,6 +5,9 @@ layout: post
 date: 2008-07-01 03:27:57+00:00
 categories: ["Architecture"]
 subtitle: Descubra os padrões ocultos que fazem grandes softwares funcionarem—explore os padrões de análise de Martin Fowler que capturam lógica de negócio recorrente e conhecimento de domínio em soluções reutilizáveis e testadas em batalha
+series:
+  - design-patterns-and-analysis
+series_order: 1
 ---
 
 <style>
