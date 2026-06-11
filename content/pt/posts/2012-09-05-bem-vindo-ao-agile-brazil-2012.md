@@ -32,7 +32,7 @@ As fotos vão se acumulando aqui >> [http://www.flickr.com/photos/heliomedeiros
   <strong>Bem Vindos ao Agile brazil 2012!!</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-581" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-12.23.36-PM.png" alt="" width="429" height="575" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-12.23.36-PM.png 429w, /uploads/2012/09/Screen-Shot-2012-09-05-at-12.23.36-PM-223x300.png 223w" sizes="(max-width: 429px) 100vw, 429px" />][3]
+![](/uploads/2012/09/Screen-Shot-2012-09-05-at-12.23.36-PM.png)
 
 &nbsp;
 

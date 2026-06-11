@@ -21,7 +21,7 @@ tags:
 subtitle: Reconheça e supere armadilhas ágeis—aprenda os 9 sinais de alerta de que sua equipe está caindo em armadilhas burocráticas ao invés de abraçar verdadeira agilidade colaborativa
 ---
 
-[<img class="aligncenter size-full wp-image-508" src="/uploads/2012/04/gumaJuly.jpg" alt="" width="417" height="342" srcset="/uploads/2012/04/gumaJuly.jpg 417w, /uploads/2012/04/gumaJuly-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
+![](/uploads/2012/04/gumaJuly.jpg)
 
 Aconteceu hoje, **11 de Abril de 2012, **na Faculdade de Informática da PUC-RS sala 516**,** mais uma reunião do Grupo de Usuários de Metodologias Ágeis do Rio Grande do Sul. Realmente tem valido a pena estar em terras gauchas!! Grandes talks, muito networking e várias idéias&#8230;.
 

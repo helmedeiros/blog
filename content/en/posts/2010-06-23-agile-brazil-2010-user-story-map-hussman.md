@@ -34,7 +34,7 @@ series_order: 2
 subtitle: Transform requirements into visual journey maps—discover how David Hussman's story mapping creates shared understanding, prioritizes features, and builds products that truly serve user workflows
 ---
 
-[<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="David Hussman Story Mapping Workshop" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+![David Hussman Story Mapping Workshop](/uploads/2010/06/david-hussman-story-mapping.jpg)
 
 Just got back to the hotel — still carrying a few sticky notes on my backpack and a brain spinning with ideas. Today was an eye-opener. **David Hussman's** workshop on **User Story Mapping** wasn't about filling walls with post-its. It was about building shared understanding, mapping journeys, and delivering value through stories — not just stories written down, but stories told, heard, and felt.
 

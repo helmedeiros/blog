@@ -44,9 +44,8 @@ O *Data Scientist* deve levar o conhecimento para o maior número de informaç�
 
 Mostrar as informações de uma forma diferente, está gerando um valor cada vez maior sobre as descobertas feitas pela NASA, por que não podemos liberar os dados de nossas empresas, empoderar a comunidade e os especialistas com não só dados mas também informações e ajudar a comunidade a transformá-la, assim terminou a apresentação do Rob Witoff.
 
-<a style="line-height: 1.5em" title="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" href="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" target="_blank">http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics</a><figure id="attachment_817" style="width: 476px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-817" alt="Rob Witoff - Thanks" src="/uploads/2014/04/Bk3VhGxIUAErN1W.jpg" width="476" height="240" srcset="/uploads/2014/04/Bk3VhGxIUAErN1W.jpg 476w, /uploads/2014/04/Bk3VhGxIUAErN1W-300x151.jpg 300w" sizes="(max-width: 476px) 100vw, 476px" />][2]<figcaption class="wp-caption-text">Rob Witoff &#8211; Thanks</figcaption></figure>
+<a style="line-height: 1.5em" title="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" href="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" target="_blank">http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics</a>![Rob Witoff - Thanks](/uploads/2014/04/Bk3VhGxIUAErN1W.jpg)
+*Rob Witoff &#8211; Thanks*
 
 [1]: http://qconsp.com/user/rob-witoff
 [2]: /uploads/2014/04/Bk3VhGxIUAErN1W.jpg

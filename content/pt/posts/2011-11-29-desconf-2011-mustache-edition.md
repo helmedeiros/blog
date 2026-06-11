@@ -19,7 +19,7 @@ tags:
 subtitle: Experimente a magia do aprendizado não-convencional—descubra como a edição bigode da Desconf misturou espaços abertos, lightning talks e liberdade de expressão para criar troca colaborativa de conhecimento
 ---
 
-[<img class="aligncenter size-full wp-image-457" src="/uploads/2011/11/desconf2011.png" alt="" width="474" height="228" srcset="/uploads/2011/11/desconf2011.png 519w, /uploads/2011/11/desconf2011-300x144.png 300w" sizes="(max-width: 474px) 100vw, 474px" />][1]
+![](/uploads/2011/11/desconf2011.png)
 
 No último sábado, 29 de Novembro de 2011, tive o prazer de trocar várias idéias durante a segunda edição de uma nova modalidade de evento que trás a inovação em seu nome DESCONF!
 

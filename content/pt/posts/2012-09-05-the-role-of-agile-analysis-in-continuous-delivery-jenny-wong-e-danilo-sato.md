@@ -28,7 +28,7 @@ tags:
 subtitle: Conecte análise e entrega—descubra como analistas ágeis se integram às equipes, validam premissas cedo e garantem que você está construindo a coisa certa rapidamente
 ---
 
-[<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
+![](/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png)
 
 O que é <a title="Continuos Delivery" href="http://en.wikipedia.org/wiki/Continuous_delivery" target="_blank">entrega continua</a>(continuos Delivery &#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a <a title="Jenny Wong - Twitter" href="http://twitter.com/jenny_wong" target="_blank">Jenny</a> e o <a title="Danilo Sato - Blog" href="http://www.dtsato.com/blog/" target="_blank">Danilo</a>, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
 

@@ -23,7 +23,7 @@ tags:
 subtitle: Bem-vindo ao Agile Brazil 2013—descubra insights-chave da principal conferência ágil do Brasil cobrindo potencial humano, story mapping, métricas de código e agilidade de negócios de especialistas da indústria
 ---
 
-[<img class="aligncenter size-full wp-image-736" alt="AGILEBR2013" src="/uploads/2013/06/AGILEBR2013.png" width="478" height="247" srcset="/uploads/2013/06/AGILEBR2013.png 478w, /uploads/2013/06/AGILEBR2013-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" />][1]
+![AGILEBR2013](/uploads/2013/06/AGILEBR2013.png)
 
 Hoje, 26 de Junho dia de um dos maiores protestos desta nossa nova mudança brasileira, estamos reunidos para o início do maior evento de métodos ágeis do hemisfério sul.
 

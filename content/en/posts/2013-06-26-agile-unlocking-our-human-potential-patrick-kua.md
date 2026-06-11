@@ -17,7 +17,7 @@ categories:
 subtitle: Unlock team potential through autonomy, excellence, and purpose—discover how intrinsic motivation beats obligation, and why diverse teams with strong relationships deliver better results
 ---
 
-[<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1] There's more to developing products than just developing them.
+![unlocking our human potential](/uploads/2013/06/unlockingourhumanpotential.png)There's more to developing products than just developing them.
 
 Patrick has been working with software for a while, and many problems later he sees agile methods as a way to make it happen, potentially amplifying thinking.
 

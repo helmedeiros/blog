@@ -39,9 +39,7 @@ O Hadoop é um armazenador e processador de dados escaláveis, que podem trabal
 
 Uma das partes fundamentais do Hadoop é o <a title="Hadoop Distributed File System" href="http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">HDFS</a>, ele permite trabalharmos com arquivos grandes repartindo-os em blocos de tamanhos máximos, e replicando-os para que eles possam permitir redundância, para evitar a perda de informações ou interrupção no processamento em caso de falhas.
 
-Outra parte fundamental é o MapReduce, um modelo de programação que tem duas partes principais, instruções para realizar transformações, parseamento, ou filtrar dados, esta sempre roda antes e sempre devolve resultados; e instruções para sumarizar os dados. Estas instruções trazem muita simplicidade ao trabalho diário processando um registro por vez, não existe necessidade em realizar I/O explicitamente e ele é bem escalonável.<figure id="attachment_849" style="width: 468px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-849" alt="Reducing Soft kitties!!" src="/uploads/2014/04/mapreduce.jpg" width="468" height="240" srcset="/uploads/2014/04/mapreduce.jpg 468w, /uploads/2014/04/mapreduce-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][1]<figcaption class="wp-caption-text">Reducing Soft kitties!!</figcaption></figure>
+Outra parte fundamental é o MapReduce, um modelo de programação que tem duas partes principais, instruções para realizar transformações, parseamento, ou filtrar dados, esta sempre roda antes e sempre devolve resultados; e instruções para sumarizar os dados. Estas instruções trazem muita simplicidade ao trabalho diário processando um registro por vez, não existe necessidade em realizar I/O explicitamente e ele é bem escalonável.![Reducing Soft kitties!!](/uploads/2014/04/mapreduce.jpg)
 
 Neste momento o Todd nos apresentou um MapReduce sobre um domínio simples, para contagem de palavras na música infantil abaixo, entrando em detalhes em como poderíamos conquistar velocidade para este modelo nos fazendo da implementação de MapReduce do Hadoop.
 

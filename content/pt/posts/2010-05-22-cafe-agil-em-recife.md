@@ -32,7 +32,7 @@ keywords:
 subtitle: Junte-se ao movimento crescente da comunidade ágil brasileira—descubra como o Café Ágil Recife cria espaço para compartilhar experiências, aprender com falhas e construir conexões além de conferências formais
 ---
 
-[<img class="aligncenter size-full wp-image-199" src="/uploads/2010/05/DSC04067.jpg" alt="Café Ágil Recife" width="417" height="342" srcset="/uploads/2010/05/DSC04067.jpg 417w, /uploads/2010/05/DSC04067-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+![Café Ágil Recife](/uploads/2010/05/DSC04067.jpg)
 
 No dia 15 de maio, participei em Recife de um encontro que tinha tudo para ser apenas mais um evento ágil com café – mas entregou muito mais do que isso. O **Café Ágil**, promovido pela ThoughtWorks Brasil com apoio da UFPE, reuniu líderes, estudantes e profissionais que não estavam ali apenas para ouvir – estavam ali para provocar, perguntar e reconstruir suas práticas.
 

@@ -25,7 +25,7 @@ tags:
 subtitle: Bridge the gap between analysis and delivery—discover how agile analysts embed with teams, validate assumptions early, and ensure you're building the right thing fast
 ---
 
-**[<img class="aligncenter size-full wp-image-596" src="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png" alt="" width="470" height="249" srcset="/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png 470w, /uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]** What is <a title="Continuos Delivery" href="http://en.wikipedia.org/wiki/Continuous_delivery" target="_blank">entrega continua</a>(Continuous Delivery – CD)?
+**![](/uploads/2012/09/Screen-Shot-2012-09-05-at-3.07.27-PM.png)** What is <a title="Continuos Delivery" href="http://en.wikipedia.org/wiki/Continuous_delivery" target="_blank">entrega continua</a>(Continuous Delivery – CD)?
 
 That's how the presentation began!
 

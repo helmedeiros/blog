@@ -35,7 +35,7 @@ series_order: 3
 subtitle: Overcome first-time speaking fears with community support—discover how preparing your debut conference talk, facing impostor syndrome, and connecting with the agile community creates growth beyond presentations
 ---
 
-[<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Agile Brazil 2010 Team" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+![Agile Brazil 2010 Team](/uploads/2010/06/agile-brazil-2010-team.jpg)
 
 I'm in Porto Alegre right now, in the middle of **Agile Brazil 2010** — the first national Agile conference we've ever had in Brazil. The energy here is different. No one's just sitting through PowerPoints. People are moving between **open spaces**, jumping into **lightning talks**, scribbling on **card walls**, and grabbing each other in hallways to keep the conversations going.
 

@@ -26,7 +26,7 @@ tags:
 subtitle: Domine a arte do fatiamento de produto—aprenda como a Baby.com.br usou story mapping para construir produtos em camadas, priorizar funcionalidades e deixar o feedback do cliente guiar as decisões de desenvolvimento
 ---
 
-[<img class="aligncenter size-full wp-image-746" alt="baby.com" src="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png" width="514" height="250" srcset="/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png 514w, /uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM-300x145.png 300w" sizes="(max-width: 514px) 100vw, 514px" />][1]
+![baby.com](/uploads/2013/06/Screen-Shot-2013-06-26-at-12.58.58-PM.png)
 
 O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
 

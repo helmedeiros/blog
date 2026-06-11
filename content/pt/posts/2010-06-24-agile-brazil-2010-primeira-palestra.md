@@ -35,7 +35,7 @@ series_order: 3
 subtitle: Supere medos de primeira apresentação com apoio da comunidade—descubra como preparar sua palestra de estreia, enfrentar síndrome do impostor e conectar-se com a comunidade ágil cria crescimento além de apresentações
 ---
 
-[<img class="aligncenter size-full wp-image-210" src="/uploads/2010/06/agile-brazil-2010-team.jpg" alt="Time Agile Brazil 2010" width="800" height="600" srcset="/uploads/2010/06/agile-brazil-2010-team.jpg 800w, /uploads/2010/06/agile-brazil-2010-team.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+![Time Agile Brazil 2010](/uploads/2010/06/agile-brazil-2010-team.jpg)
 
 Estou em Porto Alegre agora mesmo, no meio do **Agile Brazil 2010** — a primeira conferência nacional sobre métodos ágeis no Brasil. A energia aqui é diferente. Ninguém está apenas assistindo palestras longas e sonolentas. As pessoas estão se movimentando entre **open spaces**, entrando em **lightning talks**, rabiscando em **card walls**, e puxando conversas pelos corredores.
 

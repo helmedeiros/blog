@@ -25,9 +25,7 @@ tags:
 subtitle: Aprenda como a Riot Games escala League of Legends para 30 milhões de usuários ativos—gerenciando complexidade técnica extrema mantendo cultura de engenharia e coesão de equipe em escala massiva
 ---
 
-O keynote do [Jarrod Overson][1] começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &#8220;remunerados&#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o [League of Legends][2], em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!<figure id="attachment_825" style="width: 468px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-825" alt="League of legends" src="/uploads/2014/04/League-of-legends-3.jpg" width="468" height="240" srcset="/uploads/2014/04/League-of-legends-3.jpg 468w, /uploads/2014/04/League-of-legends-3-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][3]<figcaption class="wp-caption-text">League of legends</figcaption></figure>
+O keynote do [Jarrod Overson][1] começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &#8220;remunerados&#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o [League of Legends][2], em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!![League of legends](/uploads/2014/04/League-of-legends-3.jpg)
 
 Imagine agora seu código, ou o código escrito por Jarrod ou sua equipe para aguentar tantos acessos, agora pense em como a empresa cresce para acompanhar o sucesso e escalar as necessidades de um novo mercado que se abre.
 
@@ -39,9 +37,7 @@ A internet é uma rede gigante, composta por toda esta variedade de visões e ef
 
 A internet é cega para classe, raça e espécie,  e achar o valor nesta diversidade é mais que necessária para escalar sua empresa e produto, porque suas vivências e a cultura agregada eleva debates e criações a um outro nível.
 
-A [RIOT Games][4] tem feito um pouco de cada uma destas coisas, a mudança é para melhor porque não abraça-la. Construção de uma comunidade, a contribuição e aprendizagem, cultura de abertura e igualdade.<figure id="attachment_827" style="width: 468px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-827" alt="Rioters are GAMERS" src="/uploads/2014/04/rioters.png" width="468" height="240" srcset="/uploads/2014/04/rioters.png 468w, /uploads/2014/04/rioters-300x153.png 300w" sizes="(max-width: 468px) 100vw, 468px" />][5]<figcaption class="wp-caption-text">Rioters are GAMERS</figcaption></figure>
+A [RIOT Games][4] tem feito um pouco de cada uma destas coisas, a mudança é para melhor porque não abraça-la. Construção de uma comunidade, a contribuição e aprendizagem, cultura de abertura e igualdade.![Rioters are GAMERS](/uploads/2014/04/rioters.png)
 
 A web tem mudado tanto, que assim como as empresas ela precisa cada vez mais de pessoas, e de todas as origens, paradigmas e linguagens.
 

@@ -19,7 +19,7 @@ categories:
 subtitle: Desbloqueie o potencial da equipe através de autonomia, excelência e propósito—descubra como motivação intrínseca supera obrigação, e por que times diversos com relacionamentos fortes entregam melhores resultados
 ---
 
-[<img class="aligncenter size-full wp-image-777" alt="unlocking our human potential" src="/uploads/2013/06/unlockingourhumanpotential.png" width="470" height="218" srcset="/uploads/2013/06/unlockingourhumanpotential.png 470w, /uploads/2013/06/unlockingourhumanpotential-300x139.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][1]
+![unlocking our human potential](/uploads/2013/06/unlockingourhumanpotential.png)
 
 Existe mais para o desenvolvimento de produtos do que apenas o desenvolvê-os. O patrcik já trabalha há algum tempo com software, e muitos problemas depois ele vê métodos ágeis como a forma de fazê-lo potencializando o pensamento.
 

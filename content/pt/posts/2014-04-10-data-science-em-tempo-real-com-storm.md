@@ -35,9 +35,7 @@ Quando pensamos em fazer processamento na &#8220;era do tempo real&#8221; as coi
 
 Para que isso aconteça não é possível fazê-lo sem pensar em escalar. Imaginando este cenário, a Fabiane então acredita que você poderia pensar em <a title="Apache Storm" href="http://storm.incubator.apache.org/" target="_blank">Apache Storm</a>.
 
-O Storm é um projeto Apache desde 2013, podendo ser usado em projetos comerciais, escaláveis, tolerante a falhas e pode ser usada com qualquer linguagem de programação.<figure id="attachment_841" style="width: 468px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-841" alt="Fabiane Nardon Coding" src="/uploads/2014/04/fabianenardoncoding.jpg" width="468" height="240" srcset="/uploads/2014/04/fabianenardoncoding.jpg 468w, /uploads/2014/04/fabianenardoncoding-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" />][1]<figcaption class="wp-caption-text">Fabiane Nardon Coding</figcaption></figure>
+O Storm é um projeto Apache desde 2013, podendo ser usado em projetos comerciais, escaláveis, tolerante a falhas e pode ser usada com qualquer linguagem de programação.![Fabiane Nardon Coding](/uploads/2014/04/fabianenardoncoding.jpg)
 
 A arquitetura do storm é composta de um Stream, por exemplo um log de acesso a paginas web que são jogados em um <a title="Publish Subscriber" href="http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern" target="_blank">PubSub</a> <a title="Redis" href="http://redis.io/" target="_blank">Redis</a>, são lidos e armazenados em cache; em seguida temos o spout que é responsável por pegar estes dados do stream e enviá-los para  os bolts. Para fazer um spout em java você extends <a title="JavaDoc" href="https://storm.incubator.apache.org/apidocs/backtype/storm/topology/base/BaseRichSpout.html" target="_blank">BaseRichSpout</a> e implementa os métodos nextTuple, que pode pegar lá do pubsub e depois emit usando um collector; você ainda precisa dizer quais os dados que serão enviados para fora.
 

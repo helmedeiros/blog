@@ -31,7 +31,7 @@ series_order: 1
 subtitle: Experimente XP através de construção prática de caixa eletrônico de papel—descubra como limites WIP, consciência de lead time e pair programming criam fluxo sustentável de equipe além de práticas de código
 ---
 
-[<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
+![XP - AgileBrazil2010](/uploads/2010/06/DSC04413.jpg)
 
 Acabei de voltar para o hotel. Ainda sinto a energia do dia inteiro mergulhado em uma experiência prática de XP que mexeu comigo em vários níveis. Foram horas intensas, cheias de teoria aplicada, interações sinceras, e desafios reais. Mas o que mais me marcou foi o cuidado dos facilitadores — **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci** e **Renato Willi** — em não apenas ensinar, mas provocar mudança. É raro sentir tanta coerência entre discurso e prática num evento.
 
@@ -105,7 +105,7 @@ Mais para o fim do dia, fizemos uma atividade de **programação pareada**. A ta
 
 Foi nesse exercício que entendi de verdade o impacto do XP no cotidiano. Trabalhar em par não é apenas uma técnica, é um treinamento para a colaboração. Cada linha de código se tornava uma conversa. E isso muda tudo.
 
-[<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+![XP - Agile Brazil 2010](/uploads/2010/06/DSC044221.jpg)
 
 ---
 

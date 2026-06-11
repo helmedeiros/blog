@@ -33,7 +33,7 @@ A estratégia do [oceano azul][1], é um livro que ensina estratégias de como c
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-636" src="/uploads/2012/09/nirvanaManoel.png" alt="" width="470" height="249" srcset="/uploads/2012/09/nirvanaManoel.png 470w, /uploads/2012/09/nirvanaManoel-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][2]
+![](/uploads/2012/09/nirvanaManoel.png)
 
 &nbsp;
 
@@ -43,9 +43,7 @@ Aí se vem um ponto de desconforto, com a indagação sobre alguém já criou um
 
 A Implicancia competitiva pergunta sobre, qual o valor, raridade, dificuldade de ser imitado, podemos aproveitar esta imitabilidade do produto (<http://en.wikipedia.org/wiki/VRIO>). Produtos são copiáveis! Estratégias não, ou talvez mais dificilmente! Então que tal aplicarmos a VRIO em relação a estratégias?
 
-&nbsp;<figure id="attachment_638" style="width: 470px" class="wp-caption aligncenter">
-
-[<img class="size-full wp-image-638" src="/uploads/2012/09/whatThesePortfoliosAreMissing1.png" alt="What These Portfolios Are Missing" width="470" height="249" srcset="/uploads/2012/09/whatThesePortfoliosAreMissing1.png 470w, /uploads/2012/09/whatThesePortfoliosAreMissing1-300x158.png 300w" sizes="(max-width: 470px) 100vw, 470px" />][3]<figcaption class="wp-caption-text">What These Portfolios Are Missing</figcaption></figure>
+&nbsp;![What These Portfolios Are Missing](/uploads/2012/09/whatThesePortfoliosAreMissing1.png)
 
 &nbsp;
 

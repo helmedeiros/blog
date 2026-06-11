@@ -32,7 +32,7 @@ series_order: 2
 subtitle: Transforme requisitos em mapas visuais de jornada—descubra como story mapping do David Hussman cria entendimento compartilhado, prioriza funcionalidades e constrói produtos que verdadeiramente servem workflows do usuário
 ---
 
-[<img class="aligncenter size-full wp-image-211" src="/uploads/2010/06/david-hussman-story-mapping.jpg" alt="Workshop de Story Mapping com David Hussman" width="800" height="600" srcset="/uploads/2010/06/david-hussman-story-mapping.jpg 800w, /uploads/2010/06/david-hussman-story-mapping.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+![Workshop de Story Mapping com David Hussman](/uploads/2010/06/david-hussman-story-mapping.jpg)
 
 Voltei agora para o hotel, ainda com os post-its colados na mochila, carregando comigo não só anotações — mas uma maneira completamente diferente de pensar sobre produto. O workshop de **David Hussman** sobre **User Story Mapping** foi direto ao ponto: histórias, sim, mas com propósito.
 

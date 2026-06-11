@@ -36,7 +36,7 @@ series_order: 1
 subtitle: Experience XP through hands-on paper ATM building—discover how WIP limits, lead time awareness, and pair programming create sustainable team flow beyond just coding practices
 ---
 
-[<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
+![XP - AgileBrazil2010](/uploads/2010/06/DSC04413.jpg)
 
 Just got back to the hotel. I can still feel the intensity of a full day immersed in Extreme Programming (XP), guided by people I had long admired from afar and finally had the chance to learn from in person. **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci**, and **Renato Willi** delivered one of the most complete hands-on XP workshops I've ever experienced. This wasn't just about concepts — it was about _living them_.
 
@@ -92,7 +92,7 @@ In the late afternoon, we paired up to tackle a deceptively simple problem: conv
 
 XP isn't just about pairing for code coverage. It's pairing to build _shared understanding_. Even with paper and markers, the same dynamics of a real codebase emerged: merge conflicts, naming decisions, test cases, logic drift. This is why XP values pairing — it teaches us to build _together_.
 
-[<img class="size-full wp-image-205" src="/uploads/2010/06/DSC044221.jpg" alt="XP - Agile Brazil 2010" width="417" height="342" srcset="/uploads/2010/06/DSC044221.jpg 417w, /uploads/2010/06/DSC044221-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][2]
+![XP - Agile Brazil 2010](/uploads/2010/06/DSC044221.jpg)
 
 ## Exhausted but Energized
 
