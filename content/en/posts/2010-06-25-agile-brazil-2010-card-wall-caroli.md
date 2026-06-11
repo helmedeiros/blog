@@ -35,8 +35,6 @@ series_order: 4
 subtitle: Transform your task board from tracking tool to learning machine—discover how throughput, WIP limits, and visual design turn simple cards into powerful flow optimization instruments
 ---
 
-> **Series: Agile Brazil 2010** | **Part 6 of 6** > _Complete coverage of Brazil's first national agile methods conference_
-
 Reviewing my notes at the end of day two at Agile Brazil 2010, I realized how much complexity can be hidden in something as simple as a board. The talk by **Paulo Caroli**, titled _"Put the Cards on the Wall: Effective Use of the Agile Card Wall"_, was a practical lesson in work visualization — a topic I thought I had mastered. Yet I walked away with ten new insights.
 
 ## Way Beyond Post-its

@@ -8,8 +8,6 @@ categories: ["Architecture"]
 subtitle: Desbloqueie a linguagem secreta dos programadores experts—domine os padrões de design da Gang of Four que transformam código caótico em sistemas elegantes e mantíveis através de soluções orientadas a objetos comprovadas
 ---
 
-> **Série: Padrões de Projeto e Análise** | **Parte 1 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 Após entendermos os padrões de análise para modelar conceitos de negócio, agora avançamos para os **desafios estruturais da construção de software**. É nesse ponto que os **padrões de projeto** se destacam — ideias arquiteturais reutilizáveis que ajudam a escrever código mais limpo e fácil de manter.
 
 ## O Que É um Padrão de Projeto?

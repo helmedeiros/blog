@@ -8,8 +8,6 @@ categories: ["Architecture"]
 subtitle: "Construa arquiteturas de sistema elegantes através de composição—domine padrões Adapter, Bridge, Decorator e Facade que resolvem o desafio complexo de conectar componentes incompatíveis em sistemas coesos e mantíveis"
 ---
 
-> **Série: Padrões de Projeto e Análise** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 **Continuando nossa série**, depois de entender como criar objetos com flexibilidade usando os [Padrões de Criação](../2008-07-04-padroes-de-criacao/), é hora de estruturar esses objetos de forma colaborativa e escalável.
 Os **Padrões Estruturais** se concentram em **como as classes e objetos são combinados** para formar estruturas maiores — sem acoplamento desnecessário ou complexidade excessiva.
 

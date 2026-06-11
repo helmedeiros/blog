@@ -26,8 +26,6 @@ series:
 series_order: 7
 ---
 
-> **Series: Caelum Day 2009** | **Part 6 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Almost at the end of our series**, and I saved one of the most practical talks for near the end: **Paulo Silveira's** deep dive into **Java Persistence**. As someone who's been wrestling with Hibernate XML configuration and hand-rolled DAOs, what Paulo showed with **JPA 2.0** looks like it could change everything.
 
 ## Finally, Standardized Java Persistence

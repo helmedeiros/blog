@@ -22,8 +22,6 @@ tags:
 subtitle: Abrace desenvolvimento iterativo sobre planejamento rígido—descubra como modelos evolutivos como espiral e abordagens incrementais lidam com incerteza, reduzem risco e entregam valor através de ciclos contínuos de aprendizado
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 4 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 **Na quarta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos modelos evolucionários e incrementais, focando em adaptação, exploração e reúso de software. O objetivo não era memorizar frameworks, mas entender como responder à mudança de forma inteligente.
 
 ## Quando o plano precisa mudar

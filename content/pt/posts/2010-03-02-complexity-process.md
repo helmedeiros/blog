@@ -20,8 +20,6 @@ tags:
 subtitle: Dome a complexidade do software através de processos sistemáticos—descubra como abordagens estruturadas, documentação clara e práticas colaborativas transformam projetos avassaladores em desenvolvimento gerenciável e sustentável
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 2 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 **Hoje foi a segunda aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), e focamos em um tema fundamental: **processo, modelos e propósito**. Desde o início, quis enquadrar a ideia de que o caos no desenvolvimento de software não é destino — é uma realidade que pode ser gerenciada com a mentalidade certa, colaboração e práticas bem pensadas.
 
 ## Abertura com propósito

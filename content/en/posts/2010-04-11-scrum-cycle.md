@@ -30,8 +30,6 @@ series_order: 7
 subtitle: Master the heartbeat of agile delivery—discover how sprint planning, daily standups, reviews, and retrospectives create predictable cycles that turn chaos into sustainable team rhythm
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 7 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the seventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into the operational mechanics of Scrum. Beyond concepts and principles, this class was about understanding how teams work together through specific ceremonies, roles, and artifacts to deliver working software iteratively.
 
 ## A Cycle That Closes and Begins Again

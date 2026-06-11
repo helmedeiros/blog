@@ -12,8 +12,6 @@ series_order: 2
 subtitle: Unlock the secret language of expert programmers—master the Gang of Four design patterns that transform chaotic code into elegant, maintainable systems through proven object-oriented solutions
 ---
 
-> **Series: Design Patterns and Analysis** | **Part 1 of 4** > _Developed during Master's in Web Systems Projects_
-
 After learning about analysis patterns to model business concepts, we now shift focus to the **structural challenges of writing software**. This is where **design patterns** shine — reusable architectural ideas that help us write cleaner, more maintainable code.
 
 ## What Is a Design Pattern?

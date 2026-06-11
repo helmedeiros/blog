@@ -19,8 +19,6 @@ series:
 series_order: 1
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 1 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **Today I taught my first Software Engineering class** at Universidade Potiguar (UnP), and it was a remarkable experience. Since being [invited to prepare and lead this course](/posts/2010-01-26-ola-unp-mais-um-professor-na-familia/), I've been reflecting on how to structure content that feels relevant to students — not just based on what I learned during my degree, but also from real-world projects and experiences in the industry.
 
 ## Why Software Engineering?

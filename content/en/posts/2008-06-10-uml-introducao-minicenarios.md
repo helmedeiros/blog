@@ -13,8 +13,6 @@ tags:
   - uml-series
 ---
 
-> **Series: UML Mini-scenarios** | **Introduction** > _Developed during Master's in Web Systems Projects_
-
 Before we dive into the series of four mini-scenarios — **Web Classifieds**, **Betting Pool Control**, **Parking Lot Management**, and **Construction Control** — let's pause for a moment to understand _how_ we chose to describe them.
 
 The answer: **UML** — Unified Modeling Language.

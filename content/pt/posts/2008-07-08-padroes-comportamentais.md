@@ -8,8 +8,6 @@ categories: ["Architecture"]
 subtitle: "Projete interações inteligentes de objetos e workflows—domine padrões Observer, Strategy, Command e State que transformam sistemas rígidos e acoplados em arquiteturas flexíveis e orientadas a eventos que se adaptam a regras de negócio em mudança"
 ---
 
-> **Série: Padrões de Projeto e Análise** | **Parte 4 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 **Chegamos ao capítulo final** desta série de padrões de projeto. Depois de construir ([Padrões de Criação](../2008-07-04-padroes-de-criacao/)) e estruturar ([Padrões Estruturais](../2008-07-06-padroes-estruturais/)) seus objetos, o próximo desafio é fazer com que eles interajam.
 
 Depois de construir (Criação) e estruturar (Estrutural) seus objetos, o próximo desafio é fazer com que eles interajam.

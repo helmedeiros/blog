@@ -26,8 +26,6 @@ series_order: 4
 subtitle: Embrace iterative development over rigid planning—discover how evolutionary models like spiral and incremental approaches handle uncertainty, reduce risk, and deliver value through continuous learning cycles
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 4 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the fourth Software Engineering lecture** at Universidade Potiguar (UnP), we explored evolutionary and incremental models, focusing on adaptation, exploration, and software reuse. The goal wasn't to memorize frameworks, but to understand how to respond to change intelligently.
 
 ## When the plan needs to change

@@ -32,8 +32,6 @@ series_order: 5
 subtitle: Domine a arte da transformação furtiva—aprenda técnicas de coaching guerrilha que criam mudanças ágeis duradouras através de influência, construção de confiança e navegação estratégica de relacionamentos
 ---
 
-> **Série: Agile Brazil 2010** | **Parte 5 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
-
 Grande apresentação conduzida pelo **Francisco Trindade**, com o título _"Coaching de Guerrilha"_. Eu não esperava sair daquela sala com tantas reflexões sobre influência, liderança e mudança — tudo isso sem precisar de cargo formal.
 
 ## Mudar sem Autoridade

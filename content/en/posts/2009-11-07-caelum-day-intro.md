@@ -24,8 +24,6 @@ series:
 series_order: 1
 ---
 
-> **Series: Caelum Day 2009** | **Introduction** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 I just left the event and I'm still digesting everything that happened this sunny Saturday at Estácio's campus in Rio. **Caelum Day** was intense, well-organized, and full of relevant content delivered by people who clearly live and breathe technology.
 
 The talks were deep but accessible. We covered **Cloud Computing, REST, NoSQL, Java, Flex**, and more. What stood out was how every session stayed grounded in real practice — with examples, lived experiences, and even some honest critiques.

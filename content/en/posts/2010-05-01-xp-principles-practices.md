@@ -29,8 +29,6 @@ series_order: 9
 subtitle: Turn XP theory into daily practice—discover how 12 concrete principles and practices transform development teams from reactive to proactive, from fragile to antifragile
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 9 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In this ninth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we completed our exploration of Extreme Programming by diving into its concrete practices. This wasn't just about memorizing techniques, but understanding how XP practices work together to create a sustainable development environment.
 
 ## From Principles to Purpose

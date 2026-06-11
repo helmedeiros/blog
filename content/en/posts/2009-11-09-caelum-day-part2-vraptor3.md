@@ -26,8 +26,6 @@ series:
 series_order: 3
 ---
 
-> **Series: Caelum Day 2009** | **Part 2 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Continuing our series**, I'm still buzzing from **Guilherme Silveira and Filipe Sabella's** presentation on **VRaptor 3**. As someone who's been wrestling with Struts and Spring MVC, what I saw on stage felt like a breath of fresh air for Java web development.
 
 ## Finally, Convention Over Configuration for Java

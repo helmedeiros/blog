@@ -27,8 +27,6 @@ series_order: 15
 subtitle: Build confidence through disciplined unit testing—discover how JUnit, test structure, and systematic verification create safety nets that enable fearless refactoring and reliable code evolution
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 15 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 In this lecture, we built on our previous exploration of TDD by diving deeper into **unit testing**, using JUnit to demonstrate how structured validation turns vague logic into predictable behavior. It was not just about testing—it was about creating feedback loops, improving design, and building safer systems with fewer surprises.
 
 I wanted the class to realize: testing early isn't just defensive programming. It's a way to guide development through intent.

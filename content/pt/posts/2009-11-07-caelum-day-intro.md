@@ -24,8 +24,6 @@ series:
 series_order: 1
 ---
 
-> **Série: Caelum Day 2009** | **Introdução** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_
-
 Saí do evento agora pouco e ainda estou digerindo tudo que rolou neste sábado ensolarado no campus da Estácio no Rio. O **Caelum Day** foi intenso, bem organizado, e cheio de conteúdo relevante entregue por gente que claramente vive e respira tecnologia.
 
 As palestras foram profundas, mas acessíveis. Abordamos **Cloud Computing, REST, NoSQL, Java, Flex** e mais. O que mais me chamou atenção foi como todas as apresentações se mantiveram próximas da prática real — com exemplos, experiências vividas, e até algumas críticas honestas.

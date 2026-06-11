@@ -29,8 +29,6 @@ series_order: 6
 subtitle: Unlock team productivity through Scrum framework—discover how sprints, ceremonies, and roles create sustainable delivery rhythms that balance speed with quality and people with process
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 6 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **This sixth lecture** at Universidade Potiguar (UnP) marked a key transition from general agile principles to a concrete and widely adopted framework: Scrum. The objective was to move from abstract values to specific practices that foster predictability, accountability, and team-driven delivery.
 
 ## What Flexibility Looks Like

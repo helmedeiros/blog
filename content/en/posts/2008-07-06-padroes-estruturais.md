@@ -12,8 +12,6 @@ series_order: 4
 subtitle: "Build elegant system architectures through composition—master Adapter, Bridge, Decorator, and Facade patterns that solve the complex challenge of connecting incompatible components into cohesive, maintainable systems"
 ---
 
-> **Series: Design Patterns and Analysis** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_
-
 **Continuing our series**, after exploring how to build objects with flexibility using [Creational Patterns](../2008-07-04-padroes-de-criacao/), it's time to understand how to structure them for better collaboration.
 **Structural Design Patterns** focus on **how classes and objects are combined** to form larger structures — without unnecessary complexity or tight coupling.
 

@@ -11,8 +11,6 @@ series_order: 1
 subtitle: Discover the hidden patterns that make great software tick—explore Martin Fowler's analysis patterns that capture recurring business logic and domain knowledge into reusable, battle-tested solutions
 ---
 
-> **Series: Design Patterns and Analysis** | **Introduction** > _Developed during Master's in Web Systems Projects_
-
 <style>
 .analysis-pattern-img {
   display: block;

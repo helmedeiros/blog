@@ -26,8 +26,6 @@ series_order: 3
 subtitle: Understand waterfall's place in software history—discover when sequential development works, why it often fails, and how its lessons inform modern iterative approaches to complex projects
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 3 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the third lecture** of the Software Engineering course at Universidade Potiguar (UnP), we dove into defined process approaches — with a focus on the well-known waterfall model. But more than memorizing stages and sequences, this class was about **context, reflection, and adaptability**.
 
 ## When does a strict sequence make sense?

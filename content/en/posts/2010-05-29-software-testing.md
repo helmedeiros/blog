@@ -26,8 +26,6 @@ series_order: 13
 subtitle: Master comprehensive testing strategies—discover how unit, integration, and system testing work together to create robust verification pyramids that catch bugs early and build user confidence
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 13 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 In this lecture, we dived into **Software Testing**—not as a boring list of types or QA certifications, but as a creative, strategic activity embedded in every stage of real software development. I reminded the class that testing isn't a gatekeeping step, it's part of the design process. Every good engineer should see testing as part of their toolkit, not someone else's responsibility.
 
 We started with a provocative idea: _"Testing doesn't prove a system works. It proves that it doesn't always fail."_ That resonated because it shifts the burden: we're not chasing perfection, we're designing confidence.

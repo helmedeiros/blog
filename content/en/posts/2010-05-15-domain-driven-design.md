@@ -26,8 +26,6 @@ series_order: 11
 subtitle: Bridge the gap between business and code—discover how Domain-Driven Design creates shared language, models complex business rules, and builds software that truly reflects real-world domains
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 11 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the eleventh lecture** of the Software Engineering course at Universidade Potiguar (UnP), we marked a shift in tone: we weren't just modeling anymore—we were confronting the complexity of real systems head-on. It was time to give code a backbone, a shared language, and a strategy for evolution. That's where **Domain-Driven Design (DDD)** enters the room.
 
 ## Modeling Isn't Drawing. It's Deciding.

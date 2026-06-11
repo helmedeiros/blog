@@ -25,8 +25,6 @@ tags:
 subtitle: Domine o coração da entrega ágil—descubra como planejamento de sprint, reuniões diárias, revisões e retrospectivas criam ciclos previsíveis que transformam caos em ritmo sustentável de equipe
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 7 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 **Na sétima aula** do curso de Engenharia de Software na Universidade Potiguar (UnP), mergulhamos na mecânica operacional do Scrum. Além de conceitos e princípios, esta aula foi sobre entender como equipes trabalham juntas através de cerimônias, papéis e artefatos específicos para entregar software funcionando de forma iterativa.
 
 ## Um ciclo que se fecha e se renova

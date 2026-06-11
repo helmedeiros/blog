@@ -10,8 +10,6 @@ tags:
 subtitle: "Transforme gestão caótica de construção em controle sistemático—explore modelagem UML para rastrear materiais, comparar preços de fornecedores, gerenciar estoque e garantir transparência do projeto do planejamento à conclusão"
 ---
 
-> **Série: Mini-cenários UML** | **Parte 3 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 **Prosseguindo com nossa série**, este é o terceiro mini-cenário desenvolvido sob orientação do Professor Osmar Fernandes Jr. Após explorarmos [classificados web](../2008-06-13-minicenario-classificados-na-web/) e [controle de bolão](../2008-06-17-minicenario-controle-de-bolao/), agora modelamos um sistema de controle de compras para obras.
 
 Este cenário demonstra como a UML pode capturar histórico de preços, comparações automáticas e relatórios para tomada de decisão.

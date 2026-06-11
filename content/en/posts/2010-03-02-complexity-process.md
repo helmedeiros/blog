@@ -24,8 +24,6 @@ series_order: 2
 subtitle: Tame software complexity through systematic processes—discover how structured approaches, clear documentation, and collaborative practices transform overwhelming projects into manageable, sustainable development
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 2 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **Today was the second lecture** of the Software Engineering course at Universidade Potiguar (UnP), and we focused on a fundamental theme: **process, models, and purpose**. From the start, I wanted to frame the idea that chaos in software development isn't fate — it's a reality that can be managed with the right mindset, collaboration, and thoughtful practices.
 
 ## Opening with purpose

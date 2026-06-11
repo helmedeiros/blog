@@ -24,8 +24,6 @@ tags:
 subtitle: Transforme teoria XP em prática diária—descubra como 12 princípios e práticas concretas transformam equipes de desenvolvimento de reativas para proativas, de frágeis para antifrágeis
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 9 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 **Na nona aula** da disciplina de Engenharia de Software da Universidade Potiguar (UnP), completamos nossa exploração da Programação Extrema mergulhando em suas práticas concretas. Não se tratava apenas de memorizar técnicas, mas de entender como as práticas XP trabalham juntas para criar um ambiente de desenvolvimento sustentável.
 
 ## De Princípios a Propósito

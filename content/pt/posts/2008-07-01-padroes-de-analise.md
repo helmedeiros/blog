@@ -7,8 +7,6 @@ categories: ["Architecture"]
 subtitle: Descubra os padrões ocultos que fazem grandes softwares funcionarem—explore os padrões de análise de Martin Fowler que capturam lógica de negócio recorrente e conhecimento de domínio em soluções reutilizáveis e testadas em batalha
 ---
 
-> **Série: Padrões de Projeto e Análise** | **Introdução** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 <style>
 .analysis-pattern-img {
   display: block;

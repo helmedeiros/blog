@@ -38,8 +38,6 @@ subtitle: Experience XP through hands-on paper ATM building—discover how WIP l
 
 [<img class="aligncenter size-full wp-image-206" src="/uploads/2010/06/DSC04413.jpg" alt="XP - AgileBrazil2010" width="417" height="342" srcset="/uploads/2010/06/DSC04413.jpg 417w, /uploads/2010/06/DSC04413-300x246.jpg 300w" sizes="(max-width: 417px) 100vw, 417px" />][1]
 
-> **Series: Agile Brazil 2010** | **Part 1 of 6** > _Complete coverage of Brazil's first national agile conference_
-
 Just got back to the hotel. I can still feel the intensity of a full day immersed in Extreme Programming (XP), guided by people I had long admired from afar and finally had the chance to learn from in person. **Bruno Pedroso**, **Dairton Bassi**, **Daniel Wildt**, **Giovanni Bassi**, **Hugo Corbucci**, and **Renato Willi** delivered one of the most complete hands-on XP workshops I've ever experienced. This wasn't just about concepts — it was about _living them_.
 
 ## Pomodoros and Purpose

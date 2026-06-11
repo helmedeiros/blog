@@ -28,8 +28,6 @@ tags:
 subtitle: Navigate the future of Java with its most influential architect—explore Rod Johnson's prescient insights on cloud computing, polyglot JVM, and the open source revolution that shaped the next decade
 ---
 
-> **Series: TDC Rio 2009** | **Part 2 of 2** > _Key insights from Brazil's premier Java conference_
-
 ![Photo from Rod Johnson's talk](/uploads/2009/11/dsc00655.jpg)
 
 On Wednesday at **TDC Rio**, one of the most anticipated talks was from **Rod Johnson**, the creator of the Spring Framework and author of some of the most influential Java books.

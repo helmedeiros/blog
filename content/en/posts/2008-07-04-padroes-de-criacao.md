@@ -12,8 +12,6 @@ series_order: 3
 subtitle: "Master the art of flexible object creation—discover how Factory, Builder, Singleton, and Prototype patterns solve the fundamental challenge of building objects that are decoupled, testable, and adaptable to change"
 ---
 
-> **Series: Design Patterns and Analysis** | **Part 2 of 4** > _Developed during Master's in Web Systems Projects_
-
 **Continuing our series**, after understanding the [importance of design patterns](../2008-07-02-padroes-de-projeto-detalhado/), we now explore the first specific category. Creational patterns solve one of the most fundamental problems in object-oriented design.
 
 Creational patterns solve one of the most fundamental problems in object-oriented design:

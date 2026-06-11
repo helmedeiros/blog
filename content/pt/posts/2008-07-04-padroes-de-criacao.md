@@ -8,8 +8,6 @@ categories: ["Architecture"]
 subtitle: "Domine a arte da criação flexível de objetos—descubra como padrões Factory, Builder, Singleton e Prototype resolvem o desafio fundamental de construir objetos desacoplados, testáveis e adaptáveis à mudança"
 ---
 
-> **Série: Padrões de Projeto e Análise** | **Parte 2 de 4** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 **Continuando nossa série**, após entender a [importância dos padrões de projeto](../2008-07-02-padroes-de-projeto-detalhado/), agora exploramos a primeira categoria específica. Os padrões de criação resolvem um dos problemas mais fundamentais do design orientado a objetos.
 
 Os padrões de criação resolvem um dos problemas mais fundamentais do design orientado a objetos:

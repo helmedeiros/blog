@@ -27,8 +27,6 @@ series:
 series_order: 6
 ---
 
-> **Series: Caelum Day 2009** | **Part 5 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **A few days after Caelum Day**, I'm still thinking about **Rafael Martinelli's** presentation on **Adobe Flex**. As someone who started as a **Flash developer** at a marketing agency, this talk felt like coming home — but to a much more sophisticated, structured home.
 
 ## Back to My Flash Roots

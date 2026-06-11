@@ -27,8 +27,6 @@ series_order: 14
 subtitle: Master the red-green-refactor cycle—discover how TDD transforms testing from afterthought to design tool, creating confidence, better architecture, and living documentation through disciplined practice
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 14 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 In this session, we explored **Test-Driven Development (TDD)** beyond the usual catchphrases. We focused on its impact on software quality, code evolution, and how testing is not a phase—but a development mindset. This was not a class to teach syntax; it was about how to think like a developer who questions assumptions and encodes confidence.
 
 TDD is not about writing tests. It's about designing with purpose.

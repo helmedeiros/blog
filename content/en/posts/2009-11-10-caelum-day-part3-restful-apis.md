@@ -26,8 +26,6 @@ series:
 series_order: 4
 ---
 
-> **Series: Caelum Day 2009** | **Part 3 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Continuing the Caelum Day in Rio series**, today I want to share my impressions from **Sergio Junior and Luiz Costa's** talk on **RESTful APIs**.
 
 ## Demystifying REST

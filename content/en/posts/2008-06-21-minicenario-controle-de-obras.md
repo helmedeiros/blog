@@ -14,8 +14,6 @@ tags:
 subtitle: "Transform chaotic construction management into systematic control—explore UML modeling for tracking materials, comparing supplier prices, managing inventory, and ensuring project transparency from planning to completion"
 ---
 
-> **Series: UML Mini-scenarios** | **Part 3 of 4** > _Developed during Master's in Web Systems Projects_
-
 **Continuing our series**, this is the third mini-scenario developed under the guidance of Professor Osmar Fernandes Jr. After exploring [web classifieds](../2008-06-13-minicenario-classificados-na-web/) and [betting pool control](../2008-06-17-minicenario-controle-de-bolao/), we now model a construction purchase control system.
 
 This scenario demonstrates how UML can capture price history, automatic comparisons, and reports for decision-making.

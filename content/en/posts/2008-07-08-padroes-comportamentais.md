@@ -12,8 +12,6 @@ series_order: 5
 subtitle: "Design intelligent object interactions and workflows—master Observer, Strategy, Command, and State patterns that transform rigid, coupled systems into flexible, event-driven architectures that adapt to changing business rules"
 ---
 
-> **Series: Design Patterns and Analysis** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_
-
 **We've reached the final chapter** of this design patterns series. Once your objects are built ([Creational Patterns](../2008-07-04-padroes-de-criacao/)) and structured ([Structural Patterns](../2008-07-06-padroes-estruturais/)), the next challenge is interaction.
 
 **Behavioral Design Patterns** are all about **how objects communicate**, distribute responsibilities, and respond to events in a flexible, maintainable way.

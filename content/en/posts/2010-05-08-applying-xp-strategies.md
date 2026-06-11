@@ -28,8 +28,6 @@ series_order: 10
 subtitle: Bridge the gap from XP theory to real-world implementation—discover practical strategies for introducing pair programming, TDD, and continuous integration in resistant environments
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 10 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the tenth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we focused on the concrete application of **Extreme Programming (XP)**. We moved beyond theory and into the daily rhythm of teams: management, workspace, planning, development, design, and testing. XP stopped being just a set of practices—it became a survival strategy for delivering real-world software.
 
 ## Managing with Principles, Not Titles

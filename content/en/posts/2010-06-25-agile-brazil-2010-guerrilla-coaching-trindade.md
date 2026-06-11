@@ -35,8 +35,6 @@ series_order: 5
 subtitle: Master the art of stealth transformation—learn guerrilla coaching techniques that create lasting agile change through influence, trust-building, and strategic relationship navigation
 ---
 
-> **Series: Agile Brazil 2010** | **Part 5 of 6** > _Complete coverage of Brazil's first national agile conference_
-
 Great session by **Francisco Trindade**, titled _"Coaching de Guerrilha"_. I had no idea I'd leave that room thinking so deeply about influence, leadership, and change — all without needing a title.
 
 ## Change Without Authority

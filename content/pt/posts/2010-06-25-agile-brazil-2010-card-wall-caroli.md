@@ -33,8 +33,6 @@ series_order: 4
 subtitle: Transforme seu quadro de tarefas de ferramenta de rastreamento em máquina de aprendizado—descubra como throughput, limites WIP e design visual transformam cartões simples em poderosos instrumentos de otimização de fluxo
 ---
 
-> **Série: Agile Brazil 2010** | **Parte 6 de 6** > _Cobertura completa da primeira conferência nacional de métodos ágeis do Brasil_
-
 Revendo minhas anotações no fim do segundo dia do Agile Brazil 2010, percebo como a simplicidade de um quadro pode esconder uma complexidade incrível. A palestra do **Paulo Caroli**, _"Ponha as Cartas na Parede: O uso eficaz do Agile Card Wall"_, foi uma aula prática de visualização de fluxo de trabalho — um tema que eu já considerava dominado. E ainda assim, saí com a sensação de ter aprendido dez coisas novas.
 
 ## Muito mais que Post-its

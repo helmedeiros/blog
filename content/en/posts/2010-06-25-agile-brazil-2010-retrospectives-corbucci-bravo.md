@@ -37,8 +37,6 @@ series_order: 6
 subtitle: Transform good teams into great teams—master the 5-phase retrospective framework that turns reflection into action, complaints into insights, and meetings into meaningful growth experiences
 ---
 
-> **Series: Agile Brazil 2010** | **Part 4 of 6** > _Complete coverage of Brazil's first national agile conference_
-
 And it just finish one more great presentation, notebook full of scribbles from the **Retrospectives** session led by **Hugo Corbucci** and **Mariana Bravo**. It wasn't just another talk — it was a show where we learned to think differently about one of the most underestimated and underutilized agile practices: the retrospective.
 
 ## Retrospective ≠ Status Meeting

@@ -10,8 +10,6 @@ tags:
   - uml-series
 ---
 
-> **Série: Mini-cenários UML** | **Introdução** > _Desenvolvido durante o Mestrado em Projetos de Sistemas Web_
-
 Antes de mergulharmos na série com quatro minicenários — **Classificados Web**, **Controle de Bolão**, **Gestão de Estacionamento** e **Controle de Obras** — vale uma pausa para entender _como_ escolhemos representar esses sistemas.
 
 A resposta: **UML** — Linguagem de Modelagem Unificada.

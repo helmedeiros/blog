@@ -28,8 +28,6 @@ series:
 series_order: 5
 ---
 
-> **Series: Caelum Day 2009** | **Part 4 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Continuing the Caelum Day in Rio series**, today I'm writing about **Nico Steppat's** presentation that completely challenged everything I thought I knew about databases. As someone who's only worked with **MySQL, Oracle, and PostgreSQL**, hearing about "NoSQL" was like discovering a parallel universe.
 
 ## Wait, "No SQL"? Really?

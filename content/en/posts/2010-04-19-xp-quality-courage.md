@@ -29,8 +29,6 @@ series_order: 8
 subtitle: Transform fear into fearless development—discover how XP's quality practices like pair programming, TDD, and continuous integration give teams the courage to embrace change and deliver excellence
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 8 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the eighth lecture** of the Software Engineering course at Universidade Potiguar (UnP), we explored Extreme Programming (XP) — an approach that challenges conventional wisdom about software quality, team collaboration, and sustainable development pace.
 
 ## Fragile Scrum, Risky Quality

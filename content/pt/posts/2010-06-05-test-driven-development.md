@@ -22,8 +22,6 @@ tags:
 subtitle: Domine o ciclo vermelho-verde-refatorar—descubra como TDD transforma teste de pensamento posterior em ferramenta de design, criando confiança, melhor arquitetura e documentação viva através de prática disciplinada
 ---
 
-> **Série: Fundamentos da Engenharia de Software** | **Parte 14 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 Nesta aula, exploramos o **Desenvolvimento Orientado a Testes (TDD)** para além das frases prontas. Focamos em seu impacto na qualidade do software, na evolução do código e na mentalidade de que testar não é uma fase, mas sim uma forma de projetar. Não foi uma aula sobre sintaxe, mas sobre **como pensar como alguém que projeta com propósito e validação**.
 
 TDD não é escrever testes. É desenhar com confiança e clareza.

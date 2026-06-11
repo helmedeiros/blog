@@ -22,8 +22,6 @@ tags:
 subtitle: Mude de obsessão por processo para pensamento people-first—descubra como mentalidade ágil valoriza indivíduos, software funcionando, colaboração do cliente e responder a mudanças sobre aderência rígida a planos
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 5 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 **Na quinta aula de Engenharia de Software** na Universidade Potiguar (UnP), exploramos um dos tópicos mais transformadores no desenvolvimento moderno: abordagens ágeis. Fundamentado no Manifesto Ágil, focamos não apenas em práticas, mas em mentalidades que mudam como as equipes pensam, se organizam e entregam valor.
 
 ## Agilidade é atitude, não processo

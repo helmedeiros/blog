@@ -25,8 +25,6 @@ series:
 series_order: 2
 ---
 
-> **Series: Caelum Day 2009** | **Part 1 of 7** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Starting our series**, I want to share my impressions from **Fábio Kung's** presentation on **Cloud Computing**. I have to admit, before this talk, "the cloud" was still a pretty abstract concept for me, and Fábio's insights from his work at Locaweb really opened my eyes to what seems like the future of infrastructure.
 
 ## The Current State of Things

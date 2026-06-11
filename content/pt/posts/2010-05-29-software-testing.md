@@ -21,8 +21,6 @@ tags:
 subtitle: Domine estratégias abrangentes de teste—descubra como testes unitários, de integração e de sistema trabalham juntos para criar pirâmides robustas de verificação que capturam bugs cedo e constroem confiança do usuário
 ---
 
-> **Série: Fundamentos de Engenharia de Software** | **Parte 13 de 19** > _Ministrada na Universidade Potiguar (UnP) em 2010_
-
 Nessa aula, mergulhamos em **Testes de Software**—não como uma lista burocrática de tipos ou uma exigência de QA, mas como uma atividade estratégica e criativa presente em todas as fases do desenvolvimento. Reforcei que testar não é um passo no fim do processo: é parte do próprio design. Um bom engenheiro precisa considerar o teste como ferramenta essencial, não como tarefa de outra equipe.
 
 Começamos com uma provocação: _"Testar não prova que o sistema funciona. Prova que ele não falha sempre."_ Isso muda a mentalidade: não estamos buscando perfeição, e sim projetando confiança.

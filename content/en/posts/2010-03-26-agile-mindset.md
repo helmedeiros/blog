@@ -28,8 +28,6 @@ series_order: 5
 subtitle: Shift from process obsession to people-first thinking—discover how agile mindset values individuals, working software, customer collaboration, and responding to change over rigid adherence to plans
 ---
 
-> **Series: Software Engineering Fundamentals** | **Part Part 5 of 19** > _Delivered at Universidade Potiguar (UnP) in 2010_
-
 **In the fifth Software Engineering lecture** at Universidade Potiguar (UnP), we explored one of the most transformative topics in modern development: agile approaches. Grounded in the Agile Manifesto, we focused not just on practices, but on mindsets that change how teams think, organize, and deliver value.
 
 ## Agility is a mindset, not a method

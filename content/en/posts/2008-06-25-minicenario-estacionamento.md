@@ -15,8 +15,6 @@ tags:
 title: "Mini-scenario: PARKING"
 ---
 
-> **Series: UML Mini-scenarios** | **Part 4 of 4** > _Developed during Master's in Web Systems Projects_
-
 **We've reached the final scenario** in this UML mini-scenarios series developed under the guidance of Professor Osmar Fernandes Jr. After exploring [web classifieds](../2008-06-13-minicenario-classificados-na-web/), [betting pool control](../2008-06-17-minicenario-controle-de-bolao/), and [construction control](../2008-06-21-minicenario-controle-de-obras/), we now model a parking system.
 
 This final scenario demonstrates how UML can capture real-time operations, automatic calculations, and business rules based on time and context.

@@ -21,8 +21,6 @@ tags:
 subtitle: Witness Java EE's renaissance—discover how annotations, async servlets, and lightweight EJBs finally make enterprise Java development feel modern, productive, and XML-free
 ---
 
-> **Series: TDC Rio 2009** | **Part 1 of 2** > _Key insights from Brazil's premier Java conference_
-
 ![Mike Keith's talk](/uploads/2009/11/dsc00699.jpg)
 
 Mike Keith's talk started around 11 a.m., just after the coffee break. He kicked off with a light tone and a bit of humor about the long wait between Java version releases. One early slide showed a bold phrase:
