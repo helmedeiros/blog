@@ -83,15 +83,4 @@ No encerramento, David nos lembrou que story maps não são uma fórmula. São u
 Voltei para o hotel cansado, mas energizado. Com a cabeça cheia de ideias e um desejo sincero de aplicar. Não em outro workshop — mas no dia a dia. E, quem sabe, ajudar outros times a também enxergar o produto como uma jornada que vale a pena mapear com cuidado.
 
 Obrigado David Hussman. Obrigado Agile Brazil. Que dia inspirador!
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Anterior**: [Parte 1 - Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Atual**: Parte 2 - Story Mapping com David Hussman
-- **Próximo**: [Parte 3 - Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Parte 4**: [Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Final**: [Parte 5 - Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-
 [1]: /uploads/2010/06/david-hussman-story-mapping.jpg

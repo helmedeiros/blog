@@ -86,11 +86,3 @@ Para Rod, **o open source é global** e o momento era ideal para que desenvolved
 ---
 
 _Publicado após a palestra de Rod Johnson no TDC Rio 2009._
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Parte 1 - Mike Keith - Java EE 6: Uma Grande Evolução](../2009-11-20-mike-keith-java-ee-6-uma-grande-evolucao/)
-- **Atual**: Parte 2 - Rod Johnson sobre Tendências Java EE e os Próximos 5 Anos (Final)
-- **Série completa**: [Série TDC Rio 2009](/pt/series/tdc-rio-2009/)

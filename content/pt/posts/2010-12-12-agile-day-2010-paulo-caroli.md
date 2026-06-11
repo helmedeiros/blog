@@ -73,12 +73,3 @@ Outra sub-divisão que rondam os card walls e que são realidade em qualquer pro
 A apresentação do Apulo acabou com um conjunto de perguntas sobre as quais enfatizou-se a refatoração dos card walls, adaptando durante os tempos coletivamente em sua equipe. Tente aproveitar as outras dimensões do seu quadro! Complemente-o com outras tecnologias!
 
 <a title="Apresentação" href="http://www.slideshare.net/paulocaroli/a-linha-de-montagem-de-sw" target="_blank">Slides da Linha de Montagem de Software</a>
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Parte 2 - Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem](../2010-11-30-agile-day-2010-luiz-faias-jr/)
-- **Atual**: Parte 3 - Paulo Caroli sobre Linha de Montagem de Software
-- **Próximo**: —
-- **Série completa**: [Série Agile Day 2010](/pt/series/agile-day-2010/)

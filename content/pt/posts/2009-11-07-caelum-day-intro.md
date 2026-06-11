@@ -49,11 +49,3 @@ O objetivo não é transcrevê-las, mas compartilhar **o que aprendi, o que desa
 - **Final**: Keynote sobre Liderança Técnica com Phillip Calçado
 
 Se você esteve lá, espero que essa série te ajude a revisitar as conversas. E se você perdeu, talvez seja uma forma de pegar um pouco da energia que tornou o dia tão memorável. Vamos nessa!
-
----
-
-### **Navegação da Série**
-
-- **Atual**: Introdução - Visão Geral do Caelum Day
-- **Próximo**: [Parte 1 - Cloud Computing com Fábio Kung](../2009-11-08-caelum-day-part1-cloud-fabio-kung/)
-- **Série completa**: [Cloud Computing](../2009-11-08-caelum-day-part1-cloud-fabio-kung/) | [VRaptor 3](../2009-11-09-caelum-day-part2-vraptor3/) | [RESTful APIs](../2009-11-10-caelum-day-part3-restful-apis/) | [NoSQL](../2009-11-11-caelum-day-part4-nosql/) | [Flex](../2009-11-12-caelum-day-part5-flex/) | [Java Persistence](../2009-11-13-caelum-day-part6-java-persistence/) | [Liderança Técnica](../2009-11-14-caelum-day-final-leadership-phillip-calcado/)

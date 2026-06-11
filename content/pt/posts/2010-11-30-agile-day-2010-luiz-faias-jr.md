@@ -98,12 +98,3 @@ Por fim o Luiz concluiu com uma afirmação de conceitos, que acredito bastante,
 VALEU LUIZ E ANDRÉ&#8230; por mais uma empresa que estimula as boas práticas e a vontade de crescer no nosso mercado.
 
 <a title="Apresentação" href="http://www.slideshare.net/bluesoftbr/construindo-uma-cultura-de-aprendizagem-5880225" target="_blank">Construindo uma cultura de aprendizagem </a>
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Parte 1 - Klaus Wuestefeld sobre Qualidade vs. Velocidade](../2010-11-24-agile-day-2010-klaus-wuestefeld/)
-- **Atual**: Parte 2 - Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem
-- **Próximo**: [Parte 3 - Paulo Caroli sobre Linha de Montagem de Software](../2010-12-12-agile-day-2010-paulo-caroli/)
-- **Série completa**: [Série Agile Day 2010](/pt/series/agile-day-2010/)

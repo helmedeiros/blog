@@ -92,15 +92,4 @@ Esse post é meu jeito de capturar o momento. O Agile Brazil 2010 não foi só o
 > Fazemos parte de algo em movimento.
 
 Mais em breve.
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Atual**: Parte 3 - Minha Primeira Palestra Ágil
-- **Próximo**: [Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Final**: [Parte 5 - Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-
 [1]: /uploads/2010/06/agile-brazil-2010-team.jpg

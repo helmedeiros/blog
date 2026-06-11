@@ -116,17 +116,5 @@ Quando voltei para o hotel, ainda segurando minha mochila, fiquei parado olhando
 A todos os facilitadores, meu mais sincero agradecimento. E a todos os colegas que dividiram essa jornada hoje: que possamos carregar esse XP no dia a dia. Com mais testes, mais pares, mais escuta, mais entrega.
 
 Com mais propósito.
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Atual**: Parte 1 - Workshop de XP na Prática
-- **Próximo**: [Parte 2 - Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Parte 4**: [Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Parte 5**: [Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-- **Final**: [Parte 6 - Ponha as Cartas na Parede com Paulo Caroli](../2010-06-25-agile-brazil-2010-card-wall-caroli/)
-
 [1]: /uploads/2010/06/DSC04413.jpg
 [2]: /uploads/2010/06/DSC044221.jpg

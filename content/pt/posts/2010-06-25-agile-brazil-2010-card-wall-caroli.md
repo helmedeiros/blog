@@ -84,16 +84,4 @@ Aqui estão 10 conceitos que capturei da apresentação, todos com potencial par
 No final, voltei ao meu caderno, olhei pro desenho do quadro que usamos no time, e já pensei em cinco melhorias possíveis. A palestra de Caroli me fez perceber o que o quadro não dizia — e o quanto isso atrasa decisões, colaboração e entrega.
 
 **Obrigado, Paulo Caroli**, por mostrar que colocar as cartas na parede é mais do que transparência. É clareza, é fluidez, é melhoria contínua com cor, contexto e cuidado.
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Parte 4**: [Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Parte 5**: [Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
-- **Atual**: Parte 6 - Ponha as Cartas na Parede com Paulo Caroli (Final)
-
 **Essa série documenta minha participação no Agile Brazil 2010**, a primeira conferência nacional de métodos ágeis do Brasil. Do XP hands-on aos card walls eficazes, foi um evento transformador que moldou minha visão sobre práticas ágeis e gestão visual.

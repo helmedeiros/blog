@@ -75,16 +75,4 @@ Essa palestra não teve firulas. Os slides eram simples. Mas o conteúdo? Profun
 E obrigado, Agile Brazil, por dar espaço para sessões assim. Que dia!
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/LadrqAnLIwKlEG?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://pt.slideshare.net/slideshow/coaching-guerrilha/4633708" title="Coaching guerrilha" target="_blank">Coaching guerrilha</a> </strong> from <strong> <a href="https://www.slideshare.net/frankmt" target="_blank">frankmt</a> </strong></div>
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Parte 4**: [Retrospectivas com Hugo Corbucci e Mariana Bravo](../2010-06-25-agile-brazil-2010-retrospectives-corbucci-bravo/)
-- **Atual**: Parte 5 - Coaching de Guerrilha com Francisco Trindade
-- **Final**: [Parte 6 - Ponha as Cartas na Parede com Paulo Caroli](../2010-06-25-agile-brazil-2010-card-wall-caroli/)
-
 **Essa série documenta minha participação no Agile Brazil 2010**, a primeira conferência nacional de métodos ágeis do Brasil. Do XP hands-on ao coaching de guerrilha, foi um evento transformador que moldou minha visão sobre práticas ágeis e liderança.

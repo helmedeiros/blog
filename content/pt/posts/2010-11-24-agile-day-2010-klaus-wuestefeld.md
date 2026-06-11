@@ -53,12 +53,3 @@ Para o Klaus muita da sujeira em código esta ligada a dificuldade em se ver, di
 Por fim devemos nos preocupar com padrões e boas práticas técnicas ao invés de nos digladiarmos em dilemas como qualidade e prazo, com toda certeza qualidade sempre para que o prazo seja sempre mais real e a produtividade maior.
 
 Klaus terminou sua palestra com um ditado do GO, &#8220;perca suas primeiras cem partidas a mais rápido possível&#8221;.
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Anúncio - Prévia do Agile Day 2010](../2010-11-23-agile-day-2010-porto-alegre/)
-- **Atual**: Parte 1 - Klaus Wuestefeld sobre Qualidade vs. Velocidade
-- **Próximo**: [Parte 2 - Luiz Faias Jr. sobre Construindo uma Cultura de Aprendizagem](../2010-11-30-agile-day-2010-luiz-faias-jr/)
-- **Série completa**: [Série Agile Day 2010](/pt/series/agile-day-2010/)

@@ -83,13 +83,3 @@ Ao final, eles voltaram a recomendar o livro — _Agile Retrospectives_ — e no
 Saí do workshop não só com vontade de aplicar boas retrospectivas, mas também de ajudar outros a **querer participar delas**. Não se trata de seguir um formato perfeito. É sobre cuidado, escuta, curiosidade e aprendizado coletivo.
 
 Obrigado Mariana. Obrigado Hugo. Que sessão incrível.
-
----
-
-**Navegação da Série Agile Brazil 2010:**
-
-- **Parte 1**: [Workshop de XP na Prática](../2010-06-22-agile-brazil-2010-introducao-a-programacao-extrema-xp/)
-- **Parte 2**: [Story Mapping com David Hussman](../2010-06-23-agile-brazil-2010-user-story-map-hussman/)
-- **Parte 3**: [Minha Primeira Palestra Ágil](../2010-06-24-agile-brazil-2010-primeira-palestra/)
-- **Atual**: Parte 4 - Retrospectivas com Hugo Corbucci e Mariana Bravo
-- **Próximo**: [Parte 5 - Coaching de Guerrilha com Francisco Trindade](../2010-06-25-agile-brazil-2010-guerrilla-coaching-trindade/)
