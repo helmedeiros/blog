@@ -27,8 +27,6 @@ series:
 series_order: 8
 ---
 
-> **Series: Caelum Day 2009** | **Final Part (7 of 7)** > _Comprehensive coverage of cutting-edge talks from Rio's premier Java event_
-
 **Wrapping up this Caelum Day series**, I saved the best for last: **Phillip Calçado's** keynote on technical leadership. This talk hit differently than the technical sessions — it was personal, challenging, and made me question everything I thought I knew about leading development teams.
 
 ## An Unforgettable Start

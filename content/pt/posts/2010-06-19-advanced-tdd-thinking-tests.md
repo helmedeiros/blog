@@ -141,11 +141,3 @@ Reduzimos duplicações usando `@Before` e métodos auxiliares. Os testes ficara
 TDD não é sobre ferramenta. É sobre mentalidade. É um guia para projetar com clareza e entregar com confiança.
 
 Facilitadores podem usar esse modelo em treinamentos, mentorias ou programas de integração. Basta escolher uma classe simples, definir os comportamentos e testá-los com clareza.
-
----
-
-**Navegação:**
-
-- **Anterior:** [Parte 15 - Testes Unitários com JUnit](/pt/posts/2010-06-12-junit-unit-testing/)
-- **Próxima:** [Parte 17 - Controle de Versão: Não Programe Sem Isso](/pt/posts/2010-06-26-controle-versao-fundacao-essencial/)
-- **Série:** [Aulas de Engenharia de Software (17 partes)](/pt/series/aulas-de-engenharia-de-software/)

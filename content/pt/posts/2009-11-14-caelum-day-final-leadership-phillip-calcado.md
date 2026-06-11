@@ -27,8 +27,6 @@ series:
 series_order: 8
 ---
 
-> **Série: Caelum Day 2009** | **Parte Final (7 de 7)** > _Cobertura abrangente das palestras de ponta do principal evento Java do Rio_
-
 **Fechando a série sobre o Caelum Day no Rio**, não poderia deixar de registrar o **keynote do Phillip Calçado** — um momento provocativo, cheio de metáforas e aprendizados reais sobre o papel da liderança técnica em times ágeis.
 
 ## O Começo (Desligado)

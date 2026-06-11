@@ -91,13 +91,3 @@ O OKRA não é estático. Estamos aprendendo com outras equipes sobre como elas 
 A jornada do OKRA nos ensinou que a execução bem-sucedida de OKRs não é sobre planejamento perfeito—é sobre criar as condições certas para que as equipes se alinhem, aprendam e se adaptem juntas. À medida que continuamos a evoluir o framework, estamos comprometidos em manter seus princípios fundamentais enquanto o tornamos mais acessível e adaptável a diferentes contextos.
 
 O futuro do OKRA não está na adesão rígida a um processo, mas na compreensão e aplicação de seus princípios fundamentais: co-criação, colaboração estruturada e aprendizado contínuo. Estes princípios, mais do que qualquer prática específica, são o que torna o OKRA valioso para equipes que buscam passar de OKRs performáticos para execução significativa.
-
----
-
-**Navegação da Série:**
-
-- [Da Estratégia ao Compromisso: As Origens do OKRA](/pt/posts/2023-02-20-intro-to-okra/)
-- [Sessão #0: Visão de Produto](/pt/posts/2023-03-18-session-0-product-vision/)
-- [Sessão #1: Ideação de OKRs](/pt/posts/2023-04-08-session-1-okrs-ideation/)
-- [Sessão #2: Brainstorming de Marcos](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)
-- [Construindo Cultura de Produto com OKRA e Gestão de Produto](/pt/posts/2023-06-23-building-product-culture-okra/)
