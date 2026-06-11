@@ -65,13 +65,3 @@ Propus que os alunos identificassem onde cada valor aparecia em suas experiênci
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que qualidade exige coragem — e agilidade sem excelência técnica é só prazo disfarçado._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 7 - Ciclo Scrum](../2010-04-11-scrum-cycle/)
-- **Atual**: Parte 8 - XP Qualidade & Coragem
-- **Próxima**: [Parte 9 - XP Princípios & Práticas](../2010-05-01-xp-principles-practices/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | XP Qualidade & Coragem | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

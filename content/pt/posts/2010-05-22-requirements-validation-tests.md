@@ -104,13 +104,3 @@ Não é waterfall. É **ser deliberado com os fundamentos**.
 ---
 
 _Publicado como parte do diário da disciplina de Engenharia de Software. Hoje aprendemos que requisitos e testes não são disciplinas separadas — são práticas complementares que garantem que construamos a coisa certa, do jeito certo._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 11 - Domain-Driven Design](../2010-05-15-domain-driven-design/)
-- **Atual**: Parte 12 - Requisitos & Testes
-- **Próxima**: [Parte 13 - Testes de Software](../2010-05-29-software-testing/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testes de Software](../2010-05-29-software-testing/)

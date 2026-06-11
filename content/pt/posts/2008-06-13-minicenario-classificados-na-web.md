@@ -66,12 +66,3 @@ Este **Diagrama de Classes** representa a estrutura do sistema com classes, atri
 ## Conclusão
 
 Este primeiro cenário demonstra como um sistema aparentemente simples pode envolver múltiplos atores e relacionamentos complexos. A modelagem UML nos ajuda a capturar tanto as interações (casos de uso) quanto a estrutura de dados (classes) necessárias.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
-- **Atual**: Parte 1 - Classificados Web
-- **Próximo**: [Parte 2 - Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/)
-- **Série completa**: [Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/) | [Controle de Obras](../2008-06-21-minicenario-controle-de-obras/) | [Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

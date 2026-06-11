@@ -183,13 +183,3 @@ class ImageProxy implements Image {
 Os padrões estruturais nos ajudam a **compor sistemas com elegância**, permitindo adaptar, estender e simplificar a arquitetura sem criar um efeito dominó de mudanças.
 
 No próximo post, vamos explorar os **Padrões Comportamentais** — como coordenar responsabilidades e fluxos de trabalho de maneira flexível.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
-- **Anterior**: [Parte 2 - Padrões de Criação](../2008-07-04-padroes-de-criacao/)
-- **Atual**: Parte 3 - Padrões Estruturais
-- **Próximo**: [Parte 4 - Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)
-- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

@@ -78,13 +78,3 @@ Finalizamos com um convite para ação: aplicar pelo menos uma ideia da aula em 
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que Scrum não serve para controlar equipes — serve para libertá-las com ritmo, clareza e foco em valor._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
-- **Atual**: Parte 6 - Scrum Produtividade
-- **Próxima**: [Parte 7 - Ciclo Scrum](../2010-04-11-scrum-cycle/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | Scrum Produtividade | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

@@ -74,12 +74,3 @@ _Publicado como parte do diário de aula da disciplina de Engenharia de Software
 O valor do XP não está em adotar todas as práticas cegamente, mas em entender os **princípios por trás delas** e **adaptá-las com cuidado** ao seu contexto, equipe e objetivos.
 
 É assim que construímos software que funciona — e equipes que prosperam.
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Parte 8 - XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)
-- **Atual**: Parte 9 - XP Princípios & Práticas
-- **Próxima**: [Parte 10 - XP na Prática](../2010-05-08-applying-xp-strategies/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | XP Princípios & Práticas | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

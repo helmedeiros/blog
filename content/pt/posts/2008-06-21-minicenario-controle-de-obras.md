@@ -59,13 +59,3 @@ Este **Diagrama de Casos de Uso UML** mostra as principais funcionalidades do si
 Este terceiro cenário ilustra como sistemas de controle podem incorporar inteligência para apoiar decisões. Diferente dos cenários anteriores ([classificados](../2008-06-13-minicenario-classificados-na-web/) e [bolão](../2008-06-17-minicenario-controle-de-bolao/)), aqui o foco está no histórico e na comparação de dados para otimizar compras futuras.
 
 A modelagem UML nos ajuda a organizar essas funcionalidades de forma clara, mostrando como dados históricos podem ser transformados em informação útil.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
-- **Anterior**: [Parte 2 - Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/)
-- **Atual**: Parte 3 - Controle de Obras
-- **Próximo**: [Parte 4 - Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
-- **Série completa**: [Classificados Web](../2008-06-13-minicenario-classificados-na-web/) | [Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/) | [Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

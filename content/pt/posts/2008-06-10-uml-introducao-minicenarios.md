@@ -83,11 +83,4 @@ Nos próximos quatro posts, vamos abordar:
 Todos com o mesmo modelo: **diagrama de casos de uso** para comportamento, e quando necessário, **diagrama de classes** para estrutura.
 
 Começar com UML é garantir que qualquer leitor consiga acompanhar o raciocínio — mesmo sem nunca ter visto o projeto antes.
-
-### **Navegação da Série**
-
-- **Atual**: Introdução - Por que UML Ainda Importa
-- **Próximo**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)
-- **Série completa**: [Classificados Web](../2008-06-13-minicenario-classificados-na-web/) | [Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/) | [Controle de Obras](../2008-06-21-minicenario-controle-de-obras/) | [Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)
-
 Fique ligado.

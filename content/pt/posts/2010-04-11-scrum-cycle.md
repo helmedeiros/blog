@@ -71,13 +71,3 @@ A atividade pode ser replicada em qualquer contexto com equipes novas ou que est
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje aprendemos que rodar o Scrum é fácil — fazer dele uma engrenagem que entrega valor, exige cuidado, alinhamento e escuta ativa._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 6 - Scrum Produtividade](../2010-04-03-scrum-productivity/)
-- **Atual**: Parte 7 - Ciclo Scrum
-- **Próxima**: [Parte 8 - XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | Ciclo Scrum | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

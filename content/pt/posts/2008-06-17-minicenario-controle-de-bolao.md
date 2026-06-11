@@ -59,13 +59,3 @@ Este **Diagrama de Casos de Uso UML** mostra as ações possíveis do sistema do
 Este segundo cenário ilustra como sistemas aparentemente simples podem envolver regras de negócio complexas. Comparado ao [sistema de classificados](../2008-06-13-minicenario-classificados-na-web/), aqui temos maior integração entre funcionalidades e controles financeiros mais rigorosos.
 
 A modelagem UML nos ajuda a organizar essas complexidades de forma clara e compreensível.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
-- **Anterior**: [Parte 1 - Classificados Web](../2008-06-13-minicenario-classificados-na-web/)
-- **Atual**: Parte 2 - Controle de Bolão
-- **Próximo**: [Parte 3 - Controle de Obras](../2008-06-21-minicenario-controle-de-obras/)
-- **Série completa**: [Classificados Web](../2008-06-13-minicenario-classificados-na-web/) | [Controle de Obras](../2008-06-21-minicenario-controle-de-obras/) | [Estacionamento](../2008-06-25-diagrama-de-casos-de-uso-estacionamento/)

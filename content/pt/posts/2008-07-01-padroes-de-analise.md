@@ -102,11 +102,3 @@ Explicita o tipo de relacionamento organizacional.
 Padrões de análise ajudam a visualizar, discutir e construir sistemas mais robustos e alinhados com o mundo real. Eles são reutilizáveis, precisos e economizam horas de discussão.
 
 Em posts futuros, vamos explorar como os **padrões de projeto (design patterns)** complementam esses conceitos na implementação.
-
----
-
-### **Navegação da Série**
-
-- **Atual**: Introdução - Padrões de Análise
-- **Próximo**: [Parte 1 - Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/)
-- **Série completa**: [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

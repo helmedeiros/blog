@@ -71,13 +71,3 @@ Para professores ou facilitadores, essa aula pode ser replicada com foco na real
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje, aprendemos que o software evolui com o mundo — e cabe a nós evoluir junto com ele._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 3 - Modelo Cascata](../2010-03-10-waterfall-model/)
-- **Atual**: Parte 4 - Modelos Evolucionários
-- **Próxima**: [Parte 5 - Mentalidade Ágil](../2010-03-26-agile-mindset/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | Modelos Evolucionários | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

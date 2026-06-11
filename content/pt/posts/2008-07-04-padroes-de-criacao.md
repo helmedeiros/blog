@@ -138,13 +138,3 @@ Os padrões de criação moldam o **ponto de partida** de qualquer objeto no sis
 Eles parecem simples, mas influenciam diretamente a flexibilidade, testabilidade e reutilização da arquitetura.
 
 No próximo post, vamos explorar os **Padrões Estruturais** — como compor objetos em estruturas maiores com clareza.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
-- **Anterior**: [Parte 1 - Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/)
-- **Atual**: Parte 2 - Padrões de Criação
-- **Próximo**: [Parte 3 - Padrões Estruturais](../2008-07-06-padroes-estruturais/)
-- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

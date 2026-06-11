@@ -98,12 +98,3 @@ Padrões de projeto são ferramentas de pensamento testadas ao longo do tempo. E
 Nos próximos posts, vamos aprofundar em cada categoria com diagramas UML reais, exemplos, e comparações entre abordagens.
 
 Fique ligado para ver o Factory, Strategy, Observer e muitos outros em ação.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
-- **Atual**: Parte 1 - Padrões de Projeto Overview
-- **Próximo**: [Parte 2 - Padrões de Criação](../2008-07-04-padroes-de-criacao/)
-- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/) | [Padrões Comportamentais](../2008-07-08-padroes-comportamentais/)

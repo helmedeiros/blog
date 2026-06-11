@@ -230,12 +230,3 @@ interface Visitor {
 Padrões comportamentais fornecem as **regras de interação** entre os objetos do seu sistema. Promovem clareza, extensibilidade e modularidade em como a lógica é executada e coordenada.
 
 Com os três grupos explorados — Criação, Estrutural e Comportamental — temos agora uma base sólida para projetar software que equilibra flexibilidade, clareza e evolução contínua.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Padrões de Análise](../2008-07-01-padroes-de-analise/)
-- **Anterior**: [Parte 3 - Padrões Estruturais](../2008-07-06-padroes-estruturais/)
-- **Atual**: Parte 4 - Padrões Comportamentais (Final)
-- **Série completa**: [Padrões de Análise](../2008-07-01-padroes-de-analise/) | [Padrões de Projeto Overview](../2008-07-02-padroes-de-projeto-detalhado/) | [Padrões de Criação](../2008-07-04-padroes-de-criacao/) | [Padrões Estruturais](../2008-07-06-padroes-estruturais/)

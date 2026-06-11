@@ -180,13 +180,3 @@ Facilitadores podem usar esse modelo em treinamentos, mentorias ou programas de 
 ---
 
 _Postado como parte do diário do curso de Engenharia de Software. Hoje aprendemos que testes unitários com JUnit não são apenas sobre capturar bugs—são sobre construir sistemas que comunicam sua intenção claramente e evoluem com segurança._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 14 - Desenvolvimento Orientado a Testes](../2010-06-05-test-driven-development/)
-- **Próxima**: [Parte 16 - TDD Avançado: Pensando com Testes](../2010-06-19-tdd-avancado-pensando-com-testes/)
-- **Atual**: Parte 15 - Testes Unitários com JUnit
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolutivos](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Produtividade Scrum](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/) | [Requisitos & Testes](../2010-05-22-requirements-validation-tests/) | [Testando Software](../2010-05-29-software-testing/) | [Desenvolvimento Orientado a Testes](../2010-06-05-test-driven-development/) | [Testes Unitários com JUnit](../2010-06-12-junit-unit-testing/) | [TDD Avançado: Pensando com Testes](../2010-06-19-tdd-avancado-pensando-com-testes/)

@@ -68,12 +68,3 @@ Este sistema de estacionamento encerra nossa série de mini-cenários UML, demon
 4. **Estacionamento**: Operações em tempo real e cálculos automáticos
 
 Cada cenário ilustra aspectos diferentes da modelagem UML, desde casos de uso simples até relacionamentos complexos entre classes e atores. A modelagem com **casos de uso UML** permite mapear claramente as responsabilidades e ações do sistema, independentemente do domínio.
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Por que UML Ainda Importa](../2008-06-10-uml-introducao-minicenarios/)
-- **Anterior**: [Parte 3 - Controle de Obras](../2008-06-21-minicenario-controle-de-obras/)
-- **Atual**: Parte 4 - Estacionamento (Final)
-- **Série completa**: [Classificados Web](../2008-06-13-minicenario-classificados-na-web/) | [Controle de Bolão](../2008-06-17-minicenario-controle-de-bolao/) | [Controle de Obras](../2008-06-21-minicenario-controle-de-obras/)

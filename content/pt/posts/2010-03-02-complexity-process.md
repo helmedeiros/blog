@@ -73,12 +73,3 @@ Senti que a turma está começando a se soltar. Ainda há hesitação, mas ela v
 ---
 
 _Publicado como registro de uma aula onde a complexidade não venceu. Seguimos aprendendo a projetar juntos — com processo, propósito e participação._
-
----
-
-### **Navegação da Série**
-
-- **Anterior**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Atual**: Parte 2 - Domando a Complexidade
-- **Próxima**: [Parte 3 - Modelo Cascata](../2010-03-10-waterfall-model/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | Domando a Complexidade | [Modelo Cascata](../2010-03-10-waterfall-model/) | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)

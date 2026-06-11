@@ -69,13 +69,3 @@ E, acima de tudo, não transforme o modelo cascata em vilão. Mostre que ele é 
 ---
 
 _Publicado como parte do diário de aula da disciplina de Engenharia de Software. Hoje, refletimos sobre receitas, projetos e a importância de pensar antes de seguir qualquer processo._
-
----
-
-### **Navegação da Série**
-
-- **Introdução**: [Parte 1 - Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/)
-- **Anterior**: [Parte 2 - Domando a Complexidade](../2010-03-02-complexity-process/)
-- **Atual**: Parte 3 - Modelo Cascata
-- **Próxima**: [Parte 4 - Modelos Evolucionários](../2010-03-18-evolutionary-models/)
-- **Série completa**: [Por que Engenharia de Software?](../2010-02-24-software-engineering-purpose/) | [Domando a Complexidade](../2010-03-02-complexity-process/) | Modelo Cascata | [Modelos Evolucionários](../2010-03-18-evolutionary-models/) | [Mentalidade Ágil](../2010-03-26-agile-mindset/) | [Scrum Produtividade](../2010-04-03-scrum-productivity/) | [Ciclo Scrum](../2010-04-11-scrum-cycle/) | [XP Qualidade & Coragem](../2010-04-19-xp-quality-courage/) | [XP Princípios & Práticas](../2010-05-01-xp-principles-practices/) | [XP na Prática](../2010-05-08-applying-xp-strategies/) | [Domain-Driven Design](../2010-05-15-domain-driven-design/)
