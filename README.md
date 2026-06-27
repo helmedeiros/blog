@@ -73,3 +73,7 @@ Pushes to `master` trigger the **Deploy Hugo site to Pages** workflow,
 which builds with the pinned Hugo version and publishes to GitHub
 Pages. To deploy manually: **Actions → Deploy Hugo site to Pages →
 Run workflow**.
+
+## License
+
+[MIT](LICENSE)
