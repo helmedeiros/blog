@@ -5,8 +5,6 @@ on:
     # Run every day at 2 AM UTC
     - cron: "0 2 * * *"
   workflow_dispatch:
-  push:
-    branches: [main, master]
 
 permissions:
   contents: read
@@ -67,9 +65,11 @@ jobs:
 
           echo "theme_age_days=$DAYS_OLD" >> $GITHUB_OUTPUT
 
-          if [ "$DAYS_OLD" -gt 365 ]; then
+          # Age alone is staleness, not a vulnerability: only flag high when very
+          # stale, so a pinned-but-stable theme does not trip the auto-issue every run.
+          if [ "$DAYS_OLD" -gt 730 ]; then
             echo "theme_risk=high" >> $GITHUB_OUTPUT
-          elif [ "$DAYS_OLD" -gt 180 ]; then
+          elif [ "$DAYS_OLD" -gt 365 ]; then
             echo "theme_risk=medium" >> $GITHUB_OUTPUT
           else
             echo "theme_risk=low" >> $GITHUB_OUTPUT
@@ -145,18 +145,38 @@ jobs:
           name: security-report
           path: security-report.md
 
-      - name: Create issue for high security risk
+      - name: Create or update issue for high security risk
         if: steps.hugo-security.outputs.security_risk == 'high' || steps.theme-security.outputs.theme_risk == 'high'
         uses: actions/github-script@v9
         with:
           script: |
             const fs = require('fs');
             const report = fs.readFileSync('security-report.md', 'utf8');
+            const title = '🚨 Security Audit: High Risk Detected';
+            const body = report + '\n\n---\n\nThis issue was automatically created by the Security Audit workflow.';
 
-            github.rest.issues.create({
+            // Reuse the single open auto-issue instead of filing a new one every run.
+            const existing = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: '🚨 Security Audit: High Risk Detected',
-              body: report + '\n\n---\n\nThis issue was automatically created by the Security Audit workflow.',
-              labels: ['security', 'high-priority', 'automated']
+              state: 'open',
+              labels: 'automated,security',
             });
+            const match = existing.data.find((i) => i.title === title);
+
+            if (match) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: match.number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['security', 'high-priority', 'automated'],
+              });
+            }
