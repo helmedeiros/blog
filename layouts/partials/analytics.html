@@ -11,6 +11,11 @@
     gtag('js', new Date());
 
     gtag('config', '{{ $gaId }}', {
+      // The enriched page_view below is the only one we want. Without this,
+      // config fires its own page_view too, doubling every view count and
+      // marking every session "engaged" (GA4 treats >=2 views as engagement).
+      'send_page_view': false,
+
       // Cross-subdomain tracking configuration
       'cookie_domain': 'heliomedeiros.com',
       'cookie_flags': 'SameSite=None;Secure',
