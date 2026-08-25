@@ -72,3 +72,6 @@ config.local.*
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+# Python venv for analytics scripts
+.venv-ga/
