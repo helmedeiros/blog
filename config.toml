@@ -2,6 +2,7 @@ baseurl = "https://blog.heliomedeiros.com/"
 defaultContentLanguage = "en"
 title = "helio."
 theme = "beautifulhugo"
+enableRobotsTXT = true
 
 [languages]
   [languages.en]
