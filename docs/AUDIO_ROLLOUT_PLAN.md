@@ -66,7 +66,7 @@ Nothing downstream is trustworthy until this lands.
 - [x] Serve a `robots.txt` that welcomes AI crawlers (`57d3037`)
 - [x] Add GA4-backed post ranking (`0a52ead`)
 - [x] Register `event_label` as an event-scoped custom dimension in GA4
-- [ ] Push to `master` — triggers the Pages deploy
+- [x] Push to `master` — deployed 2026-08-26, run 32935777379
 - [ ] Set **Admin → Data Settings → Data Retention → 14 months**
 
 Retention matters more than it first appeared: queries involving a custom
@@ -84,10 +84,23 @@ limited by this setting. Not retroactive — change it now.
 
 If views/session is still ~2.00, the deploy didn't take — check the Actions run.
 
-> **Result (fill in):**
-> Date checked:
-> Views/session:          Engagement rate:
-> Verdict:
+> **Result — checked 2026-08-27: PASS**
+>
+> Views/session **1.998 → 1.167** on deploy day. Decisive: every day in the
+> preceding three weeks sat at ~2.00 (range 1.57–2.22, mostly exactly 2.00),
+> and 2026-08-26 is the first below 1.5 in the window. `robots.txt` returns
+> 200, `send_page_view:!1` confirmed in the deployed bundle.
+>
+> Sample is thin (7 views / 6 sessions, and GA4 had not ingested the 27th),
+> so direction is certain but magnitude is not. Ignore the 33.3% engagement
+> rate — 2 of 6 sessions is noise.
+>
+> **Discovered:** bot traffic arrives in *campaigns*, not a steady trickle.
+> Eight burst days (2026-08-12 to -20) total 12,666 views — **52% of the
+> entire year's recorded traffic in eight days**. Normal days are 6–35 views.
+> The 24,221 annual figure is mostly one month of scraping, so the long-run
+> human baseline is thinner still. Phase 2 must be checked during or just
+> after a burst to show anything; a quiet day reveals nothing.
 
 ---
 
