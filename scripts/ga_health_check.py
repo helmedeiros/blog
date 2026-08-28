@@ -86,13 +86,30 @@ def main():
         ok &= verdict(PASS, "views per session", f"{vps:.3f}",
                       "one page_view per pageload")
 
+    # Site-wide engagement rate is meaningless here: it is dominated by bot
+    # sessions that bounce instantly. Judge the human channels instead.
     er = m["engagementRate"]
     if er > 0.90:
-        ok &= verdict(WARN, "engagement rate", f"{er*100:.1f}%",
+        ok &= verdict(WARN, "engagement rate (all)", f"{er*100:.1f}%",
                       "implausibly high; usually a double-count artefact")
     else:
-        ok &= verdict(PASS, "engagement rate", f"{er*100:.1f}%",
-                      "plausible (content sites run 45-70%)")
+        verdict(INFO, "engagement rate (all)", f"{er*100:.1f}%",
+                "low is expected — bots dominate and bounce")
+
+    hf = FilterExpression(filter=Filter(
+        field_name="sessionDefaultChannelGroup",
+        in_list_filter=Filter.InListFilter(values=HUMAN_CHANNELS)))
+    rh = report([], ["engagementRate", "sessions"], dim_filter=hf)
+    if rh.rows and int(rh.rows[0].metric_values[1].value) >= 30:
+        her = float(rh.rows[0].metric_values[0].value)
+        n = int(rh.rows[0].metric_values[1].value)
+        tag = PASS if her >= 0.35 else WARN
+        ok &= verdict(tag, "engagement rate (human)", f"{her*100:.1f}%",
+                      f"{n} sessions; content sites run 45-70%")
+    else:
+        n = int(rh.rows[0].metric_values[1].value) if rh.rows else 0
+        verdict(INFO, "engagement rate (human)", "n/a",
+                f"only {n} human sessions — need 30+ to read")
 
     verdict(INFO, "bounce rate", f"{m['bounceRate']*100:.1f}%")
     verdict(INFO, "sessions", f"{m['sessions']:,.0f}")
