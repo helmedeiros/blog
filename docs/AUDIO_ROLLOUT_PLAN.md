@@ -104,19 +104,28 @@ If views/session is still ~2.00, the deploy didn't take — check the Actions ru
 
 ---
 
-## Phase 1 — Baseline on clean data  ▸ *2 weeks, change nothing*
+## Phase 1 — Baseline on clean data  ▸ *~5 weeks, change nothing*
 
 The discipline step. Let uncontaminated data accumulate.
 
-- [ ] Wait 14 days without shipping tracking changes
-- [ ] Re-run `ga_top_posts.py --days 14` and compare to the pre-fix ranking
+**Revised 2026-08-30.** Originally scoped at 2 weeks on an assumption of ~2
+human sessions/day. Five days of clean data show **0.8/day** (4 human sessions
+2026-08-26 to -30), so the 30-session threshold needed for a readable
+engagement rate lands in **early October**, not mid-September.
 
-Expect the order to shift once views aren't doubled. The top cluster
-(agentic-coding posts) should hold; if it doesn't, that's informative.
+- [ ] Wait until ~2026-10-01 without shipping tracking changes
+- [ ] Re-run `ga_health_check.py` — "engagement rate (human)" should stop
+      reporting n/a once 30+ human sessions have accumulated
+- [ ] Keep ranking on `--days 365`; a 14-day window returns noise at this volume
+
+**Comparing across 2026-08-26 requires halving the older side.** Pre-fix view
+counts were doubled, so raw before/after comparisons show a phantom 50% drop.
+Real traffic has been flat across the deploy.
 
 > **Result (fill in):**
+> Human sessions accumulated:
+> Engagement rate (human):
 > New top 5:
-> Changed vs baseline?
 
 ---
 
