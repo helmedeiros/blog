@@ -38,7 +38,45 @@ except ImportError:
     sys.exit("Missing deps. Run: pip install google-api-python-client")
 
 SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"]
-DEFAULT_SITE = "https://blog.heliomedeiros.com/"
+DOMAIN = "blog.heliomedeiros.com"
+
+
+def resolve_site(svc, wanted=None):
+    """Find the property to query.
+
+    Search Console has two property types and the API addresses them
+    differently: a URL-prefix property is 'https://host/' while a Domain
+    property is 'sc-domain:host'. Guessing wrong returns a bare 404, so
+    ask the API which properties this service account can actually see.
+    """
+    try:
+        entries = svc.sites().list().execute().get("siteEntry", [])
+    except HttpError as e:
+        if e.resp.status == 403:
+            sys.exit("\n403 listing properties. The service account has no\n"
+                     "Search Console access yet - add it under\n"
+                     "Settings -> Users and permissions.\n")
+        raise
+    if not entries:
+        sys.exit("\nThe service account can see no Search Console properties.\n"
+                 "Add it: Settings -> Users and permissions -> Add user ->\n"
+                 "  ga4-blog-reader@helio-blog-ga.iam.gserviceaccount.com\n")
+
+    urls = [e["siteUrl"] for e in entries]
+    if wanted:
+        for u in urls:
+            if u == wanted or wanted in u:
+                return u
+        sys.exit(f"\n{wanted!r} not among accessible properties:\n  " +
+                 "\n  ".join(urls) + "\n")
+    # prefer a Domain property, then any URL-prefix one, for this blog
+    for u in urls:
+        if u == f"sc-domain:{DOMAIN}":
+            return u
+    for u in urls:
+        if DOMAIN in u:
+            return u
+    return urls[0]
 
 
 def client():
@@ -80,7 +118,10 @@ def query(svc, site, start, end, dimensions, limit=25000):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--site", default=DEFAULT_SITE)
+    ap.add_argument("--site", default=None,
+                    help="property to query; auto-detected if omitted")
+    ap.add_argument("--list", action="store_true",
+                    help="list accessible properties and exit")
     ap.add_argument("--days", type=int, default=90)
     ap.add_argument("--min-impressions", type=int, default=10)
     ap.add_argument("--top", type=int, default=25)
@@ -90,13 +131,25 @@ def main():
     args = ap.parse_args()
 
     svc = client()
+    if args.list:
+        entries = svc.sites().list().execute().get("siteEntry", [])
+        if not entries:
+            print("\n  No properties visible to this service account.\n"
+                  "  Search Console -> Settings -> Users and permissions ->\n"
+                  "  Add user -> ga4-blog-reader@helio-blog-ga"
+                  ".iam.gserviceaccount.com\n")
+            return 1
+        for e in entries:
+            print(f"  {e['permissionLevel']:22} {e['siteUrl']}")
+        return 0
+    site = resolve_site(svc, args.site)
     end = dt.date.today() - dt.timedelta(days=2)      # GSC lags ~2 days
     start = end - dt.timedelta(days=args.days)
     dim = ["page"] if args.pages else ["query"]
 
-    rows = query(svc, args.site, start.isoformat(), end.isoformat(), dim)
+    rows = query(svc, site, start.isoformat(), end.isoformat(), dim)
     if not rows:
-        print(f"\nNo data for {args.site} in {start}..{end}.\n"
+        print(f"\nNo data for {site} in {start}..{end}.\n"
               "If the property was just verified, Search Console needs a few\n"
               "days before search-analytics data appears.\n")
         return 0
@@ -107,7 +160,7 @@ def main():
     tot_c = sum(r["clicks"] for r in recs)
     tot_i = sum(r["impressions"] for r in recs)
     label = "pages" if args.pages else "queries"
-    print(f"\nSearch Console — {args.site}   {start} .. {end}")
+    print(f"\nSearch Console — {site}   {start} .. {end}")
     print(f"{len(recs):,} {label} | {tot_i:,} impressions | {tot_c:,} clicks "
           f"| {100*tot_c/max(tot_i,1):.1f}% CTR\n")
 
