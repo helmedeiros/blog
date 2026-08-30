@@ -20,6 +20,7 @@ safe to resume an interrupted archive.
 """
 
 import argparse
+import html as html_lib
 import json
 import os
 import re
@@ -91,14 +92,16 @@ def deck_info(user, slug):
     html = get(f"{BASE}/{user}/{slug}")
     pdf = re.search(r'https?://files\.speakerdeck\.com[^"\'\s]*\.pdf', html)
     title = re.search(r'<meta property="og:title" content="([^"]*)"', html)
+    published = re.search(r'"datePublished":"(\d{4})-(\d{2})', html)
     return (pdf.group(0) if pdf else None,
-            title.group(1) if title else slug)
+            html_lib.unescape(title.group(1)) if title else slug,
+            published.group(1) + published.group(2) if published else None)
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--user", default="helmedeiros")
-    ap.add_argument("--out", default="~/Dropbox/DOCUMENTS/speakerdeck-archive")
+    ap.add_argument("--out", default="~/Dropbox/DOCUMENTS/family/helio/career-archive/presentations/MY PRESENTATIONS")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -113,7 +116,7 @@ def main():
     got, missing, skipped, total = [], [], 0, 0
     for i, slug in enumerate(slugs, 1):
         try:
-            pdf, title = deck_info(args.user, slug)
+            pdf, title, ym = deck_info(args.user, slug)
         except Exception as exc:
             print(f"  [{i:>2}/{len(slugs)}] {slug}: page error ({exc})")
             missing.append({"slug": slug, "title": slug, "reason": str(exc)})
@@ -126,32 +129,45 @@ def main():
             continue
 
         size = head_size(pdf)
-        dest = os.path.join(out, f"{slug}.pdf")
+        # One folder per talk in the "YYYYMM - Talk Name" style this archive
+        # already uses, holding the PDF named per the DOCUMENTS convention
+        # (YYYYMM- prefix, lowercase kebab-case).
+        safe = re.sub(r"[/:]", "-", title).strip()
+        folder = f"{ym} - {safe}" if ym else safe
+        stem = f"{ym}-{slug}" if ym else slug
+        dest_dir = os.path.join(out, folder)
+        dest = os.path.join(dest_dir, f"{stem}.pdf")
         mb = size / 1048576
 
         if os.path.exists(dest) and size and abs(os.path.getsize(dest) - size) < 1024:
             print(f"  [{i:>2}/{len(slugs)}] have     {mb:6.1f} MB  {title[:46]}")
             skipped += 1
             total += size
-            got.append({"slug": slug, "title": title, "pdf": pdf, "bytes": size})
+            got.append({"slug": slug, "title": title, "pdf": pdf,
+                        "bytes": size, "published": ym,
+                        "path": os.path.relpath(dest, out)})
             continue
 
         if args.dry_run:
             shown = f"{mb:6.1f} MB" if size else "  size ? "
-            print(f"  [{i:>2}/{len(slugs)}] would   {shown}  {title[:46]}")
+            print(f"  [{i:>2}/{len(slugs)}] would   {shown}  {folder[:58]}")
             total += size
-            got.append({"slug": slug, "title": title, "pdf": pdf, "bytes": size})
+            got.append({"slug": slug, "title": title, "pdf": pdf,
+                        "bytes": size, "published": ym,
+                        "path": os.path.relpath(dest, out)})
             continue
 
         try:
             data = get(pdf, binary=True)
+            os.makedirs(dest_dir, exist_ok=True)
             with open(dest, "wb") as fh:
                 fh.write(data)
             total += len(data)
             print(f"  [{i:>2}/{len(slugs)}] \033[32msaved\033[0m    "
                   f"{len(data)/1048576:6.1f} MB  {title[:46]}")
             got.append({"slug": slug, "title": title, "pdf": pdf,
-                        "bytes": len(data)})
+                        "bytes": len(data), "published": ym,
+                        "path": os.path.relpath(dest, out)})
         except Exception as exc:
             print(f"  [{i:>2}/{len(slugs)}] \033[31mFAILED\033[0m   {title[:46]} ({exc})")
             missing.append({"slug": slug, "title": title, "reason": str(exc)})
