@@ -142,6 +142,10 @@ Also needed later for R2 audio hosting, so this is not a detour.
 - [ ] Cloudflare free account → add `heliomedeiros.com`
 - [ ] **Diff imported records against the screenshot — especially MX.**
       Nameserver changes move the whole zone; a missed MX silently kills email
+- [ ] **Carry over the Google Search Console TXT record.** The Domain
+      property is verified by a TXT record Google wrote into the GoDaddy
+      zone. If it does not survive the import, Search Console verification
+      breaks and the near-miss query reports stop working
 - [ ] GoDaddy → Nameservers → Custom → Cloudflare's two
 - [ ] **SSL/TLS → Full (strict).** Never Flexible — GitHub Pages forces HTTPS
       and Flexible causes an infinite redirect loop
