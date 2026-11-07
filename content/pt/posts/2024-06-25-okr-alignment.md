@@ -28,8 +28,8 @@ O processo OKRA é composto por cinco sessões colaborativas. Cada uma gera um r
 | OKRA Sessão #0: Plantando as Sementes da Visão Antes dos OKRs Crescerem  | Quando a estratégia da empresa está indefinida ou atrasada | Visão compartilhada e contexto para o trimestre                            | [Ler Sessão #0](/pt/posts/2023-03-18-session-0-product-vision/)                       |
 | OKRA Sessão #1: Cultivando OKRs de Equipe a Partir do Solo da Estratégia | Quando os OKRs da empresa estão claros                     | OKRs rascunhados pelo time, conectados a restrições e oportunidades reais  | [Ler Sessão #1](/pt/posts/2023-04-08-session-1-okrs-ideation/)                        |
 | OKRA Sessão #2: Colhendo Marcos—Da Hipótese do OKR à Ação                | Após os OKRs do time serem rascunhados                     | Marcos, épicos e validações mapeados para cada OKR                         | [Ler Sessão #2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)             |
-| OKRA Sessão #3: Esforço, Valor e Dependências dos Marcos                 | Após os marcos serem mapeados                              | Clareza compartilhada sobre complexidade, valor e restrições de cada marco | [Ler Sessão #3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
-| OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs                    | Antes do início da execução                                | Plano visual e colaborativo do trimestre, tornando o alinhamento visível   | [Ler Sessão #4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+| OKRA Sessão #3: Esforço, Valor e Dependências dos Marcos                 | Após os marcos serem mapeados                              | Clareza compartilhada sobre complexidade, valor e restrições de cada marco | [Ler Sessão #3](/pt/posts/session-3-milestones-effort-value-dependencies/) |
+| OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs                    | Antes do início da execução                                | Plano visual e colaborativo do trimestre, tornando o alinhamento visível   | [Ler Sessão #4](/pt/posts/session-4-quarter-draft-plan/)                   |
 
 Vamos agora detalhar cada uma.
 
@@ -86,13 +86,13 @@ Agora o time transforma OKRs em plano concreto. Esta sessão não é sobre crono
 
 Com os marcos definidos, o time faz um reality-check em cada um. A sessão serve para tornar visíveis as suposições, estimar esforço (P/M/G), pontuar valor de negócio e UX, e sinalizar dependências e habilidades necessárias. O objetivo não é precisão absoluta, mas entendimento compartilhado—para priorizar, evitar sobrecarga e sequenciar o trabalho com base em restrições reais.
 
-[Leia o guia completo da Sessão #3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) para frameworks de pontuação e armadilhas comuns a evitar.
+[Leia o guia completo da Sessão #3](/pt/posts/session-3-milestones-effort-value-dependencies/) para frameworks de pontuação e armadilhas comuns a evitar.
 
 ## OKRA Sessão #4: Rascunho Visual do Trimestre com OKRs
 
 A sessão final reúne tudo em um plano visual e colaborativo para o trimestre. O time sequencia marcos, anota riscos e dependências, e torna o alinhamento visível para todos. Não se trata de travar datas, mas de mapear intenção e criar um artefato compartilhado que guie a execução, permita ajustes e mantenha todos focados no que mais importa.
 
-[Leia o guia completo da Sessão #4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/) para técnicas de planejamento visual e dicas de facilitação.
+[Leia o guia completo da Sessão #4](/pt/posts/session-4-quarter-draft-plan/) para técnicas de planejamento visual e dicas de facilitação.
 
 ---
 

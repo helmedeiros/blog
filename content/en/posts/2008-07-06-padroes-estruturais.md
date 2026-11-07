@@ -78,7 +78,7 @@ Composes objects into tree structures and treats them uniformly.
 - **Intent**: Treat individual objects and compositions the same way.
 - **Use When**: You work with recursive structures like UI trees or file systems.
 
-<img src="/uploads/2008/07/composite-pattern.png" alt="UML Diagram of Composite" class="structural-pattern-img">
+<img src="/uploads/2008/07/composite-pattern.pn.png" alt="UML Diagram of Composite" class="structural-pattern-img">
 
 ```java
 interface Graphic {

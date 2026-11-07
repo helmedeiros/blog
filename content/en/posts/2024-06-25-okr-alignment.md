@@ -26,8 +26,8 @@ The OKRA process is built around five collaborative sessions. Each one is design
 | OKRA Session #0: Planting the Seeds of Vision Before OKRs Grow       | When company strategy is unclear or late | Shared team vision and context for the quarter                                | [Read Session #0](/posts/2023-03-18-session-0-product-vision/)                       |
 | OKRA Session #1: Cultivating Team-Driven OKRs from Company Soil      | When company OKRs are clear              | Team-drafted OKRs grounded in real constraints and opportunities              | [Read Session #1](/posts/2023-04-08-session-1-okrs-ideation/)                        |
 | OKRA Session #2: Harvesting Milestones—From OKR Hypotheses to Action | After team OKRs are drafted              | Actionable milestones, epics, and validation work mapped to OKRs              | [Read Session #2](/posts/2023-04-18-session-2-milestones-brainstorming/)             |
-| OKRA Session #3: Milestones Value, Effort & Dependencies             | After milestones are mapped              | Shared understanding of complexity, value, and constraints for each milestone | [Read Session #3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
-| OKRA Session #4: OKR Quarter Draft Plan                              | Before execution begins                  | Visual, collaborative draft plan for the quarter, making alignment visible    | [Read Session #4](/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+| OKRA Session #3: Milestones Value, Effort & Dependencies             | After milestones are mapped              | Shared understanding of complexity, value, and constraints for each milestone | [Read Session #3](/posts/session-3-milestones-effort-value-dependencies/) |
+| OKRA Session #4: OKR Quarter Draft Plan                              | Before execution begins                  | Visual, collaborative draft plan for the quarter, making alignment visible    | [Read Session #4](/posts/session-4-quarter-draft-plan/)                   |
 
 Let's now break down each one.
 
@@ -84,13 +84,13 @@ Now the team turns OKRs into a concrete plan. This session is not about timeline
 
 With milestones in hand, the team reality-checks each one. This session is about surfacing assumptions, estimating effort (S/M/L), scoring business and UX value, and calling out dependencies and required skills. The goal is not perfect precision, but shared understanding—so the team can prioritize, avoid overcommitment, and sequence work based on real constraints.
 
-[Read the full guide to Session #3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) for scoring frameworks and common pitfalls to avoid.
+[Read the full guide to Session #3](/posts/session-3-milestones-effort-value-dependencies/) for scoring frameworks and common pitfalls to avoid.
 
 ## OKRA Session #4: OKR Quarter Draft Plan
 
 The final session brings everything together in a visual, collaborative draft plan for the quarter. The team sequences milestones, annotates risks and dependencies, and makes alignment visible for all. This isn't about locking in dates, but about mapping intention and creating a shared artifact that guides execution, enables adjustment, and keeps everyone focused on what matters most.
 
-[Read the full guide to Session #4](/posts/2024-05-10-session-4-quarter-draft-plan/) for visual planning techniques and facilitation tips.
+[Read the full guide to Session #4](/posts/session-4-quarter-draft-plan/) for visual planning techniques and facilitation tips.
 
 ---
 

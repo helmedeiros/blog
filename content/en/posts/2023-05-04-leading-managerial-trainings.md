@@ -36,10 +36,10 @@ echo "📘 Leadership Training Series Started – May 2023" > training_journal.t
 
 ### Series Index
 
-- [Managers' First 90 Days](./2023-05-05-managers-first-90-days-intro/)
-- [Grow Their Minds, Expand Our Horizons](./2023-06-20-grow-their-minds-expand-horizons/)
-- [Responsive Leadership Part 1](./2023-07-05-responsive-leadership-part1/)
-- [Responsive Leadership Part 2](./2023-07-06-responsive-leadership-part2/)
-- [Leading Change](./2023-11-08-leading-change/)
-- [Respectful Workplace](./2023-02-21-respectful-workplace/)
-- [Performance Management 101](./2023-11-23-performance-management/)
+- [Managers' First 90 Days](/posts/2023-05-05-managers-first-90-days-intro/)
+- [Grow Their Minds, Expand Our Horizons](/posts/2023-06-20-grow-their-minds-expand-horizons/)
+- [Responsive Leadership Part 1](/posts/2023-07-05-responsive-leadership-part1/)
+- [Responsive Leadership Part 2](/posts/2023-07-06-responsive-leadership-part2/)
+- [Leading Change](/posts/2023-11-08-leading-change/)
+- [Respectful Workplace](/posts/2023-02-21-respectful-workplace/)
+- [Performance Management 101](/posts/2023-11-23-performance-management/)

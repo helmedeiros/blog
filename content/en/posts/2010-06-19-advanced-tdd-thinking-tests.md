@@ -154,6 +154,6 @@ Any team or facilitator can replicate this lesson in onboarding or skill growth 
 
 **Navigation:**
 
-- **Previous:** [Part 15 - Unit Testing with JUnit](/en/posts/2010-06-12-junit-unit-testing/)
-- **Next:** [Part 17 - Version Control: Don't Code Without It](/en/posts/2010-06-26-version-control-essential-foundation/)
-- **Series:** [Software Engineering Lectures (17 parts)](/en/series/software-engineering-lectures/)
+- **Previous:** [Part 15 - Unit Testing with JUnit](/posts/2010-06-12-junit-unit-testing/)
+- **Next:** [Part 17 - Version Control: Don't Code Without It](/posts/version-control-essential-foundation/)
+- **Series:** [Software Engineering Lectures (17 parts)](/series/software-engineering-lectures/)

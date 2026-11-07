@@ -31,7 +31,7 @@ subtitle: Transform distributed teams from chaos to collaboration—discover Lui
 <figcaption class="wp-caption-text">Luiz Faias Junior - Learning</figcaption>
 </figure>
 
-On the afternoon of November 29th, we had <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>, technology director at <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, at the front of the stage at <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre, sharing in his presentation the concepts and ideas he has been reflecting on and applying to create a learning environment!
+On the afternoon of November 29th, we had <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>, technology director at <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, at the front of the stage at <a title="adpoa10" href="/posts/2010-11-23-agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre, sharing in his presentation the concepts and ideas he has been reflecting on and applying to create a learning environment!
 
 The presentation started at 2:30 PM with several quick questions, which he soon admitted were just a trick to get people to raise their hands and wake up! A good start to mobilize the audience and begin the dynamics of our learning!
 

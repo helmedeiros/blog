@@ -17,7 +17,7 @@ subtitle: Become an active agent of change in your workplace—discover how step
 </p>
 
 <p style="text-align: left">
- A recent participation in <a title="DESCONF 2011-Mustache edition" href="/2011/11/29/desconf-2011-mustache-edition/">Desconf 2011</a>, as well as conversations and events that aren't so recent, made me reflect on our behavior as agents of change in our work environment.
+ A recent participation in <a title="DESCONF 2011-Mustache edition" href="/posts/2011-11-29-desconf-2011-mustache-edition/">Desconf 2011</a>, as well as conversations and events that aren't so recent, made me reflect on our behavior as agents of change in our work environment.
 
 Many times we've heard or started debates with the phrase "this would never work where I work", happens... but you'll never be sure until you try.
 
@@ -61,14 +61,14 @@ As Rafael Bandeira said... there's a lot of offline experience waiting for us!!
 [1]: http://twitter.com/dwildt "Daniel Wildt"
 [14]: http://twitter.com/#!/dtsato "Danilo Sato"
 [10]: http://twitter.com/#!/lcparzianello "Luiz C. Parzianello"
-[19]: /2011/06/19/agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
+[19]: /posts/2011-06-19-agile-brazil-2011-claro-que-vou/ "Agile Brazil 2011 – EU VOU!!"
 [13]: http://twitter.com/#!/hugocorbucci "Hugo Corbucci"
 [11]: http://twitter.com/#!/manoelp "Manoel Pimentel"
 [2]: http://twitter.com/brunopedroso "Bruno Pedroso"
 [3]: http://twitter.com/#!/alegomes "Alexandre Gomes"
 [12]: http://twitter.com/#!/rafb3 "Rafael Bandeira"
 [17]: http://twitter.com/#!/rafajagua "Rafael Camargo"
-[20]: /2011/11/29/desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
+[20]: /posts/2011-11-29-desconf-2011-mustache-edition/ "DESCONF 2011-Mustache edition"
 [6]: http://twitter.com/#!/joaostein "João Stein"
 [18]: http://twitter.com/#!/thiagoesser "Thiago Esser"
 [4]: http://twitter.com/#!/rwilli "Willi"

@@ -35,7 +35,7 @@ subtitle: Transforme equipes distribuídas de caos para colaboração—descubra
 <figcaption class="wp-caption-text">Luiz Faias Junior - Aprendizado</figcaption>
 </figure>
 
-Na tarde do dia 29/11 tivemos a frente do palco do <a title="adpoa10" href="/2010/11/23/agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre o <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>,  diretor de tecnologia da <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente  aprendizagem!
+Na tarde do dia 29/11 tivemos a frente do palco do <a title="adpoa10" href="/pt/posts/2010-11-23-agile-day-2010-porto-alegre/" target="_blank">Agile Day 2010</a> Porto Alegre o <a title="@luizfaias" href="http://twitter.com/luizfaias" target="_blank">Luiz Faias Jr.</a>,  diretor de tecnologia da <a title="Bluesoft" href="http://bluesoft.wordpress.com/" target="_blank">Bluesoft</a>, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente  aprendizagem!
 
 A palestra foi iniciada às 14:30h com várias perguntas rápidas, no qual em pouco tempo o mesmo admitiu se tratar apenas de uma brincadeira para para o pessoal levantar o braço e acordar! Bom início para mobilizar o pessoal e iniciar a dinâmica do nosso aprendizado!
 

@@ -36,7 +36,7 @@ Recentemente fiz uma jornada introspectiva para entender um pouco mais sobre a c
 
 Esta é uma experiência válida quando não estamos construindo uma nova aplicação para atender os nossos problemas. Quando não conhecemos de perto o nosso público, nada melhor do que uma boa conversa ao sofá ou na mesa ao almoço, algo subjetivamente demorado e franco.
 
-Durante este tempo incontáveis idéias foram escritas em um [caderno][2] que sempre me acompanha, e quantos de nós não já tiveram ideias e mais ideias que foram comentadas, anotadas, implementadas e miseravelmente esquecidas. Neste último sábado, 26 de Novembro de 2011, apresentei durante a [DESCONF 2011][3] um vislumbre deste meu aprendizado fundado sobre idéias co-evoluídas. IDÉIAS SÃO MUITO IMPORTANTES PARA SEREM ESQUECIDAS SEM PESTANEJAR, o ato de [LEMBRAR-MOS E ESQUECER-MOS][4] DELAS pode nos levar as margens do sucesso e da vanguarda tecnologica.![](/uploads/2011/11/DEsconf2011.png)
+Durante este tempo incontáveis idéias foram escritas em um [caderno][2] que sempre me acompanha, e quantos de nós não já tiveram ideias e mais ideias que foram comentadas, anotadas, implementadas e miseravelmente esquecidas. Neste último sábado, 26 de Novembro de 2011, apresentei durante a [DESCONF 2011][3] um vislumbre deste meu aprendizado fundado sobre idéias co-evoluídas. IDÉIAS SÃO MUITO IMPORTANTES PARA SEREM ESQUECIDAS SEM PESTANEJAR, o ato de [LEMBRAR-MOS E ESQUECER-MOS][4] DELAS pode nos levar as margens do sucesso e da vanguarda tecnologica.![](/uploads/2011/11/desconf2011.png)
 *Lembrar e Esquecer idéias? Acompanhe-as e descarte sabiamente*
 
 &nbsp;
@@ -55,7 +55,7 @@ Várias empresas produzem sistemas de qualidade mas que nada servem para os seus
 [2]: http://www.moleskine.com/ "moleskine"
 [3]: http://desconf.com.br/ "DESCONF 2011"
 [4]: http://www.slideshare.net/heliomedeiros/usar-e-esquecer-suas-ideias-desconf-2011 "Desconf 2011 - Usar e esquecer suas ideias"
-[5]: /uploads/2011/11/DEsconf2011.png
+[5]: /uploads/2011/11/desconf2011.png
 [6]: http://www.imdb.com/title/tt0408985/ "Last Holiday"
 [7]: http://www.imdb.com/name/nm0001451/
 [8]: http://www.scrumalliance.org/pages/what_is_scrum "Product Owner"

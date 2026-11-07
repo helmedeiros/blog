@@ -58,5 +58,5 @@ Nos vemos no próximo semestre, com novos desafios e, com certeza, mais históri
 
 _Este post é a **Parte 18 de 19** na série "Aulas de Engenharia de Software"_
 
-**Anterior:** [Controle de Versão: Fundação Essencial](/pt/posts/2010-06-26-controle-versao-fundacao-essencial/) (Parte 17)
-**Próximo:** [Encerrando um Ciclo: Gratidão e Novos Caminhos](/pt/posts/2010-11-01-despedida-unp-nova-jornada/) (Parte 19)
+**Anterior:** [Controle de Versão: Fundação Essencial](/pt/posts/controle-versao-fundacao-essencial/) (Parte 17)
+**Próximo:** [Encerrando um Ciclo: Gratidão e Novos Caminhos](/pt/posts/despedida-unp-nova-jornada/) (Parte 19)
