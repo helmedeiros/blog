@@ -63,7 +63,7 @@ Values such as [CORAGEM][12] and **MD_Ref_12** of [Extreme Programming][14] are 
 </p>
 
 [2]: http://jorgekotickaudy.wordpress.com/2012/08/14/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/ "1ª Semana de Lightining talks e Fishbowls no Tecnopuc"
-[3]: /apresentacoes/ "Apresentações"
+[3]: https://speakerdeck.com/helmedeiros "Apresentações"
 [1]: http://jorgekotickaudy.wordpress.com/2012/08/23/2308-4o-dia-semana/ "4º dia"
 [5]: http://blog.scrumhalf.com.br/2011/10/criterios-de-aceitacao-das-user-stories/ "Critérios de Aceitação"
 [12]: http://improveit.com.br/xp/valores/coragem "Valores XP - Coragem"

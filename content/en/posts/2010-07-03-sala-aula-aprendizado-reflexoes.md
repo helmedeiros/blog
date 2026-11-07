@@ -24,8 +24,6 @@ draft: false
 subtitle: Bridge the gap between classroom theory and real-world practice—discover how teaching software engineering reveals the hidden complexities of translating academic concepts into professional skills
 ---
 
-![Placeholder for current image](path/to/image-placeholder.jpeg)
-
 I'm wrapping up another semester teaching at Universidade Potiguar (UnP), and it's been a deeply rewarding experience — full of insights, challenges, and unexpected laughs. Teaching over the course of several months is a completely different beast from running workshops or giving conference talks. Those are intense bursts of energy. This is a marathon of continuity, uncertainty, late-night questions, and long-haul growth — for students and for me.
 
 ---
@@ -70,5 +68,5 @@ See you next semester, with new lessons and more stories to tell.
 
 _This post is **Part 18 of 19** in the series "Lectures on Software Engineering"_
 
-**Previous:** [Version Control: Essential Foundation](/en/posts/2010-06-26-version-control-essential-foundation/) (Part 17)
-**Next:** [Closing a Chapter: Gratitude and New Paths](/en/posts/2010-11-01-farewell-unp-new-journey/) (Part 19)
+**Previous:** [Version Control: Essential Foundation](/posts/version-control-essential-foundation/) (Part 17)
+**Next:** [Closing a Chapter: Gratitude and New Paths](/posts/farewell-unp-new-journey/) (Part 19)

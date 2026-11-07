@@ -104,5 +104,5 @@ Essa aula deixou claro: controle de versão é uma linguagem de comunicação. E
 
 _Este post é a **Parte 17 de 19** na série "Aulas de Engenharia de Software"_
 
-**Anterior:** [TDD Avançado: Pensando com Testes](/pt/posts/2010-06-19-tdd-avancado-pensando-com-testes/) (Parte 16)
-**Próximo:** [A Sala de Aula Como Aprendizado: Reflexões de Um Semestre](/pt/posts/2010-07-03-sala-aula-aprendizado-reflexoes/) (Parte 18)
+**Anterior:** [TDD Avançado: Pensando com Testes](/pt/posts/tdd-avancado-pensando-com-testes/) (Parte 16)
+**Próximo:** [A Sala de Aula Como Aprendizado: Reflexões de Um Semestre](/pt/posts/sala-aula-aprendizado-reflexoes/) (Parte 18)

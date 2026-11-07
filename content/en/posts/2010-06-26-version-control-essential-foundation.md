@@ -109,5 +109,5 @@ This class made clear: version control is a communication tool. Not just with co
 
 _This post is **Part Part 17 of 19** in the series "Lectures on Software Engineering"_
 
-**Previous:** [Advanced TDD: Thinking in Tests](/en/posts/2010-06-19-advanced-tdd-thinking-tests/) (Part 16)
-**Next:** [The Classroom as a Learning Ground: Reflections from a Semester](/en/posts/2010-07-03-classroom-learning-reflections/) (Part 18)
+**Previous:** [Advanced TDD: Thinking in Tests](/posts/advanced-tdd-thinking-tests/) (Part 16)
+**Next:** [The Classroom as a Learning Ground: Reflections from a Semester](/posts/classroom-learning-reflections/) (Part 18)

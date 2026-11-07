@@ -45,8 +45,8 @@ A metodologia OKRA consiste em cinco sessões colaborativas distintas, cada uma 
 | Sessão 0 | Visão de Produto          | Contexto compartilhado e declaração de visão          | 30 minutos     | Quando a estratégia do grupo não está clara ou está ausente | [Ler Sessão 0](/pt/posts/2023-03-18-session-0-product-vision/)                       |
 | Sessão 1 | Ideação de OKRs           | Objetivos rascunhados e candidatos a resultados-chave | 60 minutos     | Quando OKRs da empresa estão disponíveis                    | [Ler Sessão 1](/pt/posts/2023-04-08-session-1-okrs-ideation/)                        |
 | Sessão 2 | Planejamento de Marcos    | Marcos acionáveis mapeados para hipóteses             | 75 minutos     | Após OKRs da equipe serem rascunhados                       | [Ler Sessão 2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)             |
-| Sessão 3 | Esforço e Dependências    | Estimativas de esforço e mapeamento de dependências   | 90 minutos     | Após marcos serem definidos                                 | [Ler Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
-| Sessão 4 | Planejamento do Trimestre | Timeline visual com avaliação de riscos               | 75 minutos     | Antes da execução começar                                   | [Ler Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+| Sessão 3 | Esforço e Dependências    | Estimativas de esforço e mapeamento de dependências   | 90 minutos     | Após marcos serem definidos                                 | [Ler Sessão 3](/pt/posts/session-3-milestones-effort-value-dependencies/) |
+| Sessão 4 | Planejamento do Trimestre | Timeline visual com avaliação de riscos               | 75 minutos     | Antes da execução começar                                   | [Ler Sessão 4](/pt/posts/session-4-quarter-draft-plan/)                   |
 
 **Templates Oficiais OKRA:** [Acesse o quadro Figma](https://www.figma.com/community/file/1517917639512258685) com todos os templates e canvas das sessões.
 
@@ -88,7 +88,7 @@ Esta sessão previne o problema comum de supercompromisso forçando conversas ex
 
 A abordagem de pontuação é projetada para facilitar conversa em vez de alcançar precisão matemática. O objetivo é alinhamento sobre prioridades relativas e sequenciamento realista, não estimativa perfeita.
 
-**Saiba mais:** [Guia detalhado da Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+**Saiba mais:** [Guia detalhado da Sessão 3](/pt/posts/session-3-milestones-effort-value-dependencies/)
 
 ### Sessão 4: Criando o Mapa de Execução
 
@@ -96,7 +96,7 @@ A sessão final traz todo o trabalho anterior junto em uma timeline visual que t
 
 Isso não é planejamento rígido de projeto, mas desenvolvimento colaborativo de cenários. A abordagem visual torna fácil discutir trade-offs, ajustar sequenciamento e identificar pontos onde a equipe precisará tomar decisões estratégicas baseadas no que aprender.
 
-**Saiba mais:** [Guia detalhado da Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)
+**Saiba mais:** [Guia detalhado da Sessão 4](/pt/posts/session-4-quarter-draft-plan/)
 
 ## Insights de Implementação da Apresentação à Liderança
 
@@ -149,8 +149,8 @@ Cada sessão possui instruções detalhadas de facilitação, recomendações de
 - **Sessão 0:** Visão de Produto - [Ler Sessão 0](/pt/posts/2023-03-18-session-0-product-vision/)
 - **Sessão 1:** Ideação de OKRs - [Ler Sessão 1](/pt/posts/2023-04-08-session-1-okrs-ideation/)
 - **Sessão 2:** Planejamento de Marcos - [Ler Sessão 2](/pt/posts/2023-04-18-session-2-milestones-brainstorming/)
-- **Sessão 3:** Esforço e Dependências - [Ler Sessão 3](/pt/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
-- **Sessão 4:** Planejamento do Trimestre - [Ler Sessão 4](/pt/posts/2024-05-10-session-4-quarter-draft-plan/)
+- **Sessão 3:** Esforço e Dependências - [Ler Sessão 3](/pt/posts/session-3-milestones-effort-value-dependencies/)
+- **Sessão 4:** Planejamento do Trimestre - [Ler Sessão 4](/pt/posts/session-4-quarter-draft-plan/)
 
 ### Visão Geral da Série
 

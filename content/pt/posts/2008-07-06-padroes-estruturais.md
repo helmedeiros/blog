@@ -77,7 +77,7 @@ Compõe objetos em estruturas de árvore e os trata de forma uniforme.
 - **Intenção**: Tratar objetos individuais e composições da mesma forma.
 - **Use quando**: Você lida com estruturas recursivas como árvores de UI ou sistemas de arquivos.
 
-<img src="/uploads/2008/07/composite-pattern.png" alt="Diagrama UML do Composite" class="structural-pattern-img">
+<img src="/uploads/2008/07/composite-pattern.pn.png" alt="Diagrama UML do Composite" class="structural-pattern-img">
 
 ```java
 interface Graphic {

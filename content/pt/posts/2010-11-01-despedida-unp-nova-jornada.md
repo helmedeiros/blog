@@ -65,9 +65,9 @@ Isso conclui nossa jornada abrangente de 19 partes pelos fundamentos da Engenhar
 13. **[Teste de Software](/pt/posts/2010-05-29-software-testing/)** - Estratégias abrangentes de teste
 14. **[Test-Driven Development](/pt/posts/2010-06-05-test-driven-development/)** - Abordagem tests-first
 15. **[Teste Unitário com JUnit](/pt/posts/2010-06-12-junit-unit-testing/)** - Teste unitário prático
-16. **[TDD Avançado: Pensando com Testes](/pt/posts/2010-06-19-tdd-avancado-pensando-com-testes/)** - Práticas maduras de TDD
-17. **[Controle de Versão: Fundação Essencial](/pt/posts/2010-06-26-controle-versao-fundacao-essencial/)** - Não programe sem ele
-18. **[A Sala de Aula Como Aprendizado](/pt/posts/2010-07-03-sala-aula-aprendizado-reflexoes/)** - Reflexões sobre ensinar e aprender
+16. **[TDD Avançado: Pensando com Testes](/pt/posts/tdd-avancado-pensando-com-testes/)** - Práticas maduras de TDD
+17. **[Controle de Versão: Fundação Essencial](/pt/posts/controle-versao-fundacao-essencial/)** - Não programe sem ele
+18. **[A Sala de Aula Como Aprendizado](/pt/posts/sala-aula-aprendizado-reflexoes/)** - Reflexões sobre ensinar e aprender
 19. **Encerrando um Ciclo: Gratidão e Novos Caminhos** - A jornada continua (Final)
 
 Esta série representa mais que conteúdo técnico—é uma jornada através da evolução do pensamento em engenharia de software, de processos rígidos a metodologias adaptativas, de codificação individual à engenharia colaborativa, e finalmente ao reconhecimento de que grande engenharia de software combina excelência técnica com sabedoria humana.
@@ -82,4 +82,4 @@ Continue aprendendo, continue ensinando, e continue construindo software que faz
 
 _Este post é a **Parte 19 de 19** na série "Aulas de Engenharia de Software"_
 
-**Anterior:** [A Sala de Aula Como Aprendizado: Reflexões de Um Semestre](/pt/posts/2010-07-03-sala-aula-aprendizado-reflexoes/) (Parte 18)
+**Anterior:** [A Sala de Aula Como Aprendizado: Reflexões de Um Semestre](/pt/posts/sala-aula-aprendizado-reflexoes/) (Parte 18)

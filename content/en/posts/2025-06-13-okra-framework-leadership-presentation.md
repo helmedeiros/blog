@@ -45,8 +45,8 @@ The OKRA methodology consists of five distinct collaborative sessions, each desi
 | Session 0 | Product Vision        | Shared context and vision statement        | 30 minutes       | When group strategy is unclear or missing | [Read Session 0](/posts/2023-03-18-session-0-product-vision/)                       |
 | Session 1 | OKR Ideation          | Draft objectives and key result candidates | 60 minutes       | When company OKRs are available           | [Read Session 1](/posts/2023-04-08-session-1-okrs-ideation/)                        |
 | Session 2 | Milestones Planning   | Actionable milestones mapped to hypotheses | 75 minutes       | After team OKRs are drafted               | [Read Session 2](/posts/2023-04-18-session-2-milestones-brainstorming/)             |
-| Session 3 | Effort & Dependencies | Effort estimates and dependency mapping    | 90 minutes       | After milestones are defined              | [Read Session 3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/) |
-| Session 4 | Quarter Planning      | Visual timeline with risk assessment       | 75 minutes       | Before execution begins                   | [Read Session 4](/posts/2024-05-10-session-4-quarter-draft-plan/)                   |
+| Session 3 | Effort & Dependencies | Effort estimates and dependency mapping    | 90 minutes       | After milestones are defined              | [Read Session 3](/posts/session-3-milestones-effort-value-dependencies/) |
+| Session 4 | Quarter Planning      | Visual timeline with risk assessment       | 75 minutes       | Before execution begins                   | [Read Session 4](/posts/session-4-quarter-draft-plan/)                   |
 
 **Official OKRA Templates:** [Get the Figma board](https://www.figma.com/community/file/1517917639512258685) with all session templates and canvases.
 
@@ -88,7 +88,7 @@ This session prevents the common problem of overcommitment by forcing explicit c
 
 The scoring approach is designed to facilitate conversation rather than achieve mathematical precision. The goal is alignment on relative priorities and realistic sequencing, not perfect estimation.
 
-**Learn more:** [Session 3 detailed guide](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
+**Learn more:** [Session 3 detailed guide](/posts/session-3-milestones-effort-value-dependencies/)
 
 ### Session 4: Creating the Execution Map
 
@@ -96,7 +96,7 @@ The final session brings all previous work together in a visual timeline that ma
 
 This is not rigid project planning but collaborative scenario development. The visual approach makes it easy to discuss trade-offs, adjust sequencing, and identify points where the team will need to make strategic decisions based on what they learn.
 
-**Learn more:** [Session 4 detailed guide](/posts/2024-05-10-session-4-quarter-draft-plan/)
+**Learn more:** [Session 4 detailed guide](/posts/session-4-quarter-draft-plan/)
 
 ## Implementation Insights from the Leadership Presentation
 
@@ -149,8 +149,8 @@ Each session has detailed facilitation instructions, timing recommendations, and
 - **Session 0:** Product Vision - [Read Session 0](/posts/2023-03-18-session-0-product-vision/)
 - **Session 1:** OKR Ideation - [Read Session 1](/posts/2023-04-08-session-1-okrs-ideation/)
 - **Session 2:** Milestones Planning - [Read Session 2](/posts/2023-04-18-session-2-milestones-brainstorming/)
-- **Session 3:** Effort & Dependencies - [Read Session 3](/posts/2024-04-08-session-3-milestones-effort-value-dependencies/)
-- **Session 4:** Quarter Planning - [Read Session 4](/posts/2024-05-10-session-4-quarter-draft-plan/)
+- **Session 3:** Effort & Dependencies - [Read Session 3](/posts/session-3-milestones-effort-value-dependencies/)
+- **Session 4:** Quarter Planning - [Read Session 4](/posts/session-4-quarter-draft-plan/)
 
 ### Series Overview
 

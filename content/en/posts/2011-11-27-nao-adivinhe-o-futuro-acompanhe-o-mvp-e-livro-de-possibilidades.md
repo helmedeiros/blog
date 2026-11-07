@@ -55,7 +55,7 @@ During this time, countless ideas were written in a [caderno][2] that always acc
 
 On November 26th, 2011, I presented during the [DESCONF 2011][3] a glimpse of this my learning based on co-evolving ideas.
 
-IDEAS ARE VERY IMPORTANT NOT TO BE FORGOTTEN WITHOUT A BIT OF PESSIMISM, the act of [LEMBRAR-MOS E ESQUECER-MOS][4] THEM may take us to the edges of success and technological vanguard.![](/uploads/2011/11/DEsconf2011.png)
+IDEAS ARE VERY IMPORTANT NOT TO BE FORGOTTEN WITHOUT A BIT OF PESSIMISM, the act of [LEMBRAR-MOS E ESQUECER-MOS][4] THEM may take us to the edges of success and technological vanguard.![](/uploads/2011/11/desconf2011.png)
 *Remember and Forget ideas?
 
 Follow them and wisely discard*A while ago, I saw the movie [Last Holiday][6], which presents the life story behind the main character played by [Queen Latifah][7] in her last week of life, and I found a positive relationship between the film's book of possibilities and our backlogs, and I've been applying it ever since.
@@ -67,7 +67,7 @@ MAS NÃO ESQUEÇA DE MANTER OS SEUS OLHOS ABERTOS!![](/uploads/2011/11/Vision_Te
 [2]: http://www.moleskine.com/ "moleskine"
 [3]: http://desconf.com.br/ "DESCONF 2011"
 [1]: /uploads/2011/11/keepYoureyesOpen.jpg
-[5]: /uploads/2011/11/DEsconf2011.png
+[5]: /uploads/2011/11/desconf2011.png
 [6]: http://www.imdb.com/title/tt0408985/ "Last Holiday"
 [4]: http://www.slideshare.net/heliomedeiros/usar-e-esquecer-suas-ideias-desconf-2011 "Desconf 2011 - Usar e esquecer suas ideias"
 [15]: /uploads/2011/11/Vision_Test_POSTER.jpg
