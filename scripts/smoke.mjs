@@ -92,6 +92,17 @@ try {
     await finish(ptPost, 'Portuguese post');
   }
 
+  const diagramPost = await visit('/posts/2023-06-14-strangler-fig-pricing-platform/');
+  const diagrams = diagramPost.page.locator('.plantuml-diagram img');
+  const diagramCount = await diagrams.count();
+  for (let i = 0; i < diagramCount; i++) await diagrams.nth(i).scrollIntoViewIfNeeded();
+  const diagramsLoaded = await diagramPost.page
+    .waitForFunction(() => [...document.querySelectorAll('.plantuml-diagram img')].every((i) => i.complete && i.naturalWidth > 0), null, { timeout: 10000 })
+    .then(() => true)
+    .catch(() => false);
+  check(diagramCount >= 3 && diagramsLoaded, `post diagrams load as images (${diagramCount} found)`);
+  await finish(diagramPost, 'post with diagrams');
+
   for (const path of ['/tags/', '/series/', '/index.xml', '/sitemap.xml']) {
     const r = await context.request.get(new URL(path, base).href);
     check(r.status() === 200, `${path} returns 200 (got ${r.status()})`);
