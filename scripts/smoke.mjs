@@ -40,6 +40,8 @@ async function visit(path, { width = 1280, height = 800 } = {}) {
   const url = new URL(path, base).href;
   const response = await page.goto(url, { waitUntil: 'load' });
   check(response?.status() === 200, `GET ${path} returns 200 (got ${response?.status()})`);
+  const title = (await page.title()).trim();
+  check(title.length > 0 && !title.endsWith('-'), `${path} has a complete <title> ("${title}")`);
   return { page, problems, url };
 }
 
@@ -60,6 +62,10 @@ try {
   check(sheets.length >= 5 && empty.length === 0, `site stylesheets are applied (${sheets.length} loaded${empty.length ? `, empty: ${empty.join(', ')}` : ''})`);
   const navbarHeight = await home.page.$eval('.navbar', (el) => el.getBoundingClientRect().height).catch(() => 0);
   check(navbarHeight >= 40, `Bootstrap styles the navbar (${navbarHeight}px tall)`);
+  const menu = await home.page.$$eval('.navbar a', (as) =>
+    as.filter((a) => a.offsetParent !== null && a.getBoundingClientRect().width > 0).map((a) => a.textContent.trim().toUpperCase()),
+  );
+  check(['POSTS', 'SERIES', 'PORTUGUÊS'].every((item) => menu.includes(item)), `desktop menu shows Posts, Series and Português (${menu.join(', ')})`);
   const postLinks = await home.page.$$eval('a[href*="/posts/"]', (as) => [...new Set(as.map((a) => a.href))]);
   check(postLinks.length >= 10, `home lists posts (${postLinks.length} links)`);
   await finish(home, 'home');
