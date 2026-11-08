@@ -28,12 +28,6 @@
       "ignoreTests": true
     },
     {
-      "description": "Git submodules (themes)",
-      "matchManagers": ["git-submodules"],
-      "automerge": false,
-      "reviewersFromCodeOwners": true
-    },
-    {
       "description": "Hugo minor and patch updates - auto merge",
       "matchFileNames": [".github/workflows/hugo.yml"],
       "matchStrings": ["HUGO_VERSION: (?<currentValue>.*?)\\n"],
@@ -67,9 +61,6 @@
       "extractVersionTemplate": "^v(?<version>.*)$"
     }
   ],
-  "git-submodules": {
-    "enabled": true
-  },
   "github-actions": {
     "enabled": true
   },
