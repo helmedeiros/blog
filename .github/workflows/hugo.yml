@@ -37,10 +37,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
         with:
-          submodules: true
           fetch-depth: 0
-      - name: Update submodules
-        run: git submodule update --init --recursive
       - name: Setup Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
