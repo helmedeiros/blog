@@ -54,17 +54,10 @@
 <!-- Links and stylesheets -->
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
-  {{- if .Site.Params.selfHosted -}}
-  {{- if ne .Site.Params.fontAwesome false }}
-  <link rel="stylesheet" href="{{ "fontawesome/css/all.css" | absURL }}" />
-  {{- end }}
-  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
-  {{- else -}}
   {{- if ne .Site.Params.fontAwesome false }}
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css" integrity="sha384-h/hnnw1Bi4nbpD6kE7nYfCXzovi622sY5WBxww8ARKwpdLj5kUWjRuyiXaD1U2JT" crossorigin="anonymous">
   {{- end }}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-  {{- end -}}
 
   {{- $styles := slice (resources.Get "css/main.css") }}
   {{- if not .Site.Params.useHLJS }}
@@ -78,11 +71,7 @@
   <link rel="stylesheet" href="{{ "css/staticman.css" | absURL }}" />
   {{- end -}}
 
-  {{- if .Site.Params.selfHosted -}}
-  <link rel="stylesheet" href="{{ "css/fonts.css" | absURL }}" />
-  {{- else -}}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?{{ .Site.Params.googleFonts | default "family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" | safeURL }}" />
-  {{- end -}}
 
   {{- if .Site.Params.useHLJS }}
   <link rel="stylesheet" href="{{ "css/highlight.min.css" | absURL }}" />
@@ -93,13 +82,8 @@
   {{- end -}}
 
 {{- if partial "func/uses-photoswipe.html" . }}
-  {{- if .Site.Params.selfHosted -}}
-  <link rel="stylesheet" href="{{ "css/photoswipe.min.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/photoswipe.default-skin.min.css" | absURL }}" />
-  {{- else -}}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
-  {{- end -}}
 {{- end }}
 
 {{- partial "head_custom.html" . }}
