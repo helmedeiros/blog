@@ -9,6 +9,7 @@
   {{- errorf "%s: diagram %s has no rendered SVG; run python3 scripts/render_diagrams.py" .Position $key -}}
 {{- end -}}
 {{- $size := index (findRESubmatch `<svg[^>]*? width="([0-9.]+)px" height="([0-9.]+)px"` $svg.Content 1) 0 -}}
+{{- $svg = $svg | minify -}}
 {{- $width := index $size 1 | float -}}
 {{- $height := index $size 2 | float -}}
 <figure class="plantuml-diagram" style="text-align: {{ $align }};">
