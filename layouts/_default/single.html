@@ -169,6 +169,8 @@
 </div>
 
 <!-- PhotoSwipe Modal HTML -->
+{{- if partial "func/uses-photoswipe.html" . }}
 {{ partial "load-photoswipe-theme.html" . }}
+{{- end }}
 
 {{ end }}
