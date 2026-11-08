@@ -43,7 +43,7 @@ This Hugo-based bilingual blog (English/Portuguese) was migrated from WordPress 
 
 - **[../scripts/](../scripts/)** - All Python automation scripts used in the restoration
 - **[../layouts/](../layouts/)** - Custom Hugo layout files
-- **[../static/css/](../static/css/)** - Custom CSS for design improvements
+- **[../assets/css/](../assets/css/)** - Custom CSS for design improvements, bundled into one stylesheet
 
 ## Technical Stack
 

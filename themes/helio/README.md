@@ -12,14 +12,29 @@ used as a git submodule until then. Beautiful Hugo is MIT licensed; its
 license and copyright notices are kept in [LICENSE](LICENSE).
 
 Only the parts Hugo uses were copied: `archetypes`, `data`, `i18n`,
-`layouts` and `static`. The upstream example site, screenshots and CI
+`layouts` and `static`. Since then the self-hosted asset mode, the
+highlight.js option, the mermaid shortcode, KaTeX and the demo images
+have been removed. The upstream example site, screenshots and CI
 files were left out.
 
 ## Changing the theme
 
 Templates in the site's own `layouts/` directory override the ones here,
-so most of the blog's look is defined there and in
-`static/css/custom-layout.css` and `static/css/blog-style.css`.
+so most of the blog's look is defined there and in the site's
+`assets/css/`.
+
+The theme's stylesheets live in `assets/css/` and are bundled into one
+minified, fingerprinted `theme.min.<hash>.css`; the site bundles its own
+into `site.min.<hash>.css`. Bootstrap, jQuery and PhotoSwipe load from
+their CDNs with integrity hashes, and PhotoSwipe only on pages whose
+content has a `<figure>`.
+
+Site parameters the theme reads:
+
+- `googleFonts`: the query for one Google Fonts css2 request; defaults to
+  the theme's Lora and Open Sans families.
+- `fontAwesome`: set to `false` to skip the Font Awesome CDN stylesheet
+  when the site serves its own icons.
 
 To adopt something from upstream Beautiful Hugo, port that change on its
 own, then check the build with the link checker and smoke test
