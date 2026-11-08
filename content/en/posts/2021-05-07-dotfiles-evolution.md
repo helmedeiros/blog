@@ -8,7 +8,7 @@ categories:
 
 tags:
   - dotfiles
-  - remote-work
+  - Remote Work
   - bootstrap
   - scaling
   - portability

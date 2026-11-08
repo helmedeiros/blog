@@ -12,7 +12,7 @@ tags:
   - ai
   - claude-code
   - agentic-workflows
-  - planning
+  - Planning
   - software-architecture
   - developer-experience
 description: "Plan Mode and interactive questioning shift agentic collaboration from correction-driven to alignment-driven. Specification clarity before execution is the cheapest quality investment you can make."

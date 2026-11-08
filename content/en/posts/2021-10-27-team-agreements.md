@@ -14,7 +14,7 @@ tags:
   - team-culture
   - onboarding
   - leadership
-  - agile
+  - AGILE
   - empowerment
 subtitle: Build autonomous teams through co-created agreements—turning retrospective insights into concrete norms that foster psychological safety, clear expectations, and shared accountability
 ---

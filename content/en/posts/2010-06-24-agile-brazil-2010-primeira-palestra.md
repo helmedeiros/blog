@@ -9,7 +9,7 @@ categories:
   - Leadership
   - Agile
 tags:
-  - Agile Brazil
+  - agile brazil
   - XP
   - Scrum
   - Kanban

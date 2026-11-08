@@ -6,7 +6,7 @@ date: 2010-06-22 02:54:34+00:00
 slug: agile-brazil-2010-introducao-a-programacao-extrema-xp
 categories: ["Events", "Development", "Agile"]
 tags:
-  - Agile Brazil
+  - agile brazil
   - XP
   - Programação Extrema
   - Bruno Pedroso

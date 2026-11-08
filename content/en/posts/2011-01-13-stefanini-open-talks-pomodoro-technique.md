@@ -16,8 +16,8 @@ tags:
   - TECNOPUC
   - Dell
   - Pomodoro Technique
-  - Productivity
-  - Focus
+  - productivity
+  - focus
 subtitle: Master focused execution through real-world Pomodoro practice—discover depth rules, visual lists, and personal adaptations that transformed critical refactoring into productive cycles
 ---
 

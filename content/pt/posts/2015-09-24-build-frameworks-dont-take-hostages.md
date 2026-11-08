@@ -9,7 +9,7 @@ tags:
     "arquitetura",
     "design de software",
     "desenvolvimento",
-    "tdc",
+    "TDC",
     "frameworkite",
   ]
 categories: ["Events", "Architecture"]

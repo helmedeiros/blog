@@ -16,7 +16,7 @@ tags:
   - Coragem
   - Comunicação
   - Simplicidade
-  - Feedback
+  - feedback
   - Testes Unitários
   - Programação em Pares
   - UnP

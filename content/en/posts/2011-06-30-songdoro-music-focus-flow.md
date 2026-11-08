@@ -12,9 +12,9 @@ categories:
   - Agile
 tags:
   - agilebrazil2011
-  - pomodoro
+  - Pomodoro
   - productivity
-  - songdoro
+  - Songdoro
   - focus
 subtitle: Revolutionize focus with musical productivity—discover how Songdoro transforms Pomodoro cycles into energizing playlists that create shared rhythms and unstoppable flow states
 ---

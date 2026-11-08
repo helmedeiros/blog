@@ -9,7 +9,7 @@ tags:
     "architecture",
     "software design",
     "development",
-    "tdc",
+    "TDC",
     "frameworkitis",
   ]
 categories: ["Events", "Architecture"]

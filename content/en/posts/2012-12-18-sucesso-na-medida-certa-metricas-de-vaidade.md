@@ -15,7 +15,7 @@ tags:
   - Lean Startup
   - métricas de vaidade
   - poa
-  - porto alegre
+  - porto-alegre
 subtitle: Avoid vanity metrics that mislead your decisions—learn to use actionable, accessible, and auditable reports that reveal true cause-and-effect relationships in your business
 ---
 

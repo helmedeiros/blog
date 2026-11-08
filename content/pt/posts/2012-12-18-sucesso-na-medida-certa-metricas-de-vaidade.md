@@ -18,7 +18,7 @@ tags:
   - Lean Startup
   - métricas de vaidade
   - poa
-  - porto alegre
+  - porto-alegre
 subtitle: Evite métricas de vaidade que enganam suas decisões—aprenda a usar relatórios acionáveis, acessíveis e auditáveis que revelam verdadeiras relações de causa-efeito no seu negócio
 ---
 

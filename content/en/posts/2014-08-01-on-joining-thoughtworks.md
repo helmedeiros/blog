@@ -10,7 +10,7 @@ categories:
 tags:
   - thoughtworks
   - career
-  - agile
+  - AGILE
   - continuous-delivery
   - porto-alegre
   - natal

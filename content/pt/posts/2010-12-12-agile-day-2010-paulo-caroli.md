@@ -20,10 +20,10 @@ tags:
   - adpoa10
   - AGILE
   - agileday
-  - card wall
+  - Card Wall
   - guma
-  - kanban
-  - paulo caroli
+  - Kanban
+  - Paulo Caroli
   - pucrs
 subtitle: Domine a arte da facilitação ágil—aprenda as técnicas comprovadas de Paulo Caroli para conduzir workshops que geram insights reais, impulsionam decisões e transformam dinâmicas de equipe através de design colaborativo
 ---

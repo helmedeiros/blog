@@ -14,7 +14,7 @@ tags:
   - Programação Extrema
   - TDD
   - Programação em Pares
-  - Refatoração
+  - refatoração
   - Integração Contínua
   - Design Simples
   - Planning Game

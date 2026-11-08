@@ -12,7 +12,7 @@ categories: ["Architecture"]
 tags:
   - Engenharia de Software
   - Domain-Driven Design
-  - Arquitetura
+  - arquitetura
   - Modelagem
   - Lógica de Negócio
   - Linguagem Ubíqua

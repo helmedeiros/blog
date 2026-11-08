@@ -9,10 +9,10 @@ series:
 series_order: 3
 tags:
   - Dell
-  - Leadership
-  - Automation
+  - leadership
+  - automation
   - Deploy
-  - Culture
+  - culture
 subtitle: Experience deployment excellence through automation and trust—discover how great leadership, digital war rooms, and cultural investment create confident releases without stress
 ---
 

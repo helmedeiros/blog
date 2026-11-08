@@ -15,7 +15,7 @@ tags:
   - WS-46
   - Modeling
   - Ubiquitous Language
-  - Architecture
+  - architecture
 subtitle: Transform your modeling mindset with a DDD master—discover how Phillip Calçado's workshop reveals the power of ubiquitous language, domain modeling, and thinking beyond code patterns
 ---
 

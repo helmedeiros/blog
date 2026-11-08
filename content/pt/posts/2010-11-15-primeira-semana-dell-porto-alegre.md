@@ -11,7 +11,7 @@ categories: ["Leadership", "Agile"]
 tags:
   - Dell
   - Stefanini
-  - Porto Alegre
+  - porto-alegre
   - Java
   - TDD
   - OSB

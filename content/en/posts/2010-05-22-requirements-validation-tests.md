@@ -13,7 +13,7 @@ tags:
   - Software Engineering
   - Requirements Engineering
   - Validation
-  - Testing
+  - testing
   - TDD
   - Quality Assurance
   - User Stories

@@ -9,7 +9,7 @@ tags:
     "teste A/B",
     "análise de coorte",
     "relatório AAA",
-    "lean startup",
+    "Lean Startup",
     "métricas",
   ]
 categories: ["Leadership", "Agile"]

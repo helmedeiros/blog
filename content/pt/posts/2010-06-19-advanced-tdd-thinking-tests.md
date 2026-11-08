@@ -2,11 +2,11 @@
 title: "TDD Avançado: Pensando com Testes"
 date: 2010-06-19 09:00:00-03:00
 tags:
-  - engenharia de software
-  - tdd
-  - testes
-  - java
-  - junit
+  - Engenharia de Software
+  - TDD
+  - Testes
+  - Java
+  - JUnit
   - desenvolvimento
 categories: ["Development", "Agile"]
 series:

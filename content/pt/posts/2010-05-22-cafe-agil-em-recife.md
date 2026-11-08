@@ -15,7 +15,7 @@ seo_noindex:
 categories: ["Events", "Leadership", "Agile"]
 tags:
   - Cafe agil
-  - Thoughtworks
+  - thoughtworks
   - XP
   - TDD
   - Design

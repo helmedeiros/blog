@@ -10,7 +10,7 @@ tags:
   - Teaching
   - Education
   - Reflection
-  - Professional Development
+  - professional-development
 description:
   Final reflections from a semester of teaching software engineering -
   lessons learned about consistency, vulnerability, and advocating for our profession.

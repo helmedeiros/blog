@@ -6,7 +6,7 @@ subtitle: Construa equipes de alta performance através de construção intencio
 tags:
   [
     "team building",
-    "agile",
+    "AGILE",
     "relacionamentos",
     "colaboração",
     "cultura",

@@ -11,8 +11,8 @@ categories:
   - Leadership
   - Agile
 tags:
-  - Agile Brazil
-  - Retrospectives
+  - agile brazil
+  - retrospectives
   - Hugo Corbucci
   - Mariana Bravo
   - Esther Derby

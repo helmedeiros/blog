@@ -9,10 +9,10 @@ categories:
   - Leadership
   - Agile
 tags:
-  - Agile Brazil
-  - Coaching
+  - agile brazil
+  - coaching
   - Francisco Trindade
-  - Leadership
+  - leadership
   - Organizational Change
   - Kaizen
   - Kaikaku

@@ -16,7 +16,7 @@ tags:
     "DDD",
     "Team Management",
     "Software Engineering",
-    "Leadership",
+    "leadership",
     "Project Management",
     "Series",
     "Rio de Janeiro",

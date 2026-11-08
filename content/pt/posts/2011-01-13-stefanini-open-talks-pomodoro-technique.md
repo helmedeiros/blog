@@ -16,8 +16,8 @@ tags:
   - TECNOPUC
   - Dell
   - Técnica Pomodoro
-  - Produtividade
-  - Foco
+  - produtividade
+  - foco
 subtitle: Domine execução focada através de prática real do Pomodoro—descubra regras de profundidade, listas visuais e adaptações pessoais que transformaram refatoração crítica em ciclos produtivos
 ---
 

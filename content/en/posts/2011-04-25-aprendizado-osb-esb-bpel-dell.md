@@ -13,7 +13,7 @@ tags:
   - BPEL
   - Java
   - Oracle
-  - Learning
+  - learning
 subtitle: Transition from code-first to orchestration thinking—learn how moving from Java to OSB/BPEL changes your mindset from logic-as-code to logic-as-config while enabling teams
 ---
 

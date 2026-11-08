@@ -8,7 +8,7 @@ date: 2010-06-24 18:00:00+00:00
 slug: agile-brazil-2010-primeira-palestra
 categories: ["Events", "Leadership", "Agile"]
 tags:
-  - Agile Brazil
+  - agile brazil
   - XP
   - Scrum
   - Kanban

@@ -16,7 +16,7 @@ tags:
   - rule-engine
   - decision-engine
   - architecture
-  - models
+  - Models
   - constraints
 description: "A rule engine matches rules against facts and runs actions. A decision engine coordinates rules with models, constraints, policies, and experiments to produce a single explained decision. This post is about the gap between the two and when each is the right tool."
 ---

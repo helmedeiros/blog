@@ -11,10 +11,10 @@ categories:
   - Architecture
 tags:
   - coragem
-  - extreme programming
-  - Feedback
+  - Extreme Programming
+  - feedback
   - TDD
-  - Test Driven Development
+  - Test-Driven Development
   - Testes
   - XP
 subtitle: Pioneer new learning formats in tech hubs—discover how TecnoPUC launched innovative lightning talks and fishbowl discussions to create dynamic knowledge exchange in academic environments

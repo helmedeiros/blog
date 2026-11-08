@@ -9,10 +9,10 @@ tags:
     "microsserviços",
     "design de sistemas",
     "arquitetura",
-    "engenharia de software",
+    "Engenharia de Software",
     "sistemas distribuídos",
     "bounded contexts",
-    "domain-driven design",
+    "Domain-Driven Design",
   ]
 categories: [ "Architecture"]
 ---

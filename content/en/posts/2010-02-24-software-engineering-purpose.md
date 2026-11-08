@@ -10,7 +10,7 @@ tags:
   - Teaching
   - Software Engineering
   - First Lecture
-  - Development
+  - development
   - Quality
   - Agile Methods
   - software-engineering-series

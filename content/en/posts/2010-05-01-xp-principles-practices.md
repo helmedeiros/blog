@@ -16,7 +16,7 @@ tags:
   - Extreme Programming
   - TDD
   - Pair Programming
-  - Refactoring
+  - refactoring
   - Continuous Integration
   - Simple Design
   - Planning Game

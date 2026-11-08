@@ -7,7 +7,7 @@ tags:
   - Metodologias Ágeis
   - ROI
   - XP
-  - Desenvolvimento
+  - desenvolvimento
   - Qualidade
 categories: ["Leadership"]
 subtitle: Mude de entrega de funcionalidades para criação de valor—descubra como focar em resultados do usuário ao invés de funcionalidade polida leva a software mais significativo que verdadeiramente serve as necessidades das pessoas

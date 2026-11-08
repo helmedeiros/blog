@@ -19,10 +19,10 @@ tags:
   - adpoa10
   - AGILE
   - agileday
-  - card wall
+  - Card Wall
   - guma
-  - kanban
-  - paulo caroli
+  - Kanban
+  - Paulo Caroli
   - pucrs
 subtitle: Master the art of agile facilitation—learn Paulo Caroli's proven techniques for running workshops that generate real insights, drive decisions, and transform team dynamics through collaborative design
 ---

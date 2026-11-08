@@ -13,7 +13,7 @@ categories:
 tags:
   - Software Engineering
   - Domain-Driven Design
-  - Architecture
+  - architecture
   - Modeling
   - Business Logic
   - Ubiquitous Language

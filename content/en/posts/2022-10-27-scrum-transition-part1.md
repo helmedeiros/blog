@@ -10,9 +10,9 @@ categories:
   - Leadership
   - Agile
 tags:
-  - kanban
-  - scrum
-  - transition
+  - Kanban
+  - Scrum
+  - Transition
   - process-improvement
   - team-evolution
   - agile-transformation

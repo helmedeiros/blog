@@ -12,7 +12,7 @@ tags:
     "aprendizado",
     "controle-de-versao",
     "produtividade",
-    "cultura-de-engenharia",
+    "cultura de engenharia",
   ]
 categories: ["Development"]
 ---

@@ -9,7 +9,7 @@ tags:
     "A/B testing",
     "cohort analysis",
     "AAA report",
-    "lean startup",
+    "Lean Startup",
     "metrics",
   ]
 categories: ["Leadership", "Agile"]

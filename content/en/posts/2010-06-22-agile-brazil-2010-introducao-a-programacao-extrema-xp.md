@@ -11,7 +11,7 @@ categories:
   - Development
   - Agile
 tags:
-  - Agile Brazil
+  - agile brazil
   - XP
   - Extreme Programming
   - Bruno Pedroso

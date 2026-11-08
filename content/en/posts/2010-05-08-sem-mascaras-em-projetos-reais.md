@@ -10,13 +10,13 @@ categories:
   - Agile
 tags:
   - Comunicacao
-  - Feedback
+  - feedback
   - Homem Mascara
   - Homem Mascarado
   - Masked Man
   - Steve McConnell
   - Transparency
-  - Culture
+  - culture
 subtitle: Create psychological safety for uncomfortable truths—discover how eliminating 'masked communication' through trust practices, protected retrospectives, and visible feedback loops enables honest teams
 ---
 
