@@ -15,7 +15,7 @@ theme, and the GitHub Actions pipeline that deploys to GitHub Pages.
 
 - **`content/en/`** and **`content/pt/`** — bilingual post and series content.
 - **`layouts/`** — custom Hugo templates and shortcodes.
-- **`themes/beautifulhugo/`** — base theme (pinned submodule).
+- **`themes/helio/`** — the blog's own theme, forked from Beautiful Hugo v3.5.0 (see its README).
 - **`static/`** — images, CSS, uploads.
 - **`scripts/`** — Python helpers for occasional content maintenance.
 - **`docs/`** — operational notes.
@@ -51,7 +51,7 @@ the wiring convention is documented in
 
 ```bash
 brew install hugo
-git clone --recurse-submodules <repository-url>
+git clone <repository-url>
 cd blog
 
 # Live-reload dev server
@@ -61,10 +61,15 @@ hugo server -D
 hugo --minify
 ```
 
-If you cloned without `--recurse-submodules`, fetch the theme:
+Before pushing, check the production build the same way CI does:
 
 ```bash
-git submodule update --init --recursive
+npm ci
+hugo --gc --minify
+python3 scripts/check_links.py public
+hugo --minify --baseURL http://127.0.0.1:1313/ -d /tmp/blog-preview
+python3 -m http.server 1313 --directory /tmp/blog-preview &
+npm run smoke -- http://127.0.0.1:1313/
 ```
 
 ## Deployment
