@@ -1,4 +1,4 @@
-{{- $key := .Inner | strings.TrimSpace | md5 -}}
+{{- $key := print (resources.Get "diagrams/style.puml").Content (.Inner | strings.TrimSpace) | md5 -}}
 {{- $align := .Get "align" | default "center" -}}
 {{- if not (in (slice "left" "center" "right" "justify") $align) -}}
   {{- $align = "center" -}}

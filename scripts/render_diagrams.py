@@ -11,16 +11,19 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "assets" / "diagrams"
+STYLE = OUT / "style.puml"
 SHORTCODE = re.compile(r"\{\{<\s*plantuml\b[^>]*>\}\}(.*?)\{\{<\s*/plantuml\s*>\}\}", re.S)
 
 
 def diagrams():
+    style = STYLE.read_text(encoding="utf-8")
     found = {}
     for page in sorted(CONTENT.rglob("*.md")):
         for match in SHORTCODE.finditer(page.read_text(encoding="utf-8")):
             source = match.group(1).strip()
-            key = hashlib.md5(source.encode("utf-8")).hexdigest()
-            found.setdefault(key, (source, page.relative_to(ROOT).as_posix()))
+            key = hashlib.md5((style + source).encode("utf-8")).hexdigest()
+            styled = re.sub(r"^@startuml[^\n]*\n", lambda m: m.group(0) + style, source, count=1)
+            found.setdefault(key, (styled, page.relative_to(ROOT).as_posix()))
     return found
 
 
@@ -41,7 +44,7 @@ def render(command, source, page):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Render the PlantUML diagrams in content/ to assets/diagrams/<md5 of source>.svg")
+    parser = argparse.ArgumentParser(description="Render the PlantUML diagrams in content/ with assets/diagrams/style.puml to assets/diagrams/<md5 of style and source>.svg")
     parser.add_argument("--check", action="store_true", help="only report missing or unused SVGs")
     parser.add_argument("--force", action="store_true", help="re-render every diagram")
     args = parser.parse_args()
