@@ -17,10 +17,8 @@
 <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
 
-<!-- Custom CSS - loaded after theme CSS with cache busting -->
-<link rel="stylesheet" href="{{ "css/icons.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/custom-layout.css" | absURL }}?v={{ now.Format "20060102150405" }}" media="all">
-<link rel="stylesheet" href="{{ "css/blog-style.css" | absURL }}?v={{ now.Format "20060102150405" }}" media="all">
+{{- $site := slice (resources.Get "css/icons.css") (resources.Get "css/custom-layout.css") (resources.Get "css/blog-style.css") | resources.Concat "css/site.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $site.Permalink }}" integrity="{{ $site.Data.Integrity }}">
 
 <!-- Critical CSS for above-the-fold content -->
 <style>
