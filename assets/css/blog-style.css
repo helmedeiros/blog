@@ -838,9 +838,11 @@
 .plantuml-diagram {
   width: 100%;
   margin: 20px 0;
+  overflow: visible;
 }
 
-.plantuml-frame {
+.plantuml-diagram .plantuml-frame {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -851,6 +853,14 @@
   border: 1px solid #e1e1e1;
   border-radius: 4px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  cursor: zoom-in;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.plantuml-diagram .plantuml-frame:hover,
+.plantuml-diagram .plantuml-frame:focus-visible {
+  border-color: #a5b4fc;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.18);
 }
 
 .plantuml-frame img {

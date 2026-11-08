@@ -101,6 +101,15 @@ try {
     .then(() => true)
     .catch(() => false);
   check(diagramCount >= 3 && diagramsLoaded, `post diagrams load as images (${diagramCount} found)`);
+  const galleryEarly = await diagramPost.page.evaluate(() => performance.getEntriesByType('resource').some((r) => /photoswipe\.min|photoswipe-ui/.test(r.name)));
+  check(!galleryEarly, 'the image gallery is not downloaded before a reader opens a figure');
+  await diagramPost.page.locator('.plantuml-frame').first().click({ timeout: 5000 }).catch(() => {});
+  const zoomed = await diagramPost.page
+    .waitForSelector('.pswp--open .pswp__img[src*="/diagrams/"]', { state: 'visible', timeout: 10000 })
+    .then(() => true)
+    .catch(() => false);
+  check(zoomed, 'clicking a diagram opens it in the image gallery');
+  await diagramPost.page.keyboard.press('Escape');
   await finish(diagramPost, 'post with diagrams');
 
   for (const path of ['/tags/', '/series/', '/index.xml', '/sitemap.xml']) {
