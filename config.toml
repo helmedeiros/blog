@@ -6,8 +6,8 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    languageCode = "en-us"
-    languageName = "English"
+    locale = "en-us"
+    label = "English"
     title = "helio."
     weight = 1
     contentDir = "content/en"
@@ -17,8 +17,8 @@ enableRobotsTXT = true
       weight = 1
 
   [languages.pt]
-    languageCode = "pt-br"
-    languageName = "Português"
+    locale = "pt-br"
+    label = "Português"
     title = "helio."
     weight = 2
     contentDir = "content/pt"
