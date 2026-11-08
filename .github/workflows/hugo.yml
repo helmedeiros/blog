@@ -58,6 +58,8 @@ jobs:
             --baseURL "$SITE_URL"
       - name: Check internal links
         run: python3 scripts/check_links.py public
+      - name: Check icons are bundled
+        run: python3 scripts/check_icons.py public
       - name: Stamp the build
         run: echo "$GITHUB_SHA" > public/version.txt
       - name: Install Chromium
