@@ -9,9 +9,11 @@
   {{- errorf "%s: diagram %s has no rendered SVG; run python3 scripts/render_diagrams.py" .Position $key -}}
 {{- end -}}
 {{- $size := index (findRESubmatch `<svg[^>]*? width="([0-9.]+)px" height="([0-9.]+)px"` $svg.Content 1) 0 -}}
-<div class="plantuml-diagram" style="text-align: {{ $align }};">
+{{- $width := index $size 1 | float -}}
+{{- $height := index $size 2 | float -}}
+<figure class="plantuml-diagram" style="text-align: {{ $align }};">
   {{- with $title }}
   <h4>{{ . }}</h4>
   {{- end }}
-  <div class="plantuml-frame"><img src="{{ $svg.RelPermalink }}" alt="{{ $title | default "Diagram" }}" width="{{ index $size 1 }}" height="{{ index $size 2 }}" loading="lazy" decoding="async"></div>
-</div>
+  <a class="plantuml-frame" href="{{ $svg.RelPermalink }}" itemprop="contentUrl" data-size="{{ mul 2 $width | math.Round | int }}x{{ mul 2 $height | math.Round | int }}"><img src="{{ $svg.RelPermalink }}" alt="{{ $title | default "Diagram" }}" width="{{ $width | math.Round | int }}" height="{{ $height | math.Round | int }}" loading="lazy" decoding="async"></a>
+</figure>
