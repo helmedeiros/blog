@@ -19,7 +19,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
         with:
-          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -51,28 +50,6 @@ jobs:
           else
             echo "versions_behind=$VERSIONS_BEHIND" >> $GITHUB_OUTPUT
             echo "security_risk=low" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Check theme security
-        id: theme-security
-        run: |
-          cd themes/beautifulhugo
-
-          # Check last commit date
-          LAST_COMMIT_DATE=$(git log -1 --format=%ct)
-          CURRENT_DATE=$(date +%s)
-          DAYS_OLD=$(( (CURRENT_DATE - LAST_COMMIT_DATE) / 86400 ))
-
-          echo "theme_age_days=$DAYS_OLD" >> $GITHUB_OUTPUT
-
-          # Age alone is staleness, not a vulnerability: only flag high when very
-          # stale, so a pinned-but-stable theme does not trip the auto-issue every run.
-          if [ "$DAYS_OLD" -gt 730 ]; then
-            echo "theme_risk=high" >> $GITHUB_OUTPUT
-          elif [ "$DAYS_OLD" -gt 365 ]; then
-            echo "theme_risk=medium" >> $GITHUB_OUTPUT
-          else
-            echo "theme_risk=low" >> $GITHUB_OUTPUT
           fi
 
       - name: Scan for secrets
@@ -121,19 +98,11 @@ jobs:
           - **Versions Behind**: ${{ steps.hugo-security.outputs.versions_behind }}
           - **Security Risk**: ${{ steps.hugo-security.outputs.security_risk }}
 
-          ## Theme Security Status
-          - **Theme Age**: ${{ steps.theme-security.outputs.theme_age_days }} days
-          - **Theme Risk**: ${{ steps.theme-security.outputs.theme_risk }}
-
           ## Recommendations
           EOF
 
           if [ "${{ steps.hugo-security.outputs.security_risk }}" != "low" ]; then
             echo "- 🔴 **Update Hugo**: Consider updating to the latest version" >> security-report.md
-          fi
-
-          if [ "${{ steps.theme-security.outputs.theme_risk }}" != "low" ]; then
-            echo "- 🟡 **Review Theme**: Theme hasn't been updated recently" >> security-report.md
           fi
 
           echo "- ✅ **Security Headers**: Properly configured" >> security-report.md
@@ -146,7 +115,7 @@ jobs:
           path: security-report.md
 
       - name: Create or update issue for high security risk
-        if: steps.hugo-security.outputs.security_risk == 'high' || steps.theme-security.outputs.theme_risk == 'high'
+        if: steps.hugo-security.outputs.security_risk == 'high'
         uses: actions/github-script@v9
         with:
           script: |
