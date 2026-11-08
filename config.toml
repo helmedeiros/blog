@@ -36,6 +36,7 @@ enableRobotsTXT = true
   series = "series"
 
 [params]
+  homeTitle = "helio."
   subtitle = "Technology insights and agile development"
   comments = false
   disqusShortname = ""
