@@ -62,13 +62,8 @@
   </div>
 </footer>
 
-{{- if .Site.Params.selfHosted -}}
-<script src="{{ "js/jquery-3.7.0.slim.min.js" | absURL }}"></script>
-<script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
-{{- else -}}
 <script defer src="https://code.jquery.com/jquery-3.7.0.slim.min.js" integrity="sha384-w5y/xIeYixWvfM+A1cEbmHPURnvyqmVg5eVENruEdDjcyRLUSNej7512JQGspFUr" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-{{- end }}
 
 <script defer src="{{ "js/main.js" | absURL }}"></script>
 {{- if .Site.Params.staticman }}
@@ -87,13 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
 {{- end -}}
 
 {{- if partial "func/uses-photoswipe.html" . }}
-{{- if .Site.Params.selfHosted -}}
-<script src="{{ "js/photoswipe.min.js" | absURL }}"></script>
-<script src="{{ "js/photoswipe-ui-default.min.js" | absURL }}"></script>
-{{- else -}}
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.js" integrity="sha512-2R4VJGamBudpzC1NTaSkusXP7QkiUYvEKhpJAxeVCqLDsgW4OqtzorZGpulE3eEA7p++U0ZYmqBwO3m+R2hRjA==" crossorigin="anonymous"></script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe-ui-default.min.js" integrity="sha512-SxO0cwfxj/QhgX1SgpmUr0U2l5304ezGVhc0AO2YwOQ/C8O67ynyTorMKGjVv1fJnPQgjdxRz6x70MY9r0sKtQ==" crossorigin="anonymous"></script>
-{{- end -}}
 <script defer src="{{ "js/load-photoswipe.js" | absURL }}"></script>
 {{- end }}
 <script defer src="{{ "js/lazy-images.js" | absURL }}"></script>
