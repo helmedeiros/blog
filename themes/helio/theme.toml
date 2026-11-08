@@ -1,0 +1,14 @@
+name = "helio"
+license = "MIT"
+licenselink = "https://github.com/helmedeiros/blog/blob/master/themes/helio/LICENSE"
+description = "Theme for blog.heliomedeiros.com, forked from Beautiful Hugo v3.5.0"
+min_version = "0.158.0"
+
+[author]
+    name = "Helio Medeiros"
+    homepage = "https://heliomedeiros.com"
+
+[original]
+    author = "halogenica"
+    homepage = "https://github.com/halogenica/beautifulhugo"
+    repo = "https://github.com/halogenica/beautifulhugo"
