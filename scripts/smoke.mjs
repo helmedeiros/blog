@@ -59,7 +59,8 @@ try {
       .map((s) => ({ href: new URL(s.href).pathname, rules: s.cssRules.length })),
   );
   const empty = sheets.filter((s) => s.rules === 0).map((s) => s.href);
-  check(sheets.length >= 5 && empty.length === 0, `site stylesheets are applied (${sheets.length} loaded${empty.length ? `, empty: ${empty.join(', ')}` : ''})`);
+  const bundles = ['theme', 'site'].filter((name) => sheets.some((s) => new RegExp(`/css/${name}\\.min\\.[0-9a-f]+\\.css$`).test(s.href)));
+  check(bundles.length === 2 && empty.length === 0, `theme and site stylesheet bundles are applied (${sheets.map((s) => s.href).join(', ')}${empty.length ? `; empty: ${empty.join(', ')}` : ''})`);
   const navbarHeight = await home.page.$eval('.navbar', (el) => el.getBoundingClientRect().height).catch(() => 0);
   check(navbarHeight >= 40, `Bootstrap styles the navbar (${navbarHeight}px tall)`);
   const menu = await home.page.$$eval('.navbar a', (as) =>

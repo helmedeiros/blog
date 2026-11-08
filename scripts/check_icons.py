@@ -4,7 +4,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-ICONS_CSS = Path(__file__).resolve().parent.parent / "static" / "css" / "icons.css"
+ICONS_CSS = Path(__file__).resolve().parent.parent / "assets" / "css" / "icons.css"
 MODIFIERS = {"fa-stack", "fa-stack-1x", "fa-stack-2x", "fa-inverse", "fa-lg", "fa-fw", "fa-solid", "fa-regular", "fa-brands"}
 CLASS = re.compile(r'class=(?:"([^"]*)"|([^\s>]+))')
 
