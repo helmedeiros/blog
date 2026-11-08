@@ -37,6 +37,7 @@ enableRobotsTXT = true
 
 [params]
   homeTitle = "helio."
+  fontAwesome = false
   googleFonts = "family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;600;700;800&display=swap"
   subtitle = "Technology insights and agile development"
   comments = false
