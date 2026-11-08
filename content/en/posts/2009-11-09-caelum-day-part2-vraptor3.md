@@ -13,7 +13,7 @@ tags:
     "Java",
     "MVC Framework",
     "Convention over Configuration",
-    "Ruby on Rails",
+    "Ruby On Rails",
     "Web Development",
     "Brazilian Software",
     "Open Source",

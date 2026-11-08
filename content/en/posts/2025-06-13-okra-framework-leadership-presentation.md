@@ -9,7 +9,7 @@ description: "A comprehensive look at presenting the OKRA framework to leadershi
 tags:
   - OKRA
   - OKRs
-  - Team Leadership
+  - team-leadership
   - Strategy Execution
 subtitle: How two years of iterative method development culminated in a leadership presentation that demonstrated the power of collaborative strategy execution
 ---

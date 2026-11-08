@@ -10,9 +10,9 @@ series_order: 3
 tags:
   - Dell
   - Liderança
-  - Automação
+  - automação
   - Deploy
-  - Cultura
+  - cultura
 subtitle: Experimente excelência em deploy através de automação e confiança—descubra como grande liderança, salas de guerra digitais e investimento cultural criam releases confiantes sem estresse
 ---
 

@@ -11,13 +11,13 @@ categories:
   - Leadership
   - Agile
 tags:
-  - Agile Brazil
+  - agile brazil
   - David Hussman
   - Story Mapping
   - User Stories
-  - Product Management
+  - product-management
   - UX
-  - Workshop
+  - workshop
 description:
   David Hussman's hands-on story mapping workshop at Agile Brazil 2010
   - building shared understanding through user journeys, sticky notes, and paper prototypes.

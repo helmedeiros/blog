@@ -13,9 +13,9 @@ categories:
   - Events
   - Leadership
 tags:
-  - coragem
+  - Coragem
   - extreme programming
-  - Feedback
+  - feedback
   - TDD
   - Test Driven Development
   - Testes

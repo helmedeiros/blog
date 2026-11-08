@@ -6,8 +6,8 @@ date: 2010-06-25 18:00:00+00:00
 slug: agile-brazil-2010-retrospectives-corbucci-bravo
 categories: ["Events", "Leadership", "Agile"]
 tags:
-  - Agile Brazil
-  - Retrospectivas
+  - agile brazil
+  - retrospectivas
   - Hugo Corbucci
   - Mariana Bravo
   - Esther Derby

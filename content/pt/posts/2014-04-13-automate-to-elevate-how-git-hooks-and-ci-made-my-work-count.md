@@ -12,7 +12,7 @@ tags:
     "automacao",
     "git-hooks",
     "jenkins",
-    "java",
+    "Java",
     "maven",
     "jpa",
     "ejb",

@@ -9,7 +9,7 @@ categories:
   - Career
 tags:
   - thoughtworks
-  - team-building
+  - team building
   - berlin
   - goeuro
   - carreira

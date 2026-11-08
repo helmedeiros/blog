@@ -7,7 +7,7 @@ tags:
   - Agile Methodologies
   - ROI
   - XP
-  - Development
+  - development
   - Quality
 categories:
   - Leadership

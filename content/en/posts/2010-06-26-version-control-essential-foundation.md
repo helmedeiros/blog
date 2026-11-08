@@ -2,8 +2,8 @@
 title: "Version Control: Don't Code Without It"
 date: 2010-06-26 09:00:00-03:00
 tags:
-  - software engineering
-  - version control
+  - Software Engineering
+  - version-control
   - git
   - svn
   - collaboration

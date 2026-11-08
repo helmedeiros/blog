@@ -9,10 +9,10 @@ tags:
     "microservices",
     "system design",
     "architecture",
-    "software engineering",
+    "Software Engineering",
     "distributed systems",
     "bounded contexts",
-    "domain-driven design",
+    "Domain-Driven Design",
   ]
 categories: [ "Architecture"]
 ---

@@ -10,7 +10,7 @@ tags:
   - Dell
   - RBS
   - Transição
-  - Carreira
+  - carreira
   - Gratidão
   - Eduardo Mathias
   - Carlos Eduardo Maciel

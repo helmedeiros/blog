@@ -10,7 +10,7 @@ series:
 series_order: 4
 tags:
   - socratic-prompting
-  - critical-thinking
+  - Critical Thinking
   - ai-collaboration
   - cognitive-patterns
   - thinking-frameworks

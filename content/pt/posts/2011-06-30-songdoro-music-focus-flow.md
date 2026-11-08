@@ -11,9 +11,9 @@ categories:
   - Events
 tags:
   - agilebrazil2011
-  - pomodoro
+  - Pomodoro
   - produtividade
-  - songdoro
+  - Songdoro
   - foco
 subtitle: Revolucione foco com produtividade musical—descubra como Songdoro transforma ciclos Pomodoro em playlists energizantes que criam ritmos compartilhados e estados de flow imparáveis
 ---

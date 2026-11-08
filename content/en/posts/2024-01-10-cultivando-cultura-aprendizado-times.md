@@ -4,7 +4,7 @@ categories: ["Leadership", "Agile"]
 date: 2024-01-10
 subtitle: Transform your product team into a learning powerhouse that outpaces competition through psychological safety, concrete practices, and learning-first leadership
 description: "How to build teams that learn faster than competition through concrete practices, learning-reinforcing leadership, and safe environments for experimentation."
-tags: ["learning", "culture", "teams", "product", "engineering", "leadership"]
+tags: ["learning", "culture", "Teams", "product", "engineering", "leadership"]
 ---
 
 In 1990, Peter Senge introduced a powerful vision in his book _The Fifth Discipline: The Art & Practice of the Learning Organization_. At its core, the book presents a compelling argument: in an increasingly complex world, only those organizations that are able to **learn faster than the competition** will thrive.

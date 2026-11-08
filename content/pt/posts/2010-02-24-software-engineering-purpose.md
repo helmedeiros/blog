@@ -10,7 +10,7 @@ tags:
   - Ensino
   - Engenharia de Software
   - Primeira Aula
-  - Desenvolvimento
+  - desenvolvimento
   - Qualidade
   - Métodos Ágeis
   - software-engineering-series

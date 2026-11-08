@@ -3,7 +3,7 @@ title: "yUML – Por que escrever um blog?"
 date: 2009-08-05T12:03:24+02:00
 draft: false
 subtitle: Transforme texto simples em diagramas UML poderosos—descubra como yUML revoluciona blogs técnicos tornando design complexo de software visual, compartilhável e facilmente incorporado
-tags: ["UML", "blog", "documentação", "design-de-software", "yUML"]
+tags: ["UML", "blog", "documentação", "design de software", "yUML"]
 categories: ["Leadership"]
 ---
 

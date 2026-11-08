@@ -6,7 +6,7 @@ author: Helio Medeiros
 subtitle: "De estudante a professor—experimente a alegria profunda de retornar à alma mater para compartilhar sabedoria SCRUM, completando um ciclo completo de aprendizado, crescimento e retribuição à comunidade"
 tags:
   [
-    "SCRUM",
+    "Scrum",
     "Ageis",
     "Congresso",
     "Ensino",

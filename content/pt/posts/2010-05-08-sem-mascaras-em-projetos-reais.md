@@ -8,14 +8,14 @@ idptt_tweeted:
   - 1
 categories: ["Leadership", "Agile"]
 tags:
-  - Comunicacao
-  - Feedback
+  - comunicacao
+  - feedback
   - Homem da Mascara
   - Homem Mascarado
   - Masked Man
   - Steve McConnell
   - Transparencia
-  - Cultura
+  - cultura
 subtitle: Crie segurança psicológica para verdades desconfortáveis—descubra como eliminar 'comunicação mascarada' através de práticas de confiança, retrospectivas protegidas e loops de feedback visíveis habilita equipes honestas
 ---
 

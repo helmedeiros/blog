@@ -6,7 +6,7 @@ subtitle: Build high-performing teams through intentional relationship-buildingâ
 tags:
   [
     "team building",
-    "agile",
+    "AGILE",
     "relationships",
     "collaboration",
     "culture",

@@ -14,7 +14,7 @@ tags:
   - gestao-de-engenharia
   - metas-smart
   - eficiencia-de-times
-  - desenvolvimento-profissional
+  - Desenvolvimento Profissional
 description: "Por que líderes de engenharia devem definir metas SMART sobre GenAI e LLMs — e como engajar seu time, sua liderança e sua organização nessa jornada."
 subtitle: Um guia prático para dar o primeiro passo na alfabetização em GenAI como líder de engenharia, definindo metas mensuráveis de aprendizado e construindo apoio organizacional para adoção de IA.
 ---

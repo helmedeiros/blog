@@ -6,8 +6,8 @@ author: Helio Medeiros
 subtitle: "From student to teacher—experience the profound joy of returning to your alma mater to share SCRUM wisdom, completing a full circle of learning, growth, and giving back to the community"
 tags:
   [
-    "SCRUM",
-    "Agile",
+    "Scrum",
+    "AGILE",
     "Congress",
     "Teaching",
     "UnP",

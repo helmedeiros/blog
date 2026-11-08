@@ -12,7 +12,7 @@ tags:
   - Family
   - Resilience
   - Friendship
-  - Leadership
+  - leadership
 subtitle: Navigate remote work during personal crisis with grace—discover how trust, overcommunication, and genuine friendship create psychological safety that enables productivity through pain
 ---
 

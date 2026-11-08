@@ -12,7 +12,7 @@ tags:
   - Testes de Software
   - Testes Unitários
   - Testes de Integração
-  - Test-Driven Development
+  - Test Driven Development
   - Garantia de Qualidade
   - Pirâmide de Testes
   - UnP

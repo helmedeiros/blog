@@ -6,7 +6,7 @@ date: 2010-06-25 20:00:00+00:00
 slug: agile-brazil-2010-card-wall-caroli
 categories: ["Events", "Leadership", "Agile"]
 tags:
-  - Agile Brazil
+  - agile brazil
   - Paulo Caroli
   - Card Wall
   - Kanban

@@ -15,9 +15,9 @@ tags:
   - Extreme Programming
   - Quality
   - Courage
-  - Communication
+  - communication
   - Simplicity
-  - Feedback
+  - feedback
   - Unit Testing
   - Pair Programming
   - UnP

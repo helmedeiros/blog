@@ -8,8 +8,8 @@ tags:
     "feature injection",
     "BDD",
     "hypotheses",
-    "product discovery",
-    "agile",
+    "product-discovery",
+    "AGILE",
     "lean",
   ]
 categories: ["Events", "Agile"]

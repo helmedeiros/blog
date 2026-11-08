@@ -12,7 +12,7 @@ tags:
   - ai
   - claude-code
   - fluxos-agenticos
-  - planejamento
+  - Planejamento
   - arquitetura-de-software
   - developer-experience
 description: "Plan Mode e perguntas interativas transformam a colaboração com agentes de correção reativa para alinhamento preventivo. Clareza de especificação antes da execução é o investimento de qualidade mais barato que existe."

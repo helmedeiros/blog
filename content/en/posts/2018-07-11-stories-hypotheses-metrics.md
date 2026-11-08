@@ -5,11 +5,11 @@ author: Helio Medeiros
 subtitle: Transform user stories into systematic learning experiments—using hypotheses, metrics, and structured funnels to validate assumptions and build products that grow with understanding
 tags:
   [
-    "product discovery",
+    "product-discovery",
     "hypotheses",
     "metrics",
     "experimentation",
-    "agile",
+    "AGILE",
     "ba brazil",
   ]
 categories: ["Leadership", "Agile"]

@@ -7,7 +7,7 @@ categories:
   - Development
 tags:
   - dotfiles
-  - infrastructure
+  - Infrastructure
   - durability
   - portability
   - trust

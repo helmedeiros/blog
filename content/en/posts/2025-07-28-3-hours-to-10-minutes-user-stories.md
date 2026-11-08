@@ -9,7 +9,7 @@ series:
   - engineering-with-ai
 series_order: 9
 tags:
-  - user-stories
+  - User Stories
   - agile-coaching
   - gpts
   - product-management

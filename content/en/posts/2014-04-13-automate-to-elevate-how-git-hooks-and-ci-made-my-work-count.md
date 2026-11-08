@@ -12,11 +12,11 @@ tags:
     "automation",
     "git-hooks",
     "jenkins",
-    "java",
+    "Java",
     "maven",
     "jpa",
     "ejb",
-    "continuous-integration",
+    "Continuous Integration",
   ]
 categories: ["Development"]
 ---

@@ -9,7 +9,7 @@ tags:
     "BDD",
     "hipóteses",
     "descoberta de produto",
-    "agile",
+    "AGILE",
     "lean",
   ]
 categories: ["Events", "Agile"]

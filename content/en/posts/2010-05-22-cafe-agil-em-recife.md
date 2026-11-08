@@ -10,7 +10,7 @@ categories:
   - Agile
 tags:
   - Agile cafe
-  - Thoughtworks
+  - thoughtworks
   - XP
   - TDD
   - Design

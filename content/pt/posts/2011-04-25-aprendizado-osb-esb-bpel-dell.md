@@ -13,7 +13,7 @@ tags:
   - BPEL
   - Java
   - Oracle
-  - Aprendizado
+  - aprendizado
 subtitle: Transicione de pensamento code-first para orquestração—aprenda como migrar de Java para OSB/BPEL muda sua mentalidade de lógica-como-código para lógica-como-configuração enquanto habilita equipes
 ---
 

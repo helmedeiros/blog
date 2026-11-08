@@ -9,7 +9,7 @@ series:
 series_order: 6
 tags:
   - Dell
-  - Leadership
+  - leadership
   - Teaching
   - Mentoring
   - Marcelo Schmidt

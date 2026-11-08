@@ -2,11 +2,11 @@
 title: "Advanced TDD: Thinking in Tests"
 date: 2010-06-19 09:00:00-03:00
 tags:
-  - software engineering
-  - tdd
+  - Software Engineering
+  - TDD
   - testing
-  - java
-  - junit
+  - Java
+  - JUnit
   - development
 categories:
   - Development

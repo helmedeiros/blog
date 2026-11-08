@@ -16,7 +16,7 @@ tags:
   - WS-46
   - Modelagem
   - Linguagem Ubíqua
-  - Arquitetura
+  - arquitetura
 subtitle: Transforme sua mentalidade de modelagem com um mestre em DDD—descubra como o workshop de Phillip Calçado revela o poder da linguagem ubíqua, modelagem de domínio e pensamento além de padrões de código
 ---
 

@@ -9,7 +9,7 @@ tags:
   - bullet-journal
   - productivity
   - focus
-  - reflection
+  - Reflection
   - workshop
   - intentional-living
   - time-management

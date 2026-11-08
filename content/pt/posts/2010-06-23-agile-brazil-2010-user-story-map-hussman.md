@@ -8,13 +8,13 @@ date: 2010-06-23 18:00:00+00:00
 slug: agile-brazil-2010-user-story-map-hussman
 categories: ["Events", "Leadership", "Agile"]
 tags:
-  - Agile Brazil
+  - agile brazil
   - David Hussman
   - Story Mapping
   - User Stories
   - Gestão de Produto
   - UX
-  - Workshop
+  - workshop
 description:
   Workshop prático de story mapping com David Hussman no Agile Brazil 2010
   - construindo entendimento compartilhado através de jornadas de usuário, post-its

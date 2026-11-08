@@ -12,7 +12,7 @@ categories:
 tags:
   - scrum-transition
   - daily-sync
-  - sprint-planning
+  - Sprint Planning
   - refinement
   - retrospective
   - lean-inception

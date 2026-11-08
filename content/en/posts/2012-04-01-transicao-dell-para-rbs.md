@@ -10,7 +10,7 @@ tags:
   - Dell
   - RBS
   - Transition
-  - Career
+  - career
   - Gratitude
   - Eduardo Mathias
   - Carlos Eduardo Maciel

@@ -14,9 +14,9 @@ categories: ["Events", "Architecture"]
 
 tags:
   - 2009
-  - cloud computing
+  - Cloud Computing
   - J2EE
-  - oracle
+  - Oracle
   - Rod Johnson
   - roo
   - Ruby On Rails

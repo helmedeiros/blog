@@ -7,7 +7,7 @@ series_order: 1
 author: Helio Medeiros
 subtitle: Transform Git from a hostile gatekeeper into a learning tool—discover how to embrace mistakes, understand staging and HEAD, and build confidence through recovery
 tags:
-  ["git", "learning", "version-control", "productivity", "engineering-culture"]
+  ["git", "learning", "version-control", "productivity", "engineering culture"]
 categories: ["Development"]
 ---
 

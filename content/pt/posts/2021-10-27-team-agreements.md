@@ -14,7 +14,7 @@ tags:
   - cultura-de-time
   - onboarding
   - lideranca
-  - agile
+  - AGILE
   - empoderamento
 subtitle: Construa equipes autônomas através de acordos co-criados—transformando insights de retrospectivas em normas concretas que promovem segurança psicológica, expectativas claras e responsabilidade compartilhada
 ---

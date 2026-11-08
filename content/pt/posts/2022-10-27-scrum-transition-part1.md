@@ -10,8 +10,8 @@ categories:
   - Leadership
   - Agile
 tags:
-  - kanban
-  - scrum
+  - Kanban
+  - Scrum
   - transicao
   - melhoria-de-processo
   - evolucao-de-time
