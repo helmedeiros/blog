@@ -63,7 +63,9 @@ hugo --minify
 
 Diagrams are written in PlantUML inside the `plantuml` shortcode and
 served as SVG files rendered ahead of time, so readers never wait on a
-diagram server. After adding or editing a diagram, render it and commit
+diagram server. Every diagram is drawn with the shared style in
+`assets/diagrams/style.puml`. After adding or editing a diagram or the
+style, render and commit
 the files under `assets/diagrams/` (needs `brew install plantuml`):
 
 ```bash
