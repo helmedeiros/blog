@@ -100,6 +100,12 @@ try {
   const phone = await visit('/', { width: 390, height: 844 });
   const overflow = await phone.page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
   check(overflow <= 0, `no horizontal scroll on a phone-sized screen (overflow ${overflow}px)`);
+  await phone.page.click('.navbar-toggle');
+  const phoneMenu = await phone.page
+    .waitForSelector('#main-navbar a[title="Series"]', { state: 'visible', timeout: 5000 })
+    .then(() => true)
+    .catch(() => false);
+  check(phoneMenu, 'the phone menu opens and shows its links');
   await finish(phone, 'home on a phone');
 } finally {
   await browser.close();
